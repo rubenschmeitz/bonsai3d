@@ -25,3 +25,28 @@ used as styling are distinguished from the proposed product.
 The workshop section uses an existing photograph of the red relief pot. Existing
 product photo links and provenance remain in the catalogue. YORI3D is excluded
 from this repository and has no published website.
+
+Twenty-one additional owner-supplied photographs document prints and prototype
+components. Six existing records were updated: jita, worktable figure, branch pot,
+red branch pot, custom bonsai miniature and levitation pond. Existing IDs remain
+stable, including the branch pot's earlier firethorn ID. Nine new records are tea
+drinker, umbrella figure, round root pedestal, low display table, openwork plateau,
+open root pedestal, kneeling bonsai enthusiast, bonsai viewers and tripod workstand.
+The two actual root pedestals and tripod are distinct designs; the earlier root
+display concept and modular platform are not silently reassigned to these photos.
+
+The owner requested consistent formatting and authorised image editing and
+regeneration. Built-in Imagegen edited each of the 21 source views into a square
+studio image with a pale neutral background and soft light, using the original
+print as its reference. Each edited view is labelled and links to its original
+photograph, which is also available in the gallery. Full-frame WebP source copies
+retain the unedited content. Earlier side and top photos of the red pot remain.
+Living trees are styling except where the subject itself is a printed miniature.
+
+Species, dimensions, materials and load limits are not inferred from photographs.
+The electronics and painted pond show prototype components, without establishing
+complete levitation performance. The interactive composition remains illustrative.
+The five new design concepts remain explicitly unprinted.
+
+Editorial CSS selectors include the body element so the intended sans-serif type
+and square image frames take precedence over the older Japanese theme rules.

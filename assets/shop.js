@@ -42,9 +42,11 @@
   function u(key) { return ui[language][key]; }
   function esc(value) { return String(value === undefined ? '' : value).replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
   function image(path) { return './assets/' + path; }
-  function imageLabel(p) { return u(p.visualKind === 'concept' ? 'concept' : p.visualKind === 'photo' ? 'photo' : p.visualKind === 'finished' ? 'finished' : p.visualKind === 'reference' ? 'reference' : 'preview'); }
-  function imageNote(p) { return u(p.visualKind === 'concept' ? 'conceptNote' : p.visualKind === 'photo' ? 'photoNote' : p.visualKind === 'reference' ? 'referenceNote' : 'finishedNote'); }
+  function imageLabel(p) { return u(p.visualKind === 'edited' ? 'edited' : p.visualKind === 'concept' ? 'concept' : p.visualKind === 'photo' ? 'photo' : p.visualKind === 'finished' ? 'finished' : p.visualKind === 'reference' ? 'reference' : 'preview'); }
+  function imageNote(p) { return u(p.visualKind === 'edited' ? 'editedNote' : p.visualKind === 'concept' ? 'conceptNote' : p.visualKind === 'photo' ? 'photoNote' : p.visualKind === 'reference' ? 'referenceNote' : 'finishedNote'); }
   function stageLabel(p) { return (ui[language].stages || {})[p.stage] || u('request'); }
+  Object.assign(ui.nl, {edited:'BEWERKT PRODUCTBEELD',editedNote:'Gegenereerd studiobeeld op basis van een foto van de print. Bekijk de originele foto voor de echte uitvoering.'});
+  Object.assign(ui.en, {edited:'EDITED PRODUCT IMAGE',editedNote:'Generated studio image based on a photograph of the print. View the original photo for the actual version.'});
   function total() { return selection.reduce(function (n,x) { return n+x.quantity; },0); }
   function save() { try { localStorage.setItem(shop.slug + '-selection', JSON.stringify(selection)); } catch (_) {} }
   function productById(id) { return shop.products.find(function (p) { return p.id === id; }); }
@@ -118,7 +120,7 @@
       seasons.innerHTML = '<span>' + u('seasonLabel') + '</span><div role="group" aria-label="' + u('seasonLabel') + '">' + ['all','spring','summer','autumn','winter'].map(function (s) { return '<button data-season="' + s + '" aria-pressed="' + (season===s) + '">' + (s==='all' ? u('seasonAll') : u(s)) + '</button>'; }).join('') + '</div>';
       document.querySelector('.collection-controls').before(seasons);
     }
-    if (shop.exhibition && window.BonsaiExhibition) window.BonsaiExhibition.mount({shop:shop,language:language,openProduct:openProduct,requestDesign:requestDesign});
+    if (shop.exhibition && window.BonsaiExhibition) window.BonsaiExhibition.mount({shop:shop,language:language,openProduct:openProduct,requestDesign:requestDesign,imageLabel:imageLabel});
     bind();
     if (active) openProduct(active, false);
   }

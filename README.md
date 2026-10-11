@@ -13,6 +13,11 @@ Prices, availability and physical production variants remain subject to confirma
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
 
-The October 2026 collection contains 24 designs, including five new original
+The October 2026 collection contains 33 designs, including five new original
 concepts with generated product images. [Design notes](DESIGN.md) describe the
 research and image provenance. New concepts are labelled as not yet printed.
+
+Twenty-one owner-supplied photographs document printed accessories and prototype
+components. Their square studio edits use consistent light backgrounds and are
+labelled as edited product images. Every edited view links to its source photo,
+also available in the product gallery. Display plants remain distinct from accessories.
