@@ -7,8 +7,8 @@
       "en": "BONSAI3D — custom accessories for your bonsai display"
     },
     "subtitle": {
-      "nl": "3D-geprinte bonsai-accessoires",
-      "en": "3D-printed bonsai accessories"
+      "nl": "Objecten voor bonsaipresentatie",
+      "en": "Objects for bonsai display"
     },
     "hero": {
       "nl": [
@@ -21,8 +21,8 @@
       ]
     },
     "intro": {
-      "nl": "Een tafel die past bij je boom. Een klein accent dat de opstelling afmaakt. Ontdek 3D-geprint maatwerk voor jouw volgende tentoonstelling.",
-      "en": "A stand that suits your tree. A small accent that completes the arrangement. Explore custom 3D-printed accessories for your next exhibition."
+      "nl": "Geprinte tafels, schalen en accenten voor jouw bonsai. Tafels en figuren in houtlook of matzwart, potten in hun eigen afwerking.",
+      "en": "Printed stands, pots and accents for your bonsai. Stands and figures in wood look or matte black, pots in their own finishes."
     },
     "heroImage": "finished/studio/display-table-v3.webp",
     "heroAlt": {
@@ -38,245 +38,309 @@
       "en": "FORM, PROPORTION & CARE"
     },
     "shopTitle": {
-      "nl": "Tafels, potten & figuren",
-      "en": "Stands, pots & figures"
+      "nl": "De collectie",
+      "en": "The collection"
     },
     "shopIntro": {
-      "nl": "Bestaande ontwerpen en maatwerk voor de presentatie van een boom. Open een product voor de herkomst, beelden en ontwikkelstatus.",
-      "en": "Existing designs and custom pieces for displaying a tree. Open a product for its background, images and development status."
+      "nl": "Tafels en figuren in houtlook of matzwart. De potten in hun eigen uitvoering.",
+      "en": "Stands and figures in wood look or matte black. Pots in their original finishes."
     },
     "categories": [
       {
         "id": "all",
-        "nl": "Alle accessoires",
-        "en": "All accessories"
-      },
-      {
-        "id": "pots",
-        "nl": "Schalen & potten",
-        "en": "Pots & planters"
+        "nl": "Alles",
+        "en": "All"
       },
       {
         "id": "display",
-        "nl": "Tafels & presentatie",
-        "en": "Tables & display"
+        "nl": "Tafels & jita’s",
+        "en": "Stands & jitas"
       },
       {
-        "id": "work",
-        "nl": "Werkplek & houders",
-        "en": "Workshop & holders"
-      },
-      {
-        "id": "growing",
-        "nl": "Kweek & shohin",
-        "en": "Growing & shohin"
-      },
-      {
-        "id": "slabs",
-        "nl": "Slabs & landschappen",
-        "en": "Slabs & landscapes"
+        "id": "pots",
+        "nl": "Schalen",
+        "en": "Pots"
       },
       {
         "id": "miniatures",
-        "nl": "Figuren & miniaturen",
-        "en": "Figures & miniatures"
-      },
-      {
-        "id": "accents",
-        "nl": "Accenten & details",
-        "en": "Accents & details"
+        "nl": "Figuren",
+        "en": "Figures"
       }
     ],
     "products": [
       {
-        "id": "display-table",
+        "id": "bonsai-classic-table",
         "category": "display",
         "name": {
-          "nl": "Lamellen displaytafel",
-          "en": "Slatted display table"
+          "nl": "Lage displaytafel",
+          "en": "Low display table"
         },
         "short": {
-          "nl": "Een lage tafel die je bonsai rustig laat spreken.",
-          "en": "A low table that lets your bonsai speak."
+          "nl": "Een lage tafel met een rechthoekig blad en brede voeten.",
+          "en": "A low table with a rectangular top and broad feet."
         },
-        "image": "finished/studio/display-table-v3.webp",
         "detail": {
-          "nl": "Een lage, rechthoekige displaytafel met een open lamellenonderstel en reliëf in het blad. Het ontwerp wordt als 3D-print opgebouwd; de houtachtige structuur zit in de vorm en is geen massief houten tafel. De zwarte uitvoering sluit aan op het ontwerp uit de chats. Er bestaan meerdere maat- en montagevarianten. We kiezen de passende versie bij de pot, gewenste hoogte en presentatie.",
-          "en": "A low rectangular display table with an open slatted base and relief in the top. It is assembled as a 3D print; its wood-like structure is part of the model rather than solid timber. The black version follows the design discussed in the chats. Several sizes and assembly versions exist. We choose a suitable one for your pot, desired height and presentation."
+          "nl": "Een lage, geprinte displaytafel met een rechthoekig blad en breed gevormde voeten. De bruine afwerking en het patroon in het blad geven een houtachtige uitstraling. De foto toont het gemaakte exemplaar. Voor een nieuwe print kiezen we maat, kleur en ondersteuning rond jouw pot.",
+          "en": "A low printed display table with a rectangular top and broadly shaped feet. The brown finish and pattern in the top give it a wood-like appearance. The photograph shows the made example. We choose dimensions, colour and support around your pot for a new print."
         },
         "spec": {
-          "nl": "Laag model · maat en montagevariant afstemmen",
-          "en": "Low design · size and assembly version to agree"
+          "nl": "3D-print · maat en afwerking op aanvraag",
+          "en": "3D print · size and finish on enquiry"
         },
         "options": [
-          "earth",
-          "dark",
-          "custom"
+          "wood",
+          "black"
         ],
-        "visualKind": "finished",
-        "stage": "development",
-        "archiveId": "bonsai-wood-relief-table",
-        "imageAlt": {
-          "nl": "Lamellen displaytafel — studioproductvisualisatie",
-          "en": "Slatted display table — studio product visualisation"
-        },
+        "zone": "presentation",
         "gallery": [
           {
-            "image": "finished/studio/display-table-v3.webp",
-            "visualKind": "finished",
+            "image": "prints/studio/classic-display-table-studio-v1.webp",
+            "visualKind": "edited",
+            "originalPhoto": "prints/classic-display-table.webp",
             "alt": {
-              "nl": "Lamellen displaytafel — studioproductvisualisatie",
-              "en": "Slatted display table — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "bark-pot",
-        "category": "pots",
-        "name": {
-          "nl": "Schorsschaal",
-          "en": "Bark-textured pot"
-        },
-        "short": {
-          "nl": "Natuurlijke structuur rond een heldere vorm.",
-          "en": "Natural texture around a clear form."
-        },
-        "image": "finished/studio/bark-pot-v3.webp",
-        "detail": {
-          "nl": "Een schaalontwerp met een uitgesproken schorsstructuur. Het printarchief bevat verschillende maten en materiaalinstellingen. De definitieve maat, drainage en geschiktheid voor jouw toepassing worden per uitvoering bevestigd.",
-          "en": "A pot design with a distinctive bark texture. The print archive contains several sizes and material settings. Final dimensions, drainage and suitability for your use are confirmed for each version."
-        },
-        "spec": {
-          "nl": "Schorsstructuur · uitvoering op maat bespreken",
-          "en": "Bark texture · discuss your version"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "visualKind": "finished",
-        "stage": "development",
-        "imageAlt": {
-          "nl": "Schorsschaal — studioproductvisualisatie",
-          "en": "Bark-textured pot — studio product visualisation"
-        },
-        "gallery": [
-          {
-            "image": "finished/studio/bark-pot-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Schorsschaal — studioproductvisualisatie",
-              "en": "Bark-textured pot — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "lamella-pot",
-        "category": "pots",
-        "name": {
-          "nl": "Lamellenpot V17",
-          "en": "Slatted pot V17"
-        },
-        "short": {
-          "nl": "Een rustige pot met verwisselbare zijpanelen.",
-          "en": "A quiet pot with interchangeable side panels."
-        },
-        "image": "finished/studio/lamella-pot-v3.webp",
-        "detail": {
-          "nl": "Deze modulaire bonsaipot combineert een lage, rechthoekige body met losse lamellenpanelen. De V17-variant gebruikt geschroefde panelen en kent verschillende voetontwerpen. De vaste ontwerpserie heeft drie bodymaten: S, M en L. Kleurcombinatie en montage kiezen we voor jouw uitvoering. Het beeld toont een afgewerkte ontwerpvariant; een complete fysieke V17-uitvoering moet nog worden gecontroleerd.",
-          "en": "This modular bonsai pot combines a low rectangular body with separate slatted panels. The V17 version uses screw-mounted panels and offers several foot designs. The design family has three body sizes: S, M and L. We choose colour and assembly for your version. The image shows a finished design interpretation; a complete physical V17 assembly still needs checking."
-        },
-        "spec": {
-          "nl": "Body S 180×135×50 · M 210×158×56 · L 240×180×62 mm",
-          "en": "Body S 180×135×50 · M 210×158×56 · L 240×180×62 mm"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "visualKind": "finished",
-        "stage": "development",
-        "archiveId": "bonsai-modular-lamella-pot-v17",
-        "imageAlt": {
-          "nl": "Lamellenpot V17 — studioproductvisualisatie",
-          "en": "Slatted pot V17 — studio product visualisation"
-        },
-        "gallery": [
-          {
-            "image": "finished/studio/lamella-pot-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Lamellenpot V17 — studioproductvisualisatie",
-              "en": "Slatted pot V17 — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "work-plateau",
-        "category": "work",
-        "name": {
-          "nl": "Modulaire bonsaiwerktafel",
-          "en": "Modular bonsai workstation"
-        },
-        "short": {
-          "nl": "Een vast werkplateau op een tafelklem, met modules binnen handbereik.",
-          "en": "A fixed work platform on a table clamp, with modules within reach."
-        },
-        "image": "exhibition/workstation-complete.webp",
-        "detail": {
-          "nl": "De werktafel bestaat uit een vast rond plateau met een centrale aansluiting voor een tafel-/kogelgewrichtsklem. Rond de rand kunnen modules voor scharen, draad en kleine onderdelen worden aangekoppeld. Het is geen draaitafel. De basis en een module zijn als prototype geprint; de connector en de complete montage worden nog doorontwikkeld. Het gebruiksbeeld laat de bedoelde samenhang zien. De afgebeelde metalen klem en het gereedschap zijn illustratief; de definitieve combinatie spreken we apart af.",
-          "en": "The workstation combines a fixed round platform with a central connection for a table/ball-joint clamp. Modules for scissors, wire and small parts attach around the edge. It is not a turntable. The base and a module have been prototype-printed; the connector and complete assembly are still being developed. The use illustration shows how the parts are intended to work together. The metal clamp and tools are illustrative; the final combination is agreed separately."
-        },
-        "spec": {
-          "nl": "Plateau circa Ø248 mm · PETG-prototyperichting · complete montage in ontwikkeling",
-          "en": "Platform approx. Ø248 mm · PETG prototype direction · complete assembly in development"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "visualKind": "finished",
-        "stage": "prototype",
-        "archiveId": "bonsai-fixed-work-plateau",
-        "imageAlt": {
-          "nl": "Werktafel met centrale tafelklem en aankoppelmodules — gegenereerd gebruiksvoorbeeld",
-          "en": "Workstation with central table clamp and accessory modules — generated use illustration"
-        },
-        "gallery": [
-          {
-            "image": "exhibition/workstation-complete.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Werktafel met centrale tafelklem en aankoppelmodules — gegenereerd gebruiksvoorbeeld",
-              "en": "Workstation with central table clamp and accessory modules — generated use illustration"
+              "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
+              "en": "Printed low display table with wood-effect finish — edited studio image"
             }
           },
           {
-            "image": "finished/studio/work-plateau-v3.webp",
-            "visualKind": "finished",
+            "image": "finishes/classic-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/classic-display-table.webp",
             "alt": {
-              "nl": "Alleen het losse ronde werkplateau, zonder klem of modules",
-              "en": "The separate round platform only, without clamp or modules"
+              "nl": "Lage displaytafel in matzwart — afwerkingsvoorbeeld",
+              "en": "Low display table in matte black — finish preview"
+            }
+          },
+          {
+            "image": "prints/classic-display-table.webp",
+            "visualKind": "photo",
+            "imageStyle": "documentary",
+            "alt": {
+              "nl": "Geprinte lage displaytafel met houtachtige afwerking",
+              "en": "Printed low display table with wood-effect finish"
             }
           }
         ],
+        "image": "prints/studio/classic-display-table-studio-v1.webp",
+        "imageAlt": {
+          "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
+          "en": "Printed low display table with wood-effect finish — edited studio image"
+        },
+        "visualKind": "edited",
         "imageStyle": "studio",
-        "zone": "tools"
+        "stage": "printed",
+        "finishes": {
+          "wood": {
+            "image": "prints/studio/classic-display-table-studio-v1.webp",
+            "visualKind": "edited",
+            "originalPhoto": "prints/classic-display-table.webp",
+            "alt": {
+              "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
+              "en": "Printed low display table with wood-effect finish — edited studio image"
+            }
+          },
+          "black": {
+            "image": "finishes/classic-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/classic-display-table.webp",
+            "alt": {
+              "nl": "Lage displaytafel in matzwart — afwerkingsvoorbeeld",
+              "en": "Low display table in matte black — finish preview"
+            }
+          }
+        }
+      },
+      {
+        "id": "bonsai-root-pedestal",
+        "category": "display",
+        "name": {
+          "nl": "Ronde wortelstandaard",
+          "en": "Round root pedestal"
+        },
+        "short": {
+          "nl": "Een rond blad boven een gedraaid wortelonderstel.",
+          "en": "A round top above a twisted root base."
+        },
+        "detail": {
+          "nl": "Een hoge, geprinte standaard met een rond blad en een dicht onderstel van wortelvormen. De afwerking combineert een warmbruin blad met een donkerdere voet. De galerij toont het exemplaar los en met een bonsaiopstelling. Pot en boom zijn styling; maat, draagvlak en de passende belasting van een nieuwe standaard stemmen we apart af.",
+          "en": "A tall printed stand with a round top and a dense root-shaped base. The finish combines a warm brown top with darker roots. The gallery shows the stand alone and in a bonsai arrangement. Pot and tree are styling; we agree dimensions, support area and suitable load for a new stand separately."
+        },
+        "spec": {
+          "nl": "3D-print · maat en afwerking op aanvraag",
+          "en": "3D print · size and finish on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "gallery": [
+          {
+            "image": "prints/studio/root-pedestal-studio-v1.webp",
+            "visualKind": "edited",
+            "originalPhoto": "prints/root-pedestal.webp",
+            "alt": {
+              "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
+              "en": "Round root pedestal photographed alone — edited studio image"
+            }
+          },
+          {
+            "image": "finishes/root-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/root-pedestal.webp",
+            "alt": {
+              "nl": "Ronde wortelstandaard in matzwart — afwerkingsvoorbeeld",
+              "en": "Round root pedestal in matte black — finish preview"
+            }
+          },
+          {
+            "image": "prints/root-pedestal.webp",
+            "visualKind": "photo",
+            "imageStyle": "documentary",
+            "alt": {
+              "nl": "Ronde wortelstandaard, los gefotografeerd",
+              "en": "Round root pedestal photographed alone"
+            }
+          },
+          {
+            "image": "prints/studio/root-pedestal-workshop-studio-v1.webp",
+            "visualKind": "edited",
+            "imageStyle": "studio",
+            "alt": {
+              "nl": "Ronde wortelstandaard in de werkplaats — bewerkt studiobeeld",
+              "en": "Round root pedestal in the workshop — edited studio image"
+            },
+            "originalPhoto": "prints/root-pedestal-workshop.webp"
+          },
+          {
+            "image": "prints/root-pedestal-workshop.webp",
+            "visualKind": "photo",
+            "imageStyle": "documentary",
+            "alt": {
+              "nl": "Ronde wortelstandaard in de werkplaats",
+              "en": "Round root pedestal in the workshop"
+            }
+          },
+          {
+            "image": "prints/root-pedestal-arrangement.webp",
+            "visualKind": "photo",
+            "imageStyle": "documentary",
+            "alt": {
+              "nl": "Wortelstandaard met een bonsaiopstelling",
+              "en": "Root pedestal in a bonsai arrangement"
+            }
+          }
+        ],
+        "image": "prints/studio/root-pedestal-studio-v1.webp",
+        "imageAlt": {
+          "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
+          "en": "Round root pedestal photographed alone — edited studio image"
+        },
+        "visualKind": "edited",
+        "imageStyle": "studio",
+        "stage": "printed",
+        "finishes": {
+          "wood": {
+            "image": "prints/studio/root-pedestal-studio-v1.webp",
+            "visualKind": "edited",
+            "originalPhoto": "prints/root-pedestal.webp",
+            "alt": {
+              "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
+              "en": "Round root pedestal photographed alone — edited studio image"
+            }
+          },
+          "black": {
+            "image": "finishes/root-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/root-pedestal.webp",
+            "alt": {
+              "nl": "Ronde wortelstandaard in matzwart — afwerkingsvoorbeeld",
+              "en": "Round root pedestal in matte black — finish preview"
+            }
+          }
+        }
+      },
+      {
+        "id": "bonsai-open-root-pedestal",
+        "category": "display",
+        "name": {
+          "nl": "Open wortelstandaard",
+          "en": "Open root pedestal"
+        },
+        "short": {
+          "nl": "Een hoge standaard met een gebogen, open wortelvorm.",
+          "en": "A tall stand with a curved, open root form."
+        },
+        "detail": {
+          "nl": "Een slanke geprinte standaard waarvan de wortels omhoog buigen naar een rond blad. De open ruimtes tussen de wortelvormen maken het onderstel lichter in beeld. De foto toont de donkere, afgewerkte print. Maat, voetplaatsing en geschikt draaggewicht worden voor een nieuwe uitvoering afgestemd.",
+          "en": "A slender printed stand with roots curving upwards towards a round top. Open gaps between the root forms give the base a lighter appearance. The photograph shows the dark finished print. Dimensions, foot placement and suitable load are agreed for a new version."
+        },
+        "spec": {
+          "nl": "3D-print · maat en afwerking op aanvraag",
+          "en": "3D print · size and finish on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "gallery": [
+          {
+            "image": "prints/studio/open-root-pedestal-studio-v1.webp",
+            "visualKind": "edited",
+            "originalPhoto": "prints/open-root-pedestal.webp",
+            "alt": {
+              "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
+              "en": "Printed open root pedestal with round top — edited studio image"
+            }
+          },
+          {
+            "image": "finishes/open-root-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/open-root-pedestal.webp",
+            "alt": {
+              "nl": "Open wortelstandaard in matzwart — afwerkingsvoorbeeld",
+              "en": "Open root pedestal in matte black — finish preview"
+            }
+          },
+          {
+            "image": "prints/open-root-pedestal.webp",
+            "visualKind": "photo",
+            "imageStyle": "documentary",
+            "alt": {
+              "nl": "Geprinte open wortelstandaard met rond blad",
+              "en": "Printed open root pedestal with round top"
+            }
+          }
+        ],
+        "image": "prints/studio/open-root-pedestal-studio-v1.webp",
+        "imageAlt": {
+          "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
+          "en": "Printed open root pedestal with round top — edited studio image"
+        },
+        "visualKind": "edited",
+        "imageStyle": "studio",
+        "stage": "printed",
+        "finishes": {
+          "wood": {
+            "image": "prints/studio/open-root-pedestal-studio-v1.webp",
+            "visualKind": "edited",
+            "originalPhoto": "prints/open-root-pedestal.webp",
+            "alt": {
+              "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
+              "en": "Printed open root pedestal with round top — edited studio image"
+            }
+          },
+          "black": {
+            "image": "finishes/open-root-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/open-root-pedestal.webp",
+            "alt": {
+              "nl": "Open wortelstandaard in matzwart — afwerkingsvoorbeeld",
+              "en": "Open root pedestal in matte black — finish preview"
+            }
+          }
+        }
       },
       {
         "id": "jita",
@@ -286,40 +350,47 @@
           "en": "Organic jita"
         },
         "short": {
-          "nl": "Een lage, onregelmatige ondergrond voor een kleine opstelling.",
-          "en": "A low, irregular base for a small display."
+          "nl": "Een organische ondergrond voor een kleine opstelling.",
+          "en": "An organic base for a small arrangement."
         },
-        "image": "prints/studio/jita-exhibition-studio-v1.webp",
+        "image": "finishes/jita-wood.webp",
         "detail": {
           "nl": "Een laag presentatieplateau met een onregelmatige rand en een bruine afwerking. Op de foto ligt een geprint exemplaar onder een kleine opstelling met een plant en een bonsaifiguur. De vlakke bovenkant biedt ruimte om de onderdelen te plaatsen. Voor een nieuwe uitvoering stemmen we maat, draagvlak en afwerking af op jouw opstelling. De planten en andere objecten op de foto zijn afzonderlijke onderdelen.",
           "en": "A low display plate with an irregular edge and a brown finish. The photograph shows a printed example beneath a small arrangement with a plant and a bonsai figure. Its flat top provides space to position the elements. For a new version, we agree the size, support area and finish for your display. The plants and other objects in the photograph are separate elements."
         },
         "spec": {
-          "nl": "Organische presentatievorm · maat op aanvraag",
-          "en": "Organic display form · size on enquiry"
+          "nl": "3D-print · maat en afwerking op aanvraag",
+          "en": "3D print · size and finish on enquiry"
         },
         "options": [
-          "earth",
-          "dark",
-          "custom"
+          "wood",
+          "black"
         ],
-        "visualKind": "edited",
+        "visualKind": "finish",
         "stage": "printed",
         "archiveId": "bonsai-natural-root-stand",
         "imageAlt": {
-          "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling — bewerkt studiobeeld",
-          "en": "Printed brown jita with a plant and bonsai figure in an exhibition display — edited studio image"
+          "nl": "Organische jita in houtlook — afwerkingsvoorbeeld",
+          "en": "Organic jita in wood look — finish preview"
         },
         "gallery": [
           {
-            "image": "prints/studio/jita-exhibition-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
+            "image": "finishes/jita-wood.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/jita-exhibition.webp",
             "alt": {
-              "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling — bewerkt studiobeeld",
-              "en": "Printed brown jita with a plant and bonsai figure in an exhibition display — edited studio image"
-            },
-            "originalPhoto": "prints/jita-exhibition.webp"
+              "nl": "Organische jita in houtlook — afwerkingsvoorbeeld",
+              "en": "Organic jita in wood look — finish preview"
+            }
+          },
+          {
+            "image": "finishes/jita-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/jita-exhibition.webp",
+            "alt": {
+              "nl": "Organische jita in matzwart — afwerkingsvoorbeeld",
+              "en": "Organic jita in matte black — finish preview"
+            }
           },
           {
             "image": "prints/jita-exhibition.webp",
@@ -332,354 +403,27 @@
           }
         ],
         "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "yamadori-figure",
-        "category": "miniatures",
-        "name": {
-          "nl": "De bonsai-avonturier",
-          "en": "The bonsai adventurer"
-        },
-        "short": {
-          "nl": "Een klein verhaal, met een boom op de rug.",
-          "en": "A little story, with a tree on his back."
-        },
-        "image": "finished/studio/yamadori-figure-v3.webp",
-        "detail": {
-          "nl": "Een bestaand gegenereerd ontwerp uit de bonsai-figurenreeks. De collectie bevat verschillende poses en stijlen. Dit conceptbeeld toont de ontwerprichting; het definitieve model en de printuitvoering kiezen we samen.",
-          "en": "An existing generated design from the bonsai-figure series. The archive contains different poses and styles. This concept image shows the design direction; the final model and printed version are selected together."
-        },
-        "spec": {
-          "nl": "Maat, kleur en uitvoering op aanvraag",
-          "en": "Size, colour and final version on enquiry"
-        },
-        "options": [
-          "natural",
-          "warm",
-          "custom"
-        ],
-        "visualKind": "finished",
-        "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
-        ],
-        "stage": "custom",
-        "imageAlt": {
-          "nl": "De bonsai-avonturier — studioproductvisualisatie",
-          "en": "The bonsai adventurer — studio product visualisation"
-        },
-        "gallery": [
-          {
-            "image": "finished/studio/yamadori-figure-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "De bonsai-avonturier — studioproductvisualisatie",
-              "en": "The bonsai adventurer — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "bonsai-scene",
-        "category": "miniatures",
-        "name": {
-          "nl": "Bonsaifiguur met werktafel",
-          "en": "Bonsai figure with worktable"
-        },
-        "short": {
-          "nl": "Een geprinte bonsailiefhebber, werktafel en miniatuurboom.",
-          "en": "A printed bonsai enthusiast, worktable and miniature tree."
-        },
-        "image": "prints/studio/bonsai-worker-table-studio-v1.webp",
-        "detail": {
-          "nl": "Een figuur naast een kleine werktafel, samen op een rechthoekige voet. Op de tafel staat een miniatuurboom. De galerij toont de crèmekleurige print van dichtbij en als klein accent in een bonsaiopstelling. Een persoonlijke variant kan worden afgestemd op foto’s, houding en kleding. Schaal en afwerking bespreken we bij je aanvraag.",
-          "en": "A figure beside a small worktable, together on a rectangular base. A miniature tree stands on the table. The gallery shows the cream-coloured print close up and as a small accent in a bonsai display. A personal version can be based on photographs, pose and clothing. We discuss scale and finish with your enquiry."
-        },
-        "spec": {
-          "nl": "Persoonlijke scène · pose en schaal op maat",
-          "en": "Personal scene · custom pose and scale"
-        },
-        "options": [
-          "natural",
-          "warm",
-          "custom"
-        ],
-        "visualKind": "edited",
-        "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
-        ],
-        "stage": "printed",
-        "gallery": [
-          {
-            "image": "prints/studio/bonsai-worker-table-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Geprinte crèmekleurige bonsaifiguur met werktafel en miniatuurboom op een rechthoekige voet — bewerkt studiobeeld",
-              "en": "Printed cream-coloured bonsai figure with worktable and miniature tree on a rectangular base — edited studio image"
-            },
-            "originalPhoto": "prints/bonsai-worker-table.webp"
-          },
-          {
-            "image": "prints/bonsai-worker-table.webp",
-            "visualKind": "photo",
-            "alt": {
-              "nl": "Geprinte crèmekleurige bonsaifiguur met werktafel en miniatuurboom op een rechthoekige voet",
-              "en": "Printed cream-coloured bonsai figure with worktable and miniature tree on a rectangular base"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/studio/jita-exhibition-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Bonsaifiguur met werktafel als klein accent in een tentoonstellingsopstelling op een jita — bewerkt studiobeeld",
-              "en": "Bonsai figure with worktable as a small accent in an exhibition arrangement on a jita — edited studio image"
-            },
-            "originalPhoto": "prints/jita-exhibition.webp"
-          },
-          {
-            "image": "prints/jita-exhibition.webp",
-            "visualKind": "photo",
-            "alt": {
-              "nl": "Bonsaifiguur met werktafel als klein accent in een tentoonstellingsopstelling op een jita",
-              "en": "Bonsai figure with worktable as a small accent in an exhibition arrangement on a jita"
-            },
-            "imageStyle": "documentary"
-          }
-        ],
-        "archiveId": "bonsai-worker-figurines",
-        "imageAlt": {
-          "nl": "Geprinte crèmekleurige bonsaifiguur met werktafel en miniatuurboom op een rechthoekige voet — bewerkt studiobeeld",
-          "en": "Printed cream-coloured bonsai figure with worktable and miniature tree on a rectangular base — edited studio image"
-        },
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "bonsai-tea-figure",
-        "category": "miniatures",
-        "name": {
-          "nl": "Theedrinker",
-          "en": "Tea drinker"
-        },
-        "short": {
-          "nl": "Een zittende figuur met theekop en theepot, als rustig accent.",
-          "en": "A seated figure with a teacup and teapot, as a quiet accent."
-        },
-        "detail": {
-          "nl": "Een zittende figuur in een gewaad, met een theekop in de hand en een theepot ernaast. Het geprinte exemplaar op de foto heeft een bronskleurige afwerking en een bruine, onregelmatige voet. Het kan als los accent naast een bonsai worden geplaatst. De kleur is een afwerking; het is geen bronzen beeld. Maat en afwerking van een nieuwe print bespreken we bij je aanvraag.",
-          "en": "A seated figure in a robe, holding a teacup with a teapot beside it. The printed example in the photograph has a bronze-coloured finish and a brown irregular base. It can sit as a separate accent beside a bonsai. The colour is a finish; the figure is not cast bronze. We discuss the size and finish of a new print with your enquiry."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "warm",
-          "custom"
-        ],
-        "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
-        ],
         "zone": "presentation",
-        "image": "prints/studio/tea-figure-studio-v1.webp",
-        "gallery": [
-          {
-            "image": "prints/studio/tea-figure-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
+        "finishes": {
+          "wood": {
+            "image": "finishes/jita-wood.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/jita-exhibition.webp",
             "alt": {
-              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet — bewerkt studiobeeld",
-              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base — edited studio image"
-            },
-            "originalPhoto": "prints/tea-figure.webp"
+              "nl": "Organische jita in houtlook — afwerkingsvoorbeeld",
+              "en": "Organic jita in wood look — finish preview"
+            }
           },
-          {
-            "image": "prints/tea-figure.webp",
-            "visualKind": "photo",
+          "black": {
+            "image": "finishes/jita-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/jita-exhibition.webp",
             "alt": {
-              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
-              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
-            },
-            "imageStyle": "documentary"
+              "nl": "Organische jita in matzwart — afwerkingsvoorbeeld",
+              "en": "Organic jita in matte black — finish preview"
+            }
           }
-        ],
-        "visualKind": "edited",
-        "imageAlt": {
-          "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet — bewerkt studiobeeld",
-          "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base — edited studio image"
-        },
-        "imageStyle": "studio",
-        "stage": "printed"
-      },
-      {
-        "id": "slab-landscape",
-        "category": "slabs",
-        "name": {
-          "nl": "Rotslandschap met brug",
-          "en": "Rock landscape with bridge"
-        },
-        "short": {
-          "nl": "Twee plantzones, verbonden door een klein landschap.",
-          "en": "Two planting zones linked by a small landscape."
-        },
-        "image": "finished/studio/slab-landscape-v3.webp",
-        "detail": {
-          "nl": "Een laag rotslandschap met twee plantzones, een kanaal en een kleine brug. De vorm is uitgewerkt als groot modulair printontwerp en kan een eigen compositie met meerdere bomen ondersteunen. Het beeld laat een geschilderde eindproductvariant zien. De gekozen plantopstelling, maat, verbindingen en afwatering worden bij maatwerk uitgewerkt en gecontroleerd; de definitieve fysieke uitvoering is nog in ontwikkeling.",
-          "en": "A low rock landscape with two planting zones, a channel and a small bridge. It was developed as a large modular print design for a composition with several trees. The image illustrates a painted finished version. Plant layout, size, connections and drainage are developed and checked for custom work; the final physical version is still in development."
-        },
-        "spec": {
-          "nl": "Ontwerp circa 443 × 243 mm · opstelling op maat",
-          "en": "Design approx. 443 × 243 mm · custom layout"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "visualKind": "finished",
-        "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
-        ],
-        "stage": "development",
-        "archiveId": "bonsai-rock-landscape-slab",
-        "imageAlt": {
-          "nl": "Rotslandschap met brug — studioproductvisualisatie",
-          "en": "Rock landscape with bridge — studio product visualisation"
-        },
-        "gallery": [
-          {
-            "image": "finished/studio/slab-landscape-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Rotslandschap met brug — studioproductvisualisatie",
-              "en": "Rock landscape with bridge — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "root-display",
-        "category": "display",
-        "name": {
-          "nl": "Worteldisplay",
-          "en": "Root display"
-        },
-        "short": {
-          "nl": "Wortelvormen voor een krachtige presentatie.",
-          "en": "Root forms for a striking display."
-        },
-        "image": "finished/studio/root-display-v3.webp",
-        "detail": {
-          "nl": "Een bestaand gegenereerd concept van een tafel met organische wortelvormen. Dit beeld geeft een maatwerkrichting; proportie, draagvlak en de uiteindelijke constructie worden voor jouw boom bepaald.",
-          "en": "An existing generated table concept with organic root forms. This image suggests a custom direction; proportions, support area and final construction are defined for your tree."
-        },
-        "spec": {
-          "nl": "Maat, kleur en uitvoering op aanvraag",
-          "en": "Size, colour and final version on enquiry"
-        },
-        "options": [
-          "natural",
-          "warm",
-          "custom"
-        ],
-        "visualKind": "finished",
-        "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
-        ],
-        "stage": "custom",
-        "imageAlt": {
-          "nl": "Worteldisplay — studioproductvisualisatie",
-          "en": "Root display — studio product visualisation"
-        },
-        "gallery": [
-          {
-            "image": "finished/studio/root-display-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Worteldisplay — studioproductvisualisatie",
-              "en": "Root display — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "module-holders",
-        "category": "work",
-        "name": {
-          "nl": "Modulaire accessoirehouders",
-          "en": "Modular accessory holders"
-        },
-        "short": {
-          "nl": "Houders voor draad, schaar en kleine onderdelen.",
-          "en": "Holders for wire, scissors and small parts."
-        },
-        "image": "finished/studio/module-holders-v3.webp",
-        "detail": {
-          "nl": "Losse aankoppelmodules voor het ronde werkplateau: een houder voor een schaar, een draadstang, een borstel-/pincethouder of een klein onderdelenbakje. De vorm en aansluiting horen bij een gekozen plateauversie. We stemmen de modulecombinatie af op jouw gereedschap; passing en bevestiging worden per uitvoering gecontroleerd.",
-          "en": "Attachable modules for the round work platform: a scissors holder, wire rod, brush/tweezer holder or small-parts tray. Shape and connection depend on the chosen platform version. We agree a combination around your tools and check the fit and fixing for that version."
-        },
-        "spec": {
-          "nl": "Maat, kleur en uitvoering op aanvraag",
-          "en": "Size, colour and final version on enquiry"
-        },
-        "options": [
-          "natural",
-          "warm",
-          "custom"
-        ],
-        "visualKind": "finished",
-        "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
-        ],
-        "stage": "development",
-        "imageAlt": {
-          "nl": "Modulaire accessoirehouders — studioproductvisualisatie",
-          "en": "Modular accessory holders — studio product visualisation"
-        },
-        "gallery": [
-          {
-            "image": "finished/studio/module-holders-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Modulaire accessoirehouders — studioproductvisualisatie",
-              "en": "Modular accessory holders — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "tools"
+        }
       },
       {
         "id": "bonsai-firethorn-pot",
@@ -852,938 +596,145 @@
         "zone": "presentation"
       },
       {
-        "id": "bonsai-modular-shelf-system",
-        "category": "growing",
-        "name": {
-          "nl": "Shohinrek",
-          "en": "Shohin tray rack"
-        },
-        "short": {
-          "nl": "Eén overzichtelijk niveau voor kleine bomen en zaailingen.",
-          "en": "One organised level for small trees and seedlings."
-        },
-        "detail": {
-          "nl": "Een modulair rek met één niveau, een tray en geïntegreerde railverbindingen. Het ontwerp ontstond uit de behoefte om kleine bomen en jonge planten overzichtelijk neer te zetten. Er zijn verschillende cassette- en opvangvarianten ontwikkeld en er is een tray geprint. Het beeld toont een mogelijke complete opstelling. Voor een nieuwe uitvoering kiezen we één passende versie en controleren we de onderdelen samen.",
-          "en": "A modular single-level rack with a tray and integrated rail connections. It grew from the need to arrange small trees and young plants clearly. Several cassette and catch-tray versions were developed, and a tray was physically printed. The image illustrates a possible complete setup. For a new version we choose one compatible configuration and check its parts together."
-        },
-        "spec": {
-          "nl": "Eén niveau · tray en modules op maat",
-          "en": "Single level · custom tray and modules"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "stage": "development",
-        "image": "finished/studio/bonsai-modular-shelf-system-v3.webp",
-        "visualKind": "finished",
-        "archiveId": "bonsai-modular-shelf-system",
-        "imageAlt": {
-          "nl": "Shohinrek — studioproductvisualisatie",
-          "en": "Shohin tray rack — studio product visualisation"
-        },
-        "gallery": [
-          {
-            "image": "finished/studio/bonsai-modular-shelf-system-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Shohinrek — studioproductvisualisatie",
-              "en": "Shohin tray rack — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "tools"
-      },
-      {
-        "id": "bonsai-mini-replica-custom",
+        "id": "bonsai-tea-figure",
         "category": "miniatures",
         "name": {
-          "nl": "Mini-bonsai op maat",
-          "en": "Custom bonsai miniature"
+          "nl": "Theedrinker",
+          "en": "Tea drinker"
         },
         "short": {
-          "nl": "Een kleine geprinte boom, tot in de takken afgewerkt.",
-          "en": "A small printed tree, finished down to its branches."
+          "nl": "Een zittende theedrinker als klein accent naast de boom.",
+          "en": "A seated tea drinker as a small accent beside the tree."
         },
         "detail": {
-          "nl": "De foto toont een geschilderde bonsaiminiatuur met een donkere stam, lichtgroene naalden en een ronde groene pot. Het is een geprint object. Vanuit foto’s van jouw boom bespreken we kroon, stam, pot en schaal voor een persoonlijke miniatuur. De uiteindelijke vorm en afwerking worden voor iedere boom apart uitgewerkt.",
-          "en": "The photograph shows a painted bonsai miniature with a dark trunk, pale green needles and a round green pot. It is a printed object. Using photographs of your tree, we discuss crown, trunk, pot and scale for a personal miniature. The final form and finish are developed separately for each tree."
+          "nl": "Een zittende figuur in een gewaad, met een theekop in de hand en een theepot ernaast. Het geprinte exemplaar op de foto heeft een bronskleurige afwerking en een bruine, onregelmatige voet. Het kan als los accent naast een bonsai worden geplaatst. De kleur is een afwerking; het is geen bronzen beeld. Maat en afwerking van een nieuwe print bespreken we bij je aanvraag.",
+          "en": "A seated figure in a robe, holding a teacup with a teapot beside it. The printed example in the photograph has a bronze-coloured finish and a brown irregular base. It can sit as a separate accent beside a bonsai. The colour is a finish; the figure is not cast bronze. We discuss the size and finish of a new print with your enquiry."
         },
         "spec": {
-          "nl": "Geschilderd geprint voorbeeld · schaal op maat",
-          "en": "Painted printed example · custom scale"
+          "nl": "3D-print · maat en afwerking op aanvraag",
+          "en": "3D print · size and finish on enquiry"
         },
         "options": [
-          "earth",
-          "dark",
-          "custom"
+          "wood",
+          "black"
         ],
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "zone": "presentation",
+        "image": "finishes/tea-wood.webp",
+        "gallery": [
+          {
+            "image": "finishes/tea-wood.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/tea-figure.webp",
+            "alt": {
+              "nl": "Theedrinker in houtlook — afwerkingsvoorbeeld",
+              "en": "Tea drinker in wood look — finish preview"
+            }
+          },
+          {
+            "image": "finishes/tea-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/tea-figure.webp",
+            "alt": {
+              "nl": "Theedrinker in matzwart — afwerkingsvoorbeeld",
+              "en": "Tea drinker in matte black — finish preview"
+            }
+          },
+          {
+            "image": "prints/studio/tea-figure-studio-v1.webp",
+            "visualKind": "edited",
+            "imageStyle": "studio",
+            "alt": {
+              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet — bewerkt studiobeeld",
+              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base — edited studio image"
+            },
+            "originalPhoto": "prints/tea-figure.webp"
+          },
+          {
+            "image": "prints/tea-figure.webp",
+            "visualKind": "photo",
+            "alt": {
+              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
+              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
+            },
+            "imageStyle": "documentary"
+          }
+        ],
+        "visualKind": "finish",
+        "imageAlt": {
+          "nl": "Theedrinker in houtlook — afwerkingsvoorbeeld",
+          "en": "Tea drinker in wood look — finish preview"
+        },
+        "imageStyle": "studio",
         "stage": "printed",
-        "image": "prints/studio/bonsai-miniature-studio-v1.webp",
-        "visualKind": "edited",
-        "archiveId": "bonsai-mini-replica-custom",
-        "imageAlt": {
-          "nl": "Geschilderde geprinte bonsaiminiatuur in een ronde pot — bewerkt studiobeeld",
-          "en": "Painted printed bonsai miniature in a round pot — edited studio image"
-        },
-        "gallery": [
-          {
-            "image": "prints/studio/bonsai-miniature-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
+        "finishes": {
+          "wood": {
+            "image": "finishes/tea-wood.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/tea-figure.webp",
             "alt": {
-              "nl": "Geschilderde geprinte bonsaiminiatuur in een ronde pot — bewerkt studiobeeld",
-              "en": "Painted printed bonsai miniature in a round pot — edited studio image"
-            },
-            "originalPhoto": "prints/bonsai-miniature.webp"
-          },
-          {
-            "image": "prints/bonsai-miniature.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geschilderde geprinte bonsaiminiatuur in een ronde pot",
-              "en": "Painted printed bonsai miniature in a round pot"
-            }
-          }
-        ],
-        "imageStyle": "studio",
-        "zone": "presentation"
-      },
-      {
-        "id": "bonsai-levitating-pond",
-        "category": "display",
-        "name": {
-          "nl": "Zwevende bonsai — vijverproject",
-          "en": "Levitating bonsai — pond project"
-        },
-        "short": {
-          "nl": "Een geschilderde vijverbasis en techniek voor een zwevende presentatie.",
-          "en": "A painted pond base and technology for a floating display."
-        },
-        "detail": {
-          "nl": "De foto’s tonen de geprinte, geschilderde vijvervorm en de open basis met een bestaande magnetische module. Dit zijn gemaakte onderdelen van het levitatieproject. De afbeeldingen documenteren de onderdelen; ze tonen geen complete zwevende opstelling in werking. Voor een nieuwe uitvoering moeten schaal, gewicht, hardware en de werking als geheel worden afgestemd en getest.",
-          "en": "The photographs show the printed painted pond form and the open base with an existing magnetic module. These are made parts of the levitation project. The images document the components; they do not show a complete floating arrangement in operation. A new version requires agreement and testing of scale, weight, hardware and the complete system."
-        },
-        "spec": {
-          "nl": "Geprinte onderdelen · complete werking per project testen",
-          "en": "Printed components · complete operation to test per project"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "stage": "prototype",
-        "image": "prints/studio/painted-pond-studio-v1.webp",
-        "visualKind": "edited",
-        "archiveId": "bonsai-levitating-pond",
-        "imageAlt": {
-          "nl": "Geschilderde geprinte vijverbasis met waterlelie en stenenrand — bewerkt studiobeeld",
-          "en": "Painted printed pond base with water lily and rock border — edited studio image"
-        },
-        "gallery": [
-          {
-            "image": "prints/studio/painted-pond-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Geschilderde geprinte vijverbasis met waterlelie en stenenrand — bewerkt studiobeeld",
-              "en": "Painted printed pond base with water lily and rock border — edited studio image"
-            },
-            "originalPhoto": "prints/painted-pond.webp"
-          },
-          {
-            "image": "prints/painted-pond.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geschilderde geprinte vijverbasis met waterlelie en stenenrand",
-              "en": "Painted printed pond base with water lily and rock border"
+              "nl": "Theedrinker in houtlook — afwerkingsvoorbeeld",
+              "en": "Tea drinker in wood look — finish preview"
             }
           },
-          {
-            "image": "prints/studio/levitation-module-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
+          "black": {
+            "image": "finishes/tea-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/tea-figure.webp",
             "alt": {
-              "nl": "Open elektronicabasis met maglev-module en spoelen — bewerkt studiobeeld",
-              "en": "Open electronic base with maglev module and coils — edited studio image"
-            },
-            "originalPhoto": "prints/levitation-module.webp"
-          },
-          {
-            "image": "prints/levitation-module.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Open elektronicabasis met maglev-module en spoelen",
-              "en": "Open electronic base with maglev module and coils"
+              "nl": "Theedrinker in matzwart — afwerkingsvoorbeeld",
+              "en": "Tea drinker in matte black — finish preview"
             }
           }
-        ],
-        "imageStyle": "studio",
-        "zone": "future"
-      },
-      {
-        "id": "bonsai-japanese-mountain-planter",
-        "category": "slabs",
-        "name": {
-          "nl": "Berglandschap",
-          "en": "Mountain landscape"
-        },
-        "short": {
-          "nl": "Een klein Japans landschap rondom een boom.",
-          "en": "A small Japanese landscape around a tree."
-        },
-        "detail": {
-          "nl": "Een sculpturaal berglandschap met rotsvormen, kleine tempelaccenten en een plek voor een boom. De ruimtelijke compositie komt uit een ontwerpverkenning in het chatarchief. Het beeld laat een mogelijke afgewerkte variant zien. Het is een decoratief maatwerkconcept: afmetingen, plantzone en onderdelen moeten nog worden uitgewerkt tot een printbaar ontwerp. Een water- of wierookfunctie is geen bevestigde producteigenschap.",
-          "en": "A sculptural mountain landscape with rock forms, small temple accents and a place for a tree. Its composition comes from a design exploration in the chat archive. The image illustrates a possible finished version. This is a decorative custom concept: dimensions, planting area and parts still need development into a printable design. Water or incense functions are not confirmed product features."
-        },
-        "spec": {
-          "nl": "Landschapsconcept · ontwerp en maat op aanvraag",
-          "en": "Landscape concept · design and size on enquiry"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "stage": "concept",
-        "image": "finished/studio/bonsai-japanese-mountain-planter-v3.webp",
-        "visualKind": "finished",
-        "gallery": [
-          {
-            "image": "finished/studio/bonsai-japanese-mountain-planter-v3.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Berglandschap — studioproductvisualisatie",
-              "en": "Mountain landscape — studio product visualisation"
-            },
-            "imageStyle": "studio"
-          }
-        ],
-        "archiveId": "bonsai-japanese-mountain-planter",
-        "imageAlt": {
-          "nl": "Berglandschap — studioproductvisualisatie",
-          "en": "Mountain landscape — studio product visualisation"
-        },
-        "imageStyle": "studio",
-        "zone": "future"
-      },
-      {
-        "id": "bonsai-kusamono-set",
-        "name": {
-          "nl": "Kusamono accentset",
-          "en": "Kusamono accent set"
-        },
-        "short": {
-          "nl": "Een kleine geprinte pot en onderlegger voor een levend seizoensaccent.",
-          "en": "A small printed pot and plate for a living seasonal accent."
-        },
-        "detail": {
-          "nl": "Een toekomstidee voor een lage, organische accentpot met een bijpassende onderlegger. Ontworpen als rustige aanvulling naast je bonsai. We kunnen vorm, kleur en schaal op jouw opstelling afstemmen. Deze uitvoering is nog niet geprint; afwatering, materiaal en maat werken we eerst uit. Beplanting is ter illustratie.",
-          "en": "A future idea for a low organic accent pot with a matching plate, a quiet companion to your bonsai. Shape, colour and scale can be tailored to the display. This version has not been printed; drainage, material and size need development first. Planting is illustrative."
-        },
-        "spec": {
-          "nl": "Toekomstidee · nog niet geprint · maat en materiaal uit te werken",
-          "en": "Future idea · not yet printed · size and material to develop"
-        },
-        "category": "accents",
-        "stage": "future",
-        "zone": "future",
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "image": "exhibition/accent-kusamono.webp",
-        "visualKind": "finished",
-        "imageStyle": "studio",
-        "imageAlt": {
-          "nl": "Kusamono accentset — conceptvisualisatie",
-          "en": "Kusamono accent set — concept visualisation"
-        },
-        "gallery": [
-          {
-            "image": "exhibition/accent-kusamono.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Kusamono accentset — mogelijke toekomstige uitvoering",
-              "en": "Kusamono accent set — possible future version"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bonsai-suiseki-daiza",
-        "name": {
-          "nl": "Daiza voor jouw suiseki",
-          "en": "Daiza for your suiseki"
-        },
-        "short": {
-          "nl": "Een onderstel dat de contour van jouw kijksteen volgt.",
-          "en": "A base that follows the outline of your viewing stone."
-        },
-        "detail": {
-          "nl": "Een toekomstidee voor een op maat geprinte daiza: een laag onderstel rond de voet van jouw suiseki. Een scan of duidelijke foto’s en maten helpen om het profiel te ontwerpen. Het beeld toont een mogelijke afwerking; deze uitvoering is nog niet geprint. De steen hoort niet bij de geprinte accessoire.",
-          "en": "A future idea for a custom printed daiza, a low base fitted around your suiseki. A scan or clear photos and dimensions help define the profile. The image shows a possible finish; this version has not been printed. The stone is not part of the printed accessory."
-        },
-        "spec": {
-          "nl": "Toekomstidee · nog niet geprint · maat en materiaal uit te werken",
-          "en": "Future idea · not yet printed · size and material to develop"
-        },
-        "category": "accents",
-        "stage": "future",
-        "zone": "future",
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "image": "exhibition/accent-suiseki.webp",
-        "visualKind": "finished",
-        "imageStyle": "studio",
-        "imageAlt": {
-          "nl": "Daiza voor jouw suiseki — conceptvisualisatie",
-          "en": "Daiza for your suiseki — concept visualisation"
-        },
-        "gallery": [
-          {
-            "image": "exhibition/accent-suiseki.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Daiza voor jouw suiseki — mogelijke toekomstige uitvoering",
-              "en": "Daiza for your suiseki — possible future version"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bonsai-exhibition-label",
-        "name": {
-          "nl": "Naamkaarthouder",
-          "en": "Exhibition card holder"
-        },
-        "short": {
-          "nl": "Een klein detail voor de naam en het verhaal van je boom.",
-          "en": "A small detail for your tree’s name and story."
-        },
-        "detail": {
-          "nl": "Een toekomstidee voor een kleine geprinte houder voor een boomkaart of tentoonstellingslabel. Met een rustige vorm en een kaartsleuf die we op het gekozen papierformaat afstemmen. Deze uitvoering is nog niet geprint. De tekst op het beeld is een voorbeeld; je eigen kaartinhoud bepalen we samen.",
-          "en": "A future idea for a small printed holder for a tree card or exhibition label. A restrained shape and card slot can be matched to the chosen paper size. This version has not been printed. The pictured text is an example; your own card content is agreed together."
-        },
-        "spec": {
-          "nl": "Toekomstidee · nog niet geprint · maat en materiaal uit te werken",
-          "en": "Future idea · not yet printed · size and material to develop"
-        },
-        "category": "accents",
-        "stage": "future",
-        "zone": "future",
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "image": "exhibition/accent-label.webp",
-        "visualKind": "finished",
-        "imageStyle": "studio",
-        "imageAlt": {
-          "nl": "Naamkaarthouder — conceptvisualisatie",
-          "en": "Exhibition card holder — concept visualisation"
-        },
-        "gallery": [
-          {
-            "image": "exhibition/accent-label.webp",
-            "visualKind": "finished",
-            "alt": {
-              "nl": "Naamkaarthouder — mogelijke toekomstige uitvoering",
-              "en": "Exhibition card holder — possible future version"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bonsai-season-frame",
-        "category": "display",
-        "name": {
-          "nl": "Seizoensframe",
-          "en": "Season frame"
-        },
-        "short": {
-          "nl": "Een vrijstaand frame voor een kleine prent of scroll.",
-          "en": "A freestanding frame for a small seasonal picture or scroll."
-        },
-        "detail": {
-          "nl": "De achtergrond hoeft geen tweede onderwerp te worden. Dit smalle frame houdt een kleine prent rechtop achter of naast de boom. De brede, lage voet en verwisselbare klemmen worden op de prent afgestemd. Het beeld toont een eigen ontwerpconcept; prent, stabiliteit en printuitvoering moeten nog worden uitgewerkt.",
-          "en": "The backdrop can stay quiet. This slim frame holds a small picture behind or beside the tree. The wide, low foot and replaceable clips are fitted to the picture. The image shows an original concept; artwork, stability and the printed version still need development."
-        },
-        "spec": {
-          "nl": "Richtmaat 28 cm hoog · prent niet inbegrepen",
-          "en": "Indicative height 28 cm · artwork not included"
-        },
-        "options": [
-          "dark",
-          "earth",
-          "custom"
-        ],
-        "stage": "future",
-        "zone": "future",
-        "newDesign": true,
-        "image": "concepts/season-frame.webp",
-        "visualKind": "concept",
-        "imageAlt": {
-          "nl": "Seizoensframe — gegenereerd ontwerpconcept",
-          "en": "Season frame — generated design concept"
-        },
-        "gallery": [
-          {
-            "image": "concepts/season-frame.webp",
-            "visualKind": "concept",
-            "alt": {
-              "nl": "Seizoensframe",
-              "en": "Season frame"
-            }
-          }
-        ],
-        "imageStyle": "editorial",
-        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
-      },
-      {
-        "id": "bonsai-river-suiban",
-        "category": "accents",
-        "name": {
-          "nl": "Rivieroever suiban",
-          "en": "Riverbank suiban"
-        },
-        "short": {
-          "nl": "Een ondiepe schaal met ruimte voor steen en zand.",
-          "en": "A shallow tray with room for a viewing stone and sand."
-        },
-        "detail": {
-          "nl": "Een kleine steen staat uit het midden, met open zand eromheen. De lage schaal krijgt een los inzetstuk, zodat de indeling kan veranderen. Dit concept is bedoeld voor een droge presentatie. Waterdichtheid wordt niet aangenomen; steen en zand in het beeld zijn voorbeelden en worden niet meegeleverd.",
-          "en": "An off-centre stone leaves open sand around it. A removable insert lets the arrangement change. This concept is intended for dry display. Watertightness is not assumed; the pictured stone and sand are examples and are not included."
-        },
-        "spec": {
-          "nl": "Richtmaat 22 cm breed · droge presentatie",
-          "en": "Indicative width 22 cm · dry display"
-        },
-        "options": [
-          "dark",
-          "earth",
-          "custom"
-        ],
-        "stage": "future",
-        "zone": "future",
-        "newDesign": true,
-        "image": "concepts/river-suiban.webp",
-        "visualKind": "concept",
-        "imageAlt": {
-          "nl": "Rivieroever suiban — gegenereerd ontwerpconcept",
-          "en": "Riverbank suiban — generated design concept"
-        },
-        "gallery": [
-          {
-            "image": "concepts/river-suiban.webp",
-            "visualKind": "concept",
-            "alt": {
-              "nl": "Rivieroever suiban",
-              "en": "Riverbank suiban"
-            }
-          }
-        ],
-        "imageStyle": "editorial",
-        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
-      },
-      {
-        "id": "bonsai-accent-pair",
-        "category": "accents",
-        "name": {
-          "nl": "Accentpaar",
-          "en": "Accent pair"
-        },
-        "short": {
-          "nl": "Twee lage plateaus voor een klein begeleidend plantje.",
-          "en": "Two low plates for a small companion planting."
-        },
-        "detail": {
-          "nl": "Twee verwante vormen, in verschillende maten, geven een klein accentplantje een eigen ondergrond. Eén plateau blijft bewust leeg in het voorbeeld. De geprinte randen krijgen een fijn laagreliëf; kleur en maat kunnen volgen uit de gebruikte pot. De plant en keramische pot zijn alleen styling.",
-          "en": "Two related shapes in different sizes give a companion plant its own ground. One plate is intentionally empty in the example. Printed edges have a fine layered relief; size and colour can follow the pot. Plant and ceramic pot are styling only."
-        },
-        "spec": {
-          "nl": "Richtmaten 15 en 10 cm · twee losse plateaus",
-          "en": "Indicative widths 15 and 10 cm · two separate plates"
-        },
-        "options": [
-          "dark",
-          "earth",
-          "custom"
-        ],
-        "stage": "future",
-        "zone": "future",
-        "newDesign": true,
-        "image": "concepts/accent-pair.webp",
-        "visualKind": "concept",
-        "imageAlt": {
-          "nl": "Accentpaar — gegenereerd ontwerpconcept",
-          "en": "Accent pair — generated design concept"
-        },
-        "gallery": [
-          {
-            "image": "concepts/accent-pair.webp",
-            "visualKind": "concept",
-            "alt": {
-              "nl": "Accentpaar",
-              "en": "Accent pair"
-            }
-          }
-        ],
-        "imageStyle": "editorial",
-        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
-      },
-      {
-        "id": "bonsai-display-window",
-        "category": "display",
-        "name": {
-          "nl": "Open venster",
-          "en": "Open window"
-        },
-        "short": {
-          "nl": "Een open kader voor een enkele kleine boom.",
-          "en": "An open frame for one small tree."
-        },
-        "detail": {
-          "nl": "Een asymmetrisch ovaal kader rondom een kleine bonsai, met een brede voet onder de pot. Het venster is een eigentijds presentatieconcept, geen traditionele tentoonstellingsregel. We werken het uit rond potmaat, kroon en gewicht. De getoonde boom is een voorbeeld; draagvermogen is nog niet getest.",
-          "en": "An asymmetric oval frame around a small bonsai, with a wide foot below the pot. The window is a contemporary display concept, not a traditional exhibition rule. Development follows pot dimensions, canopy and weight. The tree is illustrative; load capacity has not been tested."
-        },
-        "spec": {
-          "nl": "Richtmaat 28 × 25 cm · draagvermogen te testen",
-          "en": "Indicative size 28 × 25 cm · load capacity untested"
-        },
-        "options": [
-          "dark",
-          "earth",
-          "custom"
-        ],
-        "stage": "future",
-        "zone": "future",
-        "newDesign": true,
-        "image": "concepts/display-window.webp",
-        "visualKind": "concept",
-        "imageAlt": {
-          "nl": "Open venster — gegenereerd ontwerpconcept",
-          "en": "Open window — generated design concept"
-        },
-        "gallery": [
-          {
-            "image": "concepts/display-window.webp",
-            "visualKind": "concept",
-            "alt": {
-              "nl": "Open venster",
-              "en": "Open window"
-            }
-          }
-        ],
-        "imageStyle": "editorial",
-        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
-      },
-      {
-        "id": "bonsai-kingfisher",
-        "category": "miniatures",
-        "name": {
-          "nl": "IJsvogelminiatuur",
-          "en": "Kingfisher miniature"
-        },
-        "short": {
-          "nl": "Een klein vogelaccent naast de boom of een kijksteen.",
-          "en": "A small bird accent beside a tree or viewing stone."
-        },
-        "detail": {
-          "nl": "Een ijsvogel op een korte tak, uitgevoerd in één rustige kleur. De richting van de kop kan in een opstelling naar de boom of een steen wijzen. Dit is een eigen figurineconcept voor een resinprint. Detail, bevestiging aan de voet en uiteindelijke schaal worden bij een prototype bepaald.",
-          "en": "A kingfisher on a short twig in one quiet colour. Its head can point toward the tree or a stone in a composition. This is an original figurine concept intended for a resin print. Detail, base attachment and final scale will be resolved in a prototype."
-        },
-        "spec": {
-          "nl": "Richtmaat 6 cm hoog · resinconcept",
-          "en": "Indicative height 6 cm · resin concept"
-        },
-        "options": [
-          "dark",
-          "earth",
-          "custom"
-        ],
-        "stage": "future",
-        "zone": "future",
-        "newDesign": true,
-        "image": "concepts/kingfisher.webp",
-        "visualKind": "concept",
-        "imageAlt": {
-          "nl": "IJsvogelminiatuur — gegenereerd ontwerpconcept",
-          "en": "Kingfisher miniature — generated design concept"
-        },
-        "gallery": [
-          {
-            "image": "concepts/kingfisher.webp",
-            "visualKind": "concept",
-            "alt": {
-              "nl": "IJsvogelminiatuur",
-              "en": "Kingfisher miniature"
-            }
-          }
-        ],
-        "imageStyle": "editorial",
-        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
-      },
-      {
-        "id": "bonsai-wind-figure",
-        "category": "miniatures",
-        "name": {
-          "nl": "Windfiguur met paraplu",
-          "en": "Figure with umbrella"
-        },
-        "short": {
-          "nl": "Een figuur in beweging, met een omgeslagen paraplu.",
-          "en": "A figure in motion, holding an inverted umbrella."
-        },
-        "detail": {
-          "nl": "Een geprinte figuur die tegen de wind in leunt, met een omgeslagen paraplu op een ovale voet. Het gefotografeerde exemplaar heeft een donkerbruine afwerking. Als klein accent kan de houding aansluiten op de bewegingsrichting van een boom. Schaal en afwerking stemmen we samen af.",
-          "en": "A printed figure leaning into the wind, holding an inverted umbrella on an oval base. The photographed example has a dark brown finish. Its pose can echo a tree’s movement as a small accent. We agree scale and finish together."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "zone": "presentation",
-        "gallery": [
-          {
-            "image": "prints/studio/wind-figure-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Geprinte windfiguur met paraplu — bewerkt studiobeeld",
-              "en": "Printed figure with umbrella — edited studio image"
-            },
-            "originalPhoto": "prints/wind-figure.webp"
-          },
-          {
-            "image": "prints/wind-figure.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geprinte windfiguur met paraplu",
-              "en": "Printed figure with umbrella"
-            }
-          }
-        ],
-        "image": "prints/studio/wind-figure-studio-v1.webp",
-        "imageAlt": {
-          "nl": "Geprinte windfiguur met paraplu — bewerkt studiobeeld",
-          "en": "Printed figure with umbrella — edited studio image"
-        },
-        "visualKind": "edited",
-        "imageStyle": "studio",
-        "stage": "printed"
-      },
-      {
-        "id": "bonsai-root-pedestal",
-        "category": "display",
-        "name": {
-          "nl": "Ronde wortelstandaard",
-          "en": "Round root pedestal"
-        },
-        "short": {
-          "nl": "Een rond blad boven een gedraaid wortelonderstel.",
-          "en": "A round top above a twisted root base."
-        },
-        "detail": {
-          "nl": "Een hoge, geprinte standaard met een rond blad en een dicht onderstel van wortelvormen. De afwerking combineert een warmbruin blad met een donkerdere voet. De galerij toont het exemplaar los en met een bonsaiopstelling. Pot en boom zijn styling; maat, draagvlak en de passende belasting van een nieuwe standaard stemmen we apart af.",
-          "en": "A tall printed stand with a round top and a dense root-shaped base. The finish combines a warm brown top with darker roots. The gallery shows the stand alone and in a bonsai arrangement. Pot and tree are styling; we agree dimensions, support area and suitable load for a new stand separately."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "zone": "presentation",
-        "gallery": [
-          {
-            "image": "prints/studio/root-pedestal-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
-              "en": "Round root pedestal photographed alone — edited studio image"
-            },
-            "originalPhoto": "prints/root-pedestal.webp"
-          },
-          {
-            "image": "prints/root-pedestal.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Ronde wortelstandaard, los gefotografeerd",
-              "en": "Round root pedestal photographed alone"
-            }
-          },
-          {
-            "image": "prints/studio/root-pedestal-workshop-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Ronde wortelstandaard in de werkplaats — bewerkt studiobeeld",
-              "en": "Round root pedestal in the workshop — edited studio image"
-            },
-            "originalPhoto": "prints/root-pedestal-workshop.webp"
-          },
-          {
-            "image": "prints/root-pedestal-workshop.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Ronde wortelstandaard in de werkplaats",
-              "en": "Round root pedestal in the workshop"
-            }
-          },
-          {
-            "image": "prints/studio/root-pedestal-arrangement-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Wortelstandaard met een bonsaiopstelling — bewerkt studiobeeld",
-              "en": "Root pedestal in a bonsai arrangement — edited studio image"
-            },
-            "originalPhoto": "prints/root-pedestal-arrangement.webp"
-          },
-          {
-            "image": "prints/root-pedestal-arrangement.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Wortelstandaard met een bonsaiopstelling",
-              "en": "Root pedestal in a bonsai arrangement"
-            }
-          }
-        ],
-        "image": "prints/studio/root-pedestal-studio-v1.webp",
-        "imageAlt": {
-          "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
-          "en": "Round root pedestal photographed alone — edited studio image"
-        },
-        "visualKind": "edited",
-        "imageStyle": "studio",
-        "stage": "printed"
-      },
-      {
-        "id": "bonsai-classic-table",
-        "category": "display",
-        "name": {
-          "nl": "Lage displaytafel",
-          "en": "Low display table"
-        },
-        "short": {
-          "nl": "Een rechthoekig blad met een warme houtachtige afwerking.",
-          "en": "A rectangular top with a warm wood-effect finish."
-        },
-        "detail": {
-          "nl": "Een lage, geprinte displaytafel met een rechthoekig blad en breed gevormde voeten. De bruine afwerking en het patroon in het blad geven een houtachtige uitstraling. De foto toont het gemaakte exemplaar. Voor een nieuwe print kiezen we maat, kleur en ondersteuning rond jouw pot.",
-          "en": "A low printed display table with a rectangular top and broadly shaped feet. The brown finish and pattern in the top give it a wood-like appearance. The photograph shows the made example. We choose dimensions, colour and support around your pot for a new print."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "zone": "presentation",
-        "gallery": [
-          {
-            "image": "prints/studio/classic-display-table-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
-              "en": "Printed low display table with wood-effect finish — edited studio image"
-            },
-            "originalPhoto": "prints/classic-display-table.webp"
-          },
-          {
-            "image": "prints/classic-display-table.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geprinte lage displaytafel met houtachtige afwerking",
-              "en": "Printed low display table with wood-effect finish"
-            }
-          }
-        ],
-        "image": "prints/studio/classic-display-table-studio-v1.webp",
-        "imageAlt": {
-          "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
-          "en": "Printed low display table with wood-effect finish — edited studio image"
-        },
-        "visualKind": "edited",
-        "imageStyle": "studio",
-        "stage": "printed"
-      },
-      {
-        "id": "bonsai-openwork-plateau",
-        "category": "display",
-        "name": {
-          "nl": "Opengewerkt plateau",
-          "en": "Openwork plateau"
-        },
-        "short": {
-          "nl": "Een lage ronde vorm met een open, organisch patroon.",
-          "en": "A low round form with an open organic pattern."
-        },
-        "detail": {
-          "nl": "Een rond geprint plateau met veel onregelmatige openingen en een lage, gelaagde rand. Het gefotografeerde exemplaar is bruin afgewerkt. Het patroon kan een klein object of accent visueel begeleiden. Bij een nieuwe uitvoering bepalen we maat, vlakke contactpunten en geschikt gebruik.",
-          "en": "A round printed plateau with many irregular openings and a low layered edge. The photographed example has a brown finish. The pattern can complement a small object or accent. For a new version, we determine dimensions, level contact points and suitable use."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "zone": "presentation",
-        "gallery": [
-          {
-            "image": "prints/studio/openwork-plateau-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Rond opengewerkt geprint plateau — bewerkt studiobeeld",
-              "en": "Round openwork printed plateau — edited studio image"
-            },
-            "originalPhoto": "prints/openwork-plateau.webp"
-          },
-          {
-            "image": "prints/openwork-plateau.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Rond opengewerkt geprint plateau",
-              "en": "Round openwork printed plateau"
-            }
-          }
-        ],
-        "image": "prints/studio/openwork-plateau-studio-v1.webp",
-        "imageAlt": {
-          "nl": "Rond opengewerkt geprint plateau — bewerkt studiobeeld",
-          "en": "Round openwork printed plateau — edited studio image"
-        },
-        "visualKind": "edited",
-        "imageStyle": "studio",
-        "stage": "printed"
-      },
-      {
-        "id": "bonsai-open-root-pedestal",
-        "category": "display",
-        "name": {
-          "nl": "Open wortelstandaard",
-          "en": "Open root pedestal"
-        },
-        "short": {
-          "nl": "Een hoge standaard met een gebogen, open wortelvorm.",
-          "en": "A tall stand with a curved, open root form."
-        },
-        "detail": {
-          "nl": "Een slanke geprinte standaard waarvan de wortels omhoog buigen naar een rond blad. De open ruimtes tussen de wortelvormen maken het onderstel lichter in beeld. De foto toont de donkere, afgewerkte print. Maat, voetplaatsing en geschikt draaggewicht worden voor een nieuwe uitvoering afgestemd.",
-          "en": "A slender printed stand with roots curving upwards towards a round top. Open gaps between the root forms give the base a lighter appearance. The photograph shows the dark finished print. Dimensions, foot placement and suitable load are agreed for a new version."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "zone": "presentation",
-        "gallery": [
-          {
-            "image": "prints/studio/open-root-pedestal-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
-              "en": "Printed open root pedestal with round top — edited studio image"
-            },
-            "originalPhoto": "prints/open-root-pedestal.webp"
-          },
-          {
-            "image": "prints/open-root-pedestal.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geprinte open wortelstandaard met rond blad",
-              "en": "Printed open root pedestal with round top"
-            }
-          }
-        ],
-        "image": "prints/studio/open-root-pedestal-studio-v1.webp",
-        "imageAlt": {
-          "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
-          "en": "Printed open root pedestal with round top — edited studio image"
-        },
-        "visualKind": "edited",
-        "imageStyle": "studio",
-        "stage": "printed"
+        }
       },
       {
         "id": "bonsai-kneeling-figure",
         "category": "miniatures",
         "name": {
-          "nl": "Bonsailiefhebber met miniatuurbomen",
-          "en": "Bonsai enthusiast with miniature trees"
+          "nl": "De bonsailiefhebber",
+          "en": "The bonsai enthusiast"
         },
         "short": {
-          "nl": "Een knielende figuur met drie kleine bomen op een ronde voet.",
-          "en": "A kneeling figure with three small trees on a round base."
+          "nl": "Een geprinte miniatuurscène voor de liefhebber.",
+          "en": "A printed miniature scene for the enthusiast."
         },
         "detail": {
           "nl": "Een geprinte bonsailiefhebber houdt een kleine boom vast, met twee miniatuurbomen naast zich. Het geheel staat op een ronde voet met textuur en kleine gereedschapsdetails. De foto toont de bruine uitvoering. Houding, schaal en een persoonlijke afwerking kunnen bij een nieuwe print worden afgestemd.",
           "en": "A printed bonsai enthusiast holds a small tree, with two miniature trees beside him. The scene sits on a round textured base with small tool details. The photograph shows the brown version. Pose, scale and a personal finish can be agreed for a new print."
         },
         "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
+          "nl": "3D-print · maat en afwerking op aanvraag",
+          "en": "3D print · size and finish on enquiry"
         },
         "options": [
-          "natural",
-          "dark",
-          "custom"
+          "wood",
+          "black"
         ],
         "zone": "presentation",
         "gallery": [
           {
             "image": "prints/studio/kneeling-bonsai-figure-studio-v1.webp",
             "visualKind": "edited",
-            "imageStyle": "studio",
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
             "alt": {
               "nl": "Geprinte knielende figuur met drie miniatuurbomen — bewerkt studiobeeld",
               "en": "Printed kneeling figure with three miniature trees — edited studio image"
-            },
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
+            }
+          },
+          {
+            "image": "finishes/kneeling-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
+            "alt": {
+              "nl": "Bonsailiefhebber met miniatuurbomen in matzwart — afwerkingsvoorbeeld",
+              "en": "Bonsai enthusiast with miniature trees in matte black — finish preview"
+            }
           },
           {
             "image": "prints/kneeling-bonsai-figure.webp",
@@ -1802,136 +753,27 @@
         },
         "visualKind": "edited",
         "imageStyle": "studio",
-        "stage": "printed"
-      },
-      {
-        "id": "bonsai-viewers",
-        "category": "miniatures",
-        "name": {
-          "nl": "Bonsaikijkers",
-          "en": "Bonsai viewers"
-        },
-        "short": {
-          "nl": "Drie figuren rond een kleine bonsai.",
-          "en": "Three figures around a small bonsai."
-        },
-        "detail": {
-          "nl": "Een groep van drie geschilderde miniatuurfiguren die samen naar een kleine bonsai kijken. De losse figuren hebben ieder een eigen houding, kleding en details. De galerij toont twee aanzichten van de gemaakte opstelling. De grote levende boom op de oorspronkelijke foto is achtergrondstyling. Voor een nieuwe groep bespreken we samenstelling, schaal en afwerking.",
-          "en": "Three painted miniature figures looking at a small bonsai together. Each separate figure has its own pose, clothing and details. The gallery shows two views of the made arrangement. The large living tree in the original photograph is background styling. We discuss composition, scale and finish for a new group."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "zone": "presentation",
-        "gallery": [
-          {
-            "image": "prints/studio/bonsai-viewers-studio-v1.webp",
+        "stage": "printed",
+        "finishes": {
+          "wood": {
+            "image": "prints/studio/kneeling-bonsai-figure-studio-v1.webp",
             "visualKind": "edited",
-            "imageStyle": "studio",
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
             "alt": {
-              "nl": "Drie geschilderde bonsaikijkers rond een miniatuurboom — bewerkt studiobeeld",
-              "en": "Three painted bonsai viewers around a miniature tree — edited studio image"
-            },
-            "originalPhoto": "prints/bonsai-viewers.webp"
-          },
-          {
-            "image": "prints/bonsai-viewers.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Drie geschilderde bonsaikijkers rond een miniatuurboom",
-              "en": "Three painted bonsai viewers around a miniature tree"
+              "nl": "Geprinte knielende figuur met drie miniatuurbomen — bewerkt studiobeeld",
+              "en": "Printed kneeling figure with three miniature trees — edited studio image"
             }
           },
-          {
-            "image": "prints/studio/bonsai-viewers-detail-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
+          "black": {
+            "image": "finishes/kneeling-black.webp",
+            "visualKind": "finish",
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
             "alt": {
-              "nl": "Bonsaikijkers van dichterbij — bewerkt studiobeeld",
-              "en": "Bonsai viewers seen closer — edited studio image"
-            },
-            "originalPhoto": "prints/bonsai-viewers-detail.webp"
-          },
-          {
-            "image": "prints/bonsai-viewers-detail.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Bonsaikijkers van dichterbij",
-              "en": "Bonsai viewers seen closer"
+              "nl": "Bonsailiefhebber met miniatuurbomen in matzwart — afwerkingsvoorbeeld",
+              "en": "Bonsai enthusiast with miniature trees in matte black — finish preview"
             }
           }
-        ],
-        "image": "prints/studio/bonsai-viewers-studio-v1.webp",
-        "imageAlt": {
-          "nl": "Drie geschilderde bonsaikijkers rond een miniatuurboom — bewerkt studiobeeld",
-          "en": "Three painted bonsai viewers around a miniature tree — edited studio image"
-        },
-        "visualKind": "edited",
-        "imageStyle": "studio",
-        "stage": "printed"
-      },
-      {
-        "id": "bonsai-tripod-workstand",
-        "category": "work",
-        "name": {
-          "nl": "Bonsaiwerkstandaard op driepoot",
-          "en": "Tripod bonsai workstand"
-        },
-        "short": {
-          "nl": "Een rond werkblad op een zwart-groene driepoot.",
-          "en": "A round work plate on a black and green tripod."
-        },
-        "detail": {
-          "nl": "De foto toont een geprinte zwart-groene driepoot met een rond zwart werkblad en een centrale houder. De gevormde poten en scharnierpunten zijn zichtbaar, net als de ringen onder het blad. Dit is een afzonderlijke uitvoering naast het modulaire werkplateau. Voor een nieuwe werkstandaard stemmen we de maat, het verstelmechanisme en het geschikte gebruik af.",
-          "en": "The photograph shows a printed black and green tripod with a round black work plate and a central holder. The shaped legs and joints are visible, along with rings below the plate. This is a separate version alongside the modular work platform. For a new workstand, we agree dimensions, the adjustment mechanism and suitable use."
-        },
-        "spec": {
-          "nl": "Geprint voorbeeld · maat en afwerking op aanvraag",
-          "en": "Printed example · size and finish on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "zone": "tools",
-        "gallery": [
-          {
-            "image": "prints/studio/tripod-workstand-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Geprinte zwart-groene bonsaiwerkstandaard op driepoot — bewerkt studiobeeld",
-              "en": "Printed black and green tripod bonsai workstand — edited studio image"
-            },
-            "originalPhoto": "prints/tripod-workstand.webp"
-          },
-          {
-            "image": "prints/tripod-workstand.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geprinte zwart-groene bonsaiwerkstandaard op driepoot",
-              "en": "Printed black and green tripod bonsai workstand"
-            }
-          }
-        ],
-        "image": "prints/studio/tripod-workstand-studio-v1.webp",
-        "imageAlt": {
-          "nl": "Geprinte zwart-groene bonsaiwerkstandaard op driepoot — bewerkt studiobeeld",
-          "en": "Printed black and green tripod bonsai workstand — edited studio image"
-        },
-        "visualKind": "edited",
-        "imageStyle": "studio",
-        "stage": "printed"
+        }
       }
     ],
     "customTitle": {
@@ -1950,7 +792,7 @@
       "nl": "Ik ben Ruben. Ik ontwerp en 3D-print accessoires voor bonsai. Een potmaat, de hoogte van een tafel of een klein detail vormen vaak het begin. In de collectie staan bestaande ontwerpen naast nieuwe schetsen. Wat al is geprint en wat nog een concept is, staat bij het product.",
       "en": "I’m Ruben. I design and 3D print bonsai accessories. A pot dimension, a stand height or a small detail often starts the work. The collection includes existing designs and new sketches. Each product identifies what has been printed and what remains a concept."
     },
-    "storyImage": "finished/archive/bonsai-red-branch-relief-pot-5.webp",
+    "storyImage": "prints/classic-display-table.webp",
     "guideTitle": {
       "nl": "Maat, materiaal & gebruik",
       "en": "Size, material & use"
@@ -1958,117 +800,60 @@
     "faqs": [
       {
         "q": {
-          "nl": "Kan de opstelling precies op mijn boom worden afgestemd?",
-          "en": "Can the arrangement be tailored to my tree?"
+          "nl": "Zijn de tafels van hout?",
+          "en": "Are the stands made of wood?"
         },
         "a": {
-          "nl": "Ja. De interactieve opstelling helpt om een richting te kiezen. Met foto’s van jouw boom en de maten van de pot bepalen we daarna de echte verhoudingen, passende ondersteuning en afwerking.",
-          "en": "Yes. The interactive scene helps you choose a direction. Photos of your tree and pot dimensions then guide the actual proportions, suitable support and finish."
+          "nl": "De objecten zijn 3D-geprint. Houtlook is de bruine afwerking die ik ook op mijn gemaakte tafels gebruik. Matzwart is een tweede, rustige richting. Materiaal, maat en afwerking worden per aanvraag afgestemd.",
+          "en": "The objects are 3D printed. Wood look is the brown finish I use on my existing stands. Matte black is a second, quieter direction. We agree material, dimensions and finish for each enquiry."
         }
       },
       {
         "q": {
-          "nl": "Wat zit er bij een accessoire?",
-          "en": "What is included with an accessory?"
+          "nl": "Wat laten de productbeelden zien?",
+          "en": "What do the product images show?"
         },
         "a": {
-          "nl": "We spreken per ontwerp af welke geprinte onderdelen en afwerking je krijgt. Bomen, planten, stenen, potten en gereedschap in sfeerbeelden zijn aankleding, tenzij we ze uitdrukkelijk meenemen in je aanvraag.",
-          "en": "We agree the printed parts and finish for each design. Trees, plants, stones, pots and tools in the scene are styling unless explicitly included in your enquiry."
+          "nl": "De collectie is gebaseerd op eerder gemaakte prints en ontwerpen. De studiobeelden zijn bewerkt; nieuwe kleurvarianten van tafels en figuren zijn afwerkingsvoorbeelden. Bij gefotografeerde prints staan de oorspronkelijke foto’s in de galerij. De potten hebben hun eerdere beelden en uitvoeringen behouden. De grote bonsaifoto’s zijn ongewijzigde foto’s van echte bomen.",
+          "en": "The collection is based on previously made prints and designs. Studio images are edited; new colour variants of stands and figures are finish previews. Photographed prints include original photographs in their galleries. Pots retain their previous images and finishes. The large bonsai photographs are unaltered pictures of real trees."
         }
       },
       {
         "q": {
-          "nl": "Wat betekenen prototype en toekomstidee?",
-          "en": "What do prototype and future idea mean?"
+          "nl": "Kan ik een andere maat of kleur kiezen?",
+          "en": "Can I choose a different size or colour?"
         },
         "a": {
-          "nl": "Een prototype wordt nog ontwikkeld en getest. Een toekomstidee toont een mogelijke richting die nog geen vast product is. Je kunt interesse aangeven of een eigen variant bespreken; uitvoering, haalbaarheid en prijs worden eerst afgestemd.",
-          "en": "A prototype is still being developed and tested. A future idea shows a possible direction rather than an established product. You can express interest or discuss a version; feasibility, execution and price are agreed first."
+          "nl": "Ja. Kies een vorm en een afwerking en vermeld de afmetingen van je pot en eventuele andere wensen in je aanvraag. Prijs, geschikte belasting, materiaal en planning bespreken we voor de uitvoering.",
+          "en": "Yes. Choose a form and finish and include your pot’s dimensions and any other preferences in your enquiry. We discuss price, suitable load, material and timing before making it."
         }
       },
       {
         "q": {
-          "nl": "Hoe vraag ik een prijs aan?",
-          "en": "How do I request a quote?"
+          "nl": "Hoe werkt de aanvraag?",
+          "en": "How does an enquiry work?"
         },
         "a": {
-          "nl": "Kies je opstelling of een ontwerp en voeg je wensen, foto’s en maten toe. In deze lokale proefversie wordt je aanvraag in het atelier opgeslagen. Een bestelling volgt pas na afstemming.",
-          "en": "Choose an arrangement or design and add your wishes, photos and dimensions. This local preview saves the enquiry to the workshop. An order follows only after agreement."
+          "nl": "Bewaar de producten die je aanspreken in Mijn selectie. Je kunt vervolgens een aanvraag downloaden of kopiëren. De website verstuurt deze nog niet automatisch.",
+          "en": "Save the products you like in My selection. You can then download or copy an enquiry. The website does not send it automatically."
         }
       }
     ],
-    "inspiration": null,
     "previousSlug": "loof3d",
-    "featuredProduct": "bonsai-firethorn-pot",
-    "secondaryProduct": "lamella-pot",
-    "shortcuts": [
-      {
-        "category": "pots",
-        "icon": "pot",
-        "note": {
-          "nl": "Schalen & potten",
-          "en": "Pots & planters"
-        }
-      },
-      {
-        "category": "display",
-        "icon": "table",
-        "note": {
-          "nl": "Tafels & jita’s",
-          "en": "Tables & jitas"
-        }
-      },
-      {
-        "category": "work",
-        "icon": "tools",
-        "note": {
-          "nl": "Plateaus & houders",
-          "en": "Plateaus & holders"
-        }
-      },
-      {
-        "category": "growing",
-        "icon": "rack",
-        "note": {
-          "nl": "Kleine bomen & zaailingen",
-          "en": "Small trees & seedlings"
-        }
-      },
-      {
-        "category": "slabs",
-        "icon": "slab",
-        "note": {
-          "nl": "Slabs & landschappen",
-          "en": "Slabs & landscapes"
-        }
-      },
-      {
-        "category": "miniatures",
-        "icon": "figure",
-        "note": {
-          "nl": "Figuren & scènes",
-          "en": "Figures & scenes"
-        }
-      }
-    ],
-    "designDirection": "bonsai-editorial-2026-10",
+    "designDirection": "mirai-curated-finishes-2026-10",
     "previousSlugs": [
       "tak",
       "tak-en-vorm"
     ],
-    "atmosphere": {
-      "image": "finished/studio/display-table-v3.webp",
-      "alt": {
-        "nl": "Afgewerkte lamellen displaytafel met bonsai — gegenereerde productvisualisatie",
-        "en": "Finished slatted display table with bonsai — generated product visualisation"
-      },
-      "caption": {
-        "nl": "Lamellen displaytafel · productvisualisatie",
-        "en": "Slatted display table · product visualisation"
-      }
-    },
     "storyVisualKind": "photo",
     "imageStyle": "studio",
-    "exhibition": true
+    "heroPhoto": {
+      "image": "prints/white-branch-pot.webp",
+      "alt": {
+        "nl": "Rubens echte bloeiende bonsai in de lichte takkenpot",
+        "en": "Ruben’s real flowering bonsai in the pale branch pot"
+      },
+      "visualKind": "photo"
+    }
   }
 }

@@ -1,8 +1,9 @@
 # BONSAI3D design notes — October 2026
 
-The website uses a restrained product and editorial layout: white space,
-plain sans-serif headings, quiet colours, square image fields and direct
-navigation. The composition builder and bilingual enquiry drafts remain.
+The website uses large photographs, plain sans-serif headings, white space,
+quiet colours and direct navigation. A photographic introduction, two finish
+stories and a concise product collection replace the illustrative scene builder
+and sketchbook feed. Bilingual enquiries remain downloadable or copyable.
 
 Visual research included the current [Bonsai Mirai website](https://bonsaimirai.com/),
 [Mirai Goods display collection](https://goods.bonsaimirai.com/collections/stands-frames)
@@ -15,38 +16,34 @@ These describe combinations of trees, stands, companion plants, viewing stones,
 seasonal scrolls and open space. They inform the product direction; they do not
 endorse BONSAI3D or establish the suitability of a particular print.
 
-Five original proposals were added: season frame, riverbank suiban, accent pair,
-open display window and kingfisher miniature. Each is labelled as an unprinted
-design concept. Images were generated specifically for these proposals, with a
-consistent neutral studio background. No manufacturing models, tested load limits
-or measured finished dimensions are implied. Plants, stones, pots and scroll artwork
-used as styling are distinguished from the proposed product.
+The current collection has eight objects. Six previously printed designs form
+the wood-look / matte-black series: low display table, round root stand, open root
+stand, organic jita, tea drinker and kneeling enthusiast. The
+branch pot and red branch pot retain their complete earlier catalogue records, photographs, gallery
+order, wording and finish options at the owner's explicit request. A global finish
+choice never recolours the pots or adds new pot finish variants.
 
-The workshop section uses an existing photograph of the red relief pot. Existing
-product photo links and provenance remain in the catalogue. YORI3D is excluded
-from this repository and has no published website.
+Twenty-five previous entries, including unprinted proposals, electronic prototypes,
+work tools and colourful miniature scenes, are outside the visible collection.
+The owner explicitly removed the lamella pot, bark pot and openwork plateau.
+Their earlier versions remain recoverable in Git and the private research archive.
 
-Twenty-one additional owner-supplied photographs document prints and prototype
-components. Six existing records were updated: jita, worktable figure, branch pot,
-red branch pot, custom bonsai miniature and levitation pond. Existing IDs remain
-stable, including the branch pot's earlier firethorn ID. Nine new records are tea
-drinker, umbrella figure, round root pedestal, low display table, openwork plateau,
-open root pedestal, kneeling bonsai enthusiast, bonsai viewers and tripod workstand.
-The two actual root pedestals and tripod are distinct designs; the earlier root
-display concept and modular platform are not silently reassigned to these photos.
+The large flowering-tree and cascade photographs are the owner's unaltered source
+photographs. They are not generated trees. The workshop section shows the original
+low-table photograph. No source photographs were overwritten. A tree printed as
+part of the kneeling figure is explicitly a sculpted miniature, not a living tree.
 
-The owner requested consistent formatting and authorised image editing and
-regeneration. Built-in Imagegen edited each of the 21 source views into a square
-studio image with a pale neutral background and soft light, using the original
-print as its reference. Each edited view is labelled and links to its original
-photograph, which is also available in the gallery. Full-frame WebP source copies
-retain the unedited content. Earlier side and top photos of the red pot remain.
-Living trees are styling except where the subject itself is a printed miniature.
+Eight selected images were made with built-in Imagegen using existing print photographs
+as edit targets: six black finish previews, an empty wood-look jita and a wood-look
+tea drinker. All keep the referenced shape and print detail as closely as the image
+edit allows. Such images are labelled finish previews and link to their original
+photographs; they are not dimensional or manufacturing evidence. Existing brown
+studio images are labelled edited product images. Full-frame originals remain in
+the galleries. Finish previews are saved under `assets/finishes/`.
 
-Species, dimensions, materials and load limits are not inferred from photographs.
-The electronics and painted pond show prototype components, without establishing
-complete levitation performance. The interactive composition remains illustrative.
-The five new design concepts remain explicitly unprinted.
-
-Editorial CSS selectors include the body element so the intended sans-serif type
-and square image frames take precedence over the older Japanese theme rules.
+Wood look describes a finish on a 3D print, not a timber construction. New finishes,
+materials, sizes, suitable loads, prices and timing are agreed for each enquiry.
+Product finish choices are shown in the image, retained in local selections, encoded
+in product links and included in enquiry text. No physical print or strength test
+was performed for this website revision. YORI3D remains a separate private repository
+with Pages disabled; it is not linked from this website.
