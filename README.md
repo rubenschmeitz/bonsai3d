@@ -26,22 +26,22 @@ The October 2026 collection contains twenty objects: the eight existing products
 and twelve new miniature design proposals, giving fourteen miniatures in total.
 New miniatures are generated concepts, have not been printed and have no production
 geometry. Size, finish, details and manufacturability are agreed through an enquiry.
-Their current v3 images depict simple plain matte-black resin miniatures in everyday
-workbench photography, with modest daylight and ordinary surface irregularities.
+Their current exhibition images depict simple plain matte-black resin miniatures
+with modest light and ordinary surface irregularities.
 All twelve concepts offer only matte black. These are generated examples, not
 photographs of existing printed stock. Earlier v1/v2 images and matching black
-transparent derivatives are preserved separately; only v3 photographic examples
-appear in the current concept galleries.
+transparent derivatives are preserved separately. Earlier v3 workbench views
+remain in the galleries beside the new exhibition images.
 The lamella pot, bark pot and openwork plateau remain outside the visible collection.
 
 Twenty-one owner photographs have separate conventional corrections in
 `assets/prints/natural/`: light tonal corrections, cropping, colour and sharpness.
 Original public photographs are unchanged; corrected product views link to them.
 Previous studio edits and generated finish images are preserved separately. The
-current product views favour the natural photographs. Generated previews have
+front-facing product views use generated exhibition settings; natural photographs remain in the galleries. Generated previews have
 explicit labels and are not evidence of a newly printed product or physical result.
 
-Two images under `assets/examples/` illustrate a flowering bonsai on the owner's
+Two earlier images under `assets/examples/` illustrate a flowering bonsai on the owner's
 wood-look table and a cascade on the matte-black open root stand. They were created
 with built-in Imagegen using existing bonsai/product photographs as references.
 They are labelled generated inspiration, with direct links to the existing objects.
@@ -53,3 +53,13 @@ The active renderer is `assets/collection.js`, with editorial sections in
 `assets/collection-editorial.js` and `assets/collection.css`. The five content pages
 and one redirect page are static and work on GitHub Pages.
 [Design notes](DESIGN.md) describe the original visual direction and provenance.
+
+The exhibition imagery revision uses twenty product views, six additional finish
+variants and two display examples under `assets/exhibition/`. Warm greige linen
+panels, an ivory cloth-covered exhibition bench and soft light unify the collection.
+These are generated background edits and remain explicitly labelled. Product
+identities, pot colours/options, existing wood/black choices and black-only new
+miniatures are preserved. Original images and prior derivatives remain available
+in product galleries. Genuine workshop imagery remains in the atelier story;
+there are currently no tools in the active catalogue. Full prompts and image
+provenance are archived privately in the printing workspace research directory.

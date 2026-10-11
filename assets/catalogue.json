@@ -94,6 +94,26 @@
         "zone": "presentation",
         "gallery": [
           {
+            "image": "exhibition/bonsai-classic-table-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Lage displaytafel — houtlook in een tentoonstellingssetting",
+              "en": "Low display table — wood look in an exhibition setting"
+            },
+            "originalPhoto": "prints/classic-display-table.webp"
+          },
+          {
+            "image": "exhibition/bonsai-classic-table-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Lage displaytafel — matzwart in een tentoonstellingssetting",
+              "en": "Low display table — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/classic-display-table.webp"
+          },
+          {
             "image": "prints/natural/classic-display-table-natural-v1.webp",
             "visualKind": "corrected",
             "originalPhoto": "prints/classic-display-table.webp",
@@ -122,33 +142,34 @@
             }
           }
         ],
-        "image": "prints/natural/classic-display-table-natural-v1.webp",
+        "image": "exhibition/bonsai-classic-table-wood-v1.webp",
         "imageAlt": {
-          "nl": "Geprinte lage displaytafel met houtachtige afwerking",
-          "en": "Printed low display table with wood-effect finish"
+          "nl": "Lage displaytafel — houtlook in een tentoonstellingssetting",
+          "en": "Low display table — wood look in an exhibition setting"
         },
-        "visualKind": "corrected",
-        "imageStyle": "documentary",
+        "visualKind": "exhibition",
+        "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/classic-display-table-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/classic-display-table.webp",
+            "image": "exhibition/bonsai-classic-table-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Geprinte lage displaytafel met houtachtige afwerking",
-              "en": "Printed low display table with wood-effect finish"
+              "nl": "Lage displaytafel — houtlook in een tentoonstellingssetting",
+              "en": "Low display table — wood look in an exhibition setting"
             },
-            "imageStyle": "documentary"
+            "originalPhoto": "prints/classic-display-table.webp"
           },
           "black": {
-            "image": "finishes/classic-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/classic-display-table.webp",
+            "image": "exhibition/bonsai-classic-table-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Lage displaytafel in matzwart — afwerkingsvoorbeeld",
-              "en": "Low display table in matte black — finish preview"
-            }
+              "nl": "Lage displaytafel — matzwart in een tentoonstellingssetting",
+              "en": "Low display table — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/classic-display-table.webp"
           }
         }
       },
@@ -177,6 +198,26 @@
         ],
         "zone": "presentation",
         "gallery": [
+          {
+            "image": "exhibition/bonsai-root-pedestal-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde wortelstandaard — houtlook in een tentoonstellingssetting",
+              "en": "Round root pedestal — wood look in an exhibition setting"
+            },
+            "originalPhoto": "prints/root-pedestal.webp"
+          },
+          {
+            "image": "exhibition/bonsai-root-pedestal-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde wortelstandaard — matzwart in een tentoonstellingssetting",
+              "en": "Round root pedestal — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/root-pedestal.webp"
+          },
           {
             "image": "prints/natural/root-pedestal-natural-v1.webp",
             "visualKind": "corrected",
@@ -244,33 +285,34 @@
             }
           }
         ],
-        "image": "prints/natural/root-pedestal-natural-v1.webp",
+        "image": "exhibition/bonsai-root-pedestal-wood-v1.webp",
         "imageAlt": {
-          "nl": "Ronde wortelstandaard, los gefotografeerd",
-          "en": "Round root pedestal photographed alone"
+          "nl": "Ronde wortelstandaard — houtlook in een tentoonstellingssetting",
+          "en": "Round root pedestal — wood look in an exhibition setting"
         },
-        "visualKind": "corrected",
-        "imageStyle": "documentary",
+        "visualKind": "exhibition",
+        "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/root-pedestal-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/root-pedestal.webp",
+            "image": "exhibition/bonsai-root-pedestal-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Ronde wortelstandaard, los gefotografeerd",
-              "en": "Round root pedestal photographed alone"
+              "nl": "Ronde wortelstandaard — houtlook in een tentoonstellingssetting",
+              "en": "Round root pedestal — wood look in an exhibition setting"
             },
-            "imageStyle": "documentary"
+            "originalPhoto": "prints/root-pedestal.webp"
           },
           "black": {
-            "image": "finishes/root-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/root-pedestal.webp",
+            "image": "exhibition/bonsai-root-pedestal-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Ronde wortelstandaard in matzwart — afwerkingsvoorbeeld",
-              "en": "Round root pedestal in matte black — finish preview"
-            }
+              "nl": "Ronde wortelstandaard — matzwart in een tentoonstellingssetting",
+              "en": "Round root pedestal — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/root-pedestal.webp"
           }
         }
       },
@@ -300,6 +342,26 @@
         "zone": "presentation",
         "gallery": [
           {
+            "image": "exhibition/bonsai-open-root-pedestal-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Open wortelstandaard — houtlook in een tentoonstellingssetting",
+              "en": "Open root pedestal — wood look in an exhibition setting"
+            },
+            "originalPhoto": "prints/open-root-pedestal.webp"
+          },
+          {
+            "image": "exhibition/bonsai-open-root-pedestal-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Open wortelstandaard — matzwart in een tentoonstellingssetting",
+              "en": "Open root pedestal — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/open-root-pedestal.webp"
+          },
+          {
             "image": "prints/natural/open-root-pedestal-natural-v1.webp",
             "visualKind": "corrected",
             "originalPhoto": "prints/open-root-pedestal.webp",
@@ -328,33 +390,34 @@
             }
           }
         ],
-        "image": "prints/natural/open-root-pedestal-natural-v1.webp",
+        "image": "exhibition/bonsai-open-root-pedestal-wood-v1.webp",
         "imageAlt": {
-          "nl": "Geprinte open wortelstandaard met rond blad",
-          "en": "Printed open root pedestal with round top"
+          "nl": "Open wortelstandaard — houtlook in een tentoonstellingssetting",
+          "en": "Open root pedestal — wood look in an exhibition setting"
         },
-        "visualKind": "corrected",
-        "imageStyle": "documentary",
+        "visualKind": "exhibition",
+        "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/open-root-pedestal-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/open-root-pedestal.webp",
+            "image": "exhibition/bonsai-open-root-pedestal-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Geprinte open wortelstandaard met rond blad",
-              "en": "Printed open root pedestal with round top"
+              "nl": "Open wortelstandaard — houtlook in een tentoonstellingssetting",
+              "en": "Open root pedestal — wood look in an exhibition setting"
             },
-            "imageStyle": "documentary"
+            "originalPhoto": "prints/open-root-pedestal.webp"
           },
           "black": {
-            "image": "finishes/open-root-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/open-root-pedestal.webp",
+            "image": "exhibition/bonsai-open-root-pedestal-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Open wortelstandaard in matzwart — afwerkingsvoorbeeld",
-              "en": "Open root pedestal in matte black — finish preview"
-            }
+              "nl": "Open wortelstandaard — matzwart in een tentoonstellingssetting",
+              "en": "Open root pedestal — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/open-root-pedestal.webp"
           }
         }
       },
@@ -369,7 +432,7 @@
           "nl": "Een organische ondergrond voor een kleine opstelling.",
           "en": "An organic base for a small arrangement."
         },
-        "image": "prints/natural/jita-exhibition-natural-v1.webp",
+        "image": "exhibition/jita-wood-v1.webp",
         "detail": {
           "nl": "Een laag presentatieplateau met een onregelmatige rand en een bruine afwerking. Op de foto ligt een geprint exemplaar onder een kleine opstelling met een plant en een bonsaifiguur. De vlakke bovenkant biedt ruimte om de onderdelen te plaatsen. Voor een nieuwe uitvoering stemmen we maat, draagvlak en afwerking af op jouw opstelling. De planten en andere objecten op de foto zijn afzonderlijke onderdelen.",
           "en": "A low display plate with an irregular edge and a brown finish. The photograph shows a printed example beneath a small arrangement with a plant and a bonsai figure. Its flat top provides space to position the elements. For a new version, we agree the size, support area and finish for your display. The plants and other objects in the photograph are separate elements."
@@ -382,14 +445,34 @@
           "wood",
           "black"
         ],
-        "visualKind": "corrected",
+        "visualKind": "exhibition",
         "stage": "printed",
         "archiveId": "bonsai-natural-root-stand",
         "imageAlt": {
-          "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling",
-          "en": "Printed brown jita with a plant and bonsai figure in an exhibition display"
+          "nl": "Organische jita — houtlook in een tentoonstellingssetting",
+          "en": "Organic jita — wood look in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/jita-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Organische jita — houtlook in een tentoonstellingssetting",
+              "en": "Organic jita — wood look in an exhibition setting"
+            },
+            "originalPhoto": "prints/jita-exhibition.webp"
+          },
+          {
+            "image": "exhibition/jita-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Organische jita — matzwart in een tentoonstellingssetting",
+              "en": "Organic jita — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/jita-exhibition.webp"
+          },
           {
             "image": "prints/natural/jita-exhibition-natural-v1.webp",
             "visualKind": "corrected",
@@ -428,27 +511,28 @@
             "imageStyle": "documentary"
           }
         ],
-        "imageStyle": "documentary",
+        "imageStyle": "exhibition",
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "prints/natural/jita-exhibition-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/jita-exhibition.webp",
+            "image": "exhibition/jita-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling",
-              "en": "Printed brown jita with a plant and bonsai figure in an exhibition display"
+              "nl": "Organische jita — houtlook in een tentoonstellingssetting",
+              "en": "Organic jita — wood look in an exhibition setting"
             },
-            "imageStyle": "documentary"
+            "originalPhoto": "prints/jita-exhibition.webp"
           },
           "black": {
-            "image": "finishes/jita-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/jita-exhibition.webp",
+            "image": "exhibition/jita-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Organische jita in matzwart — afwerkingsvoorbeeld",
-              "en": "Organic jita in matte black — finish preview"
-            }
+              "nl": "Organische jita — matzwart in een tentoonstellingssetting",
+              "en": "Organic jita — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/jita-exhibition.webp"
           }
         }
       },
@@ -477,14 +561,24 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "prints/natural/gray-branch-pot-natural-v1.webp",
-        "visualKind": "corrected",
+        "image": "exhibition/bonsai-firethorn-pot-own-v1.webp",
+        "visualKind": "exhibition",
         "archiveId": "bonsai-firethorn-pot",
         "imageAlt": {
-          "nl": "Grijze takkenpot met zicht op de binnenkant",
-          "en": "Gray branch pot showing the interior"
+          "nl": "Takkenpot — bestaande uitvoering in een tentoonstellingssetting",
+          "en": "Branch pot — existing version in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-firethorn-pot-own-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Takkenpot — bestaande uitvoering in een tentoonstellingssetting",
+              "en": "Branch pot — existing version in an exhibition setting"
+            },
+            "originalPhoto": "prints/gray-branch-pot.webp"
+          },
           {
             "image": "prints/natural/gray-branch-pot-natural-v1.webp",
             "visualKind": "corrected",
@@ -543,7 +637,7 @@
             }
           }
         ],
-        "imageStyle": "documentary",
+        "imageStyle": "exhibition",
         "zone": "presentation"
       },
       {
@@ -571,9 +665,19 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "prints/natural/red-branch-pot-natural-v1.webp",
-        "visualKind": "corrected",
+        "image": "exhibition/bonsai-red-branch-relief-pot-own-v1.webp",
+        "visualKind": "exhibition",
         "gallery": [
+          {
+            "image": "exhibition/bonsai-red-branch-relief-pot-own-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Rode takkenpot — bestaande uitvoering in een tentoonstellingssetting",
+              "en": "Red branch pot — existing version in an exhibition setting"
+            },
+            "originalPhoto": "prints/red-branch-pot.webp"
+          },
           {
             "image": "prints/natural/red-branch-pot-natural-v1.webp",
             "visualKind": "corrected",
@@ -616,10 +720,10 @@
         ],
         "archiveId": "bonsai-red-branch-relief-pot",
         "imageAlt": {
-          "nl": "Geprinte rode vierkante pot met lichte takken in reliëf rond de zijkanten",
-          "en": "Printed red square pot with pale branch relief around the sides"
+          "nl": "Rode takkenpot — bestaande uitvoering in een tentoonstellingssetting",
+          "en": "Red branch pot — existing version in an exhibition setting"
         },
-        "imageStyle": "documentary",
+        "imageStyle": "exhibition",
         "zone": "presentation"
       },
       {
@@ -652,8 +756,28 @@
           "winter"
         ],
         "zone": "presentation",
-        "image": "prints/natural/tea-figure-natural-v1.webp",
+        "image": "exhibition/bonsai-tea-figure-wood-v1.webp",
         "gallery": [
+          {
+            "image": "exhibition/bonsai-tea-figure-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Theedrinker — houtlook in een tentoonstellingssetting",
+              "en": "Tea drinker — wood look in an exhibition setting"
+            },
+            "originalPhoto": "prints/tea-figure.webp"
+          },
+          {
+            "image": "exhibition/bonsai-tea-figure-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Theedrinker — matzwart in een tentoonstellingssetting",
+              "en": "Tea drinker — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/tea-figure.webp"
+          },
           {
             "image": "prints/natural/tea-figure-natural-v1.webp",
             "visualKind": "corrected",
@@ -692,32 +816,33 @@
             "imageStyle": "documentary"
           }
         ],
-        "visualKind": "corrected",
+        "visualKind": "exhibition",
         "imageAlt": {
-          "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
-          "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
+          "nl": "Theedrinker — houtlook in een tentoonstellingssetting",
+          "en": "Tea drinker — wood look in an exhibition setting"
         },
-        "imageStyle": "documentary",
+        "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/tea-figure-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/tea-figure.webp",
+            "image": "exhibition/bonsai-tea-figure-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
-              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
+              "nl": "Theedrinker — houtlook in een tentoonstellingssetting",
+              "en": "Tea drinker — wood look in an exhibition setting"
             },
-            "imageStyle": "documentary"
+            "originalPhoto": "prints/tea-figure.webp"
           },
           "black": {
-            "image": "finishes/tea-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/tea-figure.webp",
+            "image": "exhibition/bonsai-tea-figure-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Theedrinker in matzwart — afwerkingsvoorbeeld",
-              "en": "Tea drinker in matte black — finish preview"
-            }
+              "nl": "Theedrinker — matzwart in een tentoonstellingssetting",
+              "en": "Tea drinker — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/tea-figure.webp"
           }
         },
         "compositionImage": "composition/tea-figure-cutout-v1.webp"
@@ -748,6 +873,26 @@
         "zone": "presentation",
         "gallery": [
           {
+            "image": "exhibition/bonsai-kneeling-figure-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De bonsailiefhebber — houtlook in een tentoonstellingssetting",
+              "en": "The bonsai enthusiast — wood look in an exhibition setting"
+            },
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
+          },
+          {
+            "image": "exhibition/bonsai-kneeling-figure-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De bonsailiefhebber — matzwart in een tentoonstellingssetting",
+              "en": "The bonsai enthusiast — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
+          },
+          {
             "image": "prints/natural/kneeling-bonsai-figure-natural-v1.webp",
             "visualKind": "corrected",
             "originalPhoto": "prints/kneeling-bonsai-figure.webp",
@@ -776,33 +921,34 @@
             }
           }
         ],
-        "image": "prints/natural/kneeling-bonsai-figure-natural-v1.webp",
+        "image": "exhibition/bonsai-kneeling-figure-wood-v1.webp",
         "imageAlt": {
-          "nl": "Geprinte knielende figuur met drie miniatuurbomen",
-          "en": "Printed kneeling figure with three miniature trees"
+          "nl": "De bonsailiefhebber — houtlook in een tentoonstellingssetting",
+          "en": "The bonsai enthusiast — wood look in an exhibition setting"
         },
-        "visualKind": "corrected",
-        "imageStyle": "documentary",
+        "visualKind": "exhibition",
+        "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/kneeling-bonsai-figure-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
+            "image": "exhibition/bonsai-kneeling-figure-wood-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Geprinte knielende figuur met drie miniatuurbomen",
-              "en": "Printed kneeling figure with three miniature trees"
+              "nl": "De bonsailiefhebber — houtlook in een tentoonstellingssetting",
+              "en": "The bonsai enthusiast — wood look in an exhibition setting"
             },
-            "imageStyle": "documentary"
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
           },
           "black": {
-            "image": "finishes/kneeling-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
+            "image": "exhibition/bonsai-kneeling-figure-black-v1.webp",
+            "visualKind": "exhibition",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Bonsailiefhebber met miniatuurbomen in matzwart — afwerkingsvoorbeeld",
-              "en": "Bonsai enthusiast with miniature trees in matte black — finish preview"
-            }
+              "nl": "De bonsailiefhebber — matzwart in een tentoonstellingssetting",
+              "en": "The bonsai enthusiast — matte black in an exhibition setting"
+            },
+            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
           }
         },
         "compositionImage": "composition/kneeling-figure-cutout-v1.webp"
@@ -830,14 +976,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/reader-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-reader-black-v1.webp",
         "imageAlt": {
-          "nl": "De lezer — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The reader — generated photographic example in plain matte black"
+          "nl": "De lezer — matzwart in een tentoonstellingssetting",
+          "en": "The reader — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-reader-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De lezer — matzwart in een tentoonstellingssetting",
+              "en": "The reader — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/reader-black-photo-v3.webp",
             "alt": {
@@ -847,7 +1002,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/reader-black-cutout-v3.webp"
+        "compositionImage": "miniatures/reader-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-fisher",
@@ -872,14 +1028,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/fisher-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-fisher-black-v1.webp",
         "imageAlt": {
-          "nl": "De visser — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The fisherman — generated photographic example in plain matte black"
+          "nl": "De visser — matzwart in een tentoonstellingssetting",
+          "en": "The fisherman — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-fisher-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De visser — matzwart in een tentoonstellingssetting",
+              "en": "The fisherman — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/fisher-black-photo-v3.webp",
             "alt": {
@@ -889,7 +1054,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/fisher-black-cutout-v3.webp"
+        "compositionImage": "miniatures/fisher-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-pruner",
@@ -914,14 +1080,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/pruner-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-pruner-black-v1.webp",
         "imageAlt": {
-          "nl": "De snoeier — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The pruner — generated photographic example in plain matte black"
+          "nl": "De snoeier — matzwart in een tentoonstellingssetting",
+          "en": "The pruner — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-pruner-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De snoeier — matzwart in een tentoonstellingssetting",
+              "en": "The pruner — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/pruner-black-photo-v3.webp",
             "alt": {
@@ -931,7 +1106,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/pruner-black-cutout-v3.webp"
+        "compositionImage": "miniatures/pruner-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-photographer",
@@ -956,14 +1132,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/photographer-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-photographer-black-v1.webp",
         "imageAlt": {
-          "nl": "De fotograaf — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The photographer — generated photographic example in plain matte black"
+          "nl": "De fotograaf — matzwart in een tentoonstellingssetting",
+          "en": "The photographer — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-photographer-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De fotograaf — matzwart in een tentoonstellingssetting",
+              "en": "The photographer — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/photographer-black-photo-v3.webp",
             "alt": {
@@ -973,7 +1158,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/photographer-black-cutout-v3.webp"
+        "compositionImage": "miniatures/photographer-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-tai-chi",
@@ -998,14 +1184,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/tai-chi-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-tai-chi-black-v1.webp",
         "imageAlt": {
-          "nl": "In balans — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "In balance — generated photographic example in plain matte black"
+          "nl": "In balans — matzwart in een tentoonstellingssetting",
+          "en": "In balance — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-tai-chi-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "In balans — matzwart in een tentoonstellingssetting",
+              "en": "In balance — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/tai-chi-black-photo-v3.webp",
             "alt": {
@@ -1015,7 +1210,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/tai-chi-black-cutout-v3.webp"
+        "compositionImage": "miniatures/tai-chi-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-lantern-keeper",
@@ -1040,14 +1236,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/lantern-keeper-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-lantern-keeper-black-v1.webp",
         "imageAlt": {
-          "nl": "De lantaarnwachter — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The lantern keeper — generated photographic example in plain matte black"
+          "nl": "De lantaarnwachter — matzwart in een tentoonstellingssetting",
+          "en": "The lantern keeper — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-lantern-keeper-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De lantaarnwachter — matzwart in een tentoonstellingssetting",
+              "en": "The lantern keeper — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/lantern-keeper-black-photo-v3.webp",
             "alt": {
@@ -1057,7 +1262,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/lantern-keeper-black-cutout-v3.webp"
+        "compositionImage": "miniatures/lantern-keeper-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-tea-host",
@@ -1082,14 +1288,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/tea-host-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-tea-host-black-v1.webp",
         "imageAlt": {
-          "nl": "Het theemoment — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The tea moment — generated photographic example in plain matte black"
+          "nl": "Het theemoment — matzwart in een tentoonstellingssetting",
+          "en": "The tea moment — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-tea-host-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Het theemoment — matzwart in een tentoonstellingssetting",
+              "en": "The tea moment — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/tea-host-black-photo-v3.webp",
             "alt": {
@@ -1099,7 +1314,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/tea-host-black-cutout-v3.webp"
+        "compositionImage": "miniatures/tea-host-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-bonsai-observer",
@@ -1124,14 +1340,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/bonsai-observer-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-bonsai-observer-black-v1.webp",
         "imageAlt": {
-          "nl": "De beschouwer — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The observer — generated photographic example in plain matte black"
+          "nl": "De beschouwer — matzwart in een tentoonstellingssetting",
+          "en": "The observer — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-bonsai-observer-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De beschouwer — matzwart in een tentoonstellingssetting",
+              "en": "The observer — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/bonsai-observer-black-photo-v3.webp",
             "alt": {
@@ -1141,7 +1366,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/bonsai-observer-black-cutout-v3.webp"
+        "compositionImage": "miniatures/bonsai-observer-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-fox",
@@ -1166,14 +1392,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/fox-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-fox-black-v1.webp",
         "imageAlt": {
-          "nl": "De vos — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The fox — generated photographic example in plain matte black"
+          "nl": "De vos — matzwart in een tentoonstellingssetting",
+          "en": "The fox — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-fox-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De vos — matzwart in een tentoonstellingssetting",
+              "en": "The fox — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/fox-black-photo-v3.webp",
             "alt": {
@@ -1183,7 +1418,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/fox-black-cutout-v3.webp"
+        "compositionImage": "miniatures/fox-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-heron",
@@ -1208,14 +1444,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/heron-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-heron-black-v1.webp",
         "imageAlt": {
-          "nl": "De reiger — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The heron — generated photographic example in plain matte black"
+          "nl": "De reiger — matzwart in een tentoonstellingssetting",
+          "en": "The heron — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-heron-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De reiger — matzwart in een tentoonstellingssetting",
+              "en": "The heron — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/heron-black-photo-v3.webp",
             "alt": {
@@ -1225,7 +1470,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/heron-black-cutout-v3.webp"
+        "compositionImage": "miniatures/heron-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-tortoise",
@@ -1250,14 +1496,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/tortoise-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-tortoise-black-v1.webp",
         "imageAlt": {
-          "nl": "De schildpad — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "The tortoise — generated photographic example in plain matte black"
+          "nl": "De schildpad — matzwart in een tentoonstellingssetting",
+          "en": "The tortoise — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-tortoise-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "De schildpad — matzwart in een tentoonstellingssetting",
+              "en": "The tortoise — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/tortoise-black-photo-v3.webp",
             "alt": {
@@ -1267,7 +1522,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/tortoise-black-cutout-v3.webp"
+        "compositionImage": "miniatures/tortoise-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-stone-lantern",
@@ -1292,14 +1548,23 @@
           "black"
         ],
         "stage": "future",
-        "visualKind": "concept",
+        "visualKind": "exhibitionConcept",
         "newDesign": true,
-        "image": "miniatures/stone-lantern-black-photo-v3.webp",
+        "image": "exhibition/bonsai-mini-stone-lantern-black-v1.webp",
         "imageAlt": {
-          "nl": "Tuinlantaarn — gegenereerd fotografisch voorbeeld in effen matzwart",
-          "en": "Garden lantern — generated photographic example in plain matte black"
+          "nl": "Tuinlantaarn — matzwart in een tentoonstellingssetting",
+          "en": "Garden lantern — matte black in an exhibition setting"
         },
         "gallery": [
+          {
+            "image": "exhibition/bonsai-mini-stone-lantern-black-v1.webp",
+            "visualKind": "exhibitionConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Tuinlantaarn — matzwart in een tentoonstellingssetting",
+              "en": "Garden lantern — matte black in an exhibition setting"
+            }
+          },
           {
             "image": "miniatures/stone-lantern-black-photo-v3.webp",
             "alt": {
@@ -1309,7 +1574,8 @@
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/stone-lantern-black-cutout-v3.webp"
+        "compositionImage": "miniatures/stone-lantern-black-cutout-v3.webp",
+        "imageStyle": "exhibition"
       }
     ],
     "customTitle": {
@@ -1384,12 +1650,12 @@
     "storyVisualKind": "photo",
     "imageStyle": "studio",
     "heroPhoto": {
-      "image": "prints/natural/white-branch-pot-natural-v1.webp",
+      "image": "exhibition/flowering-wood-v1.webp",
       "alt": {
-        "nl": "Rubens echte bloeiende bonsai in de lichte takkenpot",
-        "en": "Ruben’s real flowering bonsai in the pale branch pot"
+        "nl": "Bloeiende bonsai in de bestaande lichte takkenpot op Rubens houtlook tafel in een gegenereerde tentoonstellingssetting",
+        "en": "Flowering bonsai in the existing pale branch pot on Ruben’s wood-look table in a generated exhibition setting"
       },
-      "visualKind": "corrected",
+      "visualKind": "exhibition",
       "originalPhoto": "prints/white-branch-pot.webp"
     },
     "storyOriginalPhoto": "prints/classic-display-table.webp"
