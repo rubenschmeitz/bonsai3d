@@ -94,13 +94,14 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "prints/studio/classic-display-table-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/classic-display-table-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/classic-display-table.webp",
             "alt": {
-              "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
-              "en": "Printed low display table with wood-effect finish — edited studio image"
-            }
+              "nl": "Geprinte lage displaytafel met houtachtige afwerking",
+              "en": "Printed low display table with wood-effect finish"
+            },
+            "imageStyle": "documentary"
           },
           {
             "image": "finishes/classic-black.webp",
@@ -121,23 +122,24 @@
             }
           }
         ],
-        "image": "prints/studio/classic-display-table-studio-v1.webp",
+        "image": "prints/natural/classic-display-table-natural-v1.webp",
         "imageAlt": {
-          "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
-          "en": "Printed low display table with wood-effect finish — edited studio image"
+          "nl": "Geprinte lage displaytafel met houtachtige afwerking",
+          "en": "Printed low display table with wood-effect finish"
         },
-        "visualKind": "edited",
-        "imageStyle": "studio",
+        "visualKind": "corrected",
+        "imageStyle": "documentary",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/studio/classic-display-table-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/classic-display-table-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/classic-display-table.webp",
             "alt": {
-              "nl": "Geprinte lage displaytafel met houtachtige afwerking — bewerkt studiobeeld",
-              "en": "Printed low display table with wood-effect finish — edited studio image"
-            }
+              "nl": "Geprinte lage displaytafel met houtachtige afwerking",
+              "en": "Printed low display table with wood-effect finish"
+            },
+            "imageStyle": "documentary"
           },
           "black": {
             "image": "finishes/classic-black.webp",
@@ -176,13 +178,34 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "prints/studio/root-pedestal-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/root-pedestal-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/root-pedestal.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
-              "en": "Round root pedestal photographed alone — edited studio image"
-            }
+              "nl": "Ronde wortelstandaard, los gefotografeerd",
+              "en": "Round root pedestal photographed alone"
+            },
+            "imageStyle": "documentary"
+          },
+          {
+            "image": "prints/natural/root-pedestal-workshop-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/root-pedestal-workshop.webp",
+            "alt": {
+              "nl": "Ronde wortelstandaard in de werkplaats",
+              "en": "Round root pedestal in the workshop"
+            },
+            "imageStyle": "documentary"
+          },
+          {
+            "image": "prints/natural/root-pedestal-arrangement-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/root-pedestal-arrangement.webp",
+            "alt": {
+              "nl": "Wortelstandaard met een bonsaiopstelling",
+              "en": "Root pedestal in a bonsai arrangement"
+            },
+            "imageStyle": "documentary"
           },
           {
             "image": "finishes/root-black.webp",
@@ -203,16 +226,6 @@
             }
           },
           {
-            "image": "prints/studio/root-pedestal-workshop-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Ronde wortelstandaard in de werkplaats — bewerkt studiobeeld",
-              "en": "Round root pedestal in the workshop — edited studio image"
-            },
-            "originalPhoto": "prints/root-pedestal-workshop.webp"
-          },
-          {
             "image": "prints/root-pedestal-workshop.webp",
             "visualKind": "photo",
             "imageStyle": "documentary",
@@ -231,23 +244,24 @@
             }
           }
         ],
-        "image": "prints/studio/root-pedestal-studio-v1.webp",
+        "image": "prints/natural/root-pedestal-natural-v1.webp",
         "imageAlt": {
-          "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
-          "en": "Round root pedestal photographed alone — edited studio image"
+          "nl": "Ronde wortelstandaard, los gefotografeerd",
+          "en": "Round root pedestal photographed alone"
         },
-        "visualKind": "edited",
-        "imageStyle": "studio",
+        "visualKind": "corrected",
+        "imageStyle": "documentary",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/studio/root-pedestal-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/root-pedestal-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/root-pedestal.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard, los gefotografeerd — bewerkt studiobeeld",
-              "en": "Round root pedestal photographed alone — edited studio image"
-            }
+              "nl": "Ronde wortelstandaard, los gefotografeerd",
+              "en": "Round root pedestal photographed alone"
+            },
+            "imageStyle": "documentary"
           },
           "black": {
             "image": "finishes/root-black.webp",
@@ -286,13 +300,14 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "prints/studio/open-root-pedestal-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/open-root-pedestal-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/open-root-pedestal.webp",
             "alt": {
-              "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
-              "en": "Printed open root pedestal with round top — edited studio image"
-            }
+              "nl": "Geprinte open wortelstandaard met rond blad",
+              "en": "Printed open root pedestal with round top"
+            },
+            "imageStyle": "documentary"
           },
           {
             "image": "finishes/open-root-black.webp",
@@ -313,23 +328,24 @@
             }
           }
         ],
-        "image": "prints/studio/open-root-pedestal-studio-v1.webp",
+        "image": "prints/natural/open-root-pedestal-natural-v1.webp",
         "imageAlt": {
-          "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
-          "en": "Printed open root pedestal with round top — edited studio image"
+          "nl": "Geprinte open wortelstandaard met rond blad",
+          "en": "Printed open root pedestal with round top"
         },
-        "visualKind": "edited",
-        "imageStyle": "studio",
+        "visualKind": "corrected",
+        "imageStyle": "documentary",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/studio/open-root-pedestal-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/open-root-pedestal-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/open-root-pedestal.webp",
             "alt": {
-              "nl": "Geprinte open wortelstandaard met rond blad — bewerkt studiobeeld",
-              "en": "Printed open root pedestal with round top — edited studio image"
-            }
+              "nl": "Geprinte open wortelstandaard met rond blad",
+              "en": "Printed open root pedestal with round top"
+            },
+            "imageStyle": "documentary"
           },
           "black": {
             "image": "finishes/open-root-black.webp",
@@ -353,7 +369,7 @@
           "nl": "Een organische ondergrond voor een kleine opstelling.",
           "en": "An organic base for a small arrangement."
         },
-        "image": "finishes/jita-wood.webp",
+        "image": "prints/natural/jita-exhibition-natural-v1.webp",
         "detail": {
           "nl": "Een laag presentatieplateau met een onregelmatige rand en een bruine afwerking. Op de foto ligt een geprint exemplaar onder een kleine opstelling met een plant en een bonsaifiguur. De vlakke bovenkant biedt ruimte om de onderdelen te plaatsen. Voor een nieuwe uitvoering stemmen we maat, draagvlak en afwerking af op jouw opstelling. De planten en andere objecten op de foto zijn afzonderlijke onderdelen.",
           "en": "A low display plate with an irregular edge and a brown finish. The photograph shows a printed example beneath a small arrangement with a plant and a bonsai figure. Its flat top provides space to position the elements. For a new version, we agree the size, support area and finish for your display. The plants and other objects in the photograph are separate elements."
@@ -366,14 +382,24 @@
           "wood",
           "black"
         ],
-        "visualKind": "finish",
+        "visualKind": "corrected",
         "stage": "printed",
         "archiveId": "bonsai-natural-root-stand",
         "imageAlt": {
-          "nl": "Organische jita in houtlook — afwerkingsvoorbeeld",
-          "en": "Organic jita in wood look — finish preview"
+          "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling",
+          "en": "Printed brown jita with a plant and bonsai figure in an exhibition display"
         },
         "gallery": [
+          {
+            "image": "prints/natural/jita-exhibition-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/jita-exhibition.webp",
+            "alt": {
+              "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling",
+              "en": "Printed brown jita with a plant and bonsai figure in an exhibition display"
+            },
+            "imageStyle": "documentary"
+          },
           {
             "image": "finishes/jita-wood.webp",
             "visualKind": "finish",
@@ -402,17 +428,18 @@
             "imageStyle": "documentary"
           }
         ],
-        "imageStyle": "studio",
+        "imageStyle": "documentary",
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "finishes/jita-wood.webp",
-            "visualKind": "finish",
+            "image": "prints/natural/jita-exhibition-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/jita-exhibition.webp",
             "alt": {
-              "nl": "Organische jita in houtlook — afwerkingsvoorbeeld",
-              "en": "Organic jita in wood look — finish preview"
-            }
+              "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling",
+              "en": "Printed brown jita with a plant and bonsai figure in an exhibition display"
+            },
+            "imageStyle": "documentary"
           },
           "black": {
             "image": "finishes/jita-black.webp",
@@ -450,23 +477,43 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "prints/studio/gray-branch-pot-studio-v1.webp",
-        "visualKind": "edited",
+        "image": "prints/natural/gray-branch-pot-natural-v1.webp",
+        "visualKind": "corrected",
         "archiveId": "bonsai-firethorn-pot",
         "imageAlt": {
-          "nl": "Grijze takkenpot met zicht op de binnenkant — bewerkt studiobeeld",
-          "en": "Gray branch pot showing the interior — edited studio image"
+          "nl": "Grijze takkenpot met zicht op de binnenkant",
+          "en": "Gray branch pot showing the interior"
         },
         "gallery": [
           {
-            "image": "prints/studio/gray-branch-pot-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
+            "image": "prints/natural/gray-branch-pot-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/gray-branch-pot.webp",
             "alt": {
-              "nl": "Grijze takkenpot met zicht op de binnenkant — bewerkt studiobeeld",
-              "en": "Gray branch pot showing the interior — edited studio image"
+              "nl": "Grijze takkenpot met zicht op de binnenkant",
+              "en": "Gray branch pot showing the interior"
             },
-            "originalPhoto": "prints/gray-branch-pot.webp"
+            "imageStyle": "documentary"
+          },
+          {
+            "image": "prints/natural/gray-branch-pot-front-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/gray-branch-pot-front.webp",
+            "alt": {
+              "nl": "Grijze takkenpot van voren",
+              "en": "Gray branch pot from the front"
+            },
+            "imageStyle": "documentary"
+          },
+          {
+            "image": "prints/natural/white-branch-pot-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/white-branch-pot.webp",
+            "alt": {
+              "nl": "Witte takkenpot met bloeiende bonsai",
+              "en": "White branch pot with flowering bonsai"
+            },
+            "imageStyle": "documentary"
           },
           {
             "image": "prints/gray-branch-pot.webp",
@@ -478,16 +525,6 @@
             }
           },
           {
-            "image": "prints/studio/gray-branch-pot-front-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Grijze takkenpot van voren — bewerkt studiobeeld",
-              "en": "Gray branch pot from the front — edited studio image"
-            },
-            "originalPhoto": "prints/gray-branch-pot-front.webp"
-          },
-          {
             "image": "prints/gray-branch-pot-front.webp",
             "visualKind": "photo",
             "imageStyle": "documentary",
@@ -495,16 +532,6 @@
               "nl": "Grijze takkenpot van voren",
               "en": "Gray branch pot from the front"
             }
-          },
-          {
-            "image": "prints/studio/white-branch-pot-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Witte takkenpot met bloeiende bonsai — bewerkt studiobeeld",
-              "en": "White branch pot with flowering bonsai — edited studio image"
-            },
-            "originalPhoto": "prints/white-branch-pot.webp"
           },
           {
             "image": "prints/white-branch-pot.webp",
@@ -516,7 +543,7 @@
             }
           }
         ],
-        "imageStyle": "studio",
+        "imageStyle": "documentary",
         "zone": "presentation"
       },
       {
@@ -544,18 +571,18 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "prints/studio/red-branch-pot-studio-v1.webp",
-        "visualKind": "edited",
+        "image": "prints/natural/red-branch-pot-natural-v1.webp",
+        "visualKind": "corrected",
         "gallery": [
           {
-            "image": "prints/studio/red-branch-pot-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
+            "image": "prints/natural/red-branch-pot-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/red-branch-pot.webp",
             "alt": {
-              "nl": "Geprinte rode vierkante pot met lichte takken in reliëf rond de zijkanten — bewerkt studiobeeld",
-              "en": "Printed red square pot with pale branch relief around the sides — edited studio image"
+              "nl": "Geprinte rode vierkante pot met lichte takken in reliëf rond de zijkanten",
+              "en": "Printed red square pot with pale branch relief around the sides"
             },
-            "originalPhoto": "prints/red-branch-pot.webp"
+            "imageStyle": "documentary"
           },
           {
             "image": "prints/red-branch-pot.webp",
@@ -589,10 +616,10 @@
         ],
         "archiveId": "bonsai-red-branch-relief-pot",
         "imageAlt": {
-          "nl": "Geprinte rode vierkante pot met lichte takken in reliëf rond de zijkanten — bewerkt studiobeeld",
-          "en": "Printed red square pot with pale branch relief around the sides — edited studio image"
+          "nl": "Geprinte rode vierkante pot met lichte takken in reliëf rond de zijkanten",
+          "en": "Printed red square pot with pale branch relief around the sides"
         },
-        "imageStyle": "studio",
+        "imageStyle": "documentary",
         "zone": "presentation"
       },
       {
@@ -625,8 +652,18 @@
           "winter"
         ],
         "zone": "presentation",
-        "image": "finishes/tea-wood.webp",
+        "image": "prints/natural/tea-figure-natural-v1.webp",
         "gallery": [
+          {
+            "image": "prints/natural/tea-figure-natural-v1.webp",
+            "visualKind": "corrected",
+            "originalPhoto": "prints/tea-figure.webp",
+            "alt": {
+              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
+              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
+            },
+            "imageStyle": "documentary"
+          },
           {
             "image": "finishes/tea-wood.webp",
             "visualKind": "finish",
@@ -644,16 +681,6 @@
               "nl": "Theedrinker in matzwart — afwerkingsvoorbeeld",
               "en": "Tea drinker in matte black — finish preview"
             }
-          },
-          {
-            "image": "prints/studio/tea-figure-studio-v1.webp",
-            "visualKind": "edited",
-            "imageStyle": "studio",
-            "alt": {
-              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet — bewerkt studiobeeld",
-              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base — edited studio image"
-            },
-            "originalPhoto": "prints/tea-figure.webp"
           },
           {
             "image": "prints/tea-figure.webp",
@@ -665,22 +692,23 @@
             "imageStyle": "documentary"
           }
         ],
-        "visualKind": "finish",
+        "visualKind": "corrected",
         "imageAlt": {
-          "nl": "Theedrinker in houtlook — afwerkingsvoorbeeld",
-          "en": "Tea drinker in wood look — finish preview"
+          "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
+          "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
         },
-        "imageStyle": "studio",
+        "imageStyle": "documentary",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "finishes/tea-wood.webp",
-            "visualKind": "finish",
+            "image": "prints/natural/tea-figure-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/tea-figure.webp",
             "alt": {
-              "nl": "Theedrinker in houtlook — afwerkingsvoorbeeld",
-              "en": "Tea drinker in wood look — finish preview"
-            }
+              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
+              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
+            },
+            "imageStyle": "documentary"
           },
           "black": {
             "image": "finishes/tea-black.webp",
@@ -691,7 +719,8 @@
               "en": "Tea drinker in matte black — finish preview"
             }
           }
-        }
+        },
+        "compositionImage": "composition/tea-figure-cutout-v1.webp"
       },
       {
         "id": "bonsai-kneeling-figure",
@@ -719,13 +748,14 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "prints/studio/kneeling-bonsai-figure-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/kneeling-bonsai-figure-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/kneeling-bonsai-figure.webp",
             "alt": {
-              "nl": "Geprinte knielende figuur met drie miniatuurbomen — bewerkt studiobeeld",
-              "en": "Printed kneeling figure with three miniature trees — edited studio image"
-            }
+              "nl": "Geprinte knielende figuur met drie miniatuurbomen",
+              "en": "Printed kneeling figure with three miniature trees"
+            },
+            "imageStyle": "documentary"
           },
           {
             "image": "finishes/kneeling-black.webp",
@@ -746,23 +776,24 @@
             }
           }
         ],
-        "image": "prints/studio/kneeling-bonsai-figure-studio-v1.webp",
+        "image": "prints/natural/kneeling-bonsai-figure-natural-v1.webp",
         "imageAlt": {
-          "nl": "Geprinte knielende figuur met drie miniatuurbomen — bewerkt studiobeeld",
-          "en": "Printed kneeling figure with three miniature trees — edited studio image"
+          "nl": "Geprinte knielende figuur met drie miniatuurbomen",
+          "en": "Printed kneeling figure with three miniature trees"
         },
-        "visualKind": "edited",
-        "imageStyle": "studio",
+        "visualKind": "corrected",
+        "imageStyle": "documentary",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/studio/kneeling-bonsai-figure-studio-v1.webp",
-            "visualKind": "edited",
+            "image": "prints/natural/kneeling-bonsai-figure-natural-v1.webp",
+            "visualKind": "corrected",
             "originalPhoto": "prints/kneeling-bonsai-figure.webp",
             "alt": {
-              "nl": "Geprinte knielende figuur met drie miniatuurbomen — bewerkt studiobeeld",
-              "en": "Printed kneeling figure with three miniature trees — edited studio image"
-            }
+              "nl": "Geprinte knielende figuur met drie miniatuurbomen",
+              "en": "Printed kneeling figure with three miniature trees"
+            },
+            "imageStyle": "documentary"
           },
           "black": {
             "image": "finishes/kneeling-black.webp",
@@ -773,7 +804,536 @@
               "en": "Bonsai enthusiast with miniature trees in matte black — finish preview"
             }
           }
-        }
+        },
+        "compositionImage": "composition/kneeling-figure-cutout-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-reader",
+        "category": "miniatures",
+        "name": {
+          "nl": "De lezer",
+          "en": "The reader"
+        },
+        "short": {
+          "nl": "De lezer als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The reader as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/reader-v1.webp",
+        "imageAlt": {
+          "nl": "De lezer — gegenereerd miniatuurontwerp",
+          "en": "The reader — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/reader-v1.webp",
+            "alt": {
+              "nl": "De lezer — gegenereerd miniatuurontwerp",
+              "en": "The reader — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/reader-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-fisher",
+        "category": "miniatures",
+        "name": {
+          "nl": "De visser",
+          "en": "The fisherman"
+        },
+        "short": {
+          "nl": "De visser als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The fisherman as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/fisher-v1.webp",
+        "imageAlt": {
+          "nl": "De visser — gegenereerd miniatuurontwerp",
+          "en": "The fisherman — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/fisher-v1.webp",
+            "alt": {
+              "nl": "De visser — gegenereerd miniatuurontwerp",
+              "en": "The fisherman — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/fisher-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-pruner",
+        "category": "miniatures",
+        "name": {
+          "nl": "De snoeier",
+          "en": "The pruner"
+        },
+        "short": {
+          "nl": "De snoeier als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The pruner as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/pruner-v1.webp",
+        "imageAlt": {
+          "nl": "De snoeier — gegenereerd miniatuurontwerp",
+          "en": "The pruner — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/pruner-v1.webp",
+            "alt": {
+              "nl": "De snoeier — gegenereerd miniatuurontwerp",
+              "en": "The pruner — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/pruner-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-photographer",
+        "category": "miniatures",
+        "name": {
+          "nl": "De fotograaf",
+          "en": "The photographer"
+        },
+        "short": {
+          "nl": "De fotograaf als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The photographer as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/photographer-v1.webp",
+        "imageAlt": {
+          "nl": "De fotograaf — gegenereerd miniatuurontwerp",
+          "en": "The photographer — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/photographer-v1.webp",
+            "alt": {
+              "nl": "De fotograaf — gegenereerd miniatuurontwerp",
+              "en": "The photographer — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/photographer-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-tai-chi",
+        "category": "miniatures",
+        "name": {
+          "nl": "In balans",
+          "en": "In balance"
+        },
+        "short": {
+          "nl": "In balans als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "In balance as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/tai-chi-v1.webp",
+        "imageAlt": {
+          "nl": "In balans — gegenereerd miniatuurontwerp",
+          "en": "In balance — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/tai-chi-v1.webp",
+            "alt": {
+              "nl": "In balans — gegenereerd miniatuurontwerp",
+              "en": "In balance — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/tai-chi-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-lantern-keeper",
+        "category": "miniatures",
+        "name": {
+          "nl": "De lantaarnwachter",
+          "en": "The lantern keeper"
+        },
+        "short": {
+          "nl": "De lantaarnwachter als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The lantern keeper as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/lantern-keeper-v1.webp",
+        "imageAlt": {
+          "nl": "De lantaarnwachter — gegenereerd miniatuurontwerp",
+          "en": "The lantern keeper — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/lantern-keeper-v1.webp",
+            "alt": {
+              "nl": "De lantaarnwachter — gegenereerd miniatuurontwerp",
+              "en": "The lantern keeper — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/lantern-keeper-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-tea-host",
+        "category": "miniatures",
+        "name": {
+          "nl": "Het theemoment",
+          "en": "The tea moment"
+        },
+        "short": {
+          "nl": "Het theemoment als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The tea moment as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/tea-host-v1.webp",
+        "imageAlt": {
+          "nl": "Het theemoment — gegenereerd miniatuurontwerp",
+          "en": "The tea moment — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/tea-host-v1.webp",
+            "alt": {
+              "nl": "Het theemoment — gegenereerd miniatuurontwerp",
+              "en": "The tea moment — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/tea-host-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-bonsai-observer",
+        "category": "miniatures",
+        "name": {
+          "nl": "De beschouwer",
+          "en": "The observer"
+        },
+        "short": {
+          "nl": "De beschouwer als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The observer as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/bonsai-observer-v1.webp",
+        "imageAlt": {
+          "nl": "De beschouwer — gegenereerd miniatuurontwerp",
+          "en": "The observer — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/bonsai-observer-v1.webp",
+            "alt": {
+              "nl": "De beschouwer — gegenereerd miniatuurontwerp",
+              "en": "The observer — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/bonsai-observer-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-fox",
+        "category": "miniatures",
+        "name": {
+          "nl": "De vos",
+          "en": "The fox"
+        },
+        "short": {
+          "nl": "De vos als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The fox as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/fox-v1.webp",
+        "imageAlt": {
+          "nl": "De vos — gegenereerd miniatuurontwerp",
+          "en": "The fox — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/fox-v1.webp",
+            "alt": {
+              "nl": "De vos — gegenereerd miniatuurontwerp",
+              "en": "The fox — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/fox-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-heron",
+        "category": "miniatures",
+        "name": {
+          "nl": "De reiger",
+          "en": "The heron"
+        },
+        "short": {
+          "nl": "De reiger als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The heron as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/heron-v1.webp",
+        "imageAlt": {
+          "nl": "De reiger — gegenereerd miniatuurontwerp",
+          "en": "The heron — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/heron-v1.webp",
+            "alt": {
+              "nl": "De reiger — gegenereerd miniatuurontwerp",
+              "en": "The heron — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/heron-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-tortoise",
+        "category": "miniatures",
+        "name": {
+          "nl": "De schildpad",
+          "en": "The tortoise"
+        },
+        "short": {
+          "nl": "De schildpad als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "The tortoise as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/tortoise-v1.webp",
+        "imageAlt": {
+          "nl": "De schildpad — gegenereerd miniatuurontwerp",
+          "en": "The tortoise — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/tortoise-v1.webp",
+            "alt": {
+              "nl": "De schildpad — gegenereerd miniatuurontwerp",
+              "en": "The tortoise — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/tortoise-v1.webp"
+      },
+      {
+        "id": "bonsai-mini-stone-lantern",
+        "category": "miniatures",
+        "name": {
+          "nl": "Tuinlantaarn",
+          "en": "Garden lantern"
+        },
+        "short": {
+          "nl": "Tuinlantaarn als klein accent bij jouw bonsai. Een nieuw ontwerpvoorstel.",
+          "en": "Garden lantern as a small accent beside your bonsai. A new design proposal."
+        },
+        "detail": {
+          "nl": "Een miniatuuridee voor je eigen bonsaiopstelling. Het beeld toont een gegenereerd ontwerp in warmbruin. Dit ontwerp is nog niet geprint. Maat, materiaal, afwerking en eventuele bevestiging werken we samen uit; matzwart of een eigen kleur kan als wens worden toegevoegd.",
+          "en": "A miniature idea for your own bonsai display. The image shows a generated design in warm brown. This design has not been printed. We develop size, material, finish and any attachment together; matte black or a custom colour can be added as a preference."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
+          "en": "Design proposal · not yet printed · size on enquiry"
+        },
+        "options": [
+          "wood",
+          "black",
+          "custom"
+        ],
+        "stage": "future",
+        "visualKind": "concept",
+        "newDesign": true,
+        "image": "miniatures/stone-lantern-v1.webp",
+        "imageAlt": {
+          "nl": "Tuinlantaarn — gegenereerd miniatuurontwerp",
+          "en": "Garden lantern — generated miniature design"
+        },
+        "gallery": [
+          {
+            "image": "miniatures/stone-lantern-v1.webp",
+            "alt": {
+              "nl": "Tuinlantaarn — gegenereerd miniatuurontwerp",
+              "en": "Garden lantern — generated miniature design"
+            },
+            "visualKind": "concept"
+          }
+        ],
+        "compositionImage": "miniatures/stone-lantern-v1.webp"
       }
     ],
     "customTitle": {
@@ -792,7 +1352,7 @@
       "nl": "Ik ben Ruben. Ik ontwerp en 3D-print accessoires voor bonsai. Een potmaat, de hoogte van een tafel of een klein detail vormen vaak het begin. In de collectie staan bestaande ontwerpen naast nieuwe schetsen. Wat al is geprint en wat nog een concept is, staat bij het product.",
       "en": "I’m Ruben. I design and 3D print bonsai accessories. A pot dimension, a stand height or a small detail often starts the work. The collection includes existing designs and new sketches. Each product identifies what has been printed and what remains a concept."
     },
-    "storyImage": "prints/classic-display-table.webp",
+    "storyImage": "prints/natural/classic-display-table-natural-v1.webp",
     "guideTitle": {
       "nl": "Maat, materiaal & gebruik",
       "en": "Size, material & use"
@@ -848,12 +1408,14 @@
     "storyVisualKind": "photo",
     "imageStyle": "studio",
     "heroPhoto": {
-      "image": "prints/white-branch-pot.webp",
+      "image": "prints/natural/white-branch-pot-natural-v1.webp",
       "alt": {
         "nl": "Rubens echte bloeiende bonsai in de lichte takkenpot",
         "en": "Ruben’s real flowering bonsai in the pale branch pot"
       },
-      "visualKind": "photo"
-    }
+      "visualKind": "corrected",
+      "originalPhoto": "prints/white-branch-pot.webp"
+    },
+    "storyOriginalPhoto": "prints/classic-display-table.webp"
   }
 }

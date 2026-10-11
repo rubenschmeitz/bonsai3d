@@ -8,7 +8,8 @@ Use `python3 -m http.server 8851` for local review. No build or dependencies are
 The curated catalogue, finish choices, product galleries and product/finish links work in the browser.
 The homepage is a short introduction with three category links. The full catalogue
 is on `collectie.html`, finish comparisons on `afwerkingen.html`, and Ruben's
-workshop, custom work and frequently asked questions on `atelier.html`.
+workshop, custom work and frequently asked questions on `atelier.html`. The exhibition
+builder is on `opstelling.html`, with entrances on the homepage and shared navigation.
 All pages share navigation, language, chosen finish and saved selection. Category
 links open a filtered catalogue, and the active page is marked in the navigation.
 Direct page refreshes and existing homepage section links are supported on Pages.
@@ -19,19 +20,30 @@ Prices, availability and physical production variants remain subject to confirma
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
 
-The October 2026 collection now contains eight objects: six previously printed
-stands, jitas and figures offered in wood-look and matte-black directions, plus
-two pots with their original records, images and options unchanged. Experimental
-tools, electronics and speculative concepts are outside the visible collection.
-The lamella pot, bark pot and openwork plateau were also removed at the owner's request.
+The October 2026 collection contains twenty objects: the eight existing products
+and twelve new miniature design proposals, giving fourteen miniatures in total.
+New miniatures are generated concepts, have not been printed and have no production
+geometry. Size, finish, details and manufacturability are agreed through an enquiry.
+The lamella pot, bark pot and openwork plateau remain outside the visible collection.
 
-The large bonsai photographs use unaltered owner-supplied photographs of real
-trees. Edited studio views and generated finish previews have separate labels.
-New finish images are proposals, not evidence of a newly printed version. Every
-finish preview links to the original print photograph. [Design notes](DESIGN.md)
-describe the visual direction and provenance. Product and finish choices survive
-reload and are included in the downloaded or copied enquiry.
+Twenty-one owner photographs have separate conventional corrections in
+`assets/prints/natural/`: light tonal corrections, cropping, colour and sharpness.
+Original public photographs are unchanged; corrected product views link to them.
+Previous studio edits and generated finish images are preserved separately. The
+current product views favour the natural photographs. Generated previews have
+explicit labels and are not evidence of a newly printed product or physical result.
+
+The builder reuses the earlier exhibition-v2 tree, natural-accent and jita assets.
+Stands, pots and existing figures use conventional masks of own product photographs;
+new miniatures use their generated transparent images. Every component can be omitted.
+Removing a pot removes the illustrative tree; choosing a tree restores a suitable pot.
+Miniatures can sit beside the display or on a pot; scale and attachment need agreement.
+The jita scene and trees are illustrative. Natural accents and the card holder are
+styling ideas, not additional catalogue SKUs. Product links open the current catalogue.
+Shared URLs, reloads and language changes retain choices; a complete configuration
+can be included in a downloadable or copied enquiry. No request is sent automatically.
 
 The active renderer is `assets/collection.js`, with editorial sections in
-`assets/collection-editorial.js` and styling in `assets/collection.css`. Previous
-assets remain archived in the repository but are not loaded by the four page entry points.
+`assets/collection-editorial.js`, the builder in `assets/composer.js`, and the
+corresponding CSS files. All five entry pages are static and work on GitHub Pages.
+[Design notes](DESIGN.md) describe the original visual direction and provenance.

@@ -1,8 +1,8 @@
 (async function () {
   'use strict';
   var page = document.body.dataset.page || 'home';
-  var pages = {home:'./',collection:'./collectie.html',finishes:'./afwerkingen.html',atelier:'./atelier.html'};
-  var legacy = {collection:'collection',finishes:'finishes',studio:'atelier',custom:'atelier',guide:'atelier',display:'atelier'};
+  var pages = {home:'./',collection:'./collectie.html',finishes:'./afwerkingen.html',atelier:'./atelier.html',compose:'./opstelling.html'};
+  var legacy = {collection:'collection',finishes:'finishes',studio:'atelier',custom:'atelier',guide:'atelier',display:'atelier',exhibition:'compose'};
   var anchor = location.hash.slice(1);
   if (page === 'home' && legacy[anchor]) {
     location.replace(pages[legacy[anchor]] + location.search + location.hash);
@@ -29,8 +29,8 @@
   Object.assign(ui.en, {natural:'Quiet & natural',warm:'Warm & colourful',earth:'Earth tones',dark:'Dark & understated',custom:'My own preference',originalFinish:'Like the model',finished:'Product visualisation',finishedNote:'Generated product visualisation. Colour and final version are agreed together; plants are styling.',potFinish:'Preferred look'});
   function u(key) { return ui[language][key]; }
   ui.nl.custom='Op maat'; ui.en.custom='Custom';
-  Object.assign(ui.nl, {home:'Home',atelier:'Over & maatwerk'});
-  Object.assign(ui.en, {home:'Home',atelier:'About & custom'});
+  Object.assign(ui.nl, {home:'Home',atelier:'Over & maatwerk',compose:'Samenstellen',concept:'Gegenereerd ontwerp · nog niet geprint',conceptNote:'Nieuw miniatuurontwerp. Het beeld is gegenereerd; maat, details en maakbaarheid werken we samen uit.',corrected:'Eigen foto · licht gecorrigeerd',correctedNote:'Eigen foto met een betere uitsnede en subtiele correcties in belichting en kleur. Vorm en productdetails zijn behouden.'});
+  Object.assign(ui.en, {home:'Home',atelier:'About & custom',compose:'Build your display',concept:'Generated design · not yet printed',conceptNote:'New miniature design. The image is generated; size, details and manufacturability are developed together.',corrected:'Own photograph · lightly corrected',correctedNote:'Own photograph with improved framing and subtle exposure and colour corrections. Shape and product details are preserved.'});
   function finishLabel(finish) { return finish === 'custom' ? u('own') : finish === 'original' ? u('originalFinish') : u(finish); }
   function tr(nl, en) { return language === 'nl' ? nl : en; }
   function t(value) { return value && typeof value === 'object' ? value[language] : value; }
@@ -38,8 +38,8 @@
   function image(path) { return './assets/' + path; }
   function productById(id) { return shop.products.find(function (p) { return p.id === id; }); }
   function finishImage(p, finish) { return p.finishes ? (p.finishes[finish] || p.finishes.wood) : {image:p.image,alt:p.imageAlt,visualKind:p.visualKind}; }
-  function imageLabel(photo) { return u(photo.visualKind === 'finish' ? 'finish' : photo.visualKind === 'photo' ? 'photo' : photo.visualKind === 'finished' ? 'finished' : 'edited'); }
-  function imageNote(photo) { return u(photo.visualKind === 'finish' ? 'finishNote' : photo.visualKind === 'photo' ? 'photoNote' : photo.visualKind === 'finished' ? 'finishedNote' : 'editedNote'); }
+  function imageLabel(photo) { if (['concept','corrected'].includes(photo.visualKind)) return u(photo.visualKind); return u(photo.visualKind === 'finish' ? 'finish' : photo.visualKind === 'photo' ? 'photo' : photo.visualKind === 'finished' ? 'finished' : 'edited'); }
+  function imageNote(photo) { if (['concept','corrected'].includes(photo.visualKind)) return u(photo.visualKind+'Note'); return u(photo.visualKind === 'finish' ? 'finishNote' : photo.visualKind === 'photo' ? 'photoNote' : photo.visualKind === 'finished' ? 'finishedNote' : 'editedNote'); }
   function total() { return selection.reduce(function (sum, row) { return sum + row.quantity; }, 0); }
   function save() { remember('bonsai3d-selection', JSON.stringify(selection)); }
   try {
@@ -68,13 +68,13 @@
     document.documentElement.lang = language;
     document.title = 'BONSAI3D — ' + (page === 'home' ? t(shop.subtitle) : u(page));
     document.querySelector('meta[name="description"]').content = t(shop.intro);
-    var api = {tr:tr, t:t, esc:esc, shop:shop, image:image, style:style, finishImage:finishImage, imageLabel:imageLabel, link:link, pageUrl:pageUrl};
-    var content = page === 'collection' ? collection() : window.BonsaiEditorial[page](api);
+    var api = {tr:tr, t:t, esc:esc, shop:shop, image:image, style:style, language:language, openProduct:openProduct, requestDesign:requestDesign, finishImage:finishImage, imageLabel:imageLabel, link:link, pageUrl:pageUrl};
+    var content = page === 'collection' ? collection() : page === 'compose' ? window.BonsaiComposer.render(api) : window.BonsaiEditorial[page](api);
     document.getElementById('app').innerHTML = '<a class="skip" href="#main">' + u('skip') + '</a>' +
       '<header class="site-header"><div class="header-inner">' + logo() + '<nav id="main-nav" aria-label="' + u('menu') + '">' + Object.keys(pages).map(function (name) { return link(name,u(name),'nav-link' + (name === page ? ' current' : '')).replace('class=',(name === page ? 'aria-current="page" ' : '') + 'class='); }).join('') + '</nav><div class="header-actions"><div class="languages" role="group" aria-label="' + u('language') + '">' + ['nl','en'].map(function (lang) { return '<button type="button" data-language="' + lang + '" aria-pressed="' + (language === lang) + '">' + lang.toUpperCase() + '</button>'; }).join('') + '</div><button class="selection-toggle" data-open-inquiry><span class="selection-label">' + u('selection') + '</span><span class="count">' + total() + '</span></button></div><button class="menu-toggle" aria-controls="main-nav" aria-expanded="false" aria-label="' + u('menu') + '"><span aria-hidden="true">☰</span></button></div></header>' +
-      '<main id="main">' + content + '</main><footer class="wrap"><div>' + logo() + '<p>' + u('footer') + '</p></div><nav aria-label="' + tr('Meer ontdekken','Explore more') + '">' + link('collection',u('collection'),'text-link') + link('finishes',u('finishes'),'text-link') + link('atelier',u('atelier'),'text-link') + '</nav><p class="footer-note">© ' + new Date().getFullYear() + ' BONSAI3D</p></footer>' +
+      '<main id="main">' + content + '</main><footer class="wrap"><div>' + logo() + '<p>' + u('footer') + '</p></div><nav aria-label="' + tr('Meer ontdekken','Explore more') + '">' + link('collection',u('collection'),'text-link') + link('finishes',u('finishes'),'text-link') + link('atelier',u('atelier'),'text-link') + link('compose',u('compose'),'text-link') + '</nav><p class="footer-note">© ' + new Date().getFullYear() + ' BONSAI3D</p></footer>' +
       '<dialog id="product-dialog" aria-labelledby="product-title"></dialog><dialog id="inquiry-dialog" aria-labelledby="inquiry-title"></dialog><div class="toast" role="status" aria-live="polite"></div>';
-    renderProducts(); bindProductLinks(); bind();
+    renderProducts(); bindProductLinks(); bind(); if(page === 'compose') window.BonsaiComposer.mount(api);
   }
   function collection() {
     return '<section class="collection wrap" id="collection" aria-labelledby="collection-title"><div class="section-heading"><div><p class="eyebrow">BONSAI3D / ' + tr('OBJECTEN', 'OBJECTS') + '</p><h1 class="page-title" id="collection-title">' + u('collection') + '</h1></div><p>' + tr('Tafels, schalen en figuren voor jouw bonsai. Kies een object om de foto’s en mogelijkheden te bekijken.', 'Stands, pots and figures for your bonsai. Choose an object to explore its photographs and options.') + '</p></div><div class="collection-style"><span>' + u('styleHeading') + '</span><div role="group" aria-label="' + u('choose') + '">' + swatches(style, function (f) { return 'data-style="' + f + '"'; }) + '</div></div><div class="collection-controls"><div class="filters" role="group" aria-label="' + u('collection') + '">' + shop.categories.map(function (c) { return '<button data-filter="' + c.id + '" aria-pressed="' + (category === c.id) + '">' + esc(c[language]) + '</button>'; }).join('') + '</div><label class="search"><span class="sr-only">' + u('search') + '</span><input type="search" id="product-search" value="' + esc(search) + '" placeholder="' + u('search') + '"><span aria-hidden="true">⌕</span></label></div><p id="results-count" aria-live="polite"></p><div class="product-grid" id="products"></div></section>';
@@ -158,6 +158,10 @@
     var parent = document.getElementById('selection-items');
     parent.innerHTML = selection.length ? selection.map(function (row, i) { var p = productById(row.id); return '<div class="selection-row"><img src="' + image(finishImage(p,row.finish).image) + '" alt="" width="80" height="80"><div><strong>' + esc(t(p.name)) + '</strong><span>' + row.quantity + ' × ' + finishLabel(row.finish) + '</span></div><button type="button" data-remove="' + i + '" aria-label="' + esc(u('remove') + ': ' + t(p.name)) + '">×</button></div>'; }).join('') : '<p class="empty-selection">' + u('empty') + '</p>';
     parent.querySelectorAll('[data-remove]').forEach(function (button) { button.onclick = function () { selection.splice(Number(button.dataset.remove),1); save(); updateCount(); renderSelection(); document.querySelector('.request-output').hidden = true; document.getElementById('request-status').textContent = ''; }; });
+  }
+  function requestDesign(ids,brief) {
+    ids.forEach(function(id){var p=productById(id);if(!p)return;var finish=p.options.includes(style)?style:p.options[0];if(!selection.some(function(row){return row.id===id&&row.finish===finish;}))selection.push({id:id,finish:finish,quantity:1});});
+    save();updateCount();openInquiry();document.querySelector('#inquiry-form [name=idea]').value=brief;
   }
   function openInquiry() {
     lastFocus = document.activeElement; lastRequest = '';
