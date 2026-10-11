@@ -23,8 +23,9 @@ Prices, availability and physical production variants remain subject to confirma
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
 
-The October 2026 collection contains twenty objects: the eight existing products
-and twelve new miniature design proposals, giving fourteen miniatures in total.
+The October 2026 collection contains twenty-eight objects: eight existing products,
+twelve miniature design proposals and eight table/jita proposals. There are fourteen
+miniatures and twelve tables/jitas in total.
 New miniatures are generated concepts, have not been printed and have no production
 geometry. Size, finish, details and manufacturability are agreed through an enquiry.
 Their current exhibition images depict simple plain matte-black resin miniatures
@@ -47,8 +48,8 @@ wood-look table and a cascade on the matte-black open root stand. They were crea
 with built-in Imagegen using existing bonsai/product photographs as references.
 They are labelled generated inspiration, with direct links to the existing objects.
 Trees and other styling are examples; these pictures do not document a new physical
-print or a supplied arrangement. The original images and all twenty catalogue
-records are preserved. No scene selector, scene-sharing or composer enquiry remains.
+print or a supplied arrangement. The original images and existing catalogue objects are preserved; the jita
+now uses the owner's actual photograph instead of the former generated organic view. No scene selector, scene-sharing or composer enquiry remains.
 
 The active renderer is `assets/collection.js`, with editorial sections in
 `assets/collection-editorial.js` and `assets/collection.css`. The five content pages
@@ -72,3 +73,16 @@ are retained. These are explicitly labelled generated inspiration; the new trees
 are not the owner’s existing collection. Both the stand and figure link to the
 matching product and finish. Full prompts, raw PNGs and source/output hashes are
 archived in the private printing workspace research directory.
+
+Four new display tables (bridge, octagonal, round and slim accent) and four jitas
+(oval, long, faceted and round) each have wood-look and matte-black photographic
+concept views under `assets/display-designs/`. Built-in Imagegen created the views
+with the existing exhibition setting as a style reference. These remain explicitly
+generated, unprinted design proposals; dimensions, load and manufacturability
+require agreement for an eventual version. No production geometry is supplied.
+The entry `jita` is now "Mijn jita" / "My jita", showing Ruben's original made
+plate in its actual arrangement. Its original and lightly corrected photographs
+are the active gallery. Previous generated organic variants are retained as
+archived files but are no longer shown. Existing saved jita selections retain
+their identity and use its documented wood-look finish. All other products, black-only
+miniature options, static examples and original photo bytes are preserved.

@@ -425,116 +425,655 @@
         "id": "jita",
         "category": "display",
         "name": {
-          "nl": "Organische jita",
-          "en": "Organic jita"
+          "nl": "Mijn jita",
+          "en": "My jita"
         },
         "short": {
-          "nl": "Een organische ondergrond voor een kleine opstelling.",
-          "en": "An organic base for a small arrangement."
+          "nl": "Mijn eigen gemaakte jita, op de foto met een kleine opstelling.",
+          "en": "My own made jita, photographed with a small display."
         },
-        "image": "exhibition/jita-wood-v1.webp",
+        "image": "prints/jita-exhibition.webp",
         "detail": {
-          "nl": "Een laag presentatieplateau met een onregelmatige rand en een bruine afwerking. Op de foto ligt een geprint exemplaar onder een kleine opstelling met een plant en een bonsaifiguur. De vlakke bovenkant biedt ruimte om de onderdelen te plaatsen. Voor een nieuwe uitvoering stemmen we maat, draagvlak en afwerking af op jouw opstelling. De planten en andere objecten op de foto zijn afzonderlijke onderdelen.",
-          "en": "A low display plate with an irregular edge and a brown finish. The photograph shows a printed example beneath a small arrangement with a plant and a bonsai figure. Its flat top provides space to position the elements. For a new version, we agree the size, support area and finish for your display. The plants and other objects in the photograph are separate elements."
+          "nl": "Deze jita is door Ruben gemaakt. De eigen foto toont het dunne bruine plateau met een onregelmatige schorsrand, in een opstelling met een plant en een bonsaifiguur. Voor een nieuw exemplaar stemmen we maat en uitvoering samen af. De plant, potten en figuur op de foto zijn losse onderdelen.",
+          "en": "This jita was made by Ruben. His own photograph shows the thin brown plate with an irregular bark edge, in an arrangement with a plant and a bonsai figure. We agree dimensions and the final version for a new example together. The plant, pots and figure in the photograph are separate items."
         },
         "spec": {
-          "nl": "3D-print · maat en afwerking op aanvraag",
-          "en": "3D print · size and finish on enquiry"
+          "nl": "Eigen gemaakt exemplaar · nieuwe uitvoering op aanvraag",
+          "en": "Own made example · new version on enquiry"
+        },
+        "options": [
+          "wood"
+        ],
+        "visualKind": "photo",
+        "stage": "made",
+        "archiveId": "bonsai-natural-root-stand",
+        "imageAlt": {
+          "nl": "Rubens eigen foto van zijn zelfgemaakte bruine jita met plant en bonsaifiguur",
+          "en": "Ruben's own photograph of his made brown jita with a plant and bonsai figure"
+        },
+        "gallery": [
+          {
+            "image": "prints/jita-exhibition.webp",
+            "visualKind": "photo",
+            "imageStyle": "documentary",
+            "alt": {
+              "nl": "Rubens eigen foto van zijn zelfgemaakte bruine jita met plant en bonsaifiguur",
+              "en": "Ruben's own photograph of his made brown jita with a plant and bonsai figure"
+            }
+          },
+          {
+            "image": "prints/natural/jita-exhibition-natural-v1.webp",
+            "visualKind": "corrected",
+            "imageStyle": "documentary",
+            "originalPhoto": "prints/jita-exhibition.webp",
+            "alt": {
+              "nl": "Licht gecorrigeerde eigen foto van Rubens jita",
+              "en": "Lightly corrected own photograph of Ruben's jita"
+            }
+          }
+        ],
+        "imageStyle": "documentary",
+        "zone": "presentation"
+      },
+      {
+        "id": "bonsai-bridge-table",
+        "category": "display",
+        "displayType": "table",
+        "name": {
+          "nl": "Brugtafel",
+          "en": "Bridge table"
+        },
+        "short": {
+          "nl": "Een laag rechthoekig blad op twee open, gebogen zijpanelen.",
+          "en": "A low rectangular top on two open curved side panels."
+        },
+        "detail": {
+          "nl": "Een laag rechthoekig blad op twee open, gebogen zijpanelen. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "A low rectangular top on two open curved side panels. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
         },
         "options": [
           "wood",
           "black"
         ],
-        "visualKind": "exhibition",
-        "stage": "printed",
-        "archiveId": "bonsai-natural-root-stand",
+        "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/bridge-table-wood-v1.webp",
         "imageAlt": {
-          "nl": "Organische jita — houtlook in een tentoonstellingssetting",
-          "en": "Organic jita — wood look in an exhibition setting"
+          "nl": "Brugtafel — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Bridge table — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
+        "finishes": {
+          "wood": {
+            "image": "display-designs/bridge-table-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Bridge table — generated design proposal in wood look"
+            }
+          },
+          "black": {
+            "image": "display-designs/bridge-table-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Bridge table — generated design proposal in matte black"
+            }
+          }
         },
         "gallery": [
           {
-            "image": "exhibition/jita-wood-v1.webp",
-            "visualKind": "exhibition",
+            "image": "display-designs/bridge-table-wood-v1.webp",
+            "visualKind": "displayConcept",
             "imageStyle": "exhibition",
             "alt": {
-              "nl": "Organische jita — houtlook in een tentoonstellingssetting",
-              "en": "Organic jita — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/jita-exhibition.webp"
-          },
-          {
-            "image": "exhibition/jita-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Organische jita — matzwart in een tentoonstellingssetting",
-              "en": "Organic jita — matte black in an exhibition setting"
-            },
-            "originalPhoto": "prints/jita-exhibition.webp"
-          },
-          {
-            "image": "prints/natural/jita-exhibition-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/jita-exhibition.webp",
-            "alt": {
-              "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling",
-              "en": "Printed brown jita with a plant and bonsai figure in an exhibition display"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "finishes/jita-wood.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/jita-exhibition.webp",
-            "alt": {
-              "nl": "Organische jita in houtlook — afwerkingsvoorbeeld",
-              "en": "Organic jita in wood look — finish preview"
+              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Bridge table — generated design proposal in wood look"
             }
           },
           {
-            "image": "finishes/jita-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/jita-exhibition.webp",
+            "image": "display-designs/bridge-table-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
             "alt": {
-              "nl": "Organische jita in matzwart — afwerkingsvoorbeeld",
-              "en": "Organic jita in matte black — finish preview"
+              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Bridge table — generated design proposal in matte black"
             }
-          },
-          {
-            "image": "prints/jita-exhibition.webp",
-            "visualKind": "photo",
-            "alt": {
-              "nl": "Geprinte bruine jita met een plant en een bonsaifiguur op een tentoonstelling",
-              "en": "Printed brown jita with a plant and bonsai figure in an exhibition display"
-            },
-            "imageStyle": "documentary"
           }
+        ]
+      },
+      {
+        "id": "bonsai-octagonal-table",
+        "category": "display",
+        "displayType": "table",
+        "name": {
+          "nl": "Achthoekige displaytafel",
+          "en": "Octagonal display table"
+        },
+        "short": {
+          "nl": "Een achthoekig blad met een fijne rand en vier korte poten.",
+          "en": "An octagonal top with a fine border and four short legs."
+        },
+        "detail": {
+          "nl": "Een achthoekig blad met een fijne rand en vier korte poten. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "An octagonal top with a fine border and four short legs. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
         ],
-        "imageStyle": "exhibition",
         "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/octagonal-table-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Octagonal display table — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
         "finishes": {
           "wood": {
-            "image": "exhibition/jita-wood-v1.webp",
-            "visualKind": "exhibition",
+            "image": "display-designs/octagonal-table-wood-v1.webp",
+            "visualKind": "displayConcept",
             "imageStyle": "exhibition",
             "alt": {
-              "nl": "Organische jita — houtlook in een tentoonstellingssetting",
-              "en": "Organic jita — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/jita-exhibition.webp"
+              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Octagonal display table — generated design proposal in wood look"
+            }
           },
           "black": {
-            "image": "exhibition/jita-black-v1.webp",
-            "visualKind": "exhibition",
+            "image": "display-designs/octagonal-table-black-v1.webp",
+            "visualKind": "displayConcept",
             "imageStyle": "exhibition",
             "alt": {
-              "nl": "Organische jita — matzwart in een tentoonstellingssetting",
-              "en": "Organic jita — matte black in an exhibition setting"
-            },
-            "originalPhoto": "prints/jita-exhibition.webp"
+              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Octagonal display table — generated design proposal in matte black"
+            }
           }
-        }
+        },
+        "gallery": [
+          {
+            "image": "display-designs/octagonal-table-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Octagonal display table — generated design proposal in wood look"
+            }
+          },
+          {
+            "image": "display-designs/octagonal-table-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Octagonal display table — generated design proposal in matte black"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bonsai-round-table",
+        "category": "display",
+        "displayType": "table",
+        "name": {
+          "nl": "Ronde displaytafel",
+          "en": "Round display table"
+        },
+        "short": {
+          "nl": "Een rond blad op vier licht gebogen poten.",
+          "en": "A round top on four gently curved legs."
+        },
+        "detail": {
+          "nl": "Een rond blad op vier licht gebogen poten. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "A round top on four gently curved legs. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/round-table-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Round display table — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
+        "finishes": {
+          "wood": {
+            "image": "display-designs/round-table-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Round display table — generated design proposal in wood look"
+            }
+          },
+          "black": {
+            "image": "display-designs/round-table-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Round display table — generated design proposal in matte black"
+            }
+          }
+        },
+        "gallery": [
+          {
+            "image": "display-designs/round-table-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Round display table — generated design proposal in wood look"
+            }
+          },
+          {
+            "image": "display-designs/round-table-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Round display table — generated design proposal in matte black"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bonsai-slim-accent-table",
+        "category": "display",
+        "displayType": "table",
+        "name": {
+          "nl": "Smalle accenttafel",
+          "en": "Slim accent table"
+        },
+        "short": {
+          "nl": "Een langwerpig ovaal blad met twee open, rechte zijsteunen.",
+          "en": "An elongated oval top with two open straight side supports."
+        },
+        "detail": {
+          "nl": "Een langwerpig ovaal blad met twee open, rechte zijsteunen. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "An elongated oval top with two open straight side supports. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/slim-accent-table-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Slim accent table — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
+        "finishes": {
+          "wood": {
+            "image": "display-designs/slim-accent-table-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Slim accent table — generated design proposal in wood look"
+            }
+          },
+          "black": {
+            "image": "display-designs/slim-accent-table-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Slim accent table — generated design proposal in matte black"
+            }
+          }
+        },
+        "gallery": [
+          {
+            "image": "display-designs/slim-accent-table-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Slim accent table — generated design proposal in wood look"
+            }
+          },
+          {
+            "image": "display-designs/slim-accent-table-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Slim accent table — generated design proposal in matte black"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bonsai-oval-jita",
+        "category": "display",
+        "displayType": "jita",
+        "name": {
+          "nl": "Ovale jita",
+          "en": "Oval jita"
+        },
+        "short": {
+          "nl": "Een dun ovaal plateau met een rustig afgeronde rand.",
+          "en": "A thin oval plate with a quietly rounded edge."
+        },
+        "detail": {
+          "nl": "Een dun ovaal plateau met een rustig afgeronde rand. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "A thin oval plate with a quietly rounded edge. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/oval-jita-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Ovale jita — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Oval jita — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
+        "finishes": {
+          "wood": {
+            "image": "display-designs/oval-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ovale jita — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Oval jita — generated design proposal in wood look"
+            }
+          },
+          "black": {
+            "image": "display-designs/oval-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ovale jita — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Oval jita — generated design proposal in matte black"
+            }
+          }
+        },
+        "gallery": [
+          {
+            "image": "display-designs/oval-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ovale jita — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Oval jita — generated design proposal in wood look"
+            }
+          },
+          {
+            "image": "display-designs/oval-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ovale jita — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Oval jita — generated design proposal in matte black"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bonsai-long-jita",
+        "category": "display",
+        "displayType": "jita",
+        "name": {
+          "nl": "Langwerpige jita",
+          "en": "Long jita"
+        },
+        "short": {
+          "nl": "Een smal presentatieplateau met afgeronde hoeken.",
+          "en": "A narrow display plate with rounded corners."
+        },
+        "detail": {
+          "nl": "Een smal presentatieplateau met afgeronde hoeken. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "A narrow display plate with rounded corners. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/long-jita-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Long jita — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
+        "finishes": {
+          "wood": {
+            "image": "display-designs/long-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Long jita — generated design proposal in wood look"
+            }
+          },
+          "black": {
+            "image": "display-designs/long-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Long jita — generated design proposal in matte black"
+            }
+          }
+        },
+        "gallery": [
+          {
+            "image": "display-designs/long-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Long jita — generated design proposal in wood look"
+            }
+          },
+          {
+            "image": "display-designs/long-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Long jita — generated design proposal in matte black"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bonsai-faceted-jita",
+        "category": "display",
+        "displayType": "jita",
+        "name": {
+          "nl": "Jita met facetrand",
+          "en": "Faceted jita"
+        },
+        "short": {
+          "nl": "Een laag vijfhoekig plateau met een afgeschuinde rand.",
+          "en": "A low pentagonal plate with a bevelled edge."
+        },
+        "detail": {
+          "nl": "Een laag vijfhoekig plateau met een afgeschuinde rand. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "A low pentagonal plate with a bevelled edge. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/faceted-jita-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Faceted jita — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
+        "finishes": {
+          "wood": {
+            "image": "display-designs/faceted-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Faceted jita — generated design proposal in wood look"
+            }
+          },
+          "black": {
+            "image": "display-designs/faceted-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Faceted jita — generated design proposal in matte black"
+            }
+          }
+        },
+        "gallery": [
+          {
+            "image": "display-designs/faceted-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Faceted jita — generated design proposal in wood look"
+            }
+          },
+          {
+            "image": "display-designs/faceted-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Faceted jita — generated design proposal in matte black"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bonsai-round-jita",
+        "category": "display",
+        "displayType": "jita",
+        "name": {
+          "nl": "Ronde jita",
+          "en": "Round jita"
+        },
+        "short": {
+          "nl": "Een dun rond plateau met een subtiele facet aan de rand.",
+          "en": "A thin circular plate with a subtle bevel at the edge."
+        },
+        "detail": {
+          "nl": "Een dun rond plateau met een subtiele facet aan de rand. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
+          "en": "A thin circular plate with a subtle bevel at the edge. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
+        },
+        "spec": {
+          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
+          "en": "Design proposal · size and version on enquiry"
+        },
+        "options": [
+          "wood",
+          "black"
+        ],
+        "zone": "presentation",
+        "stage": "future",
+        "newDesign": true,
+        "image": "display-designs/round-jita-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Ronde jita — gegenereerd ontwerpvoorstel in houtlook",
+          "en": "Round jita — generated design proposal in wood look"
+        },
+        "visualKind": "displayConcept",
+        "imageStyle": "exhibition",
+        "finishes": {
+          "wood": {
+            "image": "display-designs/round-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Round jita — generated design proposal in wood look"
+            }
+          },
+          "black": {
+            "image": "display-designs/round-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Round jita — generated design proposal in matte black"
+            }
+          }
+        },
+        "gallery": [
+          {
+            "image": "display-designs/round-jita-wood-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in houtlook",
+              "en": "Round jita — generated design proposal in wood look"
+            }
+          },
+          {
+            "image": "display-designs/round-jita-black-v1.webp",
+            "visualKind": "displayConcept",
+            "imageStyle": "exhibition",
+            "alt": {
+              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in matzwart",
+              "en": "Round jita — generated design proposal in matte black"
+            }
+          }
+        ]
       },
       {
         "id": "bonsai-firethorn-pot",
