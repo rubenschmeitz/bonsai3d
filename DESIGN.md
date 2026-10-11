@@ -5,6 +5,13 @@ quiet colours and direct navigation. A photographic introduction, two finish
 stories and a concise product collection replace the illustrative scene builder
 and sketchbook feed. Bilingual enquiries remain downloadable or copyable.
 
+The homepage contains only the photographic introduction, three category links
+and a compact finish/custom-work link row. The catalogue, finish comparison and
+workshop/custom-work story have separate HTML pages. Desktop category previews
+become compact image rows on phones. Persistent navigation marks the current
+page; language, finish and enquiry selection carry across page navigation.
+The catalogue and all pot records remain unchanged during this navigation edit.
+
 Visual research included the current [Bonsai Mirai website](https://bonsaimirai.com/),
 [Mirai Goods display collection](https://goods.bonsaimirai.com/collections/stands-frames)
 and [Bonsai Empire](https://www.bonsaiempire.com/). No photographs, logos,

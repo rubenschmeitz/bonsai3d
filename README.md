@@ -6,6 +6,12 @@ The site is served directly from the root of the main branch using GitHub Pages.
 Use `python3 -m http.server 8851` for local review. No build or dependencies are required.
 
 The curated catalogue, finish choices, product galleries and product/finish links work in the browser.
+The homepage is a short introduction with three category links. The full catalogue
+is on `collectie.html`, finish comparisons on `afwerkingen.html`, and Ruben's
+workshop, custom work and frequently asked questions on `atelier.html`.
+All pages share navigation, language, chosen finish and saved selection. Category
+links open a filtered catalogue, and the active page is marked in the navigation.
+Direct page refreshes and existing homepage section links are supported on Pages.
 Enquiries can be downloaded or copied; this static site does not submit them to a server.
 There is no checkout or payment integration. Generated product visuals remain labelled.
 Prices, availability and physical production variants remain subject to confirmation.
@@ -28,4 +34,4 @@ reload and are included in the downloaded or copied enquiry.
 
 The active renderer is `assets/collection.js`, with editorial sections in
 `assets/collection-editorial.js` and styling in `assets/collection.css`. Previous
-assets remain archived in the repository but are not loaded by `index.html`.
+assets remain archived in the repository but are not loaded by the four page entry points.
