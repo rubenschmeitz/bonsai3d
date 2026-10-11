@@ -38,12 +38,12 @@
       "en": "FORM, PROPORTION & CARE"
     },
     "shopTitle": {
-      "nl": "Voor jouw presentatie",
-      "en": "For your display"
+      "nl": "Tafels, potten & figuren",
+      "en": "Stands, pots & figures"
     },
     "shopIntro": {
-      "nl": "Tafels, jita’s, potten en persoonlijke accenten. Een vertrekpunt voor maatwerk rond jouw boom en tentoonstelling.",
-      "en": "Stands, jita plates, pots and personal accents. A starting point for custom work around your tree and exhibition."
+      "nl": "Bestaande ontwerpen en maatwerk voor de presentatie van een boom. Open een product voor de herkomst, beelden en ontwikkelstatus.",
+      "en": "Existing designs and custom pieces for displaying a tree. Open a product for its background, images and development status."
     },
     "categories": [
       {
@@ -1009,25 +1009,255 @@
             }
           }
         ]
+      },
+      {
+        "id": "bonsai-season-frame",
+        "category": "display",
+        "name": {
+          "nl": "Seizoensframe",
+          "en": "Season frame"
+        },
+        "short": {
+          "nl": "Een vrijstaand frame voor een kleine prent of scroll.",
+          "en": "A freestanding frame for a small seasonal picture or scroll."
+        },
+        "detail": {
+          "nl": "De achtergrond hoeft geen tweede onderwerp te worden. Dit smalle frame houdt een kleine prent rechtop achter of naast de boom. De brede, lage voet en verwisselbare klemmen worden op de prent afgestemd. Het beeld toont een eigen ontwerpconcept; prent, stabiliteit en printuitvoering moeten nog worden uitgewerkt.",
+          "en": "The backdrop can stay quiet. This slim frame holds a small picture behind or beside the tree. The wide, low foot and replaceable clips are fitted to the picture. The image shows an original concept; artwork, stability and the printed version still need development."
+        },
+        "spec": {
+          "nl": "Richtmaat 28 cm hoog · prent niet inbegrepen",
+          "en": "Indicative height 28 cm · artwork not included"
+        },
+        "options": [
+          "dark",
+          "earth",
+          "custom"
+        ],
+        "stage": "future",
+        "zone": "future",
+        "newDesign": true,
+        "image": "concepts/season-frame.webp",
+        "visualKind": "concept",
+        "imageAlt": {
+          "nl": "Seizoensframe — gegenereerd ontwerpconcept",
+          "en": "Season frame — generated design concept"
+        },
+        "gallery": [
+          {
+            "image": "concepts/season-frame.webp",
+            "visualKind": "concept",
+            "alt": {
+              "nl": "Seizoensframe",
+              "en": "Season frame"
+            }
+          }
+        ],
+        "imageStyle": "editorial",
+        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
+      },
+      {
+        "id": "bonsai-river-suiban",
+        "category": "accents",
+        "name": {
+          "nl": "Rivieroever suiban",
+          "en": "Riverbank suiban"
+        },
+        "short": {
+          "nl": "Een ondiepe schaal met ruimte voor steen en zand.",
+          "en": "A shallow tray with room for a viewing stone and sand."
+        },
+        "detail": {
+          "nl": "Een kleine steen staat uit het midden, met open zand eromheen. De lage schaal krijgt een los inzetstuk, zodat de indeling kan veranderen. Dit concept is bedoeld voor een droge presentatie. Waterdichtheid wordt niet aangenomen; steen en zand in het beeld zijn voorbeelden en worden niet meegeleverd.",
+          "en": "An off-centre stone leaves open sand around it. A removable insert lets the arrangement change. This concept is intended for dry display. Watertightness is not assumed; the pictured stone and sand are examples and are not included."
+        },
+        "spec": {
+          "nl": "Richtmaat 22 cm breed · droge presentatie",
+          "en": "Indicative width 22 cm · dry display"
+        },
+        "options": [
+          "dark",
+          "earth",
+          "custom"
+        ],
+        "stage": "future",
+        "zone": "future",
+        "newDesign": true,
+        "image": "concepts/river-suiban.webp",
+        "visualKind": "concept",
+        "imageAlt": {
+          "nl": "Rivieroever suiban — gegenereerd ontwerpconcept",
+          "en": "Riverbank suiban — generated design concept"
+        },
+        "gallery": [
+          {
+            "image": "concepts/river-suiban.webp",
+            "visualKind": "concept",
+            "alt": {
+              "nl": "Rivieroever suiban",
+              "en": "Riverbank suiban"
+            }
+          }
+        ],
+        "imageStyle": "editorial",
+        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
+      },
+      {
+        "id": "bonsai-accent-pair",
+        "category": "accents",
+        "name": {
+          "nl": "Accentpaar",
+          "en": "Accent pair"
+        },
+        "short": {
+          "nl": "Twee lage plateaus voor een klein begeleidend plantje.",
+          "en": "Two low plates for a small companion planting."
+        },
+        "detail": {
+          "nl": "Twee verwante vormen, in verschillende maten, geven een klein accentplantje een eigen ondergrond. Eén plateau blijft bewust leeg in het voorbeeld. De geprinte randen krijgen een fijn laagreliëf; kleur en maat kunnen volgen uit de gebruikte pot. De plant en keramische pot zijn alleen styling.",
+          "en": "Two related shapes in different sizes give a companion plant its own ground. One plate is intentionally empty in the example. Printed edges have a fine layered relief; size and colour can follow the pot. Plant and ceramic pot are styling only."
+        },
+        "spec": {
+          "nl": "Richtmaten 15 en 10 cm · twee losse plateaus",
+          "en": "Indicative widths 15 and 10 cm · two separate plates"
+        },
+        "options": [
+          "dark",
+          "earth",
+          "custom"
+        ],
+        "stage": "future",
+        "zone": "future",
+        "newDesign": true,
+        "image": "concepts/accent-pair.webp",
+        "visualKind": "concept",
+        "imageAlt": {
+          "nl": "Accentpaar — gegenereerd ontwerpconcept",
+          "en": "Accent pair — generated design concept"
+        },
+        "gallery": [
+          {
+            "image": "concepts/accent-pair.webp",
+            "visualKind": "concept",
+            "alt": {
+              "nl": "Accentpaar",
+              "en": "Accent pair"
+            }
+          }
+        ],
+        "imageStyle": "editorial",
+        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
+      },
+      {
+        "id": "bonsai-display-window",
+        "category": "display",
+        "name": {
+          "nl": "Open venster",
+          "en": "Open window"
+        },
+        "short": {
+          "nl": "Een open kader voor een enkele kleine boom.",
+          "en": "An open frame for one small tree."
+        },
+        "detail": {
+          "nl": "Een asymmetrisch ovaal kader rondom een kleine bonsai, met een brede voet onder de pot. Het venster is een eigentijds presentatieconcept, geen traditionele tentoonstellingsregel. We werken het uit rond potmaat, kroon en gewicht. De getoonde boom is een voorbeeld; draagvermogen is nog niet getest.",
+          "en": "An asymmetric oval frame around a small bonsai, with a wide foot below the pot. The window is a contemporary display concept, not a traditional exhibition rule. Development follows pot dimensions, canopy and weight. The tree is illustrative; load capacity has not been tested."
+        },
+        "spec": {
+          "nl": "Richtmaat 28 × 25 cm · draagvermogen te testen",
+          "en": "Indicative size 28 × 25 cm · load capacity untested"
+        },
+        "options": [
+          "dark",
+          "earth",
+          "custom"
+        ],
+        "stage": "future",
+        "zone": "future",
+        "newDesign": true,
+        "image": "concepts/display-window.webp",
+        "visualKind": "concept",
+        "imageAlt": {
+          "nl": "Open venster — gegenereerd ontwerpconcept",
+          "en": "Open window — generated design concept"
+        },
+        "gallery": [
+          {
+            "image": "concepts/display-window.webp",
+            "visualKind": "concept",
+            "alt": {
+              "nl": "Open venster",
+              "en": "Open window"
+            }
+          }
+        ],
+        "imageStyle": "editorial",
+        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
+      },
+      {
+        "id": "bonsai-kingfisher",
+        "category": "miniatures",
+        "name": {
+          "nl": "IJsvogelminiatuur",
+          "en": "Kingfisher miniature"
+        },
+        "short": {
+          "nl": "Een klein vogelaccent naast de boom of een kijksteen.",
+          "en": "A small bird accent beside a tree or viewing stone."
+        },
+        "detail": {
+          "nl": "Een ijsvogel op een korte tak, uitgevoerd in één rustige kleur. De richting van de kop kan in een opstelling naar de boom of een steen wijzen. Dit is een eigen figurineconcept voor een resinprint. Detail, bevestiging aan de voet en uiteindelijke schaal worden bij een prototype bepaald.",
+          "en": "A kingfisher on a short twig in one quiet colour. Its head can point toward the tree or a stone in a composition. This is an original figurine concept intended for a resin print. Detail, base attachment and final scale will be resolved in a prototype."
+        },
+        "spec": {
+          "nl": "Richtmaat 6 cm hoog · resinconcept",
+          "en": "Indicative height 6 cm · resin concept"
+        },
+        "options": [
+          "dark",
+          "earth",
+          "custom"
+        ],
+        "stage": "future",
+        "zone": "future",
+        "newDesign": true,
+        "image": "concepts/kingfisher.webp",
+        "visualKind": "concept",
+        "imageAlt": {
+          "nl": "IJsvogelminiatuur — gegenereerd ontwerpconcept",
+          "en": "Kingfisher miniature — generated design concept"
+        },
+        "gallery": [
+          {
+            "image": "concepts/kingfisher.webp",
+            "visualKind": "concept",
+            "alt": {
+              "nl": "IJsvogelminiatuur",
+              "en": "Kingfisher miniature"
+            }
+          }
+        ],
+        "imageStyle": "editorial",
+        "designOrigin": "Original BONSAI3D proposal, October 2026; not manufactured"
       }
     ],
     "customTitle": {
-      "nl": "Jouw boom.\nJouw verhaal.",
-      "en": "Your tree.\nYour story."
+      "nl": "Een ontwerp op maat",
+      "en": "A made-to-fit design"
     },
     "customIntro": {
-      "nl": "Stuur een foto van je boom, de maten van de pot en wat je wilt laten zien. Samen zoeken we de juiste verhoudingen, kleur en afwerking voor jouw presentatie. Ook een persoonlijk figuur, naamdetail of een compleet eigen idee kan het vertrekpunt zijn.",
-      "en": "Send a photo of your tree, your pot dimensions and the story you want to tell. Together we find the right proportions, colour and finish for your display. A personal figure, name detail or completely new idea can also be the starting point."
+      "nl": "Begin met de maten van je pot en een foto van de boom. Vertel waarvoor je de opstelling wilt gebruiken. Je kunt hieronder een aanvraagconcept maken en downloaden. Materiaal, prijs en uitvoering spreken we daarna af.",
+      "en": "Start with your pot dimensions and a photo of the tree. Describe where the display will be used. Create and download an enquiry draft below. Material, price and the final design are agreed afterwards."
     },
     "storyTitle": {
-      "nl": "Gemaakt rond jouw bonsai.",
-      "en": "Made around your bonsai."
+      "nl": "Uit de werkplaats",
+      "en": "From the workshop"
     },
     "story": {
-      "nl": "Van een organische jita tot een tafel met een bijzondere vorm: het ontwerp begint bij de boom en de plek die hij krijgt. Ik combineer bonsai, digitaal ontwerpen en 3D-printen om persoonlijke accessoires te maken. Voor het onderhoud ontwikkel ik daarnaast praktische werkplekoplossingen.",
-      "en": "From an organic jita to a distinctive stand, the design begins with the tree and where it will be displayed. I combine bonsai, digital design and 3D printing to create personal accessories. Alongside display pieces, I develop practical tools for the workbench."
+      "nl": "Ik ben Ruben. Ik ontwerp en 3D-print accessoires voor bonsai. Een potmaat, de hoogte van een tafel of een klein detail vormen vaak het begin. In de collectie staan bestaande ontwerpen naast nieuwe schetsen. Wat al is geprint en wat nog een concept is, staat bij het product.",
+      "en": "I’m Ruben. I design and 3D print bonsai accessories. A pot dimension, a stand height or a small detail often starts the work. The collection includes existing designs and new sketches. Each product identifies what has been printed and what remains a concept."
     },
-    "storyImage": "exhibition/exhibition-root.webp",
+    "storyImage": "finished/archive/bonsai-red-branch-relief-pot-5.webp",
     "guideTitle": {
       "nl": "Maat, materiaal & gebruik",
       "en": "Size, material & use"
@@ -1128,7 +1358,7 @@
         }
       }
     ],
-    "designDirection": "warm-japanese-bonsai",
+    "designDirection": "bonsai-editorial-2026-10",
     "previousSlugs": [
       "tak",
       "tak-en-vorm"
@@ -1144,7 +1374,7 @@
         "en": "Slatted display table · product visualisation"
       }
     },
-    "storyVisualKind": "finished",
+    "storyVisualKind": "photo",
     "imageStyle": "studio",
     "exhibition": true
   }

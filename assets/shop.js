@@ -42,8 +42,8 @@
   function u(key) { return ui[language][key]; }
   function esc(value) { return String(value === undefined ? '' : value).replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
   function image(path) { return './assets/' + path; }
-  function imageLabel(p) { return u(p.visualKind === 'photo' ? 'photo' : p.visualKind === 'finished' ? 'finished' : p.visualKind === 'reference' ? 'reference' : 'preview'); }
-  function imageNote(p) { return u(p.visualKind === 'photo' ? 'photoNote' : p.visualKind === 'reference' ? 'referenceNote' : 'finishedNote'); }
+  function imageLabel(p) { return u(p.visualKind === 'concept' ? 'concept' : p.visualKind === 'photo' ? 'photo' : p.visualKind === 'finished' ? 'finished' : p.visualKind === 'reference' ? 'reference' : 'preview'); }
+  function imageNote(p) { return u(p.visualKind === 'concept' ? 'conceptNote' : p.visualKind === 'photo' ? 'photoNote' : p.visualKind === 'reference' ? 'referenceNote' : 'finishedNote'); }
   function stageLabel(p) { return (ui[language].stages || {})[p.stage] || u('request'); }
   function total() { return selection.reduce(function (n,x) { return n+x.quantity; },0); }
   function save() { try { localStorage.setItem(shop.slug + '-selection', JSON.stringify(selection)); } catch (_) {} }
@@ -55,11 +55,13 @@
   Object.assign(ui.en, {photo:'PRODUCT PHOTO',finished:'PRODUCT VISUALISATION',design:'3D-printed accessory',seeModel:'View product',inspiration:'Custom work in pictures',inspirationIntro:'A personal figure, a miniature of your tree or an unusual display. These product visualisations show possible finished versions.',photoNote:'Photograph of an existing example. We agree a new version together.',finishedNote:'Generated visualisation of a finished product. Colour, finish and the final version are agreed together; plants and styling are illustrative.',referenceNote:'Finished product example from the designer. We agree your printed version together.',galleryImage:'Image',stages:{printed:'Previously printed',development:'Design in development',custom:'Custom work',concept:'Custom concept'}});
   Object.assign(ui.nl, {originalPhoto:'Bekijk oorspronkelijke foto'});
   Object.assign(ui.en, {originalPhoto:'View original photograph'});
+  Object.assign(ui.nl, {concept:'GEGENEREERD CONCEPTBEELD',conceptNote:'Gegenereerd beeld van een eigen ontwerpidee. Nog niet geprint; maat, materiaal en haalbaarheid zijn te ontwikkelen. Planten, stenen en prenten zijn styling, niet inbegrepen.'});
+  Object.assign(ui.en, {concept:'GENERATED CONCEPT IMAGE',conceptNote:'Generated image of an original design idea. Not yet printed; dimensions, material and feasibility need development. Plants, stones and artwork are styling, not included.'});
   function originalPhotoLink(photo) {
     return '<a id="product-original-photo" class="original-photo-link" target="_blank" rel="noopener"' + (photo.originalPhoto ? ' href="' + esc(image(photo.originalPhoto)) + '"' : ' hidden') + '>' + esc(u('originalPhoto')) + ' ↗</a>';
   }
-  Object.assign(ui.nl.stages, {prototype:'Prototype in ontwikkeling',future:'Toekomstidee · nog niet geprint'});
-  Object.assign(ui.en.stages, {prototype:'Prototype in development',future:'Future idea · not yet printed'});
+  Object.assign(ui.nl.stages, {prototype:'Prototype in ontwikkeling',future:'Ontwerpconcept · nog niet geprint'});
+  Object.assign(ui.en.stages, {prototype:'Prototype in development',future:'Design concept · not yet printed'});
   if (shop.exhibition) { ui.nl.caption='Gegenereerd presentatievoorbeeld'; ui.en.caption='Generated display illustration'; }
   function logo() { return '<a class="brand" href="./" aria-label="' + esc(shop.brand) + '"><img class="brand-wordmark" src="' + image('brand/' + shop.slug + '-logo-primary.svg') + '" alt="' + esc(shop.brand) + '" width="210" height="44"><span class="brand-descriptor">' + esc(t(shop.subtitle)) + '</span></a>'; }
   function heroShowcase() {
