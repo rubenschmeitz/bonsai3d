@@ -1,5 +1,14 @@
 # BONSAI3D design notes — October 2026
 
+Current navigation revision: the interactive composer has been removed from all
+pages and its JS/CSS retired. Two static generated display examples are shown on
+`voorbeelden.html`; the homepage links there through a small text link. The examples
+reference the owner’s actual trees and existing product shapes. Both are clearly
+labelled generated inspiration. They do not create new pot variants or product
+records, and the complete twenty-object catalogue and existing image bytes remain
+unchanged. Old composer URLs lead to this static page. Historical design notes
+below describe the earlier product and image work.
+
 The website uses large photographs, plain sans-serif headings, white space,
 quiet colours and direct navigation. A photographic introduction, two finish
 stories and a concise product collection replace the illustrative scene builder

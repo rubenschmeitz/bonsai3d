@@ -8,8 +8,10 @@ Use `python3 -m http.server 8851` for local review. No build or dependencies are
 The curated catalogue, finish choices, product galleries and product/finish links work in the browser.
 The homepage is a short introduction with three category links. The full catalogue
 is on `collectie.html`, finish comparisons on `afwerkingen.html`, and Ruben's
-workshop, custom work and frequently asked questions on `atelier.html`. The exhibition
-builder is on `opstelling.html`, with entrances on the homepage and shared navigation.
+workshop, custom work and frequently asked questions on `atelier.html`.
+`voorbeelden.html` shows two static display examples based on our own photographs.
+The interactive composer has been removed. Existing `opstelling.html` links redirect
+to the examples page, preserving language and finish preferences.
 All pages share navigation, language, chosen finish and saved selection. Category
 links open a filtered catalogue, and the active page is marked in the navigation.
 Direct page refreshes and existing homepage section links are supported on Pages.
@@ -36,17 +38,15 @@ Previous studio edits and generated finish images are preserved separately. The
 current product views favour the natural photographs. Generated previews have
 explicit labels and are not evidence of a newly printed product or physical result.
 
-The builder reuses the earlier exhibition-v2 tree, natural-accent and jita assets.
-Stands, pots and existing figures use conventional masks of own product photographs;
-new miniatures use their generated transparent images. Every component can be omitted.
-Removing a pot removes the illustrative tree; choosing a tree restores a suitable pot.
-Miniatures can sit beside the display or on a pot; scale and attachment need agreement.
-The jita scene and trees are illustrative. Natural accents and the card holder are
-styling ideas, not additional catalogue SKUs. Product links open the current catalogue.
-Shared URLs, reloads and language changes retain choices; a complete configuration
-can be included in a downloadable or copied enquiry. No request is sent automatically.
+Two images under `assets/examples/` illustrate a flowering bonsai on the owner's
+wood-look table and a cascade on the matte-black open root stand. They were created
+with built-in Imagegen using existing bonsai/product photographs as references.
+They are labelled generated inspiration, with direct links to the existing objects.
+Trees and other styling are examples; these pictures do not document a new physical
+print or a supplied arrangement. The original images and all twenty catalogue
+records are preserved. No scene selector, scene-sharing or composer enquiry remains.
 
 The active renderer is `assets/collection.js`, with editorial sections in
-`assets/collection-editorial.js`, the builder in `assets/composer.js`, and the
-corresponding CSS files. All five entry pages are static and work on GitHub Pages.
+`assets/collection-editorial.js` and `assets/collection.css`. The five content pages
+and one redirect page are static and work on GitHub Pages.
 [Design notes](DESIGN.md) describe the original visual direction and provenance.
