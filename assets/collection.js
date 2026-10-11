@@ -31,6 +31,8 @@
   ui.nl.custom='Op maat'; ui.en.custom='Custom';
   Object.assign(ui.nl, {home:'Home',atelier:'Over & maatwerk',compose:'Samenstellen',concept:'Gegenereerd ontwerp · nog niet geprint',conceptNote:'Nieuw miniatuurontwerp. Het beeld is gegenereerd; maat, details en maakbaarheid werken we samen uit.',corrected:'Eigen foto · licht gecorrigeerd',correctedNote:'Eigen foto met een betere uitsnede en subtiele correcties in belichting en kleur. Vorm en productdetails zijn behouden.'});
   Object.assign(ui.en, {home:'Home',atelier:'About & custom',compose:'Build your display',concept:'Generated design · not yet printed',conceptNote:'New miniature design. The image is generated; size, details and manufacturability are developed together.',corrected:'Own photograph · lightly corrected',correctedNote:'Own photograph with improved framing and subtle exposure and colour corrections. Shape and product details are preserved.'});
+  Object.assign(ui.nl, {painted:'Beschilderd resin · kleurvoorstel'});
+  Object.assign(ui.en, {painted:'Painted resin · colour proposal'});
   function finishLabel(finish) { return finish === 'custom' ? u('own') : finish === 'original' ? u('originalFinish') : u(finish); }
   function tr(nl, en) { return language === 'nl' ? nl : en; }
   function t(value) { return value && typeof value === 'object' ? value[language] : value; }
