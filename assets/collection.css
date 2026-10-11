@@ -151,6 +151,7 @@ body.curated-shop .toast{border-radius:0;background:var(--ink)}
 .display-example img{width:100%;aspect-ratio:3/2;object-fit:contain;background:var(--soft)}
 .display-example figcaption{font-size:10px;color:var(--muted);line-height:1.6;margin-top:10px}
 .example-copy{max-width:340px}
+body.curated-shop .example-copy .example-figure-link{display:flex;width:fit-content;margin-top:14px}
 .example-copy h2{margin-bottom:24px}
 .example-copy>p:not(.eyebrow){font-size:15px;line-height:1.8;margin-bottom:22px}
 .examples-note{border-top:1px solid var(--line);padding-top:28px;margin-top:48px;display:flex;align-items:start;justify-content:space-between;gap:36px}

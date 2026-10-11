@@ -9,7 +9,8 @@ The curated catalogue, finish choices, product galleries and product/finish link
 The homepage is a short introduction with three category links. The full catalogue
 is on `collectie.html`, finish comparisons on `afwerkingen.html`, and Ruben's
 workshop, custom work and frequently asked questions on `atelier.html`.
-`voorbeelden.html` shows two static display examples based on our own photographs.
+`voorbeelden.html` shows six static display examples: two based on our own bonsai
+photographs and four new mature-tree compositions using our stand and figure references.
 The interactive composer has been removed. Existing `opstelling.html` links redirect
 to the examples page, preserving language and finish preferences.
 All pages share navigation, language, chosen finish and saved selection. Category
@@ -63,3 +64,11 @@ miniatures are preserved. Original images and prior derivatives remain available
 in product galleries. Genuine workshop imagery remains in the atelier story;
 there are currently no tools in the active catalogue. Full prompts and image
 provenance are archived privately in the printing workspace research directory.
+
+Four additional exhibition examples under `assets/exhibition/` feature generated
+mature maple, pine and juniper trees. Two use wood-look stands/figures and two
+use matte black. Existing stand forms, figure details and referenced pot designs
+are retained. These are explicitly labelled generated inspiration; the new trees
+are not the owner’s existing collection. Both the stand and figure link to the
+matching product and finish. Full prompts, raw PNGs and source/output hashes are
+archived in the private printing workspace research directory.
