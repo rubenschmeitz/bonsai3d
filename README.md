@@ -26,9 +26,12 @@ The October 2026 collection contains twenty objects: the eight existing products
 and twelve new miniature design proposals, giving fourteen miniatures in total.
 New miniatures are generated concepts, have not been printed and have no production
 geometry. Size, finish, details and manufacturability are agreed through an enquiry.
-Their current v2 images depict detailed resin miniatures with individual painted
-colour palettes. These are generated design proposals, not photographs of printed
-or painted stock. Original v1 images are preserved beside the versioned derivatives.
+Their current v3 images depict simple plain matte-black resin miniatures in everyday
+workbench photography, with modest daylight and ordinary surface irregularities.
+All twelve concepts offer only matte black. These are generated examples, not
+photographs of existing printed stock. Earlier v1/v2 images and matching black
+transparent derivatives are preserved separately; only v3 photographic examples
+appear in the current concept galleries.
 The lamella pot, bark pot and openwork plateau remain outside the visible collection.
 
 Twenty-one owner photographs have separate conventional corrections in

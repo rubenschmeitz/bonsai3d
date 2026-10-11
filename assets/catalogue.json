@@ -815,41 +815,39 @@
           "en": "The reader"
         },
         "short": {
-          "nl": "Een aandachtige lezer met zilvergrijs haar, een indigoblauw gewaad en een bordeauxrood boek.",
-          "en": "An attentive reader with silver-grey hair, an indigo robe and a burgundy book."
+          "nl": "Een zittende lezer met een open boek, een gedrapeerd gewaad en een lage voet. Voorgesteld in effen matzwart.",
+          "en": "A seated reader with an open book, a draped robe and a low base. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een aandachtige lezer met zilvergrijs haar, een indigoblauw gewaad en een bordeauxrood boek. Fijne rimpels, losse haarlokken en beschilderde boekranden geven hem karakter. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "An attentive reader with silver-grey hair, an indigo robe and a burgundy book. Fine wrinkles, individual locks and painted page edges give him character. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een zittende lezer met een open boek, een gedrapeerd gewaad en een lage voet. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A seated reader with an open book, a draped robe and a low base. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/reader-painted-v2.webp",
+        "image": "miniatures/reader-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De lezer — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The reader — generated design image of a painted resin miniature"
+          "nl": "De lezer — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The reader — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/reader-painted-v2.webp",
+            "image": "miniatures/reader-black-photo-v3.webp",
             "alt": {
-              "nl": "De lezer — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The reader — generated design image of a painted resin miniature"
+              "nl": "De lezer — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The reader — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/reader-painted-v2.webp"
+        "compositionImage": "miniatures/reader-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-fisher",
@@ -859,41 +857,39 @@
           "en": "The fisherman"
         },
         "short": {
-          "nl": "Een ontspannen visser met een gevlochten strohoed, verweerde blauwe kleding en een zilverkleurige vangst.",
-          "en": "A relaxed fisherman with a woven straw hat, weathered blue clothes and a silver catch."
+          "nl": "Een visser op een rots, met een strohoed, hengel, mand en kleine vangst. Voorgesteld in effen matzwart.",
+          "en": "A fisherman seated on a rock, with a straw hat, fishing rod, basket and small catch. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een ontspannen visser met een gevlochten strohoed, verweerde blauwe kleding en een zilverkleurige vangst. De mand, bamboehengel en geschilderde rotsondergrond hebben elk hun eigen details. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A relaxed fisherman with a woven straw hat, weathered blue clothes and a silver catch. The basket, bamboo rod and painted rocky base each have their own details. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een visser op een rots, met een strohoed, hengel, mand en kleine vangst. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A fisherman seated on a rock, with a straw hat, fishing rod, basket and small catch. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/fisher-painted-v2.webp",
+        "image": "miniatures/fisher-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De visser — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The fisherman — generated design image of a painted resin miniature"
+          "nl": "De visser — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The fisherman — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/fisher-painted-v2.webp",
+            "image": "miniatures/fisher-black-photo-v3.webp",
             "alt": {
-              "nl": "De visser — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The fisherman — generated design image of a painted resin miniature"
+              "nl": "De visser — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The fisherman — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/fisher-painted-v2.webp"
+        "compositionImage": "miniatures/fisher-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-pruner",
@@ -903,41 +899,39 @@
           "en": "The pruner"
         },
         "short": {
-          "nl": "Een bonsailiefhebber in saliegroen met een roodbruine werkschort, bezig met een kleine den.",
-          "en": "A bonsai enthusiast in sage green and a russet work apron, tending a small pine."
+          "nl": "Een knielende bonsailiefhebber met een kleine den, snoeischaar en tuingereedschap. Voorgesteld in effen matzwart.",
+          "en": "A kneeling bonsai enthusiast with a small pine, pruning scissors and garden tools. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een bonsailiefhebber in saliegroen met een roodbruine werkschort, bezig met een kleine den. De schaar, gieter, draad en miniatuurboom maken er een volledig tafereel van. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A bonsai enthusiast in sage green and a russet work apron, tending a small pine. Scissors, a watering can, wire and the miniature tree make a complete scene. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een knielende bonsailiefhebber met een kleine den, snoeischaar en tuingereedschap. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A kneeling bonsai enthusiast with a small pine, pruning scissors and garden tools. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/pruner-painted-v2.webp",
+        "image": "miniatures/pruner-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De snoeier — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The pruner — generated design image of a painted resin miniature"
+          "nl": "De snoeier — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The pruner — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/pruner-painted-v2.webp",
+            "image": "miniatures/pruner-black-photo-v3.webp",
             "alt": {
-              "nl": "De snoeier — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The pruner — generated design image of a painted resin miniature"
+              "nl": "De snoeier — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The pruner — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/pruner-painted-v2.webp"
+        "compositionImage": "miniatures/pruner-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-photographer",
@@ -947,41 +941,39 @@
           "en": "The photographer"
         },
         "short": {
-          "nl": "Een fotograaf die gehurkt het juiste beeld zoekt, met een okergele hoed en olijfgroene jas.",
-          "en": "A crouching photographer looking for the right shot, wearing an ochre hat and an olive jacket."
+          "nl": "Een gehurkte fotograaf met een hoed, camera en kleine rugzak. Voorgesteld in effen matzwart.",
+          "en": "A crouching photographer with a hat, camera and small backpack. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een fotograaf die gehurkt het juiste beeld zoekt, met een okergele hoed en olijfgroene jas. Fijne naden, schoenveters en de kleine camera krijgen een zorgvuldige geschilderde afwerking. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A crouching photographer looking for the right shot, wearing an ochre hat and an olive jacket. Fine seams, shoelaces and the tiny camera receive a carefully painted finish. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een gehurkte fotograaf met een hoed, camera en kleine rugzak. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A crouching photographer with a hat, camera and small backpack. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/photographer-painted-v2.webp",
+        "image": "miniatures/photographer-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De fotograaf — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The photographer — generated design image of a painted resin miniature"
+          "nl": "De fotograaf — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The photographer — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/photographer-painted-v2.webp",
+            "image": "miniatures/photographer-black-photo-v3.webp",
             "alt": {
-              "nl": "De fotograaf — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The photographer — generated design image of a painted resin miniature"
+              "nl": "De fotograaf — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The photographer — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/photographer-painted-v2.webp"
+        "compositionImage": "miniatures/photographer-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-tai-chi",
@@ -991,41 +983,39 @@
           "en": "In balance"
         },
         "short": {
-          "nl": "Een rustig tai-chimoment in een blauwgroen jasje met lichte sluitingen.",
-          "en": "A quiet tai chi moment in a teal jacket with pale closures."
+          "nl": "Een rustig tai-chimoment met open handen en losse kleding op een lage voet. Voorgesteld in effen matzwart.",
+          "en": "A quiet tai chi pose with open hands and loose clothes on a low base. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een rustig tai-chimoment in een blauwgroen jasje met lichte sluitingen. Een zachte glimlach, grijzende haren en geschilderde schaduwen in de stofplooien benadrukken de houding. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A quiet tai chi moment in a teal jacket with pale closures. A soft smile, greying hair and painted shadows in the cloth folds emphasise the pose. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een rustig tai-chimoment met open handen en losse kleding op een lage voet. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A quiet tai chi pose with open hands and loose clothes on a low base. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/tai-chi-painted-v2.webp",
+        "image": "miniatures/tai-chi-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "In balans — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "In balance — generated design image of a painted resin miniature"
+          "nl": "In balans — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "In balance — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/tai-chi-painted-v2.webp",
+            "image": "miniatures/tai-chi-black-photo-v3.webp",
             "alt": {
-              "nl": "In balans — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "In balance — generated design image of a painted resin miniature"
+              "nl": "In balans — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "In balance — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/tai-chi-painted-v2.webp"
+        "compositionImage": "miniatures/tai-chi-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-lantern-keeper",
@@ -1035,41 +1025,39 @@
           "en": "The lantern keeper"
         },
         "short": {
-          "nl": "Een reiziger met een strohoed, een gedempt rood gewaad en een kleine lantaarn.",
-          "en": "A traveller with a straw hat, a muted red robe and a small lantern."
+          "nl": "Een reiziger met een hoed, bepakking en een kleine lantaarn. Voorgesteld in effen matzwart.",
+          "en": "A traveller with a hat, pack and small lantern. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een reiziger met een strohoed, een gedempt rood gewaad en een kleine lantaarn. Beenwikkels, touwknopen en warme amberkleurige lantaarnpanelen brengen het figuur tot leven. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A traveller with a straw hat, a muted red robe and a small lantern. Leg wrappings, rope knots and warm amber lantern panels bring the figure to life. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een reiziger met een hoed, bepakking en een kleine lantaarn. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A traveller with a hat, pack and small lantern. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/lantern-keeper-painted-v2.webp",
+        "image": "miniatures/lantern-keeper-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De lantaarnwachter — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The lantern keeper — generated design image of a painted resin miniature"
+          "nl": "De lantaarnwachter — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The lantern keeper — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/lantern-keeper-painted-v2.webp",
+            "image": "miniatures/lantern-keeper-black-photo-v3.webp",
             "alt": {
-              "nl": "De lantaarnwachter — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The lantern keeper — generated design image of a painted resin miniature"
+              "nl": "De lantaarnwachter — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The lantern keeper — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/lantern-keeper-painted-v2.webp"
+        "compositionImage": "miniatures/lantern-keeper-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-tea-host",
@@ -1079,41 +1067,39 @@
           "en": "The tea moment"
         },
         "short": {
-          "nl": "Een intiem theemoment met een pruimkleurige kimono en fijne bloemmotieven.",
-          "en": "An intimate tea moment with a plum kimono and fine floral motifs."
+          "nl": "Een knielende theeschenker met een kleine theepot, kopje en laag tafeltje. Voorgesteld in effen matzwart.",
+          "en": "A kneeling tea host with a small teapot, cup and low table. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een intiem theemoment met een pruimkleurige kimono en fijne bloemmotieven. Het kleine servies, de haarspeld en de beschilderde bloesem geven dit tafereel zijn eigen karakter. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "An intimate tea moment with a plum kimono and fine floral motifs. The tiny tea set, hairpin and painted blossoms give this scene its own character. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een knielende theeschenker met een kleine theepot, kopje en laag tafeltje. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A kneeling tea host with a small teapot, cup and low table. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/tea-host-painted-v2.webp",
+        "image": "miniatures/tea-host-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "Het theemoment — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The tea moment — generated design image of a painted resin miniature"
+          "nl": "Het theemoment — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The tea moment — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/tea-host-painted-v2.webp",
+            "image": "miniatures/tea-host-black-photo-v3.webp",
             "alt": {
-              "nl": "Het theemoment — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The tea moment — generated design image of a painted resin miniature"
+              "nl": "Het theemoment — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The tea moment — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/tea-host-painted-v2.webp"
+        "compositionImage": "miniatures/tea-host-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-bonsai-observer",
@@ -1123,41 +1109,39 @@
           "en": "The observer"
         },
         "short": {
-          "nl": "Een beschouwer op een rots, in mosgroene kleding met een kleine veldfles.",
-          "en": "An observer sitting on a rock in moss-green clothes, with a small flask."
+          "nl": "Een beschouwer die ontspannen op een rots zit, met een kleine veldfles. Voorgesteld in effen matzwart.",
+          "en": "An observer sitting quietly on a rock, with a small flask. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een beschouwer op een rots, in mosgroene kleding met een kleine veldfles. De grijzende baard, ontspannen handen en rustige kleuren passen bij een ingetogen bonsaiopstelling. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "An observer sitting on a rock in moss-green clothes, with a small flask. The greying beard, relaxed hands and quiet colours suit a restrained bonsai display. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een beschouwer die ontspannen op een rots zit, met een kleine veldfles. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "An observer sitting quietly on a rock, with a small flask. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/bonsai-observer-painted-v2.webp",
+        "image": "miniatures/bonsai-observer-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De beschouwer — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The observer — generated design image of a painted resin miniature"
+          "nl": "De beschouwer — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The observer — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/bonsai-observer-painted-v2.webp",
+            "image": "miniatures/bonsai-observer-black-photo-v3.webp",
             "alt": {
-              "nl": "De beschouwer — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The observer — generated design image of a painted resin miniature"
+              "nl": "De beschouwer — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The observer — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/bonsai-observer-painted-v2.webp"
+        "compositionImage": "miniatures/bonsai-observer-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-fox",
@@ -1167,41 +1151,39 @@
           "en": "The fox"
         },
         "short": {
-          "nl": "Een zittende vos met een gekrulde staart, roestrode vacht en een lichte borst.",
-          "en": "A seated fox with a curled tail, russet fur and a pale chest."
+          "nl": "Een zittende vos met een gekrulde staart en fijne vachtstructuur. Voorgesteld in effen matzwart.",
+          "en": "A seated fox with a curled tail and fine sculpted fur. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een zittende vos met een gekrulde staart, roestrode vacht en een lichte borst. Fijne vachtstructuur, donkere oorranden en zorgvuldig geschilderde ogen geven hem een natuurlijke uitstraling. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A seated fox with a curled tail, russet fur and a pale chest. Fine fur relief, dark ear edges and carefully painted eyes give it a natural appearance. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een zittende vos met een gekrulde staart en fijne vachtstructuur. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A seated fox with a curled tail and fine sculpted fur. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/fox-painted-v2.webp",
+        "image": "miniatures/fox-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De vos — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The fox — generated design image of a painted resin miniature"
+          "nl": "De vos — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The fox — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/fox-painted-v2.webp",
+            "image": "miniatures/fox-black-photo-v3.webp",
             "alt": {
-              "nl": "De vos — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The fox — generated design image of a painted resin miniature"
+              "nl": "De vos — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The fox — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/fox-painted-v2.webp"
+        "compositionImage": "miniatures/fox-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-heron",
@@ -1211,41 +1193,39 @@
           "en": "The heron"
         },
         "short": {
-          "nl": "Een reiger met blauwgrijze vleugels, een lichte hals en een okerkleurige snavel.",
-          "en": "A heron with blue-grey wings, a pale neck and an ochre beak."
+          "nl": "Een reiger met gevouwen vleugels en een gebogen hals op een kleine rivieroever. Voorgesteld in effen matzwart.",
+          "en": "A heron with folded wings and a curved neck on a small riverbank. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een reiger met blauwgrijze vleugels, een lichte hals en een okerkleurige snavel. Afzonderlijke veren, subtiele kleurverschillen en een kleine rivieroever vormen een rustig accent. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A heron with blue-grey wings, a pale neck and an ochre beak. Individual feathers, subtle colour changes and a small riverbank form a quiet accent. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een reiger met gevouwen vleugels en een gebogen hals op een kleine rivieroever. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A heron with folded wings and a curved neck on a small riverbank. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/heron-painted-v2.webp",
+        "image": "miniatures/heron-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De reiger — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The heron — generated design image of a painted resin miniature"
+          "nl": "De reiger — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The heron — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/heron-painted-v2.webp",
+            "image": "miniatures/heron-black-photo-v3.webp",
             "alt": {
-              "nl": "De reiger — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The heron — generated design image of a painted resin miniature"
+              "nl": "De reiger — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The heron — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/heron-painted-v2.webp"
+        "compositionImage": "miniatures/heron-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-tortoise",
@@ -1255,41 +1235,39 @@
           "en": "The tortoise"
         },
         "short": {
-          "nl": "Een wandelende schildpad met een olijfbruin schild en warme zandkleurige schubben.",
-          "en": "A walking tortoise with an olive-brown shell and warm sandy scales."
+          "nl": "Een wandelende schildpad met groeiringen op het schild en fijne schubben. Voorgesteld in effen matzwart.",
+          "en": "A walking tortoise with shell growth rings and fine scales. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een wandelende schildpad met een olijfbruin schild en warme zandkleurige schubben. De groeiringen, kleine klauwen en geschilderde rotsondergrond zijn van dichtbij te bekijken. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A walking tortoise with an olive-brown shell and warm sandy scales. Growth rings, tiny claws and the painted rocky base invite a closer look. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een wandelende schildpad met groeiringen op het schild en fijne schubben. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A walking tortoise with shell growth rings and fine scales. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/tortoise-painted-v2.webp",
+        "image": "miniatures/tortoise-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "De schildpad — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "The tortoise — generated design image of a painted resin miniature"
+          "nl": "De schildpad — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "The tortoise — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/tortoise-painted-v2.webp",
+            "image": "miniatures/tortoise-black-photo-v3.webp",
             "alt": {
-              "nl": "De schildpad — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "The tortoise — generated design image of a painted resin miniature"
+              "nl": "De schildpad — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "The tortoise — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/tortoise-painted-v2.webp"
+        "compositionImage": "miniatures/tortoise-black-cutout-v3.webp"
       },
       {
         "id": "bonsai-mini-stone-lantern",
@@ -1299,41 +1277,39 @@
           "en": "Garden lantern"
         },
         "short": {
-          "nl": "Een Japanse tuinlantaarn met een geschilderde uitstraling van verweerd graniet.",
-          "en": "A Japanese garden lantern painted to resemble weathered granite."
+          "nl": "Een kleine Japanse tuinlantaarn met een pagodedak, vensters en een lage voet. Voorgesteld in effen matzwart.",
+          "en": "A small Japanese garden lantern with a pagoda roof, windows and a low base. Proposed in plain matte black."
         },
         "detail": {
-          "nl": "Een Japanse tuinlantaarn met een geschilderde uitstraling van verweerd graniet. Fijne groeven, lichte randen en kleine mosaccenten zorgen voor diepte op miniatuurschaal. Dit gegenereerde ontwerpbeeld laat zien hoe een fijne resinprint met handgeschilderde afwerking eruit zou kunnen zien. Het ontwerp is nog niet geprint. Maat, details, kleur en maakbaarheid stemmen we samen af.",
-          "en": "A Japanese garden lantern painted to resemble weathered granite. Fine grooves, pale edges and small moss accents create depth at miniature scale. This generated design image shows how a fine resin print with a hand-painted finish could look. The design has not been printed. We agree size, details, colour and manufacturability together."
+          "nl": "Een kleine Japanse tuinlantaarn met een pagodedak, vensters en een lage voet. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, weergegeven alsof hij op een werktafel is gefotografeerd. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af.",
+          "en": "A small Japanese garden lantern with a pagoda roof, windows and a low base. The image is a generated example of a resin miniature in plain matte black, shown as if photographed on a worktable. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
           "en": "Design proposal · not yet printed · size on enquiry"
         },
         "options": [
-          "painted",
-          "black",
-          "custom"
+          "black"
         ],
         "stage": "future",
         "visualKind": "concept",
         "newDesign": true,
-        "image": "miniatures/stone-lantern-painted-v2.webp",
+        "image": "miniatures/stone-lantern-black-photo-v3.webp",
         "imageAlt": {
-          "nl": "Tuinlantaarn — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-          "en": "Garden lantern — generated design image of a painted resin miniature"
+          "nl": "Tuinlantaarn — gegenereerd fotografisch voorbeeld in effen matzwart",
+          "en": "Garden lantern — generated photographic example in plain matte black"
         },
         "gallery": [
           {
-            "image": "miniatures/stone-lantern-painted-v2.webp",
+            "image": "miniatures/stone-lantern-black-photo-v3.webp",
             "alt": {
-              "nl": "Tuinlantaarn — gegenereerd ontwerpbeeld van een beschilderde resinminiatuur",
-              "en": "Garden lantern — generated design image of a painted resin miniature"
+              "nl": "Tuinlantaarn — gegenereerd fotografisch voorbeeld in effen matzwart",
+              "en": "Garden lantern — generated photographic example in plain matte black"
             },
             "visualKind": "concept"
           }
         ],
-        "compositionImage": "miniatures/stone-lantern-painted-v2.webp"
+        "compositionImage": "miniatures/stone-lantern-black-cutout-v3.webp"
       }
     ],
     "customTitle": {
