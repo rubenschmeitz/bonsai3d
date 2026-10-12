@@ -22,15 +22,71 @@
     examples: function (api) {
       var tr=api.tr, image=api.image;
       var examples=[
-        {"id":"maple-wood","nl":"Een verfijnde esdoorn.","en":"A refined maple.","copyNl":"Fijn vertakte takken en een brede, luchtige kroon boven de lage tafel. Houtlook brengt warmte; de theedrinker blijft een klein accent naast de boom.","copyEn":"Fine ramification and a broad, airy crown above the low stand. Wood look adds warmth; the tea drinker remains a small accent beside the tree.","altNl":"Gegenereerde volwassen Japanse esdoorn in de grijze takkenpot op de lage houtlook displaytafel, met de bronzen theedrinker ernaast","altEn":"Generated mature Japanese maple in the grey branch pot on the low wood-look display stand, with the bronze tea drinker beside it","product":"bonsai-classic-table","finish":"wood","linkNl":"Bekijk de displaytafel","linkEn":"View the low display stand","figure":"bonsai-tea-figure","figureNl":"Bekijk de theedrinker","figureEn":"View the tea drinker","newTree":true},
-        {"id":"juniper-wood","nl":"Oud hout, levend groen.","en":"Old wood, living green.","copyNl":"Een jeneverbes met een oude stam, fijn loof en ruimte tussen de takken. De ronde wortelstandaard sluit aan bij de beweging van de boom, met de bonsailiefhebber als bescheiden accent.","copyEn":"A juniper with an aged trunk, fine foliage and space between branches. The round root stand follows the tree’s movement, with the bonsai enthusiast as a modest accent.","altNl":"Gegenereerde volwassen jeneverbes in een bruine pot op de ronde houtlook wortelstandaard, naast het bruine bonsailiefhebberfiguur","altEn":"Generated mature juniper in a brown pot on the round wood-look root stand, beside the brown bonsai enthusiast figure","product":"bonsai-root-pedestal","finish":"wood","linkNl":"Bekijk de wortelstandaard","linkEn":"View the round root stand","figure":"bonsai-kneeling-figure","figureNl":"Bekijk de bonsailiefhebber","figureEn":"View the bonsai enthusiast","newTree":true},
-        {"id":"pine-black","nl":"Den & matzwart.","en":"Pine & matte black.","copyNl":"Een krachtige den met oude bast en verfijnde naalden. De lage zwarte tafel geeft de boom een rustige basis; de zwarte theedrinker houdt de opstelling ingetogen.","copyEn":"A strong pine with aged bark and refined needles. The low black stand gives the tree a quiet base; the black tea drinker keeps the display restrained.","altNl":"Gegenereerde volwassen Japanse zwarte den in de grijze takkenpot op de matzwarte lage displaytafel met de zwarte theedrinker","altEn":"Generated mature Japanese black pine in the grey branch pot on the matte-black low display stand with the black tea drinker","product":"bonsai-classic-table","finish":"black","linkNl":"Bekijk de displaytafel","linkEn":"View the low display stand","figure":"bonsai-tea-figure","figureNl":"Bekijk de theedrinker","figureEn":"View the tea drinker","newTree":true},
-        {"id":"cascade-refined-black","nl":"Een cascade met karakter.","en":"A cascade with character.","copyNl":"Een verfijnde jeneverbes daalt langs de open standaard. De rode takkenpot geeft kleur, terwijl de zwarte afwerking en het kleine figuur ruimte laten voor de lijnen van de boom.","copyEn":"A refined juniper descends beside the open stand. The red branch pot adds colour, while the black finish and small figure leave room for the tree’s lines.","altNl":"Gegenereerde volwassen cascadejeneverbes in de rode takkenpot op de matzwarte open wortelstandaard, naast de zwarte bonsailiefhebber","altEn":"Generated mature cascade juniper in the red branch pot on the matte-black open root stand, beside the black bonsai enthusiast","product":"bonsai-open-root-pedestal","finish":"black","linkNl":"Bekijk de open wortelstandaard","linkEn":"View the open root stand","figure":"bonsai-kneeling-figure","figureNl":"Bekijk de bonsailiefhebber","figureEn":"View the bonsai enthusiast","newTree":true},
-        {id:'flowering-wood',nl:'Bloei & houtlook.',en:'Flowers & wood look.',copyNl:'Een lage tafel onder een bloeiende boom. De warme afwerking en een klein figuur verbinden de objecten, terwijl de boom de aandacht houdt.',copyEn:'A low stand beneath a flowering tree. The warm finish and a small figure connect the objects, while the tree remains the focus.',altNl:'Voorbeeldbeeld van een bloeiende bonsai in de bestaande takkenpot op de houten displaytafel, met een kleine theedrinker ernaast',altEn:'Display example of a flowering bonsai in the existing branch pot on the wood-look stand, with a small tea drinker beside it',product:'bonsai-classic-table',finish:'wood',linkNl:'Bekijk de displaytafel',linkEn:'View the low display stand'},
-        {id:'cascade-black',nl:'Ruimte voor een cascade.',en:'Room for a cascade.',copyNl:'Een hoge, open standaard geeft de neerhangende takken ruimte. Matzwart houdt het onderstel rustig naast het groen van de boom.',copyEn:'A tall, open stand gives the cascading branches space. Matte black keeps the support quiet beside the green foliage.',altNl:'Voorbeeldbeeld van een echte cascadebonsai met bruine pot op de matzwarte open wortelstandaard',altEn:'Display example of a real cascade bonsai with a brown pot on the matte-black open root stand',product:'bonsai-open-root-pedestal',finish:'black',linkNl:'Bekijk de open wortelstandaard',linkEn:'View the open root stand'}
-      ];
-      return '<section class="examples wrap" aria-labelledby="examples-title"><div class="section-heading"><div><p class="eyebrow">BONSAI3D / '+tr('VOORBEELDOPSTELLINGEN','DISPLAY EXAMPLES')+'</p><h1 class="page-title" id="examples-title">'+tr('Ideeën voor<br>jouw opstelling.','Ideas for<br>your display.')+'</h1></div><p>'+tr('Zes opstellingen, van een verfijnde esdoorn tot een uitgesproken cascade. Houtlook en matzwart, met een rustige achterwand en kleine figuren naast de boom.','Six displays, from a refined maple to a striking cascade. Wood look and matte black, with a quiet backdrop and small figures beside the tree.')+'</p></div><div class="example-stories">'+examples.map(function (example,i) {
-        return '<article class="display-example" id="'+example.id+'" data-example="'+example.id+'"><figure><img src="'+image('exhibition/'+example.id+'-v1.webp')+'" alt="'+tr(example.altNl,example.altEn)+'" width="1536" height="1024" loading="'+(i===0?'eager':'lazy')+'"><figcaption>'+(example.newTree?tr('Gegenereerde inspiratie met een volwassen voorbeeldboom en bestaande BONSAI3D-ontwerpen.','Generated inspiration with a mature example tree and existing BONSAI3D designs.'):tr('Gegenereerd voorbeeld op basis van eigen bonsai- en productfoto’s.','Generated example based on our own bonsai and product photographs.'))+'</figcaption></figure><div class="example-copy"><p class="eyebrow">0'+(i+1)+' / '+tr(example.finish==='wood'?'HOUTLOOK':'MATZWART',example.finish==='wood'?'WOOD LOOK':'MATTE BLACK')+'</p><h2>'+tr(example.nl,example.en)+'</h2><p>'+tr(example.copyNl,example.copyEn)+'</p><button class="text-link" data-product="'+example.product+'" data-finish="'+example.finish+'">'+tr(example.linkNl,example.linkEn)+' ↗</button>'+(example.figure?'<button class="text-link example-figure-link" data-product="'+example.figure+'" data-finish="'+example.finish+'">'+tr(example.figureNl,example.figureEn)+' ↗</button>':'')+'</div></article>';
+        {
+                "id": "maple-wood",
+                "nl": "Een luchtige esdoorn.",
+                "en": "An airy maple.",
+                "copyNl": "Een open kroon boven een lage, brede tafel. De boom beweegt naar het kleine accent; de ruimte ertussen geeft beide een eigen plek.",
+                "copyEn": "An open crown above a low, broad stand. The tree moves towards the small accent; the space between them gives each its own place.",
+                "altNl": "Gegenereerde tentoonstellingsopstelling met een natuurlijke esdoorn, de grijze takkenpot en lage houtlook tafel, met een kleine bronzen theedrinker op afstand",
+                "altEn": "Generated exhibition display with a natural-looking maple, grey branch pot and low wood-look stand, with a small bronze tea drinker set apart",
+                "product": "bonsai-classic-table",
+                "finish": "wood",
+                "linkNl": "Bekijk de displaytafel",
+                "linkEn": "View the low display stand",
+                "figure": "bonsai-tea-figure",
+                "figureNl": "Bekijk de theedrinker",
+                "figureEn": "View the tea drinker",
+                "image": "exhibition/maple-wood-v2.webp"
+        },
+        {
+                "id": "juniper-wood",
+                "nl": "Beweging & houtlook.",
+                "en": "Movement & wood look.",
+                "copyNl": "Een halfcascade met ruimte aan de kant waar de takken naartoe groeien. De ronde wortelstandaard geeft hoogte; zonder extra figuur blijven de lijnen leesbaar.",
+                "copyEn": "A semi-cascade with space in the direction of its branches. The round root stand adds height; the lines remain clear without an extra figure.",
+                "altNl": "Gegenereerde halfcascadejeneverbes in een bruine pot op de ronde houtlook wortelstandaard, zonder figuur en met lege ruimte naast de takken",
+                "altEn": "Generated semi-cascade juniper in a brown pot on the round wood-look root stand, with no figure and open space beside the branches",
+                "product": "bonsai-root-pedestal",
+                "finish": "wood",
+                "linkNl": "Bekijk de wortelstandaard",
+                "linkEn": "View the round root stand",
+                "image": "exhibition/juniper-wood-v2.webp"
+        },
+        {
+                "id": "pine-black",
+                "nl": "Den, ruimte & matzwart.",
+                "en": "Pine, space & matte black.",
+                "copyNl": "Een asymmetrische den op een lage zwarte tafel. De theedrinker staat klein en los van het onderstel, aan de kant waar de kroon naartoe beweegt.",
+                "copyEn": "An asymmetrical pine on a low black stand. The small tea drinker sits apart from the support, on the side towards which the crown moves.",
+                "altNl": "Gegenereerde natuurlijke den in de bestaande grijze takkenpot op de lage matzwarte tafel, met een kleine zwarte theedrinker op afstand",
+                "altEn": "Generated natural-looking pine in the existing grey branch pot on the low matte-black stand, with a small black tea drinker set apart",
+                "product": "bonsai-classic-table",
+                "finish": "black",
+                "linkNl": "Bekijk de displaytafel",
+                "linkEn": "View the low display stand",
+                "figure": "bonsai-tea-figure",
+                "figureNl": "Bekijk de theedrinker",
+                "figureEn": "View the tea drinker",
+                "image": "exhibition/pine-black-v2.webp"
+        },
+        {
+                "id": "cascade-refined-black",
+                "nl": "Een vrije cascade.",
+                "en": "A free cascade.",
+                "copyNl": "De neerhangende takken krijgen ruimte naast het open onderstel. De rode pot vormt het kleuraccent; de boom en de zwarte standaard dragen samen de opstelling.",
+                "copyEn": "The descending branches have room beside the open support. The red pot provides the colour accent; the tree and black stand form the display together.",
+                "altNl": "Gegenereerde cascadejeneverbes in de ongewijzigde rode takkenpot op de matzwarte open wortelstandaard, zonder figuren",
+                "altEn": "Generated cascade juniper in the unchanged red branch pot on the matte-black open root stand, with no figures",
+                "product": "bonsai-open-root-pedestal",
+                "finish": "black",
+                "linkNl": "Bekijk de open wortelstandaard",
+                "linkEn": "View the open root stand",
+                "image": "exhibition/cascade-refined-black-v2.webp"
+        }
+];
+      return '<section class="examples wrap" aria-labelledby="examples-title"><div class="section-heading"><div><p class="eyebrow">BONSAI3D / '+tr('VOORBEELDOPSTELLINGEN','DISPLAY EXAMPLES')+'</p><h1 class="page-title" id="examples-title">'+tr('Ideeën voor<br>jouw opstelling.','Ideas for<br>your display.')+'</h1></div><p>'+tr('Vier opstellingen waarin de boom de richting bepaalt. Een passende tafel, voldoende ruimte en soms één klein accent. In houtlook en matzwart.','Four displays shaped by the direction of the tree. A suitable stand, room to breathe and sometimes one small accent. In wood look and matte black.')+'</p></div><div class="example-stories">'+examples.map(function (example,i) {
+        return '<article class="display-example" id="'+example.id+'" data-example="'+example.id+'"><figure><img src="'+image(example.image)+'" alt="'+tr(example.altNl,example.altEn)+'" width="1536" height="1024" loading="'+(i===0?'eager':'lazy')+'"><figcaption>'+tr('Gegenereerde tentoonstellingsstudie met BONSAI3D-ontwerpen. Boom en styling zijn voorbeelden.','Generated exhibition study with BONSAI3D designs. Tree and styling are examples.')+'</figcaption></figure><div class="example-copy"><p class="eyebrow">0'+(i+1)+' / '+tr(example.finish==='wood'?'HOUTLOOK':'MATZWART',example.finish==='wood'?'WOOD LOOK':'MATTE BLACK')+'</p><h2>'+tr(example.nl,example.en)+'</h2><p>'+tr(example.copyNl,example.copyEn)+'</p><button class="text-link" data-product="'+example.product+'" data-finish="'+example.finish+'">'+tr(example.linkNl,example.linkEn)+' ↗</button>'+(example.figure?'<button class="text-link example-figure-link" data-product="'+example.figure+'" data-finish="'+example.finish+'">'+tr(example.figureNl,example.figureEn)+' ↗</button>':'')+'</div></article>';
       }).join('')+'</div><div class="examples-note"><p>'+tr('De beelden zijn bedoeld als inspiratie. De bomen en styling zijn presentatievoorbeelden; maat, afwerking en uitvoering bespreken we per aanvraag.','These images are for inspiration. Trees and styling are display examples; size, finish and final version are discussed for each enquiry.')+'</p><a class="text-link" href="'+api.pageUrl('atelier')+'#display">'+tr('Bekijk ook een eigen opstelling','See one of my own displays')+' ↗</a></div></section>';
     },
     finishes: function (api) {
