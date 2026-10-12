@@ -118,3 +118,23 @@ finish on a pot require discussion instead of an automatic price. No automatic
 quote, order, payment or submission occurs. Drafts include chosen prices and
 calculator details and remain copyable/downloadable locally. Trees, plants,
 stones, styling and delivery are excluded.
+
+## Isolated miniature portraits and tree stories — 12 October 2026
+
+The collection now contains 43 objects, including 22 miniatures. Every miniature
+starts with a large isolated product portrait on a quiet exhibition backdrop;
+its second gallery image places that same design with a matching living bonsai.
+The tea drinker's wood/black choices each retain this order. Grey remains an
+unpreviewed enquiry preference. Home uses isolated new portraits; the examples
+page shows nine contextual studies beside living trees.
+
+Three original black resin proposals engage with the tree: the watergiver pours
+at the root/soil, the branch tender meets a low twig with shears, and a curious
+squirrel rests its paws on the trunk. The pruner/master's tiny printed trees are
+removed from revised portraits and replaced by separate living trees in context.
+The tea host's separate small floral vase is also removed for a simpler portrait.
+29 new selected images are generated with built-in Imagegen; prompts, references,
+raw PNGs and hashes are archived privately. New designs are unprinted and on
+enquiry, with indicative prices EUR30/40/25. Living trees and pots are styling,
+not supplied with the miniature. Existing non-miniature records, owner photos,
+previous media, four static examples, pot designs and custom estimator are preserved.
