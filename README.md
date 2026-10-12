@@ -121,7 +121,7 @@ stones, styling and delivery are excluded.
 
 ## Isolated miniature portraits and tree stories — 12 October 2026
 
-The collection now contains 43 objects, including 22 miniatures. Every miniature
+The earlier paired-view revision contained 43 objects, including 22 miniatures. Every miniature
 starts with a large isolated product portrait on a quiet exhibition backdrop;
 its second gallery image places that same design with a matching living bonsai.
 The tea drinker's wood/black choices each retain this order. Grey remains an
@@ -154,7 +154,7 @@ provenance: private research/miniature-exhibition-2026-10-12/.
 
 ## Dutch garden miniature direction — 12 October 2026
 
-The active collection now contains 36 objects, including 15 miniatures. Thirteen
+The active collection now contains 32 objects, including 11 miniatures. Thirteen
 traditional robe/tea/temple-themed entries are removed from active product cards,
 links and enquiries; original product records and every previous image are archived.
 Six new matte-black resin design proposals draw on everyday Dutch gardens and
@@ -173,3 +173,12 @@ variants are archived. The six new pairings follow the latest small-accent scale
 full prompts, raw PNGs, references and hashes are archived privately. Trees, pots
 and display styling are not included with the miniature. Existing pot records,
 non-miniature designs, earlier media, custom estimate and prior removals remain.
+
+The active miniature collection is curated to 11 designs: Dutch garden/park
+scenes and more detailed nature figures. Basic fox, heron, tortoise and crane
+entries are retired; the root guardian and traditional Asian-themed entries
+remain excluded. All earlier images are retained. Eleven v4 paired images use
+more natural foliage, twig taper, bark and root texture while preserving the
+small black miniatures and existing display props. First portraits, options
+and guide prices stay unchanged. Full prompts, originals and retired records
+are archived privately in research/realistic-exhibition-trees-2026-10-12/.
