@@ -104,3 +104,11 @@ Product finish choices are shown in the image, retained in local selections, enc
 in product links and included in enquiry text. No physical print or strength test
 was performed for this website revision. YORI3D remains a separate private repository
 with Pages disabled; it is not linked from this website.
+
+The featured miniature exhibition staging uses restrained asymmetrical pairings,
+wooden display stands and separate tiny jitas on neutral linen. The Omiya Bonsai
+Art Museum gallery and National Bonsai Foundation museum pages informed the
+exhibition context; no external images/designs were copied. Sources:
+https://www.bonsai-art-museum.jp/en/facilities/service/gallery/
+https://www.bonsai-nbf.org/bonsai-museum
+All new exhibition scenes are generated concepts, not proof of physical displays.

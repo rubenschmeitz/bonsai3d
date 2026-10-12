@@ -144,3 +144,10 @@ black resin accents beside substantially larger living bonsais. Catalogue target
 size is 3–5 cm, subject to final design, with illustrative 30–45 cm trees. First
 isolated portraits and all previous image files remain intact. Full editing
 prompts and provenance: private research/miniature-scale-2026-10-12/.
+
+The nine featured pairings now use exhibition-staged v3 images: bonsai on a low
+wooden stand, small black resin accent on a separate jita, cream linen and a
+neutral partition. Small scale and isolated-first gallery order remain. All old
+images preserved. These are generated staging proposals, not physical show photos.
+Tree/pot/stand/jita are styling, not included in miniature prices. Prompts and
+provenance: private research/miniature-exhibition-2026-10-12/.
