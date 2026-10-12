@@ -17,7 +17,7 @@ these compositions. Its separate catalogue entry remains available.
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
 
-The October 2026 collection now contains 37 objects across six categories, including 14 miniatures, 15 tables/jitas, two pots and six accent/stone/display accessories.
+The October 2026 collection now contains 34 objects across six categories: ten tables/jitas, thirteen miniatures, two pots, two accent-plant designs, two stone bases and five presentation details.
 New miniatures are generated concepts, have not been printed and have no production
 geometry. Size, finish, details and manufacturability are agreed through an enquiry.
 Their current exhibition images depict simple plain matte-black resin miniatures
@@ -69,24 +69,34 @@ photographs as references. Full prompts, raw PNGs and source/output hashes are
 archived in the private printing workspace research directory. All earlier media
 are preserved; the two earlier weaker cards are removed from the examples page.
 
-Four new display tables (bridge, octagonal, round and slim accent) and four jitas
-(oval, long, faceted and round) each have wood-look and matte-black photographic
-concept views under `assets/display-designs/`. Built-in Imagegen created the views
-with the existing exhibition setting as a style reference. These remain explicitly
-generated, unprinted design proposals; dimensions, load and manufacturability
-require agreement for an eventual version. No production geometry is supplied.
-The entry `jita` is now "Mijn jita" / "My jita", showing Ruben's original made
-plate in its actual arrangement. Its original and lightly corrected photographs
-are the active gallery. Previous generated organic variants are retained as
-archived files but are no longer shown. Existing saved jita selections retain
-their identity and use its documented wood-look finish. All other products, black-only
-miniature options, static examples and original photo bytes are preserved.
+The collection keeps the bridge, octagonal and round display-table proposals,
+the oval jita, and the later signature tables and contour jita. Earlier designs
+and original images remain archived in Git history and the asset folders.
+
+## Curated collection and presentation details — 12 October 2026
+
+The owner removed Mijn jita, the slim accent table, long/faceted/round jitas and
+the kneeling bonsai enthusiast from the active catalogue. Existing saved selections
+are filtered against the active product list, and old product links receive the
+existing outside-collection notice. Source images are preserved.
+
+Three unprinted presentation-detail proposals are added: miniature bridge, open
+bamboo-motif screen and a straight freestanding scroll holder. Each has a matching
+wood-look and matte-black generated photograph under `assets/details/`; grey is
+an enquiry preference with no preview. Wood look describes printed/finished material,
+not natural timber or bamboo. Plants, pots, paper, artwork and other styling are
+excluded. Provisional raw/wood prices are EUR20/30 for the bridge and EUR25/40 for
+the screen and holder, consistent with the existing indicative pricing policy.
+Six built-in Imagegen calls generated three wood images and three matching black
+finish edits. Full prompts, inputs, raw PNGs and image hashes are archived privately.
+The other 31 records, pricing calculator, pots, four static examples, original
+photos and earlier generated assets remain unchanged.
 
 ## Atelier identity and pricing revision — 12 October 2026
 
 The native SVG mark connects an asymmetrical branching tree with print layers.
 Close generated photographic compositions show each table with a bonsai, each jita
-with an accent planting (the owner's own jita retains its actual photograph),
+with an accent planting,
 each pot with a matching tree and each miniature beside a living example bonsai.
 52 new images include three original signature designs with root, branch-lattice
 and contour details and six exhibition accessories. All originals remain available.

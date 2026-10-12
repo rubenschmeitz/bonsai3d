@@ -569,67 +569,6 @@
         }
       },
       {
-        "id": "jita",
-        "category": "display",
-        "name": {
-          "nl": "Mijn jita",
-          "en": "My jita"
-        },
-        "short": {
-          "nl": "Mijn eigen gemaakte jita, op de foto met een kleine opstelling.",
-          "en": "My own made jita, photographed with a small display."
-        },
-        "image": "prints/jita-exhibition.webp",
-        "detail": {
-          "nl": "Deze jita is door Ruben gemaakt. De eigen foto toont het dunne bruine plateau met een onregelmatige schorsrand, in een opstelling met een plant en een bonsaifiguur. Voor een nieuw exemplaar stemmen we maat en uitvoering samen af. De plant, potten en figuur op de foto zijn losse onderdelen.",
-          "en": "This jita was made by Ruben. His own photograph shows the thin brown plate with an irregular bark edge, in an arrangement with a plant and a bonsai figure. We agree dimensions and the final version for a new example together. The plant, pots and figure in the photograph are separate items."
-        },
-        "spec": {
-          "nl": "Eigen gemaakt exemplaar · nieuwe uitvoering op aanvraag",
-          "en": "Own made example · new version on enquiry"
-        },
-        "options": [
-          "wood"
-        ],
-        "visualKind": "photo",
-        "stage": "made",
-        "archiveId": "bonsai-natural-root-stand",
-        "imageAlt": {
-          "nl": "Rubens eigen foto van zijn zelfgemaakte bruine jita met plant en bonsaifiguur",
-          "en": "Ruben's own photograph of his made brown jita with a plant and bonsai figure"
-        },
-        "gallery": [
-          {
-            "image": "prints/jita-exhibition.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Rubens eigen foto van zijn zelfgemaakte bruine jita met plant en bonsaifiguur",
-              "en": "Ruben's own photograph of his made brown jita with a plant and bonsai figure"
-            }
-          },
-          {
-            "image": "prints/natural/jita-exhibition-natural-v1.webp",
-            "visualKind": "corrected",
-            "imageStyle": "documentary",
-            "originalPhoto": "prints/jita-exhibition.webp",
-            "alt": {
-              "nl": "Licht gecorrigeerde eigen foto van Rubens jita",
-              "en": "Lightly corrected own photograph of Ruben's jita"
-            }
-          }
-        ],
-        "imageStyle": "documentary",
-        "zone": "presentation",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 30,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
         "id": "bonsai-bridge-table",
         "category": "display",
         "displayType": "table",
@@ -975,121 +914,6 @@
         }
       },
       {
-        "id": "bonsai-slim-accent-table",
-        "category": "display",
-        "displayType": "table",
-        "name": {
-          "nl": "Smalle accenttafel",
-          "en": "Slim accent table"
-        },
-        "short": {
-          "nl": "Een langwerpig ovaal blad met twee open, rechte zijsteunen.",
-          "en": "An elongated oval top with two open straight side supports."
-        },
-        "detail": {
-          "nl": "Een langwerpig ovaal blad met twee open, rechte zijsteunen. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
-          "en": "An elongated oval top with two open straight side supports. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
-          "en": "Design proposal · size and version on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "stage": "future",
-        "newDesign": true,
-        "image": "atelier/bonsai-slim-accent-table-wood-v1.webp",
-        "imageAlt": {
-          "nl": "Smalle accenttafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Slim accent table with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangementConcept",
-        "imageStyle": "exhibition",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-slim-accent-table-wood-v1.webp",
-            "alt": {
-              "nl": "Smalle accenttafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Slim accent table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          "black": {
-            "image": "atelier/bonsai-slim-accent-table-black-v1.webp",
-            "alt": {
-              "nl": "Smalle accenttafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Slim accent table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          }
-        },
-        "gallery": [
-          {
-            "image": "atelier/bonsai-slim-accent-table-wood-v1.webp",
-            "alt": {
-              "nl": "Smalle accenttafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Slim accent table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "atelier/bonsai-slim-accent-table-black-v1.webp",
-            "alt": {
-              "nl": "Smalle accenttafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Slim accent table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "display-designs/slim-accent-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Slim accent table — generated design proposal in wood look"
-            }
-          },
-          {
-            "image": "display-designs/slim-accent-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Slim accent table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/slim-accent-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Slim accent table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/slim-accent-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Smalle accenttafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Slim accent table — generated design proposal in wood look"
-            }
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 45,
-          "woodExtra": 25,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
         "id": "bonsai-oval-jita",
         "category": "display",
         "displayType": "jita",
@@ -1193,351 +1017,6 @@
             "alt": {
               "nl": "Ovale jita — gegenereerd ontwerpvoorstel in houtlook",
               "en": "Oval jita — generated design proposal in wood look"
-            }
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 20,
-          "woodExtra": 15,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
-        "id": "bonsai-long-jita",
-        "category": "display",
-        "displayType": "jita",
-        "name": {
-          "nl": "Langwerpige jita",
-          "en": "Long jita"
-        },
-        "short": {
-          "nl": "Een smal presentatieplateau met afgeronde hoeken.",
-          "en": "A narrow display plate with rounded corners."
-        },
-        "detail": {
-          "nl": "Een smal presentatieplateau met afgeronde hoeken. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
-          "en": "A narrow display plate with rounded corners. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
-          "en": "Design proposal · size and version on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "stage": "future",
-        "newDesign": true,
-        "image": "atelier/bonsai-long-jita-wood-v1.webp",
-        "imageAlt": {
-          "nl": "Langwerpige jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Long jita with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangementConcept",
-        "imageStyle": "exhibition",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-long-jita-wood-v1.webp",
-            "alt": {
-              "nl": "Langwerpige jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Long jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          "black": {
-            "image": "atelier/bonsai-long-jita-black-v1.webp",
-            "alt": {
-              "nl": "Langwerpige jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Long jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          }
-        },
-        "gallery": [
-          {
-            "image": "atelier/bonsai-long-jita-wood-v1.webp",
-            "alt": {
-              "nl": "Langwerpige jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Long jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "atelier/bonsai-long-jita-black-v1.webp",
-            "alt": {
-              "nl": "Langwerpige jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Long jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "display-designs/long-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Long jita — generated design proposal in wood look"
-            }
-          },
-          {
-            "image": "display-designs/long-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Long jita — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/long-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Long jita — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/long-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Langwerpige jita — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Long jita — generated design proposal in wood look"
-            }
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 20,
-          "woodExtra": 15,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
-        "id": "bonsai-faceted-jita",
-        "category": "display",
-        "displayType": "jita",
-        "name": {
-          "nl": "Jita met facetrand",
-          "en": "Faceted jita"
-        },
-        "short": {
-          "nl": "Een laag vijfhoekig plateau met een afgeschuinde rand.",
-          "en": "A low pentagonal plate with a bevelled edge."
-        },
-        "detail": {
-          "nl": "Een laag vijfhoekig plateau met een afgeschuinde rand. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
-          "en": "A low pentagonal plate with a bevelled edge. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
-          "en": "Design proposal · size and version on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "stage": "future",
-        "newDesign": true,
-        "image": "atelier/bonsai-faceted-jita-wood-v1.webp",
-        "imageAlt": {
-          "nl": "Jita met facetrand met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Faceted jita with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangementConcept",
-        "imageStyle": "exhibition",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-faceted-jita-wood-v1.webp",
-            "alt": {
-              "nl": "Jita met facetrand met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Faceted jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          "black": {
-            "image": "atelier/bonsai-faceted-jita-black-v1.webp",
-            "alt": {
-              "nl": "Jita met facetrand met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Faceted jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          }
-        },
-        "gallery": [
-          {
-            "image": "atelier/bonsai-faceted-jita-wood-v1.webp",
-            "alt": {
-              "nl": "Jita met facetrand met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Faceted jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "atelier/bonsai-faceted-jita-black-v1.webp",
-            "alt": {
-              "nl": "Jita met facetrand met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Faceted jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "display-designs/faceted-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Faceted jita — generated design proposal in wood look"
-            }
-          },
-          {
-            "image": "display-designs/faceted-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Faceted jita — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/faceted-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Faceted jita — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/faceted-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Jita met facetrand — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Faceted jita — generated design proposal in wood look"
-            }
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 20,
-          "woodExtra": 15,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
-        "id": "bonsai-round-jita",
-        "category": "display",
-        "displayType": "jita",
-        "name": {
-          "nl": "Ronde jita",
-          "en": "Round jita"
-        },
-        "short": {
-          "nl": "Een dun rond plateau met een subtiele facet aan de rand.",
-          "en": "A thin circular plate with a subtle bevel at the edge."
-        },
-        "detail": {
-          "nl": "Een dun rond plateau met een subtiele facet aan de rand. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
-          "en": "A thin circular plate with a subtle bevel at the edge. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
-          "en": "Design proposal · size and version on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "stage": "future",
-        "newDesign": true,
-        "image": "atelier/bonsai-round-jita-wood-v1.webp",
-        "imageAlt": {
-          "nl": "Ronde jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Round jita with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangementConcept",
-        "imageStyle": "exhibition",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-round-jita-wood-v1.webp",
-            "alt": {
-              "nl": "Ronde jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          "black": {
-            "image": "atelier/bonsai-round-jita-black-v1.webp",
-            "alt": {
-              "nl": "Ronde jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          }
-        },
-        "gallery": [
-          {
-            "image": "atelier/bonsai-round-jita-wood-v1.webp",
-            "alt": {
-              "nl": "Ronde jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "atelier/bonsai-round-jita-black-v1.webp",
-            "alt": {
-              "nl": "Ronde jita met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round jita with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "display-designs/round-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Round jita — generated design proposal in wood look"
-            }
-          },
-          {
-            "image": "display-designs/round-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Round jita — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/round-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Round jita — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/round-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde jita — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Round jita — generated design proposal in wood look"
             }
           }
         ],
@@ -1928,156 +1407,6 @@
           }
         },
         "compositionImage": "composition/tea-figure-cutout-v1.webp",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 25,
-          "woodExtra": 15,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
-        "id": "bonsai-kneeling-figure",
-        "category": "miniatures",
-        "name": {
-          "nl": "De bonsailiefhebber",
-          "en": "The bonsai enthusiast"
-        },
-        "short": {
-          "nl": "Een geprinte miniatuurscène voor de liefhebber.",
-          "en": "A printed miniature scene for the enthusiast."
-        },
-        "detail": {
-          "nl": "Een geprinte bonsailiefhebber houdt een kleine boom vast, met twee miniatuurbomen naast zich. Het geheel staat op een ronde voet met textuur en kleine gereedschapsdetails. De foto toont de bruine uitvoering. Houding, schaal en een persoonlijke afwerking kunnen bij een nieuwe print worden afgestemd.",
-          "en": "A printed bonsai enthusiast holds a small tree, with two miniature trees beside him. The scene sits on a round textured base with small tool details. The photograph shows the brown version. Pose, scale and a personal finish can be agreed for a new print."
-        },
-        "spec": {
-          "nl": "3D-print · maat en afwerking op aanvraag",
-          "en": "3D print · size and finish on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "gallery": [
-          {
-            "image": "atelier/bonsai-kneeling-figure-wood-v1.webp",
-            "alt": {
-              "nl": "De bonsailiefhebber met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "The bonsai enthusiast with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangement",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          },
-          {
-            "image": "atelier/bonsai-kneeling-figure-black-v1.webp",
-            "alt": {
-              "nl": "De bonsailiefhebber met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "The bonsai enthusiast with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangement",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          },
-          {
-            "image": "exhibition/bonsai-kneeling-figure-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "De bonsailiefhebber — houtlook in een tentoonstellingssetting",
-              "en": "The bonsai enthusiast — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          },
-          {
-            "image": "exhibition/bonsai-kneeling-figure-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "De bonsailiefhebber — matzwart in een tentoonstellingssetting",
-              "en": "The bonsai enthusiast — matte black in an exhibition setting"
-            },
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          },
-          {
-            "image": "prints/natural/kneeling-bonsai-figure-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
-            "alt": {
-              "nl": "Geprinte knielende figuur met drie miniatuurbomen",
-              "en": "Printed kneeling figure with three miniature trees"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "finishes/kneeling-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp",
-            "alt": {
-              "nl": "Bonsailiefhebber met miniatuurbomen in matzwart — afwerkingsvoorbeeld",
-              "en": "Bonsai enthusiast with miniature trees in matte black — finish preview"
-            }
-          },
-          {
-            "image": "prints/kneeling-bonsai-figure.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geprinte knielende figuur met drie miniatuurbomen",
-              "en": "Printed kneeling figure with three miniature trees"
-            }
-          },
-          {
-            "image": "exhibition/bonsai-kneeling-figure-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "De bonsailiefhebber — matzwart in een tentoonstellingssetting",
-              "en": "The bonsai enthusiast — matte black in an exhibition setting"
-            },
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          },
-          {
-            "image": "exhibition/bonsai-kneeling-figure-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "De bonsailiefhebber — houtlook in een tentoonstellingssetting",
-              "en": "The bonsai enthusiast — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          }
-        ],
-        "image": "atelier/bonsai-kneeling-figure-wood-v1.webp",
-        "imageAlt": {
-          "nl": "De bonsailiefhebber met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "The bonsai enthusiast with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangement",
-        "imageStyle": "exhibition",
-        "stage": "printed",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-kneeling-figure-wood-v1.webp",
-            "alt": {
-              "nl": "De bonsailiefhebber met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "The bonsai enthusiast with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangement",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          },
-          "black": {
-            "image": "atelier/bonsai-kneeling-figure-black-v1.webp",
-            "alt": {
-              "nl": "De bonsailiefhebber met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "The bonsai enthusiast with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangement",
-            "originalPhoto": "prints/kneeling-bonsai-figure.webp"
-          }
-        },
-        "compositionImage": "composition/kneeling-figure-cutout-v1.webp",
         "availability": "enquiry",
         "pricing": {
           "base": 25,
@@ -3432,6 +2761,237 @@
         "pricing": {
           "base": 30,
           "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        }
+      },
+      {
+        "id": "detail-bridge",
+        "category": "accessories",
+        "stage": "future",
+        "name": {
+          "nl": "Miniatuur bruggetje",
+          "en": "Miniature bridge"
+        },
+        "short": {
+          "nl": "Een klein bruggetje met een zachte boog en eenvoudige leuningen. Een rustig architectuuraccent naast de boom.",
+          "en": "A small bridge with a gentle arch and simple rails. A quiet architectural accent beside the tree."
+        },
+        "detail": {
+          "nl": "Een klein bruggetje met een zachte boog en eenvoudige leuningen. Een rustig architectuuraccent naast de boom. Dit is een gegenereerd ontwerpvoorstel dat nog niet is geprint. Vorm, maat en maakbaarheid werken we samen uit.",
+          "en": "A small bridge with a gentle arch and simple rails. A quiet architectural accent beside the tree. This is a generated design proposal that has not yet been printed. Shape, dimensions and manufacturability are developed together."
+        },
+        "spec": {
+          "nl": "Los presentatieaccent; bedoeld voor een droog tentoonstellingsvlak. Grootte en uitvoering stemmen we af op de boom. Boom, plant, pot en overige styling niet inbegrepen. Richtprijs per geprint object; definitieve prijs op aanvraag.",
+          "en": "A standalone display accent for a dry exhibition surface. Size and final version are agreed to suit the tree. Tree, plant, pot and other styling excluded. Guide price per printed object; final price on enquiry."
+        },
+        "options": [
+          "wood",
+          "black",
+          "grey"
+        ],
+        "image": "details/detail-bridge-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+          "en": "Generated display example of miniature bridge in wood look, with a living example bonsai in the background"
+        },
+        "visualKind": "arrangementConcept",
+        "gallery": [
+          {
+            "image": "details/detail-bridge-wood-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of miniature bridge in wood look, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "details/detail-bridge-black-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in matzwart, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of miniature bridge in matte black, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "finishes": {
+          "wood": {
+            "image": "details/detail-bridge-wood-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of miniature bridge in wood look, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "details/detail-bridge-black-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in matzwart, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of miniature bridge in matte black, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "newDesign": true,
+        "imageStyle": "exhibition-close",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 20,
+          "woodExtra": 10,
+          "currency": "EUR",
+          "kind": "indicative"
+        }
+      },
+      {
+        "id": "detail-bamboo-screen",
+        "category": "accessories",
+        "stage": "future",
+        "name": {
+          "nl": "Open bamboescherm",
+          "en": "Open bamboo screen"
+        },
+        "short": {
+          "nl": "Open verticale lijnen met subtiele bamboeknopen. Geeft een opstelling een achtergrond zonder de boom aan het zicht te onttrekken.",
+          "en": "Open vertical lines with subtle bamboo nodes. Gives a display a backdrop while keeping the tree visible."
+        },
+        "detail": {
+          "nl": "Open verticale lijnen met subtiele bamboeknopen. Geeft een opstelling een achtergrond zonder de boom aan het zicht te onttrekken. Dit is een gegenereerd ontwerpvoorstel dat nog niet is geprint. Vorm, maat en maakbaarheid werken we samen uit.",
+          "en": "Open vertical lines with subtle bamboo nodes. Gives a display a backdrop while keeping the tree visible. This is a generated design proposal that has not yet been printed. Shape, dimensions and manufacturability are developed together."
+        },
+        "spec": {
+          "nl": "Een geprint scherm met bamboemotief en twee lage voeten. Het materiaal is geen natuurlijk bamboe; houtlook is de afwerking. Boom, plant, pot en overige styling niet inbegrepen. Richtprijs per geprint object; definitieve prijs op aanvraag.",
+          "en": "A printed bamboo-motif screen with two low feet. The material is not natural bamboo; wood look describes the finish. Tree, plant, pot and other styling excluded. Guide price per printed object; final price on enquiry."
+        },
+        "options": [
+          "wood",
+          "black",
+          "grey"
+        ],
+        "image": "details/detail-bamboo-screen-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+          "en": "Generated display example of open bamboo screen in wood look, with a living example bonsai in the background"
+        },
+        "visualKind": "arrangementConcept",
+        "gallery": [
+          {
+            "image": "details/detail-bamboo-screen-wood-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of open bamboo screen in wood look, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "details/detail-bamboo-screen-black-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in matzwart, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of open bamboo screen in matte black, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "finishes": {
+          "wood": {
+            "image": "details/detail-bamboo-screen-wood-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of open bamboo screen in wood look, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "details/detail-bamboo-screen-black-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in matzwart, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of open bamboo screen in matte black, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "newDesign": true,
+        "imageStyle": "exhibition-close",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 25,
+          "woodExtra": 15,
+          "currency": "EUR",
+          "kind": "indicative"
+        }
+      },
+      {
+        "id": "detail-scroll-stand",
+        "category": "accessories",
+        "stage": "future",
+        "name": {
+          "nl": "Vrijstaande hangrolhouder",
+          "en": "Freestanding scroll holder"
+        },
+        "short": {
+          "nl": "Een rechte, vrijstaande houder voor een kleine hangrol. Voor een seizoensbeeld naast de bonsai, zonder bevestiging aan een wand.",
+          "en": "A straight, freestanding holder for a small hanging scroll. For a seasonal image beside the bonsai, without attaching it to a wall."
+        },
+        "detail": {
+          "nl": "Een rechte, vrijstaande houder voor een kleine hangrol. Voor een seizoensbeeld naast de bonsai, zonder bevestiging aan een wand. Dit is een gegenereerd ontwerpvoorstel dat nog niet is geprint. Vorm, maat en maakbaarheid werken we samen uit.",
+          "en": "A straight, freestanding holder for a small hanging scroll. For a seasonal image beside the bonsai, without attaching it to a wall. This is a generated design proposal that has not yet been printed. Shape, dimensions and manufacturability are developed together."
+        },
+        "spec": {
+          "nl": "Houder voor een kleine verwisselbare hangrol. Papier, afbeelding en koord zijn styling; passende bevestiging en formaat bespreken we. Boom, plant, pot en overige styling niet inbegrepen. Richtprijs per geprint object; definitieve prijs op aanvraag.",
+          "en": "Holder for a small replaceable hanging scroll. Paper, artwork and cord are styling; suitable attachments and dimensions are agreed together. Tree, plant, pot and other styling excluded. Guide price per printed object; final price on enquiry."
+        },
+        "options": [
+          "wood",
+          "black",
+          "grey"
+        ],
+        "image": "details/detail-scroll-stand-wood-v1.webp",
+        "imageAlt": {
+          "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+          "en": "Generated display example of freestanding scroll holder in wood look, with a living example bonsai in the background"
+        },
+        "visualKind": "arrangementConcept",
+        "gallery": [
+          {
+            "image": "details/detail-scroll-stand-wood-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of freestanding scroll holder in wood look, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "details/detail-scroll-stand-black-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in matzwart, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of freestanding scroll holder in matte black, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "finishes": {
+          "wood": {
+            "image": "details/detail-scroll-stand-wood-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in houtlook, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of freestanding scroll holder in wood look, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "details/detail-scroll-stand-black-v1.webp",
+            "alt": {
+              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in matzwart, met een levende voorbeeldbonsai op de achtergrond",
+              "en": "Generated display example of freestanding scroll holder in matte black, with a living example bonsai in the background"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "newDesign": true,
+        "imageStyle": "exhibition-close",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 25,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         }
