@@ -12,17 +12,20 @@ workshop, custom work and frequently asked questions on `atelier.html`.
 `voorbeelden.html` shows four curated generated exhibition studies in wood look
 and matte black. Product links open the exact finish; the two small tea accents
 also link to the matching figure. The kneeling bonsai enthusiast is excluded from
-these compositions. Its separate catalogue entry remains available.
+these compositions. Its former catalogue entry is now retired at the owner’s request.
 
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
 
-The October 2026 collection now contains 34 objects across six categories: ten tables/jitas, thirteen miniatures, two pots, two accent-plant designs, two stone bases and five presentation details.
+The October 2026 collection now contains 40 objects across six categories: ten tables/jitas, nineteen miniatures, two pots, two accent-plant designs, two stone bases and five presentation details.
 New miniatures are generated concepts, have not been printed and have no production
 geometry. Size, finish, details and manufacturability are agreed through an enquiry.
-Their current exhibition images depict simple plain matte-black resin miniatures
-with modest light and ordinary surface irregularities.
-All twelve concepts offer only matte black. These are generated examples, not
+Their current photographic images depict matte-black resin miniatures with
+modest light and ordinary surface irregularities. Six new detailed proposals add
+bark, feather, fur, fabric and tool relief, all black only, beside living bonsais.
+They appear on the homepage, examples page and first in the miniature category.
+Their indicative guide prices are EUR25–40, excluding living trees and styling.
+Legacy miniature preferences remain preserved. These are generated examples, not
 photographs of existing printed stock. Earlier v1/v2 images and matching black
 transparent derivatives are preserved separately. Earlier v3 workbench views
 remain in the galleries beside the new exhibition images.
@@ -89,7 +92,8 @@ excluded. Provisional raw/wood prices are EUR20/30 for the bridge and EUR25/40 f
 the screen and holder, consistent with the existing indicative pricing policy.
 Six built-in Imagegen calls generated three wood images and three matching black
 finish edits. Full prompts, inputs, raw PNGs and image hashes are archived privately.
-The other 31 records, pricing calculator, pots, four static examples, original
+The other 37 records, including six concurrently added detailed miniatures,
+pricing calculator, pots, four static examples, original
 photos and earlier generated assets remain unchanged.
 
 ## Atelier identity and pricing revision — 12 October 2026
