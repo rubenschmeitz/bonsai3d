@@ -222,3 +222,6 @@ figure.finish-story-image{margin:0}figure.finish-story-image figcaption{font-siz
 .studio-art figcaption,.tree-story figure figcaption{max-width:calc(100% - 32px);white-space:normal;overflow-wrap:anywhere}
 .signature-series{padding-block:68px;border-bottom:1px solid var(--line)}.signature-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}.signature-detail-image{position:relative;width:100%;padding:0;margin:0 0 24px;aspect-ratio:1;overflow:hidden;background:#e6e5dc}.signature-detail-image img{width:100%;height:100%;object-fit:cover}.signature-detail-image>span{position:absolute;right:14px;bottom:12px;background:var(--paper);width:30px;height:30px;display:grid;place-items:center}.signature-cards h3{font-family:AtelierSerif,Georgia,serif!important;font-size:32px;margin-bottom:13px}.signature-cards .eyebrow{margin-bottom:8px}.signature-cards p:not(.eyebrow){font-size:14px;line-height:1.6;margin-bottom:14px}
 @media(max-width:700px){.signature-series{padding-block:38px}.signature-cards{grid-template-columns:1fr;gap:36px}.signature-detail-image{aspect-ratio:1.1/1;margin-bottom:17px}}
+
+/* Keep complete table and bonsai silhouettes visible in every display preview. */
+body.curated-shop img[src*="table-renewal/"]{object-fit:contain}

@@ -95,8 +95,8 @@
           "en": "A low table with a rectangular top and broad feet."
         },
         "detail": {
-          "nl": "Een lage, geprinte displaytafel met een rechthoekig blad en breed gevormde voeten. De bruine afwerking en het patroon in het blad geven een houtachtige uitstraling. De foto toont het gemaakte exemplaar. Voor een nieuwe print kiezen we maat, kleur en ondersteuning rond jouw pot.",
-          "en": "A low printed display table with a rectangular top and broadly shaped feet. The brown finish and pattern in the top give it a wood-like appearance. The photograph shows the made example. We choose dimensions, colour and support around your pot for a new print."
+          "nl": "Een lage, geprinte displaytafel met een rechthoekig blad en breed gevormde voeten. De bruine afwerking en het patroon in het blad geven een houtachtige uitstraling. De foto toont het gemaakte exemplaar. Voor een nieuwe print kiezen we maat, kleur en ondersteuning rond jouw pot. De nieuwe presentatiebeelden zijn gegenereerd op basis van mijn eigen foto; de originele foto staat ook in de galerij. Boom en pot zijn niet inbegrepen.",
+          "en": "A low printed display table with a rectangular top and broadly shaped feet. The brown finish and pattern in the top give it a wood-like appearance. The photograph shows the made example. We choose dimensions, colour and support around your pot for a new print. The new display images are generated from my own photograph; the original photograph is also in the gallery. Tree and pot are excluded."
         },
         "spec": {
           "nl": "3D-print · maat en afwerking op aanvraag",
@@ -110,41 +110,21 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "atelier/bonsai-classic-table-wood-v1.webp",
+            "image": "table-renewal/bonsai-classic-table-wood-v2.webp",
             "alt": {
-              "nl": "Lage displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Low display table with a matching tree or exhibition element, generated photographic example"
+              "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Low display table with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/classic-display-table.webp"
           },
           {
-            "image": "atelier/bonsai-classic-table-black-v1.webp",
+            "image": "table-renewal/bonsai-classic-table-black-v2.webp",
             "alt": {
-              "nl": "Lage displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Low display table with a matching tree or exhibition element, generated photographic example"
+              "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Low display table with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/classic-display-table.webp"
-          },
-          {
-            "image": "exhibition/bonsai-classic-table-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Lage displaytafel — houtlook in een tentoonstellingssetting",
-              "en": "Low display table — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/classic-display-table.webp"
-          },
-          {
-            "image": "exhibition/bonsai-classic-table-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Lage displaytafel — matzwart in een tentoonstellingssetting",
-              "en": "Low display table — matte black in an exhibition setting"
-            },
             "originalPhoto": "prints/classic-display-table.webp"
           },
           {
@@ -158,15 +138,6 @@
             "imageStyle": "documentary"
           },
           {
-            "image": "finishes/classic-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/classic-display-table.webp",
-            "alt": {
-              "nl": "Lage displaytafel in matzwart — afwerkingsvoorbeeld",
-              "en": "Low display table in matte black — finish preview"
-            }
-          },
-          {
             "image": "prints/classic-display-table.webp",
             "visualKind": "photo",
             "imageStyle": "documentary",
@@ -174,51 +145,31 @@
               "nl": "Geprinte lage displaytafel met houtachtige afwerking",
               "en": "Printed low display table with wood-effect finish"
             }
-          },
-          {
-            "image": "exhibition/bonsai-classic-table-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Lage displaytafel — matzwart in een tentoonstellingssetting",
-              "en": "Low display table — matte black in an exhibition setting"
-            },
-            "originalPhoto": "prints/classic-display-table.webp"
-          },
-          {
-            "image": "exhibition/bonsai-classic-table-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Lage displaytafel — houtlook in een tentoonstellingssetting",
-              "en": "Low display table — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/classic-display-table.webp"
           }
         ],
-        "image": "atelier/bonsai-classic-table-wood-v1.webp",
+        "image": "table-renewal/bonsai-classic-table-wood-v2.webp",
         "imageAlt": {
-          "nl": "Lage displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Low display table with a matching tree or exhibition element, generated photographic example"
+          "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Low display table with one matching bonsai — generated display example"
         },
         "visualKind": "arrangement",
         "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "atelier/bonsai-classic-table-wood-v1.webp",
+            "image": "table-renewal/bonsai-classic-table-wood-v2.webp",
             "alt": {
-              "nl": "Lage displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Low display table with a matching tree or exhibition element, generated photographic example"
+              "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Low display table with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/classic-display-table.webp"
           },
           "black": {
-            "image": "atelier/bonsai-classic-table-black-v1.webp",
+            "image": "table-renewal/bonsai-classic-table-black-v2.webp",
             "alt": {
-              "nl": "Lage displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Low display table with a matching tree or exhibition element, generated photographic example"
+              "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Low display table with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/classic-display-table.webp"
@@ -361,6 +312,246 @@
           "en": "The walker with a dog — the miniature alone, shown large"
         },
         "visualKind": "isolatedConcept"
+      },
+      {
+        "id": "bonsai-root-relief-table",
+        "category": "display",
+        "displayType": "table",
+        "stage": "future",
+        "newDesign": true,
+        "featured": true,
+        "name": {
+          "nl": "Wortelreliëftafel",
+          "en": "Root relief table"
+        },
+        "short": {
+          "nl": "Verweven wortels lopen door de rand en de brede, gebogen voeten.",
+          "en": "Intertwined roots flow through the apron and broad curved feet."
+        },
+        "detail": {
+          "nl": "Verweven wortels lopen door de rand en de brede, gebogen voeten. Een nieuw ontwerp vanuit de brede voeten en lage verhoudingen van mijn eigen displaytafel. Gegenereerd ontwerpvoorstel; nog niet geprint. Maat, draagvlak en maakbaarheid werken we uit voor jouw pot.",
+          "en": "Intertwined roots flow through the apron and broad curved feet. A new design based on the broad feet and low proportions of my own display table. Generated design proposal; not yet printed. Size, support area and manufacturability will be developed around your pot."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de tafel; boom en pot niet inbegrepen. Maat en uitvoering op aanvraag.",
+          "en": "Guide price for the table; tree and pot excluded. Size and version on enquiry."
+        },
+        "options": [
+          "wood",
+          "black",
+          "grey"
+        ],
+        "zone": "presentation",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 55,
+          "woodExtra": 30,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "gallery": [
+          {
+            "image": "table-renewal/bonsai-root-relief-table-wood-v2.webp",
+            "alt": {
+              "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root relief table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "table-renewal/bonsai-root-relief-table-black-v2.webp",
+            "alt": {
+              "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root relief table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "finishes": {
+          "wood": {
+            "image": "table-renewal/bonsai-root-relief-table-wood-v2.webp",
+            "alt": {
+              "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root relief table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "table-renewal/bonsai-root-relief-table-black-v2.webp",
+            "alt": {
+              "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root relief table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "image": "table-renewal/bonsai-root-relief-table-wood-v2.webp",
+        "imageAlt": {
+          "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Root relief table with one matching bonsai — generated display example"
+        },
+        "visualKind": "arrangementConcept",
+        "imageStyle": "exhibition"
+      },
+      {
+        "id": "bonsai-flow-edge-table",
+        "category": "display",
+        "displayType": "table",
+        "stage": "future",
+        "newDesign": true,
+        "featured": true,
+        "name": {
+          "nl": "Schorsrandtafel",
+          "en": "Bark edge table"
+        },
+        "short": {
+          "nl": "Een licht golvende schorsrand, fijne groeilijnen en verspringende regels onder het blad.",
+          "en": "A gently flowing bark edge, fine growth lines and offset rails beneath the top."
+        },
+        "detail": {
+          "nl": "Een licht golvende schorsrand, fijne groeilijnen en verspringende regels onder het blad. Een nieuw ontwerp vanuit de brede voeten en lage verhoudingen van mijn eigen displaytafel. Gegenereerd ontwerpvoorstel; nog niet geprint. Maat, draagvlak en maakbaarheid werken we uit voor jouw pot.",
+          "en": "A gently flowing bark edge, fine growth lines and offset rails beneath the top. A new design based on the broad feet and low proportions of my own display table. Generated design proposal; not yet printed. Size, support area and manufacturability will be developed around your pot."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de tafel; boom en pot niet inbegrepen. Maat en uitvoering op aanvraag.",
+          "en": "Guide price for the table; tree and pot excluded. Size and version on enquiry."
+        },
+        "options": [
+          "wood",
+          "black",
+          "grey"
+        ],
+        "zone": "presentation",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 50,
+          "woodExtra": 25,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "gallery": [
+          {
+            "image": "table-renewal/bonsai-flow-edge-table-wood-v2.webp",
+            "alt": {
+              "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Bark edge table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "table-renewal/bonsai-flow-edge-table-black-v2.webp",
+            "alt": {
+              "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Bark edge table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "finishes": {
+          "wood": {
+            "image": "table-renewal/bonsai-flow-edge-table-wood-v2.webp",
+            "alt": {
+              "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Bark edge table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "table-renewal/bonsai-flow-edge-table-black-v2.webp",
+            "alt": {
+              "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Bark edge table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "image": "table-renewal/bonsai-flow-edge-table-wood-v2.webp",
+        "imageAlt": {
+          "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Bark edge table with one matching bonsai — generated display example"
+        },
+        "visualKind": "arrangementConcept",
+        "imageStyle": "exhibition"
+      },
+      {
+        "id": "bonsai-branchwork-table",
+        "category": "display",
+        "displayType": "table",
+        "stage": "future",
+        "newDesign": true,
+        "featured": true,
+        "name": {
+          "nl": "Takkenwerktafel",
+          "en": "Branchwork table"
+        },
+        "short": {
+          "nl": "Een open netwerk van vertakkingen onder een rustig rechthoekig blad.",
+          "en": "An open network of branches beneath a quiet rectangular top."
+        },
+        "detail": {
+          "nl": "Een open netwerk van vertakkingen onder een rustig rechthoekig blad. Een nieuw ontwerp vanuit de brede voeten en lage verhoudingen van mijn eigen displaytafel. Gegenereerd ontwerpvoorstel; nog niet geprint. Maat, draagvlak en maakbaarheid werken we uit voor jouw pot.",
+          "en": "An open network of branches beneath a quiet rectangular top. A new design based on the broad feet and low proportions of my own display table. Generated design proposal; not yet printed. Size, support area and manufacturability will be developed around your pot."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de tafel; boom en pot niet inbegrepen. Maat en uitvoering op aanvraag.",
+          "en": "Guide price for the table; tree and pot excluded. Size and version on enquiry."
+        },
+        "options": [
+          "wood",
+          "black",
+          "grey"
+        ],
+        "zone": "presentation",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 60,
+          "woodExtra": 30,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "gallery": [
+          {
+            "image": "table-renewal/bonsai-branchwork-table-wood-v2.webp",
+            "alt": {
+              "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branchwork table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "table-renewal/bonsai-branchwork-table-black-v2.webp",
+            "alt": {
+              "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branchwork table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "finishes": {
+          "wood": {
+            "image": "table-renewal/bonsai-branchwork-table-wood-v2.webp",
+            "alt": {
+              "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branchwork table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "table-renewal/bonsai-branchwork-table-black-v2.webp",
+            "alt": {
+              "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branchwork table with one matching bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "image": "table-renewal/bonsai-branchwork-table-wood-v2.webp",
+        "imageAlt": {
+          "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Branchwork table with one matching bonsai — generated display example"
+        },
+        "visualKind": "arrangementConcept",
+        "imageStyle": "exhibition"
       },
       {
         "id": "bonsai-mini-garden-bench",
@@ -829,8 +1020,8 @@
           "en": "A round top above a twisted root base."
         },
         "detail": {
-          "nl": "Een hoge, geprinte standaard met een rond blad en een dicht onderstel van wortelvormen. De afwerking combineert een warmbruin blad met een donkerdere voet. De galerij toont het exemplaar los en met een bonsaiopstelling. Pot en boom zijn styling; maat, draagvlak en de passende belasting van een nieuwe standaard stemmen we apart af.",
-          "en": "A tall printed stand with a round top and a dense root-shaped base. The finish combines a warm brown top with darker roots. The gallery shows the stand alone and in a bonsai arrangement. Pot and tree are styling; we agree dimensions, support area and suitable load for a new stand separately."
+          "nl": "Een hoge, geprinte standaard met een rond blad en een dicht onderstel van wortelvormen. De afwerking combineert een warmbruin blad met een donkerdere voet. De galerij toont het exemplaar los en met een bonsaiopstelling. Pot en boom zijn styling; maat, draagvlak en de passende belasting van een nieuwe standaard stemmen we apart af. De nieuwe presentatiebeelden zijn gegenereerd op basis van mijn eigen foto; de originele foto staat ook in de galerij. Boom en pot zijn niet inbegrepen.",
+          "en": "A tall printed stand with a round top and a dense root-shaped base. The finish combines a warm brown top with darker roots. The gallery shows the stand alone and in a bonsai arrangement. Pot and tree are styling; we agree dimensions, support area and suitable load for a new stand separately. The new display images are generated from my own photograph; the original photograph is also in the gallery. Tree and pot are excluded."
         },
         "spec": {
           "nl": "3D-print · maat en afwerking op aanvraag",
@@ -844,41 +1035,21 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "atelier/bonsai-root-pedestal-wood-v1.webp",
+            "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Round root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/root-pedestal.webp"
           },
           {
-            "image": "atelier/bonsai-root-pedestal-black-v1.webp",
+            "image": "table-renewal/bonsai-root-pedestal-black-v2.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Round root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/root-pedestal.webp"
-          },
-          {
-            "image": "exhibition/bonsai-root-pedestal-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde wortelstandaard — houtlook in een tentoonstellingssetting",
-              "en": "Round root pedestal — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/root-pedestal.webp"
-          },
-          {
-            "image": "exhibition/bonsai-root-pedestal-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde wortelstandaard — matzwart in een tentoonstellingssetting",
-              "en": "Round root pedestal — matte black in an exhibition setting"
-            },
             "originalPhoto": "prints/root-pedestal.webp"
           },
           {
@@ -912,15 +1083,6 @@
             "imageStyle": "documentary"
           },
           {
-            "image": "finishes/root-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/root-pedestal.webp",
-            "alt": {
-              "nl": "Ronde wortelstandaard in matzwart — afwerkingsvoorbeeld",
-              "en": "Round root pedestal in matte black — finish preview"
-            }
-          },
-          {
             "image": "prints/root-pedestal.webp",
             "visualKind": "photo",
             "imageStyle": "documentary",
@@ -946,51 +1108,31 @@
               "nl": "Wortelstandaard met een bonsaiopstelling",
               "en": "Root pedestal in a bonsai arrangement"
             }
-          },
-          {
-            "image": "exhibition/bonsai-root-pedestal-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde wortelstandaard — matzwart in een tentoonstellingssetting",
-              "en": "Round root pedestal — matte black in an exhibition setting"
-            },
-            "originalPhoto": "prints/root-pedestal.webp"
-          },
-          {
-            "image": "exhibition/bonsai-root-pedestal-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde wortelstandaard — houtlook in een tentoonstellingssetting",
-              "en": "Round root pedestal — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/root-pedestal.webp"
           }
         ],
-        "image": "atelier/bonsai-root-pedestal-wood-v1.webp",
+        "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp",
         "imageAlt": {
-          "nl": "Ronde wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Round root pedestal with a matching tree or exhibition element, generated photographic example"
+          "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Round root pedestal with one matching bonsai — generated display example"
         },
         "visualKind": "arrangement",
         "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "atelier/bonsai-root-pedestal-wood-v1.webp",
+            "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Round root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/root-pedestal.webp"
           },
           "black": {
-            "image": "atelier/bonsai-root-pedestal-black-v1.webp",
+            "image": "table-renewal/bonsai-root-pedestal-black-v2.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Round root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/root-pedestal.webp"
@@ -1016,8 +1158,8 @@
           "en": "A tall stand with a curved, open root form."
         },
         "detail": {
-          "nl": "Een slanke geprinte standaard waarvan de wortels omhoog buigen naar een rond blad. De open ruimtes tussen de wortelvormen maken het onderstel lichter in beeld. De foto toont de donkere, afgewerkte print. Maat, voetplaatsing en geschikt draaggewicht worden voor een nieuwe uitvoering afgestemd.",
-          "en": "A slender printed stand with roots curving upwards towards a round top. Open gaps between the root forms give the base a lighter appearance. The photograph shows the dark finished print. Dimensions, foot placement and suitable load are agreed for a new version."
+          "nl": "Een slanke geprinte standaard waarvan de wortels omhoog buigen naar een rond blad. De open ruimtes tussen de wortelvormen maken het onderstel lichter in beeld. De foto toont de donkere, afgewerkte print. Maat, voetplaatsing en geschikt draaggewicht worden voor een nieuwe uitvoering afgestemd. De nieuwe presentatiebeelden zijn gegenereerd op basis van mijn eigen foto; de originele foto staat ook in de galerij. Boom en pot zijn niet inbegrepen.",
+          "en": "A slender printed stand with roots curving upwards towards a round top. Open gaps between the root forms give the base a lighter appearance. The photograph shows the dark finished print. Dimensions, foot placement and suitable load are agreed for a new version. The new display images are generated from my own photograph; the original photograph is also in the gallery. Tree and pot are excluded."
         },
         "spec": {
           "nl": "3D-print · maat en afwerking op aanvraag",
@@ -1031,41 +1173,21 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "atelier/bonsai-open-root-pedestal-wood-v1.webp",
+            "image": "table-renewal/bonsai-open-root-pedestal-wood-v2.webp",
             "alt": {
-              "nl": "Open wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Open root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Open root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/open-root-pedestal.webp"
           },
           {
-            "image": "atelier/bonsai-open-root-pedestal-black-v1.webp",
+            "image": "table-renewal/bonsai-open-root-pedestal-black-v2.webp",
             "alt": {
-              "nl": "Open wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Open root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Open root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/open-root-pedestal.webp"
-          },
-          {
-            "image": "exhibition/bonsai-open-root-pedestal-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Open wortelstandaard — houtlook in een tentoonstellingssetting",
-              "en": "Open root pedestal — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/open-root-pedestal.webp"
-          },
-          {
-            "image": "exhibition/bonsai-open-root-pedestal-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Open wortelstandaard — matzwart in een tentoonstellingssetting",
-              "en": "Open root pedestal — matte black in an exhibition setting"
-            },
             "originalPhoto": "prints/open-root-pedestal.webp"
           },
           {
@@ -1079,15 +1201,6 @@
             "imageStyle": "documentary"
           },
           {
-            "image": "finishes/open-root-black.webp",
-            "visualKind": "finish",
-            "originalPhoto": "prints/open-root-pedestal.webp",
-            "alt": {
-              "nl": "Open wortelstandaard in matzwart — afwerkingsvoorbeeld",
-              "en": "Open root pedestal in matte black — finish preview"
-            }
-          },
-          {
             "image": "prints/open-root-pedestal.webp",
             "visualKind": "photo",
             "imageStyle": "documentary",
@@ -1095,401 +1208,36 @@
               "nl": "Geprinte open wortelstandaard met rond blad",
               "en": "Printed open root pedestal with round top"
             }
-          },
-          {
-            "image": "exhibition/bonsai-open-root-pedestal-black-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Open wortelstandaard — matzwart in een tentoonstellingssetting",
-              "en": "Open root pedestal — matte black in an exhibition setting"
-            },
-            "originalPhoto": "prints/open-root-pedestal.webp"
-          },
-          {
-            "image": "exhibition/bonsai-open-root-pedestal-wood-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Open wortelstandaard — houtlook in een tentoonstellingssetting",
-              "en": "Open root pedestal — wood look in an exhibition setting"
-            },
-            "originalPhoto": "prints/open-root-pedestal.webp"
           }
         ],
-        "image": "atelier/bonsai-open-root-pedestal-wood-v1.webp",
+        "image": "table-renewal/bonsai-open-root-pedestal-wood-v2.webp",
         "imageAlt": {
-          "nl": "Open wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Open root pedestal with a matching tree or exhibition element, generated photographic example"
+          "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Open root pedestal with one matching bonsai — generated display example"
         },
         "visualKind": "arrangement",
         "imageStyle": "exhibition",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "atelier/bonsai-open-root-pedestal-wood-v1.webp",
+            "image": "table-renewal/bonsai-open-root-pedestal-wood-v2.webp",
             "alt": {
-              "nl": "Open wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Open root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Open root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/open-root-pedestal.webp"
           },
           "black": {
-            "image": "atelier/bonsai-open-root-pedestal-black-v1.webp",
+            "image": "table-renewal/bonsai-open-root-pedestal-black-v2.webp",
             "alt": {
-              "nl": "Open wortelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Open root pedestal with a matching tree or exhibition element, generated photographic example"
+              "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Open root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
             "originalPhoto": "prints/open-root-pedestal.webp"
           }
         },
-        "availability": "enquiry",
-        "pricing": {
-          "base": 45,
-          "woodExtra": 25,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
-        "id": "bonsai-bridge-table",
-        "category": "display",
-        "displayType": "table",
-        "name": {
-          "nl": "Brugtafel",
-          "en": "Bridge table"
-        },
-        "short": {
-          "nl": "Een laag rechthoekig blad op twee open, gebogen zijpanelen.",
-          "en": "A low rectangular top on two open curved side panels."
-        },
-        "detail": {
-          "nl": "Een laag rechthoekig blad op twee open, gebogen zijpanelen. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
-          "en": "A low rectangular top on two open curved side panels. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
-          "en": "Design proposal · size and version on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "stage": "future",
-        "newDesign": true,
-        "image": "atelier/bonsai-bridge-table-wood-v1.webp",
-        "imageAlt": {
-          "nl": "Brugtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Bridge table with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangementConcept",
-        "imageStyle": "exhibition",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-bridge-table-wood-v1.webp",
-            "alt": {
-              "nl": "Brugtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Bridge table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          "black": {
-            "image": "atelier/bonsai-bridge-table-black-v1.webp",
-            "alt": {
-              "nl": "Brugtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Bridge table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          }
-        },
-        "gallery": [
-          {
-            "image": "atelier/bonsai-bridge-table-wood-v1.webp",
-            "alt": {
-              "nl": "Brugtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Bridge table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "atelier/bonsai-bridge-table-black-v1.webp",
-            "alt": {
-              "nl": "Brugtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Bridge table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "display-designs/bridge-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Bridge table — generated design proposal in wood look"
-            }
-          },
-          {
-            "image": "display-designs/bridge-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Bridge table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/bridge-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Bridge table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/bridge-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Brugtafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Bridge table — generated design proposal in wood look"
-            }
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 45,
-          "woodExtra": 25,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
-        "id": "bonsai-octagonal-table",
-        "category": "display",
-        "displayType": "table",
-        "name": {
-          "nl": "Achthoekige displaytafel",
-          "en": "Octagonal display table"
-        },
-        "short": {
-          "nl": "Een achthoekig blad met een fijne rand en vier korte poten.",
-          "en": "An octagonal top with a fine border and four short legs."
-        },
-        "detail": {
-          "nl": "Een achthoekig blad met een fijne rand en vier korte poten. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
-          "en": "An octagonal top with a fine border and four short legs. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
-          "en": "Design proposal · size and version on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "stage": "future",
-        "newDesign": true,
-        "image": "atelier/bonsai-octagonal-table-wood-v1.webp",
-        "imageAlt": {
-          "nl": "Achthoekige displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Octagonal display table with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangementConcept",
-        "imageStyle": "exhibition",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-octagonal-table-wood-v1.webp",
-            "alt": {
-              "nl": "Achthoekige displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Octagonal display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          "black": {
-            "image": "atelier/bonsai-octagonal-table-black-v1.webp",
-            "alt": {
-              "nl": "Achthoekige displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Octagonal display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          }
-        },
-        "gallery": [
-          {
-            "image": "atelier/bonsai-octagonal-table-wood-v1.webp",
-            "alt": {
-              "nl": "Achthoekige displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Octagonal display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "atelier/bonsai-octagonal-table-black-v1.webp",
-            "alt": {
-              "nl": "Achthoekige displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Octagonal display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "display-designs/octagonal-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Octagonal display table — generated design proposal in wood look"
-            }
-          },
-          {
-            "image": "display-designs/octagonal-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Octagonal display table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/octagonal-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Octagonal display table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/octagonal-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Achthoekige displaytafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Octagonal display table — generated design proposal in wood look"
-            }
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 45,
-          "woodExtra": 25,
-          "currency": "EUR",
-          "kind": "indicative"
-        }
-      },
-      {
-        "id": "bonsai-round-table",
-        "category": "display",
-        "displayType": "table",
-        "name": {
-          "nl": "Ronde displaytafel",
-          "en": "Round display table"
-        },
-        "short": {
-          "nl": "Een rond blad op vier licht gebogen poten.",
-          "en": "A round top on four gently curved legs."
-        },
-        "detail": {
-          "nl": "Een rond blad op vier licht gebogen poten. Dit beeld is een gegenereerd fotografisch ontwerpvoorstel en toont geen bestaand geprint exemplaar. Maat, materiaal, afwerking en maakbaarheid stemmen we samen af. Draagvlak en belasting worden per uitvoering bepaald.",
-          "en": "A round top on four gently curved legs. This image is a generated photographic design proposal and does not show an existing printed example. We agree dimensions, material, finish and manufacturability together. Support area and load are determined for each version."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
-          "en": "Design proposal · size and version on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "zone": "presentation",
-        "stage": "future",
-        "newDesign": true,
-        "image": "atelier/bonsai-round-table-wood-v1.webp",
-        "imageAlt": {
-          "nl": "Ronde displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Round display table with a matching tree or exhibition element, generated photographic example"
-        },
-        "visualKind": "arrangementConcept",
-        "imageStyle": "exhibition",
-        "finishes": {
-          "wood": {
-            "image": "atelier/bonsai-round-table-wood-v1.webp",
-            "alt": {
-              "nl": "Ronde displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          "black": {
-            "image": "atelier/bonsai-round-table-black-v1.webp",
-            "alt": {
-              "nl": "Ronde displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          }
-        },
-        "gallery": [
-          {
-            "image": "atelier/bonsai-round-table-wood-v1.webp",
-            "alt": {
-              "nl": "Ronde displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "atelier/bonsai-round-table-black-v1.webp",
-            "alt": {
-              "nl": "Ronde displaytafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Round display table with a matching tree or exhibition element, generated photographic example"
-            },
-            "visualKind": "arrangementConcept"
-          },
-          {
-            "image": "display-designs/round-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Round display table — generated design proposal in wood look"
-            }
-          },
-          {
-            "image": "display-designs/round-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Round display table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/round-table-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in matzwart",
-              "en": "Round display table — generated design proposal in matte black"
-            }
-          },
-          {
-            "image": "display-designs/round-table-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ronde displaytafel — gegenereerd ontwerpvoorstel in houtlook",
-              "en": "Round display table — generated design proposal in wood look"
-            }
-          }
-        ],
         "availability": "enquiry",
         "pricing": {
           "base": 45,

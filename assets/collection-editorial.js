@@ -51,7 +51,7 @@
                 "finish": "wood",
                 "linkNl": "Bekijk de wortelstandaard",
                 "linkEn": "View the round root stand",
-                "image": "exhibition/juniper-wood-v2.webp"
+                "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp"
         },
         {
                 "id": "pine-black",
@@ -72,17 +72,17 @@
         },
         {
                 "id": "cascade-refined-black",
-                "nl": "Een vrije cascade.",
-                "en": "A free cascade.",
-                "copyNl": "De neerhangende takken krijgen ruimte naast het open onderstel. De rode pot vormt het kleuraccent; de boom en de zwarte standaard dragen samen de opstelling.",
-                "copyEn": "The descending branches have room beside the open support. The red pot provides the colour accent; the tree and black stand form the display together.",
-                "altNl": "Gegenereerde cascadejeneverbes in de ongewijzigde rode takkenpot op de matzwarte open wortelstandaard, zonder figuren",
-                "altEn": "Generated cascade juniper in the unchanged red branch pot on the matte-black open root stand, with no figures",
+                "nl": "Hoogte & open ruimte.",
+                "en": "Height & open space.",
+                "copyNl": "Een kleine den op de hoge open wortelstandaard. De pot past ruim op het blad; de slanke wortels houden de opstelling luchtig.",
+                "copyEn": "A small pine on the tall open root stand. The pot fits comfortably on the top, while the slender roots keep the display light.",
+                "altNl": "Gegenereerd voorbeeld: één den op de hoge matzwarte open wortelstandaard",
+                "altEn": "Generated example: one pine on the tall matte-black open root stand",
                 "product": "bonsai-open-root-pedestal",
                 "finish": "black",
                 "linkNl": "Bekijk de open wortelstandaard",
                 "linkEn": "View the open root stand",
-                "image": "exhibition/cascade-refined-black-v2.webp"
+                "image": "table-renewal/bonsai-open-root-pedestal-black-v2.webp"
         }
 ];
       return '<section class="examples wrap" aria-labelledby="examples-title"><div class="section-heading"><div><p class="eyebrow">BONSAI3D / '+tr('VOORBEELDOPSTELLINGEN','DISPLAY EXAMPLES')+'</p><h1 class="page-title" id="examples-title">'+tr('Ideeën voor<br>jouw opstelling.','Ideas for<br>your display.')+'</h1></div><p>'+tr('Vier opstellingen waarin de boom de richting bepaalt. Een passende tafel, voldoende ruimte en soms één klein accent. In houtlook en matzwart.','Four displays shaped by the direction of the tree. A suitable stand, room to breathe and sometimes one small accent. In wood look and matte black.')+'</p></div><div class="example-stories">'+examples.map(function (example,i) {
