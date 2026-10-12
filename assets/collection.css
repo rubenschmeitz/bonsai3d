@@ -225,3 +225,6 @@ figure.finish-story-image{margin:0}figure.finish-story-image figcaption{font-siz
 
 /* Keep complete table and bonsai silhouettes visible in every display preview. */
 body.curated-shop img[src*="table-renewal/"]{object-fit:contain}
+
+/* Keep complete presentation objects visible in close catalogue photographs. */
+body.curated-shop img[src*="presentation-renewal/"]{object-fit:contain}

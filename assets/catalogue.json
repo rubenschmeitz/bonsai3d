@@ -1982,45 +1982,73 @@
           "en": "Branch line label stand"
         },
         "short": {
-          "nl": "Een vertakte voet met bastreliëf draagt een klein tentoonstellingskaartje.",
-          "en": "A branching foot with bark relief holds a small exhibition label."
+          "nl": "Een kleine vertakte voet met bastgroeven en een rustige sleuf voor je boomkaartje.",
+          "en": "A small branching base with bark grooves and a simple slot for your tree label."
         },
         "detail": {
-          "nl": "Een vertakte voet met bastreliëf draagt een klein tentoonstellingskaartje. Dit is een gegenereerd ontwerpvoorstel. Vorm en details worden voor jouw opstelling uitgewerkt; het is nog niet geprint.",
-          "en": "A branching foot with bark relief holds a small exhibition label. This is a generated design proposal. Form and details are developed for your display; it has not yet been printed."
+          "nl": "Een kleine vertakte voet met bastgroeven en een rustige sleuf voor je boomkaartje. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "A small branching base with bark grooves and a simple slot for your tree label. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
         },
         "spec": {
-          "nl": "Ontwerp op aanvraag. Voorbeeldplant, steen, kaart of afbeelding niet inbegrepen. Exacte passing bespreken we.",
-          "en": "Design on enquiry. Example plant, stone, card or artwork excluded. Exact fit is discussed."
+          "nl": "Richtprijs voor het geprinte object. Boom, plant, pot, steen, kaart, afbeelding, koord en transparante inzet niet inbegrepen. Uitvoering en passing op aanvraag.",
+          "en": "Guide price for the printed object. Tree, plant, pot, stone, card, artwork, cord and transparent insert excluded. Version and fit on enquiry."
         },
         "options": [
           "black",
+          "wood",
           "grey"
         ],
-        "image": "atelier/label-branch-black-v1.webp",
+        "image": "presentation-renewal/label-branch-black-v2.webp",
         "imageAlt": {
-          "nl": "Taklijn-kaarthouder met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Branch line label stand with a matching tree or exhibition element, generated photographic example"
+          "nl": "Taklijn-kaarthouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Branch line label stand in raw black beside a bonsai — generated display example"
         },
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "atelier/label-branch-black-v1.webp",
+            "image": "presentation-renewal/label-branch-wood-v2.webp",
             "alt": {
-              "nl": "Taklijn-kaarthouder met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Branch line label stand with a matching tree or exhibition element, generated photographic example"
+              "nl": "Taklijn-kaarthouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch line label stand in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "presentation-renewal/label-branch-black-v2.webp",
+            "alt": {
+              "nl": "Taklijn-kaarthouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch line label stand in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         ],
         "newDesign": true,
-        "imageStyle": "workshop-close",
+        "imageStyle": "exhibition",
         "availability": "enquiry",
         "pricing": {
-          "base": 15,
-          "woodExtra": 0,
+          "base": 18,
+          "woodExtra": 10,
           "currency": "EUR",
           "kind": "indicative"
+        },
+        "zone": "presentation",
+        "finishes": {
+          "wood": {
+            "image": "presentation-renewal/label-branch-wood-v2.webp",
+            "alt": {
+              "nl": "Taklijn-kaarthouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch line label stand in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "presentation-renewal/label-branch-black-v2.webp",
+            "alt": {
+              "nl": "Taklijn-kaarthouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch line label stand in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
         }
       },
       {
@@ -2032,45 +2060,73 @@
           "en": "Moon arc display"
         },
         "short": {
-          "nl": "Een open boog met windlijnen voor een klein, verwisselbaar beeld.",
-          "en": "An open arc with wind lines for a small, replaceable image."
+          "nl": "Een open maanboog met windreliëf en een klein verwisselbaar seizoensbeeld.",
+          "en": "An open moon arc with wind relief and a small replaceable seasonal image."
         },
         "detail": {
-          "nl": "Een open boog met windlijnen voor een klein, verwisselbaar beeld. Dit is een gegenereerd ontwerpvoorstel. Vorm en details worden voor jouw opstelling uitgewerkt; het is nog niet geprint.",
-          "en": "An open arc with wind lines for a small, replaceable image. This is a generated design proposal. Form and details are developed for your display; it has not yet been printed."
+          "nl": "Een open maanboog met windreliëf en een klein verwisselbaar seizoensbeeld. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "An open moon arc with wind relief and a small replaceable seasonal image. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
         },
         "spec": {
-          "nl": "Ontwerp op aanvraag. Voorbeeldplant, steen, kaart of afbeelding niet inbegrepen. Exacte passing bespreken we.",
-          "en": "Design on enquiry. Example plant, stone, card or artwork excluded. Exact fit is discussed."
+          "nl": "Richtprijs voor het geprinte object. Boom, plant, pot, steen, kaart, afbeelding, koord en transparante inzet niet inbegrepen. Uitvoering en passing op aanvraag.",
+          "en": "Guide price for the printed object. Tree, plant, pot, stone, card, artwork, cord and transparent insert excluded. Version and fit on enquiry."
         },
         "options": [
           "black",
+          "wood",
           "grey"
         ],
-        "image": "atelier/scroll-moon-black-v1.webp",
+        "image": "presentation-renewal/scroll-moon-black-v2.webp",
         "imageAlt": {
-          "nl": "Maanboog-display met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Moon arc display with a matching tree or exhibition element, generated photographic example"
+          "nl": "Maanboog-display in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Moon arc display in raw black beside a bonsai — generated display example"
         },
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "atelier/scroll-moon-black-v1.webp",
+            "image": "presentation-renewal/scroll-moon-wood-v2.webp",
             "alt": {
-              "nl": "Maanboog-display met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Moon arc display with a matching tree or exhibition element, generated photographic example"
+              "nl": "Maanboog-display in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Moon arc display in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "presentation-renewal/scroll-moon-black-v2.webp",
+            "alt": {
+              "nl": "Maanboog-display in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Moon arc display in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         ],
         "newDesign": true,
-        "imageStyle": "workshop-close",
+        "imageStyle": "exhibition",
         "availability": "enquiry",
         "pricing": {
-          "base": 30,
-          "woodExtra": 0,
+          "base": 35,
+          "woodExtra": 20,
           "currency": "EUR",
           "kind": "indicative"
+        },
+        "zone": "presentation",
+        "finishes": {
+          "wood": {
+            "image": "presentation-renewal/scroll-moon-wood-v2.webp",
+            "alt": {
+              "nl": "Maanboog-display in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Moon arc display in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "presentation-renewal/scroll-moon-black-v2.webp",
+            "alt": {
+              "nl": "Maanboog-display in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Moon arc display in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
         }
       },
       {
@@ -2540,230 +2596,468 @@
         "category": "accessories",
         "stage": "future",
         "name": {
-          "nl": "Miniatuur bruggetje",
-          "en": "Miniature bridge"
+          "nl": "Wortelbruggetje",
+          "en": "Root footbridge"
         },
         "short": {
-          "nl": "Een klein bruggetje met een zachte boog en eenvoudige leuningen. Een rustig architectuuraccent naast de boom.",
-          "en": "A small bridge with a gentle arch and simple rails. A quiet architectural accent beside the tree."
+          "nl": "Een klein bruggetje met een verweven wortelleuning en fijne lijnen in het dek.",
+          "en": "A tiny footbridge with interwoven root rails and fine deck lines."
         },
         "detail": {
-          "nl": "Een klein bruggetje met een zachte boog en eenvoudige leuningen. Een rustig architectuuraccent naast de boom. Dit is een gegenereerd ontwerpvoorstel dat nog niet is geprint. Vorm, maat en maakbaarheid werken we samen uit.",
-          "en": "A small bridge with a gentle arch and simple rails. A quiet architectural accent beside the tree. This is a generated design proposal that has not yet been printed. Shape, dimensions and manufacturability are developed together."
+          "nl": "Een klein bruggetje met een verweven wortelleuning en fijne lijnen in het dek. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "A tiny footbridge with interwoven root rails and fine deck lines. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
         },
         "spec": {
-          "nl": "Los presentatieaccent; bedoeld voor een droog tentoonstellingsvlak. Grootte en uitvoering stemmen we af op de boom. Boom, plant, pot en overige styling niet inbegrepen. Richtprijs per geprint object; definitieve prijs op aanvraag.",
-          "en": "A standalone display accent for a dry exhibition surface. Size and final version are agreed to suit the tree. Tree, plant, pot and other styling excluded. Guide price per printed object; final price on enquiry."
+          "nl": "Richtprijs voor het geprinte object. Boom, plant, pot, steen, kaart, afbeelding, koord en transparante inzet niet inbegrepen. Uitvoering en passing op aanvraag.",
+          "en": "Guide price for the printed object. Tree, plant, pot, stone, card, artwork, cord and transparent insert excluded. Version and fit on enquiry."
         },
         "options": [
-          "wood",
           "black",
+          "wood",
           "grey"
         ],
-        "image": "details/detail-bridge-wood-v1.webp",
+        "image": "presentation-renewal/detail-bridge-black-v2.webp",
         "imageAlt": {
-          "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-          "en": "Generated display example of miniature bridge in wood look, with a living example bonsai in the background"
+          "nl": "Wortelbruggetje in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Root footbridge in raw black beside a bonsai — generated display example"
         },
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "details/detail-bridge-wood-v1.webp",
+            "image": "presentation-renewal/detail-bridge-wood-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of miniature bridge in wood look, with a living example bonsai in the background"
+              "nl": "Wortelbruggetje in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root footbridge in wood look beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "details/detail-bridge-black-v1.webp",
+            "image": "presentation-renewal/detail-bridge-black-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in matzwart, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of miniature bridge in matte black, with a living example bonsai in the background"
+              "nl": "Wortelbruggetje in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root footbridge in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "details/detail-bridge-wood-v1.webp",
+            "image": "presentation-renewal/detail-bridge-wood-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of miniature bridge in wood look, with a living example bonsai in the background"
+              "nl": "Wortelbruggetje in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root footbridge in wood look beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "details/detail-bridge-black-v1.webp",
+            "image": "presentation-renewal/detail-bridge-black-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van miniatuur bruggetje in matzwart, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of miniature bridge in matte black, with a living example bonsai in the background"
+              "nl": "Wortelbruggetje in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Root footbridge in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         },
         "newDesign": true,
-        "imageStyle": "exhibition-close",
+        "imageStyle": "exhibition",
         "availability": "enquiry",
         "pricing": {
-          "base": 20,
-          "woodExtra": 10,
+          "base": 25,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
-        }
+        },
+        "zone": "presentation"
       },
       {
         "id": "detail-bamboo-screen",
         "category": "accessories",
         "stage": "future",
         "name": {
-          "nl": "Open bamboescherm",
-          "en": "Open bamboo screen"
+          "nl": "Takkenscherm",
+          "en": "Branch screen"
         },
         "short": {
-          "nl": "Open verticale lijnen met subtiele bamboeknopen. Geeft een opstelling een achtergrond zonder de boom aan het zicht te onttrekken.",
-          "en": "Open vertical lines with subtle bamboo nodes. Gives a display a backdrop while keeping the tree visible."
+          "nl": "Een open netwerk van onregelmatige takken, met fijne baststructuur en lage voeten.",
+          "en": "An open network of irregular branches with fine bark texture and low feet."
         },
         "detail": {
-          "nl": "Open verticale lijnen met subtiele bamboeknopen. Geeft een opstelling een achtergrond zonder de boom aan het zicht te onttrekken. Dit is een gegenereerd ontwerpvoorstel dat nog niet is geprint. Vorm, maat en maakbaarheid werken we samen uit.",
-          "en": "Open vertical lines with subtle bamboo nodes. Gives a display a backdrop while keeping the tree visible. This is a generated design proposal that has not yet been printed. Shape, dimensions and manufacturability are developed together."
+          "nl": "Een open netwerk van onregelmatige takken, met fijne baststructuur en lage voeten. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "An open network of irregular branches with fine bark texture and low feet. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
         },
         "spec": {
-          "nl": "Een geprint scherm met bamboemotief en twee lage voeten. Het materiaal is geen natuurlijk bamboe; houtlook is de afwerking. Boom, plant, pot en overige styling niet inbegrepen. Richtprijs per geprint object; definitieve prijs op aanvraag.",
-          "en": "A printed bamboo-motif screen with two low feet. The material is not natural bamboo; wood look describes the finish. Tree, plant, pot and other styling excluded. Guide price per printed object; final price on enquiry."
+          "nl": "Richtprijs voor het geprinte object. Boom, plant, pot, steen, kaart, afbeelding, koord en transparante inzet niet inbegrepen. Uitvoering en passing op aanvraag.",
+          "en": "Guide price for the printed object. Tree, plant, pot, stone, card, artwork, cord and transparent insert excluded. Version and fit on enquiry."
         },
         "options": [
-          "wood",
           "black",
+          "wood",
           "grey"
         ],
-        "image": "details/detail-bamboo-screen-wood-v1.webp",
+        "image": "presentation-renewal/detail-bamboo-screen-black-v2.webp",
         "imageAlt": {
-          "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-          "en": "Generated display example of open bamboo screen in wood look, with a living example bonsai in the background"
+          "nl": "Takkenscherm in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Branch screen in raw black beside a bonsai — generated display example"
         },
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "details/detail-bamboo-screen-wood-v1.webp",
+            "image": "presentation-renewal/detail-bamboo-screen-wood-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of open bamboo screen in wood look, with a living example bonsai in the background"
+              "nl": "Takkenscherm in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch screen in wood look beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "details/detail-bamboo-screen-black-v1.webp",
+            "image": "presentation-renewal/detail-bamboo-screen-black-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in matzwart, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of open bamboo screen in matte black, with a living example bonsai in the background"
+              "nl": "Takkenscherm in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch screen in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "details/detail-bamboo-screen-wood-v1.webp",
+            "image": "presentation-renewal/detail-bamboo-screen-wood-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of open bamboo screen in wood look, with a living example bonsai in the background"
+              "nl": "Takkenscherm in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch screen in wood look beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "details/detail-bamboo-screen-black-v1.webp",
+            "image": "presentation-renewal/detail-bamboo-screen-black-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van open bamboescherm in matzwart, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of open bamboo screen in matte black, with a living example bonsai in the background"
+              "nl": "Takkenscherm in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Branch screen in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         },
         "newDesign": true,
-        "imageStyle": "exhibition-close",
+        "imageStyle": "exhibition",
         "availability": "enquiry",
         "pricing": {
-          "base": 25,
-          "woodExtra": 15,
+          "base": 40,
+          "woodExtra": 25,
           "currency": "EUR",
           "kind": "indicative"
-        }
+        },
+        "zone": "presentation"
       },
       {
         "id": "detail-scroll-stand",
         "category": "accessories",
         "stage": "future",
         "name": {
-          "nl": "Vrijstaande hangrolhouder",
-          "en": "Freestanding scroll holder"
+          "nl": "Seizoenshouder",
+          "en": "Seasonal image stand"
         },
         "short": {
-          "nl": "Een rechte, vrijstaande houder voor een kleine hangrol. Voor een seizoensbeeld naast de bonsai, zonder bevestiging aan een wand.",
-          "en": "A straight, freestanding holder for a small hanging scroll. For a seasonal image beside the bonsai, without attaching it to a wall."
+          "nl": "Een slanke vertakte arm draagt een verwisselbaar beeld boven een voet met wortelreliëf.",
+          "en": "A slender branching arm holds a replaceable image above a root-relief base."
         },
         "detail": {
-          "nl": "Een rechte, vrijstaande houder voor een kleine hangrol. Voor een seizoensbeeld naast de bonsai, zonder bevestiging aan een wand. Dit is een gegenereerd ontwerpvoorstel dat nog niet is geprint. Vorm, maat en maakbaarheid werken we samen uit.",
-          "en": "A straight, freestanding holder for a small hanging scroll. For a seasonal image beside the bonsai, without attaching it to a wall. This is a generated design proposal that has not yet been printed. Shape, dimensions and manufacturability are developed together."
+          "nl": "Een slanke vertakte arm draagt een verwisselbaar beeld boven een voet met wortelreliëf. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "A slender branching arm holds a replaceable image above a root-relief base. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
         },
         "spec": {
-          "nl": "Houder voor een kleine verwisselbare hangrol. Papier, afbeelding en koord zijn styling; passende bevestiging en formaat bespreken we. Boom, plant, pot en overige styling niet inbegrepen. Richtprijs per geprint object; definitieve prijs op aanvraag.",
-          "en": "Holder for a small replaceable hanging scroll. Paper, artwork and cord are styling; suitable attachments and dimensions are agreed together. Tree, plant, pot and other styling excluded. Guide price per printed object; final price on enquiry."
+          "nl": "Richtprijs voor het geprinte object. Boom, plant, pot, steen, kaart, afbeelding, koord en transparante inzet niet inbegrepen. Uitvoering en passing op aanvraag.",
+          "en": "Guide price for the printed object. Tree, plant, pot, stone, card, artwork, cord and transparent insert excluded. Version and fit on enquiry."
         },
         "options": [
-          "wood",
           "black",
+          "wood",
           "grey"
         ],
-        "image": "details/detail-scroll-stand-wood-v1.webp",
+        "image": "presentation-renewal/detail-scroll-stand-black-v2.webp",
         "imageAlt": {
-          "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-          "en": "Generated display example of freestanding scroll holder in wood look, with a living example bonsai in the background"
+          "nl": "Seizoenshouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Seasonal image stand in raw black beside a bonsai — generated display example"
         },
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "details/detail-scroll-stand-wood-v1.webp",
+            "image": "presentation-renewal/detail-scroll-stand-wood-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of freestanding scroll holder in wood look, with a living example bonsai in the background"
+              "nl": "Seizoenshouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Seasonal image stand in wood look beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "details/detail-scroll-stand-black-v1.webp",
+            "image": "presentation-renewal/detail-scroll-stand-black-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in matzwart, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of freestanding scroll holder in matte black, with a living example bonsai in the background"
+              "nl": "Seizoenshouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Seasonal image stand in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "details/detail-scroll-stand-wood-v1.webp",
+            "image": "presentation-renewal/detail-scroll-stand-wood-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in houtlook, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of freestanding scroll holder in wood look, with a living example bonsai in the background"
+              "nl": "Seizoenshouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Seasonal image stand in wood look beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "details/detail-scroll-stand-black-v1.webp",
+            "image": "presentation-renewal/detail-scroll-stand-black-v2.webp",
             "alt": {
-              "nl": "Gegenereerd presentatievoorbeeld van vrijstaande hangrolhouder in matzwart, met een levende voorbeeldbonsai op de achtergrond",
-              "en": "Generated display example of freestanding scroll holder in matte black, with a living example bonsai in the background"
+              "nl": "Seizoenshouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Seasonal image stand in raw black beside a bonsai — generated display example"
             },
             "visualKind": "arrangementConcept"
           }
         },
         "newDesign": true,
-        "imageStyle": "exhibition-close",
+        "imageStyle": "exhibition",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 35,
+          "woodExtra": 20,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "zone": "presentation"
+      },
+      {
+        "id": "detail-leaf-window",
+        "category": "accessories",
+        "stage": "future",
+        "newDesign": true,
+        "name": {
+          "nl": "Bladvenster",
+          "en": "Leaf window"
+        },
+        "short": {
+          "nl": "Een open bladvorm met nerven omlijst een klein verwisselbaar botanisch beeld.",
+          "en": "An open leaf shape with vein relief frames a small replaceable botanical image."
+        },
+        "detail": {
+          "nl": "Een open bladvorm met nerven omlijst een klein verwisselbaar botanisch beeld. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "An open leaf shape with vein relief frames a small replaceable botanical image. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor het geprinte object. Boom, plant, pot, steen, kaart, afbeelding, koord en transparante inzet niet inbegrepen. Uitvoering en passing op aanvraag.",
+          "en": "Guide price for the printed object. Tree, plant, pot, stone, card, artwork, cord and transparent insert excluded. Version and fit on enquiry."
+        },
+        "options": [
+          "black",
+          "wood",
+          "grey"
+        ],
+        "zone": "presentation",
+        "imageStyle": "exhibition",
         "availability": "enquiry",
         "pricing": {
           "base": 25,
           "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
+        },
+        "visualKind": "arrangementConcept",
+        "finishes": {
+          "wood": {
+            "image": "presentation-renewal/detail-leaf-window-wood-v2.webp",
+            "alt": {
+              "nl": "Bladvenster in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Leaf window in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "presentation-renewal/detail-leaf-window-black-v2.webp",
+            "alt": {
+              "nl": "Bladvenster in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Leaf window in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "gallery": [
+          {
+            "image": "presentation-renewal/detail-leaf-window-wood-v2.webp",
+            "alt": {
+              "nl": "Bladvenster in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Leaf window in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "presentation-renewal/detail-leaf-window-black-v2.webp",
+            "alt": {
+              "nl": "Bladvenster in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Leaf window in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "presentation-renewal/detail-leaf-window-black-v2.webp",
+        "imageAlt": {
+          "nl": "Bladvenster in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Leaf window in raw black beside a bonsai — generated display example"
+        }
+      },
+      {
+        "id": "detail-contour-platforms",
+        "category": "accessories",
+        "stage": "future",
+        "newDesign": true,
+        "name": {
+          "nl": "Hoogtelijn-plateaus (set van 3)",
+          "en": "Contour platforms (set of 3)"
+        },
+        "short": {
+          "nl": "Drie kleine plateaus met gelaagde randen brengen hoogteverschil in een accentgroep.",
+          "en": "Three small platforms with layered edges add varied heights to an accent group."
+        },
+        "detail": {
+          "nl": "Drie kleine plateaus met gelaagde randen brengen hoogteverschil in een accentgroep. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "Three small platforms with layered edges add varied heights to an accent group. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs per set van drie losse plateaus. Eén aantal in je aanvraag is één complete set. Plant, pot en steen niet inbegrepen. Maat en draagvlak op aanvraag.",
+          "en": "Guide price per set of three separate platforms. One quantity in your enquiry means one complete set. Plant, pot and stone excluded. Size and support area on enquiry."
+        },
+        "options": [
+          "black",
+          "wood",
+          "grey"
+        ],
+        "zone": "presentation",
+        "imageStyle": "exhibition",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 40,
+          "woodExtra": 20,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "visualKind": "arrangementConcept",
+        "sellingUnit": "set",
+        "finishes": {
+          "wood": {
+            "image": "presentation-renewal/detail-contour-platforms-wood-v2.webp",
+            "alt": {
+              "nl": "Hoogtelijn-plateaus in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Contour platforms in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "presentation-renewal/detail-contour-platforms-black-v2.webp",
+            "alt": {
+              "nl": "Hoogtelijn-plateaus in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Contour platforms in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "gallery": [
+          {
+            "image": "presentation-renewal/detail-contour-platforms-wood-v2.webp",
+            "alt": {
+              "nl": "Hoogtelijn-plateaus in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Contour platforms in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "presentation-renewal/detail-contour-platforms-black-v2.webp",
+            "alt": {
+              "nl": "Hoogtelijn-plateaus in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Contour platforms in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "presentation-renewal/detail-contour-platforms-black-v2.webp",
+        "imageAlt": {
+          "nl": "Hoogtelijn-plateaus in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Contour platforms in raw black beside a bonsai — generated display example"
+        }
+      },
+      {
+        "id": "detail-season-fan",
+        "category": "accessories",
+        "stage": "future",
+        "newDesign": true,
+        "name": {
+          "nl": "Seizoenswaaier",
+          "en": "Season fan"
+        },
+        "short": {
+          "nl": "Drie verspringende panelen met blad- en takreliëf vormen een klein decoratief achtervlak.",
+          "en": "Three offset panels with leaf and branch relief form a small decorative backdrop."
+        },
+        "detail": {
+          "nl": "Drie verspringende panelen met blad- en takreliëf vormen een klein decoratief achtervlak. Ontworpen als een bescheiden detail naast de bonsai. Ruw zwart of grijs, of houtlook met extra nabewerking. Maat, stabiliteit, bevestigingen en maakbaarheid werken we per aanvraag uit. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "Three offset panels with leaf and branch relief form a small decorative backdrop. Designed as a modest detail beside the bonsai. Raw black or grey, or wood look with additional hand finishing. Size, stability, attachments and manufacturability are developed for each enquiry. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor het geprinte object. Boom, plant, pot, steen, kaart, afbeelding, koord en transparante inzet niet inbegrepen. Uitvoering en passing op aanvraag.",
+          "en": "Guide price for the printed object. Tree, plant, pot, stone, card, artwork, cord and transparent insert excluded. Version and fit on enquiry."
+        },
+        "options": [
+          "black",
+          "wood",
+          "grey"
+        ],
+        "zone": "presentation",
+        "imageStyle": "exhibition",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 35,
+          "woodExtra": 20,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "visualKind": "arrangementConcept",
+        "finishes": {
+          "wood": {
+            "image": "presentation-renewal/detail-season-fan-wood-v2.webp",
+            "alt": {
+              "nl": "Seizoenswaaier in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Season fan in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "black": {
+            "image": "presentation-renewal/detail-season-fan-black-v2.webp",
+            "alt": {
+              "nl": "Seizoenswaaier in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Season fan in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "gallery": [
+          {
+            "image": "presentation-renewal/detail-season-fan-wood-v2.webp",
+            "alt": {
+              "nl": "Seizoenswaaier in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Season fan in wood look beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "presentation-renewal/detail-season-fan-black-v2.webp",
+            "alt": {
+              "nl": "Seizoenswaaier in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+              "en": "Season fan in raw black beside a bonsai — generated display example"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "presentation-renewal/detail-season-fan-black-v2.webp",
+        "imageAlt": {
+          "nl": "Seizoenswaaier in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
+          "en": "Season fan in raw black beside a bonsai — generated display example"
         }
       }
     ],
