@@ -7,6 +7,16 @@ Ruben's small workshop from a generic product grid. Images fill the frame with
 physical-looking printed objects and matching living trees, while preserving the
 owner's original photographs separately. New designs remain generated proposals.
 
+Six new black-resin miniature proposals feature carved bark, feathers, fur,
+fabric seams, woven textures, miniature tools and integrated bases. Each image
+uses close workshop photography beside a living bonsai, with satin-matte black
+resin and modest cleanup traces. They are original generated concepts with no
+production geometry or physical prints. Black-only options, EUR25–40 guide prices
+and explicit plant exclusions appear in the collection and enquiry. The homepage
+shows three and the examples page all six, preserving the four existing displays.
+Original PNGs and the full prompts/provenance are saved privately under
+`shop-design/research/detailed-miniatures-2026-10-12/`.
+
 The signature additions explore twisted deadwood-root legs, irregular branch
 lattices and topographic relief. New categories cover accent holders, suiseki
 bases and exhibition accessories. These product ideas follow the owner's brief;

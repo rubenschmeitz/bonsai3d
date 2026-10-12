@@ -17,12 +17,15 @@ these compositions. Its separate catalogue entry remains available.
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
 
-The October 2026 collection now contains 37 objects across six categories, including 14 miniatures, 15 tables/jitas, two pots and six accent/stone/display accessories.
+The October 2026 collection now contains 43 objects across six categories, including 20 miniatures, 15 tables/jitas, two pots and six accent/stone/display accessories.
 New miniatures are generated concepts, have not been printed and have no production
 geometry. Size, finish, details and manufacturability are agreed through an enquiry.
-Their current exhibition images depict simple plain matte-black resin miniatures
-with modest light and ordinary surface irregularities.
-All twelve concepts offer only matte black. These are generated examples, not
+Their current photographic images depict matte-black resin miniatures with
+modest light and ordinary surface irregularities. Six new detailed proposals add
+bark, feather, fur, fabric and tool relief, all black only, beside living bonsais.
+They appear on the homepage, examples page and first in the miniature category.
+Their indicative guide prices are EUR25–40, excluding living trees and styling.
+Legacy miniature preferences remain preserved. These are generated examples, not
 photographs of existing printed stock. Earlier v1/v2 images and matching black
 transparent derivatives are preserved separately. Earlier v3 workbench views
 remain in the galleries beside the new exhibition images.
