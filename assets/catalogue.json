@@ -1592,45 +1592,73 @@
           "en": "Moss island"
         },
         "short": {
-          "nl": "Baststructuur langs een mosrand, met ruimte voor een kleine accentbeplanting.",
-          "en": "Bark texture along a moss edge, with room for a small accent planting."
+          "nl": "Gelaagde bast en fijne wortels omsluiten een klein eiland van mos en varen.",
+          "en": "Layered bark and fine roots surround a small island of moss and fern."
         },
         "detail": {
-          "nl": "Baststructuur langs een mosrand, met ruimte voor een kleine accentbeplanting. Dit is een gegenereerd ontwerpvoorstel. Vorm en details worden voor jouw opstelling uitgewerkt; het is nog niet geprint.",
-          "en": "Bark texture along a moss edge, with room for a small accent planting. This is a generated design proposal. Form and details are developed for your display; it has not yet been printed."
+          "nl": "Gelaagde bast en fijne wortels omsluiten een klein eiland van mos en varen. Een compacte accenthouder voor naast een bonsaiopstelling. Het ontwerp voorziet ruimte voor een losse inzetpot; de passing, afwatering en uiteindelijke uitvoering werken we uit rond jouw plantje. Ruw zwart of grijs, of houtlook met extra handwerk. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "Layered bark and fine roots surround a small island of moss and fern. A compact accent holder for a bonsai display. The design allows for a removable inner pot; fit, drainage and final construction will be developed around your plant. Raw black or grey, or wood look with additional hand finishing. Generated design proposal; not yet printed."
         },
         "spec": {
-          "nl": "Ontwerp op aanvraag. Voorbeeldplant, steen, kaart of afbeelding niet inbegrepen. Exacte passing bespreken we.",
-          "en": "Design on enquiry. Example plant, stone, card or artwork excluded. Exact fit is discussed."
+          "nl": "Richtprijs voor de houder. Plant, mos en losse inzetpot niet inbegrepen; maat en uitvoering op aanvraag.",
+          "en": "Guide price for the holder. Plant, moss and removable inner pot excluded; size and version on enquiry."
         },
         "options": [
           "black",
+          "wood",
           "grey"
         ],
-        "image": "atelier/accent-moss-black-v1.webp",
+        "image": "accent-renewal/accent-moss-black-v2.webp",
         "imageAlt": {
-          "nl": "Moseiland met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Moss island with a matching tree or exhibition element, generated photographic example"
+          "nl": "Moseiland met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+          "en": "Moss island with small accent plants in raw black — generated design proposal"
         },
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "atelier/accent-moss-black-v1.webp",
+            "image": "accent-renewal/accent-moss-black-v2.webp",
             "alt": {
-              "nl": "Moseiland met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Moss island with a matching tree or exhibition element, generated photographic example"
+              "nl": "Moseiland met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Moss island with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "accent-renewal/accent-moss-wood-v2.webp",
+            "alt": {
+              "nl": "Moseiland met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Moss island with small accent plants in wood look — generated design proposal"
             },
             "visualKind": "arrangementConcept"
           }
         ],
         "newDesign": true,
-        "imageStyle": "workshop-close",
+        "imageStyle": "exhibition",
         "availability": "enquiry",
         "pricing": {
-          "base": 20,
-          "woodExtra": 0,
+          "base": 25,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
+        },
+        "zone": "presentation",
+        "finishes": {
+          "black": {
+            "image": "accent-renewal/accent-moss-black-v2.webp",
+            "alt": {
+              "nl": "Moseiland met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Moss island with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "wood": {
+            "image": "accent-renewal/accent-moss-wood-v2.webp",
+            "alt": {
+              "nl": "Moseiland met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Moss island with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
         }
       },
       {
@@ -1642,45 +1670,307 @@
           "en": "Ripple stand"
         },
         "short": {
-          "nl": "Fijne waterlijnen en een open maansikkel rond een kleine accentpot.",
-          "en": "Fine water lines and an open crescent around a small accent pot."
+          "nl": "Fijne waterrimpels en een open sikkel begeleiden gras en kleine witte bloemetjes.",
+          "en": "Fine water ripples and an open crescent frame grass and tiny white flowers."
         },
         "detail": {
-          "nl": "Fijne waterlijnen en een open maansikkel rond een kleine accentpot. Dit is een gegenereerd ontwerpvoorstel. Vorm en details worden voor jouw opstelling uitgewerkt; het is nog niet geprint.",
-          "en": "Fine water lines and an open crescent around a small accent pot. This is a generated design proposal. Form and details are developed for your display; it has not yet been printed."
+          "nl": "Fijne waterrimpels en een open sikkel begeleiden gras en kleine witte bloemetjes. Een compacte accenthouder voor naast een bonsaiopstelling. Het ontwerp voorziet ruimte voor een losse inzetpot; de passing, afwatering en uiteindelijke uitvoering werken we uit rond jouw plantje. Ruw zwart of grijs, of houtlook met extra handwerk. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "Fine water ripples and an open crescent frame grass and tiny white flowers. A compact accent holder for a bonsai display. The design allows for a removable inner pot; fit, drainage and final construction will be developed around your plant. Raw black or grey, or wood look with additional hand finishing. Generated design proposal; not yet printed."
         },
         "spec": {
-          "nl": "Ontwerp op aanvraag. Voorbeeldplant, steen, kaart of afbeelding niet inbegrepen. Exacte passing bespreken we.",
-          "en": "Design on enquiry. Example plant, stone, card or artwork excluded. Exact fit is discussed."
+          "nl": "Richtprijs voor de houder. Plant, mos en losse inzetpot niet inbegrepen; maat en uitvoering op aanvraag.",
+          "en": "Guide price for the holder. Plant, moss and removable inner pot excluded; size and version on enquiry."
         },
         "options": [
           "black",
+          "wood",
           "grey"
         ],
-        "image": "atelier/accent-ripple-black-v1.webp",
+        "image": "accent-renewal/accent-ripple-black-v2.webp",
         "imageAlt": {
-          "nl": "Rimpelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Ripple stand with a matching tree or exhibition element, generated photographic example"
+          "nl": "Rimpelstandaard met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+          "en": "Ripple stand with small accent plants in raw black — generated design proposal"
         },
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "atelier/accent-ripple-black-v1.webp",
+            "image": "accent-renewal/accent-ripple-black-v2.webp",
             "alt": {
-              "nl": "Rimpelstandaard met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Ripple stand with a matching tree or exhibition element, generated photographic example"
+              "nl": "Rimpelstandaard met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Ripple stand with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "accent-renewal/accent-ripple-wood-v2.webp",
+            "alt": {
+              "nl": "Rimpelstandaard met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Ripple stand with small accent plants in wood look — generated design proposal"
             },
             "visualKind": "arrangementConcept"
           }
         ],
         "newDesign": true,
-        "imageStyle": "workshop-close",
+        "imageStyle": "exhibition",
         "availability": "enquiry",
         "pricing": {
-          "base": 20,
-          "woodExtra": 0,
+          "base": 25,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
+        },
+        "zone": "presentation",
+        "finishes": {
+          "black": {
+            "image": "accent-renewal/accent-ripple-black-v2.webp",
+            "alt": {
+              "nl": "Rimpelstandaard met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Ripple stand with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "wood": {
+            "image": "accent-renewal/accent-ripple-wood-v2.webp",
+            "alt": {
+              "nl": "Rimpelstandaard met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Ripple stand with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        }
+      },
+      {
+        "id": "accent-root-nest",
+        "category": "accents",
+        "stage": "future",
+        "newDesign": true,
+        "name": {
+          "nl": "Wortelnest",
+          "en": "Root nest"
+        },
+        "short": {
+          "nl": "Verweven wortels vormen een open nest rond een losse inzetpot met varen en mos.",
+          "en": "Intertwined roots form an open nest around a removable pot with fern and moss."
+        },
+        "detail": {
+          "nl": "Verweven wortels vormen een open nest rond een losse inzetpot met varen en mos. Een compacte accenthouder voor naast een bonsaiopstelling. Het ontwerp voorziet ruimte voor een losse inzetpot; de passing, afwatering en uiteindelijke uitvoering werken we uit rond jouw plantje. Ruw zwart of grijs, of houtlook met extra handwerk. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "Intertwined roots form an open nest around a removable pot with fern and moss. A compact accent holder for a bonsai display. The design allows for a removable inner pot; fit, drainage and final construction will be developed around your plant. Raw black or grey, or wood look with additional hand finishing. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de houder. Plant, mos en losse inzetpot niet inbegrepen; maat en uitvoering op aanvraag.",
+          "en": "Guide price for the holder. Plant, moss and removable inner pot excluded; size and version on enquiry."
+        },
+        "options": [
+          "black",
+          "wood",
+          "grey"
+        ],
+        "zone": "presentation",
+        "imageStyle": "exhibition",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 35,
+          "woodExtra": 20,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "visualKind": "arrangementConcept",
+        "finishes": {
+          "black": {
+            "image": "accent-renewal/accent-root-nest-black-v2.webp",
+            "alt": {
+              "nl": "Wortelnest met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Root nest with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "wood": {
+            "image": "accent-renewal/accent-root-nest-wood-v2.webp",
+            "alt": {
+              "nl": "Wortelnest met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Root nest with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "gallery": [
+          {
+            "image": "accent-renewal/accent-root-nest-black-v2.webp",
+            "alt": {
+              "nl": "Wortelnest met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Root nest with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "accent-renewal/accent-root-nest-wood-v2.webp",
+            "alt": {
+              "nl": "Wortelnest met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Root nest with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "accent-renewal/accent-root-nest-black-v2.webp",
+        "imageAlt": {
+          "nl": "Wortelnest met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+          "en": "Root nest with small accent plants in raw black — generated design proposal"
+        }
+      },
+      {
+        "id": "accent-seedpod",
+        "category": "accents",
+        "stage": "future",
+        "newDesign": true,
+        "name": {
+          "nl": "Zaadhuls",
+          "en": "Seedpod cradle"
+        },
+        "short": {
+          "nl": "Een geopende zaadhuls met fijne lengteribben draagt een klein viooltje.",
+          "en": "An open seedpod with fine lengthwise ribs holds a small violet."
+        },
+        "detail": {
+          "nl": "Een geopende zaadhuls met fijne lengteribben draagt een klein viooltje. Een compacte accenthouder voor naast een bonsaiopstelling. Het ontwerp voorziet ruimte voor een losse inzetpot; de passing, afwatering en uiteindelijke uitvoering werken we uit rond jouw plantje. Ruw zwart of grijs, of houtlook met extra handwerk. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "An open seedpod with fine lengthwise ribs holds a small violet. A compact accent holder for a bonsai display. The design allows for a removable inner pot; fit, drainage and final construction will be developed around your plant. Raw black or grey, or wood look with additional hand finishing. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de houder. Plant, mos en losse inzetpot niet inbegrepen; maat en uitvoering op aanvraag.",
+          "en": "Guide price for the holder. Plant, moss and removable inner pot excluded; size and version on enquiry."
+        },
+        "options": [
+          "black",
+          "wood",
+          "grey"
+        ],
+        "zone": "presentation",
+        "imageStyle": "exhibition",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 30,
+          "woodExtra": 20,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "visualKind": "arrangementConcept",
+        "finishes": {
+          "black": {
+            "image": "accent-renewal/accent-seedpod-black-v2.webp",
+            "alt": {
+              "nl": "Zaadhuls met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Seedpod cradle with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "wood": {
+            "image": "accent-renewal/accent-seedpod-wood-v2.webp",
+            "alt": {
+              "nl": "Zaadhuls met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Seedpod cradle with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "gallery": [
+          {
+            "image": "accent-renewal/accent-seedpod-black-v2.webp",
+            "alt": {
+              "nl": "Zaadhuls met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Seedpod cradle with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "accent-renewal/accent-seedpod-wood-v2.webp",
+            "alt": {
+              "nl": "Zaadhuls met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Seedpod cradle with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "accent-renewal/accent-seedpod-black-v2.webp",
+        "imageAlt": {
+          "nl": "Zaadhuls met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+          "en": "Seedpod cradle with small accent plants in raw black — generated design proposal"
+        }
+      },
+      {
+        "id": "accent-rockfold",
+        "category": "accents",
+        "stage": "future",
+        "newDesign": true,
+        "name": {
+          "nl": "Rotsplooi",
+          "en": "Rock fold"
+        },
+        "short": {
+          "nl": "Verschoven steenlagen en fijne spleten omlijsten een compacte rozetplant.",
+          "en": "Offset stone layers and fine fissures frame a compact rosette plant."
+        },
+        "detail": {
+          "nl": "Verschoven steenlagen en fijne spleten omlijsten een compacte rozetplant. Een compacte accenthouder voor naast een bonsaiopstelling. Het ontwerp voorziet ruimte voor een losse inzetpot; de passing, afwatering en uiteindelijke uitvoering werken we uit rond jouw plantje. Ruw zwart of grijs, of houtlook met extra handwerk. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "Offset stone layers and fine fissures frame a compact rosette plant. A compact accent holder for a bonsai display. The design allows for a removable inner pot; fit, drainage and final construction will be developed around your plant. Raw black or grey, or wood look with additional hand finishing. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de houder. Plant, mos en losse inzetpot niet inbegrepen; maat en uitvoering op aanvraag.",
+          "en": "Guide price for the holder. Plant, moss and removable inner pot excluded; size and version on enquiry."
+        },
+        "options": [
+          "black",
+          "wood",
+          "grey"
+        ],
+        "zone": "presentation",
+        "imageStyle": "exhibition",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 30,
+          "woodExtra": 15,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "visualKind": "arrangementConcept",
+        "finishes": {
+          "black": {
+            "image": "accent-renewal/accent-rockfold-black-v2.webp",
+            "alt": {
+              "nl": "Rotsplooi met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Rock fold with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "wood": {
+            "image": "accent-renewal/accent-rockfold-wood-v2.webp",
+            "alt": {
+              "nl": "Rotsplooi met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Rock fold with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "gallery": [
+          {
+            "image": "accent-renewal/accent-rockfold-black-v2.webp",
+            "alt": {
+              "nl": "Rotsplooi met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+              "en": "Rock fold with small accent plants in raw black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "accent-renewal/accent-rockfold-wood-v2.webp",
+            "alt": {
+              "nl": "Rotsplooi met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
+              "en": "Rock fold with small accent plants in wood look — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "accent-renewal/accent-rockfold-black-v2.webp",
+        "imageAlt": {
+          "nl": "Rotsplooi met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
+          "en": "Rock fold with small accent plants in raw black — generated design proposal"
         }
       },
       {
