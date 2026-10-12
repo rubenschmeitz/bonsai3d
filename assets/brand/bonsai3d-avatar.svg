@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="BONSAI3D"><rect width="512" height="512" fill="#f5f1e8"/><g transform="translate(115 94) scale(4.4)" style="color:#63704d"><path d="M30 49c7-6 1-15 6-22m-4 12-12-9m16 1 11-9M18 51h32l-5 10H23Z" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 27c1-6 17-9 23-5 4 3 1 9-6 9H15c-4 0-7-1-5-4Zm17-12c-2-5 17-11 24-5 6 6-6 9-15 9-4 0-8-1-9-4Zm13 20c-1-4 15-10 19-4 4 5-5 8-12 8-3 0-7-1-7-4Z" fill="currentColor"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="BONSAI3D">
+  <title>BONSAI3D</title>
+  <rect width="512" height="512" fill="#f5f1e8"/>
+  <g transform="translate(64 64) scale(6)"><path fill="#2b4237" d="M22 18C25 10 38 7 46 13L50 18Z M6 30C10 22 21 20 29 25L33 30Z M36 33C40 26 51 26 58 33Z M34 17C40 27 25 31 28 38C29 42 34 45 37 49H25C21 41 21 35 27 29C31 25 34 22 31 18Z M27 35L44 29L45 32L28 38Z M14 48H49L44 57H19Z"/></g>
+</svg>

@@ -67,7 +67,7 @@
   function updateLinks() {
     document.querySelectorAll('a[data-page]').forEach(function (a) { a.href = pageUrl(a.dataset.page, JSON.parse(a.dataset.linkOptions || '{}')); });
   }
-  function logo() { return link('home', '<img class="brand-wordmark" src="' + image('brand/bonsai3d-logo-primary.svg') + '" alt="BONSAI3D" width="210" height="44">', 'brand'); }
+  function logo() { return link('home', '<img class="brand-wordmark" src="' + image('brand/bonsai3d-logo-primary.svg?v=simple-2') + '" alt="BONSAI3D" width="284" height="64">', 'brand'); }
   function swatches(finish, attributes) {
     return ['wood','black'].map(function (f) { return '<button type="button" class="finish-choice" ' + attributes(f) + ' aria-pressed="' + (finish === f) + '"><span class="finish-dot ' + f + '" aria-hidden="true"></span><span>' + u(f) + '</span></button>'; }).join('');
   }
