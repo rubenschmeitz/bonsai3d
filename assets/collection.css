@@ -228,3 +228,6 @@ body.curated-shop img[src*="table-renewal/"]{object-fit:contain}
 
 /* Keep complete presentation objects visible in close catalogue photographs. */
 body.curated-shop img[src*="presentation-renewal/"]{object-fit:contain}
+
+/* Preserve the whole pot and bonsai in the new presentation photographs. */
+body.curated-shop img[src*="pot-renewal/"]{object-fit:contain}

@@ -68,8 +68,9 @@
     document.querySelectorAll('a[data-page]').forEach(function (a) { a.href = pageUrl(a.dataset.page, JSON.parse(a.dataset.linkOptions || '{}')); });
   }
   function logo() { return link('home', '<img class="brand-wordmark" src="' + image('brand/bonsai3d-logo-primary.svg?v=simple-2') + '" alt="BONSAI3D" width="284" height="64">', 'brand'); }
-  function swatches(finish, attributes) {
-    return ['wood','black'].map(function (f) { return '<button type="button" class="finish-choice" ' + attributes(f) + ' aria-pressed="' + (finish === f) + '"><span class="finish-dot ' + f + '" aria-hidden="true"></span><span>' + u(f) + '</span></button>'; }).join('');
+  function previewFinishes(p) { return ['wood','black','grey'].filter(function(f){return p.finishes && p.finishes[f];}); }
+  function swatches(finish, attributes, choices) {
+    return (choices || ['wood','black']).map(function (f) { return '<button type="button" class="finish-choice" ' + attributes(f) + ' aria-pressed="' + (finish === f) + '"><span class="finish-dot ' + f + '" aria-hidden="true"></span><span>' + u(f) + '</span></button>'; }).join('');
   }
   function render() {
     document.documentElement.lang = language;
@@ -93,8 +94,8 @@
     matches.sort(function(a,b){return (Number(!!b.featured)*2+Number(!!b.detailedMiniature))-(Number(!!a.featured)*2+Number(!!a.detailedMiniature));});
     document.getElementById('results-count').textContent = matches.length + ' ' + u('count');
     document.getElementById('products').innerHTML = matches.length ? matches.map(function (p) {
-      var finish = cardStyles[p.id] || style, photo = finishImage(p, finish);
-      return '<article class="product" data-product-card="' + p.id + '"><button class="product-art" data-product="' + p.id + '" aria-label="' + esc(u('details') + ': ' + t(p.name)) + '"><img src="' + image(photo.image) + '" alt="' + esc(t(photo.alt)) + '" width="1254" height="1254" loading="lazy"><span class="art-arrow" aria-hidden="true">↗</span></button><div class="product-topline"><span>' + esc(shop.categories.find(function (c) { return c.id === p.category; })[language]) + '</span><span class="availability">' + availability(p) + '</span></div><h3><button data-product="' + p.id + '">' + esc(t(p.name)) + '</button></h3><p>' + esc(t(p.short)) + '</p>' + (p.finishes ? '<div class="card-finishes" role="group" aria-label="' + esc(u('choose') + ': ' + t(p.name)) + '">' + swatches(finish, function (f) { return 'data-card-finish="' + f + '" data-card-id="' + p.id + '"'; }) + '</div>' : '') + '<p class="product-price">'+tr('Richtprijs ','Guide price ')+ '<strong>'+price(p,finish)+'</strong></p><p class="card-image-note">' + imageLabel(photo) + '</p></article>';
+      var finish = cardStyles[p.id] || style; if(p.finishes && !p.finishes[finish]) finish=p.finishes.black?'black':previewFinishes(p)[0]; var photo = finishImage(p, finish);
+      return '<article class="product" data-product-card="' + p.id + '"><button class="product-art" data-product="' + p.id + '" aria-label="' + esc(u('details') + ': ' + t(p.name)) + '"><img src="' + image(photo.image) + '" alt="' + esc(t(photo.alt)) + '" width="1254" height="1254" loading="lazy"><span class="art-arrow" aria-hidden="true">↗</span></button><div class="product-topline"><span>' + esc(shop.categories.find(function (c) { return c.id === p.category; })[language]) + '</span><span class="availability">' + availability(p) + '</span></div><h3><button data-product="' + p.id + '">' + esc(t(p.name)) + '</button></h3><p>' + esc(t(p.short)) + '</p>' + (p.finishes ? '<div class="card-finishes" role="group" aria-label="' + esc(u('choose') + ': ' + t(p.name)) + '">' + swatches(finish, function (f) { return 'data-card-finish="' + f + '" data-card-id="' + p.id + '"'; }, previewFinishes(p)) + '</div>' : '') + '<p class="product-price">'+tr('Richtprijs ','Guide price ')+ '<strong>'+price(p,finish)+'</strong></p><p class="card-image-note">' + imageLabel(photo) + '</p></article>';
     }).join('') : '<p class="no-results">' + u('noResults') + '</p>';
     bindProductLinks();
     document.querySelectorAll('[data-card-finish]').forEach(function (button) { button.onclick = function () {
@@ -141,7 +142,8 @@
       var preview = p.finishes && finish === 'wood' ? 'wood' : 'black';
       return p.gallery.filter(function (photo) { return !photo.previewFinish || photo.previewFinish === preview; });
     }
-    return p.finishes ? ['wood','black'].map(function (f) { return Object.assign({finish:f},p.finishes[f]); }).concat(p.gallery.filter(function (photo) { return photo.image !== p.finishes.wood.image && photo.image !== p.finishes.black.image; })) : (p.gallery || [{image:p.image,visualKind:p.visualKind,alt:p.imageAlt}]);
+    var keys=previewFinishes(p);
+    return p.finishes ? keys.map(function(f){return Object.assign({finish:f},p.finishes[f]);}).concat(p.gallery.filter(function(photo){return !keys.some(function(f){return photo.image===p.finishes[f].image;});})) : (p.gallery || [{image:p.image,visualKind:p.visualKind,alt:p.imageAlt}]);
   }
   function openProduct(id, finish) {
     var p = productById(id); if (!p) { toast(u('archived')); return; }
@@ -163,7 +165,7 @@
       thumbnails.querySelectorAll('[data-image-index]').forEach(function (button) { button.onclick = function () { showPhoto(Number(button.dataset.imageIndex)); }; });
     }
     bindGallery();
-    dialog.querySelectorAll('[name=finish]').forEach(function (input) { input.onchange = function () { if (p.miniatureViews) { activeFinish=input.value; productUrl(id,activeFinish); gallery=productGallery(p,input.value); bindGallery(); showPhoto(0); } else if (p.finishes && input.value!=='grey') showPhoto(input.value === 'black' ? 1 : 0); else { activeFinish=input.value; productUrl(id,activeFinish); } document.getElementById('product-price').textContent=price(p,input.value); if(input.value==='grey') dialog.querySelector('#product-image-note').textContent=tr('Ruw grijs is een kleurvoorkeur voor je aanvraag. De foto toont de beschikbare voorbeeldafwerking; er is nog geen grijs voorbeeldbeeld.','Raw grey is a colour preference for your enquiry. The photograph shows the available example finish; a grey preview is not yet available.'); }; });
+    dialog.querySelectorAll('[name=finish]').forEach(function (input) { input.onchange = function () { if (p.miniatureViews) { activeFinish=input.value; productUrl(id,activeFinish); gallery=productGallery(p,input.value); bindGallery(); showPhoto(0); } else if (p.finishes && p.finishes[input.value]) showPhoto(gallery.findIndex(function(photo){return photo.finish===input.value;})); else { activeFinish=input.value; productUrl(id,activeFinish); } document.getElementById('product-price').textContent=price(p,input.value); if(input.value==='grey' && !(p.finishes && p.finishes.grey)) dialog.querySelector('#product-image-note').textContent=tr('Ruw grijs is een kleurvoorkeur voor je aanvraag. De foto toont de beschikbare voorbeeldafwerking; er is nog geen grijs voorbeeldbeeld.','Raw grey is a colour preference for your enquiry. The photograph shows the available example finish; a grey preview is not yet available.'); }; });
     dialog.querySelector('form').onsubmit = function (event) {
       event.preventDefault(); var form = new FormData(event.currentTarget), chosen = form.get('finish'), quantity = Number(form.get('quantity'));
       if (!p.options.includes(chosen) || !Number.isInteger(quantity) || quantity < 1 || quantity > 20) return;
@@ -172,7 +174,7 @@
     };
     setupDialog(dialog);
     dialog.onclose = function () { activeProduct = null; var url = new URL(location.href); url.searchParams.delete('product'); url.searchParams.delete('finish'); history.replaceState(null,'',url); if (lastFocus && lastFocus.isConnected) lastFocus.focus(); };
-    showPhoto(!p.miniatureViews && p.finishes && finish !== 'wood' ? 1 : 0); if(finish==='grey'){var greyInput=dialog.querySelector('[name=finish][value=grey]');if(greyInput)greyInput.checked=true; activeFinish='grey';dialog.querySelector('#product-image-note').textContent=tr('Ruw grijs op aanvraag; het beeld toont zwart.','Raw grey on enquiry; the image shows black.');} productUrl(id,finish); dialog.showModal();
+    showPhoto(!p.miniatureViews && p.finishes ? Math.max(0,gallery.findIndex(function(photo){return photo.finish===(p.finishes[finish]?finish:'black');})) : 0); if(finish==='grey' && !(p.finishes && p.finishes.grey)){var greyInput=dialog.querySelector('[name=finish][value=grey]');if(greyInput)greyInput.checked=true; activeFinish='grey';dialog.querySelector('#product-image-note').textContent=tr('Ruw grijs op aanvraag; het beeld toont zwart.','Raw grey on enquiry; the image shows black.');} productUrl(id,finish); dialog.showModal();
   }
   function renderSelection() {
     var parent = document.getElementById('selection-items');

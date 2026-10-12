@@ -1373,8 +1373,8 @@
           "en": "A rectangular pot with thorny branch relief."
         },
         "detail": {
-          "nl": "Een rechthoekige geprinte pot op lage voeten, met een donkere tak die schuin over de voorkant loopt. De foto’s tonen de grijze uitvoering leeg en een lichte uitvoering met een bloeiende bonsai. Maat, kleur, materiaal en drainage bespreken we voor een nieuwe print. De levende boom dient als presentatievoorbeeld.",
-          "en": "A rectangular printed pot on low feet, with a dark branch running diagonally across the front. The photographs show the gray version empty and a pale version with a flowering bonsai. We discuss size, colour, material and drainage for a new print. The living tree is display styling."
+          "nl": "Een rechthoekige geprinte pot op lage voeten, met een donkere tak die schuin over de voorkant loopt. De foto’s tonen de grijze uitvoering leeg en een lichte uitvoering met een bloeiende bonsai. Maat, kleur, materiaal en drainage bespreken we voor een nieuwe print. De levende boom dient als presentatievoorbeeld. Het nieuwe presentatiebeeld is gegenereerd op basis van mijn eigen potfoto. De originele foto’s blijven in de galerij. Boom niet inbegrepen; beschikbare maat en kleur bevestig ik bij je aanvraag.",
+          "en": "A rectangular printed pot on low feet, with a dark branch running diagonally across the front. The photographs show the gray version empty and a pale version with a flowering bonsai. We discuss size, colour, material and drainage for a new print. The living tree is display styling. The new display image is generated from my own pot photograph. Original photos remain in the gallery. Tree excluded; available size and colour are confirmed on enquiry."
         },
         "spec": {
           "nl": "Grijze en lichte uitvoering · maat op aanvraag",
@@ -1386,31 +1386,21 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "atelier/bonsai-firethorn-pot-own-v1.webp",
+        "image": "pot-renewal/bonsai-firethorn-pot-own-v2.webp",
         "visualKind": "arrangement",
         "archiveId": "bonsai-firethorn-pot",
         "imageAlt": {
-          "nl": "Takkenpot met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Branch pot with a matching tree or exhibition element, generated photographic example"
+          "nl": "Takkenpot met één passende bonsai — gegenereerd op basis van mijn eigen foto",
+          "en": "Branch pot with one matching bonsai — generated from my own photograph"
         },
         "gallery": [
           {
-            "image": "atelier/bonsai-firethorn-pot-own-v1.webp",
+            "image": "pot-renewal/bonsai-firethorn-pot-own-v2.webp",
             "alt": {
-              "nl": "Takkenpot met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Branch pot with a matching tree or exhibition element, generated photographic example"
+              "nl": "Takkenpot met één passende bonsai — gegenereerd op basis van mijn eigen foto",
+              "en": "Branch pot with one matching bonsai — generated from my own photograph"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/gray-branch-pot.webp"
-          },
-          {
-            "image": "exhibition/bonsai-firethorn-pot-own-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Takkenpot — bestaande uitvoering in een tentoonstellingssetting",
-              "en": "Branch pot — existing version in an exhibition setting"
-            },
             "originalPhoto": "prints/gray-branch-pot.webp"
           },
           {
@@ -1493,8 +1483,8 @@
           "en": "A deep red pot with pale branches in relief."
         },
         "detail": {
-          "nl": "Lichte takken steken af tegen de rode, vierkante pot en lopen door over de zijkanten. Je ziet hier het geprinte exemplaar, met daarnaast eerdere foto’s van opzij en van boven. Kleur, reliëf en vorm geven de pot een eigen karakter. Voor een nieuwe uitvoering stemmen we maat, materiaal en afwerking samen af.",
-          "en": "Pale branches stand out against the red square pot and continue around its sides. These photographs show the printed example, including earlier side and top views. Colour, relief and form give the pot its character. For a new version, we agree the size, material and finish together."
+          "nl": "Lichte takken steken af tegen de rode, vierkante pot en lopen door over de zijkanten. Je ziet hier het geprinte exemplaar, met daarnaast eerdere foto’s van opzij en van boven. Kleur, reliëf en vorm geven de pot een eigen karakter. Voor een nieuwe uitvoering stemmen we maat, materiaal en afwerking samen af. Het nieuwe presentatiebeeld is gegenereerd op basis van mijn eigen potfoto. De originele foto’s blijven in de galerij. Boom niet inbegrepen; beschikbare maat en kleur bevestig ik bij je aanvraag.",
+          "en": "Pale branches stand out against the red square pot and continue around its sides. These photographs show the printed example, including earlier side and top views. Colour, relief and form give the pot its character. For a new version, we agree the size, material and finish together. The new display image is generated from my own pot photograph. Original photos remain in the gallery. Tree excluded; available size and colour are confirmed on enquiry."
         },
         "spec": {
           "nl": "Gefotografeerd voorbeeld · uitvoering op aanvraag",
@@ -1506,26 +1496,16 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "atelier/bonsai-red-branch-relief-pot-own-v1.webp",
+        "image": "pot-renewal/bonsai-red-branch-relief-pot-own-v2.webp",
         "visualKind": "arrangement",
         "gallery": [
           {
-            "image": "atelier/bonsai-red-branch-relief-pot-own-v1.webp",
+            "image": "pot-renewal/bonsai-red-branch-relief-pot-own-v2.webp",
             "alt": {
-              "nl": "Rode takkenpot met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-              "en": "Red branch pot with a matching tree or exhibition element, generated photographic example"
+              "nl": "Rode takkenpot met één passende bonsai — gegenereerd op basis van mijn eigen foto",
+              "en": "Red branch pot with one matching bonsai — generated from my own photograph"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/red-branch-pot.webp"
-          },
-          {
-            "image": "exhibition/bonsai-red-branch-relief-pot-own-v1.webp",
-            "visualKind": "exhibition",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Rode takkenpot — bestaande uitvoering in een tentoonstellingssetting",
-              "en": "Red branch pot — existing version in an exhibition setting"
-            },
             "originalPhoto": "prints/red-branch-pot.webp"
           },
           {
@@ -1570,8 +1550,8 @@
         ],
         "archiveId": "bonsai-red-branch-relief-pot",
         "imageAlt": {
-          "nl": "Rode takkenpot met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
-          "en": "Red branch pot with a matching tree or exhibition element, generated photographic example"
+          "nl": "Rode takkenpot met één passende bonsai — gegenereerd op basis van mijn eigen foto",
+          "en": "Red branch pot with one matching bonsai — generated from my own photograph"
         },
         "imageStyle": "exhibition",
         "zone": "presentation",
@@ -1582,6 +1562,237 @@
           "currency": "EUR",
           "kind": "indicative"
         }
+      },
+      {
+        "id": "pot-rootflow",
+        "category": "pots",
+        "name": {
+          "nl": "Wortelvloei-schaal",
+          "en": "Root flow pot"
+        },
+        "short": {
+          "nl": "Een lage ovale schaal met wortellijnen die doorlopen in de voeten.",
+          "en": "A low oval pot with flowing root lines continuing into its feet."
+        },
+        "detail": {
+          "nl": "Een lage ovale schaal met wortellijnen die doorlopen in de voeten. Een nieuw ontwerp met een passende bonsai als presentatievoorbeeld. Maat, wortelruimte, drainage en materiaalkeuze werken we uit voor jouw boom. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "A low oval pot with flowing root lines continuing into its feet. A new design shown with a matching bonsai as a display example. Size, root space, drainage and material selection will be developed around your tree. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de schaal; boom, grond en mos niet inbegrepen. Zwart of grijs op aanvraag.",
+          "en": "Guide price for the pot; tree, soil and moss excluded. Black or grey on enquiry."
+        },
+        "options": [
+          "black",
+          "grey"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "visualKind": "arrangementConcept",
+        "imageStyle": "exhibition",
+        "zone": "presentation",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 45,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "finishes": {
+          "black": {
+            "image": "pot-renewal/pot-rootflow-black-v2.webp",
+            "alt": {
+              "nl": "Wortelvloei-schaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+              "en": "Root flow pot with one bonsai in black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "grey": {
+            "image": "pot-renewal/pot-rootflow-grey-v2.webp",
+            "alt": {
+              "nl": "Wortelvloei-schaal met één bonsai in grijs — gegenereerd ontwerpvoorstel",
+              "en": "Root flow pot with one bonsai in grey — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "image": "pot-renewal/pot-rootflow-black-v2.webp",
+        "imageAlt": {
+          "nl": "Wortelvloei-schaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+          "en": "Root flow pot with one bonsai in black — generated design proposal"
+        },
+        "gallery": [
+          {
+            "image": "pot-renewal/pot-rootflow-black-v2.webp",
+            "alt": {
+              "nl": "Wortelvloei-schaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+              "en": "Root flow pot with one bonsai in black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "pot-renewal/pot-rootflow-grey-v2.webp",
+            "alt": {
+              "nl": "Wortelvloei-schaal met één bonsai in grijs — gegenereerd ontwerpvoorstel",
+              "en": "Root flow pot with one bonsai in grey — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ]
+      },
+      {
+        "id": "pot-strata",
+        "category": "pots",
+        "name": {
+          "nl": "Gelaagde rotsschaal",
+          "en": "Strata pot"
+        },
+        "short": {
+          "nl": "Fijne steenlagen en een verspringende rand geven een lage schaal karakter.",
+          "en": "Fine stone strata and an offset rim give character to a low pot."
+        },
+        "detail": {
+          "nl": "Fijne steenlagen en een verspringende rand geven een lage schaal karakter. Een nieuw ontwerp met een passende bonsai als presentatievoorbeeld. Maat, wortelruimte, drainage en materiaalkeuze werken we uit voor jouw boom. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "Fine stone strata and an offset rim give character to a low pot. A new design shown with a matching bonsai as a display example. Size, root space, drainage and material selection will be developed around your tree. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de schaal; boom, grond en mos niet inbegrepen. Zwart of grijs op aanvraag.",
+          "en": "Guide price for the pot; tree, soil and moss excluded. Black or grey on enquiry."
+        },
+        "options": [
+          "black",
+          "grey"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "visualKind": "arrangementConcept",
+        "imageStyle": "exhibition",
+        "zone": "presentation",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 50,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "finishes": {
+          "black": {
+            "image": "pot-renewal/pot-strata-black-v2.webp",
+            "alt": {
+              "nl": "Gelaagde rotsschaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+              "en": "Strata pot with one bonsai in black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "grey": {
+            "image": "pot-renewal/pot-strata-grey-v2.webp",
+            "alt": {
+              "nl": "Gelaagde rotsschaal met één bonsai in grijs — gegenereerd ontwerpvoorstel",
+              "en": "Strata pot with one bonsai in grey — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "image": "pot-renewal/pot-strata-black-v2.webp",
+        "imageAlt": {
+          "nl": "Gelaagde rotsschaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+          "en": "Strata pot with one bonsai in black — generated design proposal"
+        },
+        "gallery": [
+          {
+            "image": "pot-renewal/pot-strata-black-v2.webp",
+            "alt": {
+              "nl": "Gelaagde rotsschaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+              "en": "Strata pot with one bonsai in black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "pot-renewal/pot-strata-grey-v2.webp",
+            "alt": {
+              "nl": "Gelaagde rotsschaal met één bonsai in grijs — gegenereerd ontwerpvoorstel",
+              "en": "Strata pot with one bonsai in grey — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ]
+      },
+      {
+        "id": "pot-cascade",
+        "category": "pots",
+        "name": {
+          "nl": "Wortelcascade-schaal",
+          "en": "Root cascade pot"
+        },
+        "short": {
+          "nl": "Een diepe taps toelopende schaal met verticale bastgroeven en een rustige bovenrand.",
+          "en": "A deep tapered pot with vertical bark grooves and a quiet upper rim."
+        },
+        "detail": {
+          "nl": "Een diepe taps toelopende schaal met verticale bastgroeven en een rustige bovenrand. Een nieuw ontwerp met een passende bonsai als presentatievoorbeeld. Maat, wortelruimte, drainage en materiaalkeuze werken we uit voor jouw boom. Gegenereerd ontwerpvoorstel; nog niet geprint.",
+          "en": "A deep tapered pot with vertical bark grooves and a quiet upper rim. A new design shown with a matching bonsai as a display example. Size, root space, drainage and material selection will be developed around your tree. Generated design proposal; not yet printed."
+        },
+        "spec": {
+          "nl": "Richtprijs voor de schaal; boom, grond en mos niet inbegrepen. Zwart of grijs op aanvraag.",
+          "en": "Guide price for the pot; tree, soil and moss excluded. Black or grey on enquiry."
+        },
+        "options": [
+          "black",
+          "grey"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "visualKind": "arrangementConcept",
+        "imageStyle": "exhibition",
+        "zone": "presentation",
+        "availability": "enquiry",
+        "pricing": {
+          "base": 55,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "finishes": {
+          "black": {
+            "image": "pot-renewal/pot-cascade-black-v2.webp",
+            "alt": {
+              "nl": "Wortelcascade-schaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+              "en": "Root cascade pot with one bonsai in black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          "grey": {
+            "image": "pot-renewal/pot-cascade-grey-v2.webp",
+            "alt": {
+              "nl": "Wortelcascade-schaal met één bonsai in grijs — gegenereerd ontwerpvoorstel",
+              "en": "Root cascade pot with one bonsai in grey — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        },
+        "image": "pot-renewal/pot-cascade-black-v2.webp",
+        "imageAlt": {
+          "nl": "Wortelcascade-schaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+          "en": "Root cascade pot with one bonsai in black — generated design proposal"
+        },
+        "gallery": [
+          {
+            "image": "pot-renewal/pot-cascade-black-v2.webp",
+            "alt": {
+              "nl": "Wortelcascade-schaal met één bonsai in zwart — gegenereerd ontwerpvoorstel",
+              "en": "Root cascade pot with one bonsai in black — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          },
+          {
+            "image": "pot-renewal/pot-cascade-grey-v2.webp",
+            "alt": {
+              "nl": "Wortelcascade-schaal met één bonsai in grijs — gegenereerd ontwerpvoorstel",
+              "en": "Root cascade pot with one bonsai in grey — generated design proposal"
+            },
+            "visualKind": "arrangementConcept"
+          }
+        ]
       },
       {
         "id": "accent-moss",
