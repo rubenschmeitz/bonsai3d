@@ -138,3 +138,9 @@ raw PNGs and hashes are archived privately. New designs are unprinted and on
 enquiry, with indicative prices EUR30/40/25. Living trees and pots are styling,
 not supplied with the miniature. Existing non-miniature records, owner photos,
 previous media, four static examples, pot designs and custom estimator are preserved.
+
+The nine featured miniature pairings now use scale-corrected v2 photographs: small
+black resin accents beside substantially larger living bonsais. Catalogue target
+size is 3–5 cm, subject to final design, with illustrative 30–45 cm trees. First
+isolated portraits and all previous image files remain intact. Full editing
+prompts and provenance: private research/miniature-scale-2026-10-12/.

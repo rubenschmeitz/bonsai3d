@@ -260,8 +260,8 @@
         },
         "imageStyle": "isolated-exhibition",
         "spec": {
-          "nl": "Miniatuur in matzwart resin; maat en details op aanvraag. Boom en pot niet inbegrepen.",
-          "en": "Miniature in matte-black resin; size and details on enquiry. Tree and pot not included."
+          "nl": "Miniatuur in matzwart resin; maat en details op aanvraag. Boom en pot niet inbegrepen. Richtmaat 3–5 cm; definitieve maat op aanvraag.",
+          "en": "Miniature in matte-black resin; size and details on enquiry. Tree and pot not included. Target size 3–5 cm; final dimensions on enquiry."
         },
         "detail": {
           "nl": "Een knielende figuur met een gekantelde gieter. In de opstelling bereikt de tuit de grond bij de wortels. De eerste foto toont alleen het figuur; op de tweede foto sluit de houding aan op een echte voorbeeldbonsai. Het figuur en de eigen voet zijn voorgesteld in matzwart resin. De boom en pot zijn losse styling en niet inbegrepen. Dit zijn gegenereerde beelden van een nog niet geprint ontwerp. Maat en uitvoerbare details spreken we samen af.",
@@ -279,10 +279,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-watergiver-black-with-bonsai-v1.webp",
+            "image": "miniature-views/bonsai-mini-watergiver-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "De watergever — naast een passende levende bonsai",
-              "en": "The watergiver — beside a matching living bonsai"
+              "nl": "De watergever als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "The watergiver as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -324,8 +324,8 @@
         },
         "imageStyle": "isolated-exhibition",
         "spec": {
-          "nl": "Miniatuur in matzwart resin; maat en details op aanvraag. Boom en pot niet inbegrepen.",
-          "en": "Miniature in matte-black resin; size and details on enquiry. Tree and pot not included."
+          "nl": "Miniatuur in matzwart resin; maat en details op aanvraag. Boom en pot niet inbegrepen. Richtmaat 3–5 cm; definitieve maat op aanvraag.",
+          "en": "Miniature in matte-black resin; size and details on enquiry. Tree and pot not included. Target size 3–5 cm; final dimensions on enquiry."
         },
         "detail": {
           "nl": "Een tuinier op een klein opstapje, met de snoeischaar gericht naar een lage tak van de bonsai. De eerste foto toont alleen het figuur; op de tweede foto sluit de houding aan op een echte voorbeeldbonsai. Het figuur en de eigen voet zijn voorgesteld in matzwart resin. De boom en pot zijn losse styling en niet inbegrepen. Dit zijn gegenereerde beelden van een nog niet geprint ontwerp. Maat en uitvoerbare details spreken we samen af.",
@@ -343,10 +343,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-branch-pruner-black-with-bonsai-v1.webp",
+            "image": "miniature-views/bonsai-mini-branch-pruner-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "De takverzorger — naast een passende levende bonsai",
-              "en": "The branch tender — beside a matching living bonsai"
+              "nl": "De takverzorger als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "The branch tender as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -388,8 +388,8 @@
         },
         "imageStyle": "isolated-exhibition",
         "spec": {
-          "nl": "Miniatuur in matzwart resin; maat en details op aanvraag. Boom en pot niet inbegrepen.",
-          "en": "Miniature in matte-black resin; size and details on enquiry. Tree and pot not included."
+          "nl": "Miniatuur in matzwart resin; maat en details op aanvraag. Boom en pot niet inbegrepen. Richtmaat 3–5 cm; definitieve maat op aanvraag.",
+          "en": "Miniature in matte-black resin; size and details on enquiry. Tree and pot not included. Target size 3–5 cm; final dimensions on enquiry."
         },
         "detail": {
           "nl": "Een eekhoorn op de achterpoten die zich naar de stam uitstrekt. Zijn voorpoten kunnen in het voorbeeld tegen een wortel rusten. De eerste foto toont alleen het figuur; op de tweede foto sluit de houding aan op een echte voorbeeldbonsai. Het figuur en de eigen voet zijn voorgesteld in matzwart resin. De boom en pot zijn losse styling en niet inbegrepen. Dit zijn gegenereerde beelden van een nog niet geprint ontwerp. Maat en uitvoerbare details spreken we samen af.",
@@ -407,10 +407,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-root-squirrel-black-with-bonsai-v1.webp",
+            "image": "miniature-views/bonsai-mini-root-squirrel-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "De nieuwsgierige eekhoorn — naast een passende levende bonsai",
-              "en": "The curious squirrel — beside a matching living bonsai"
+              "nl": "De nieuwsgierige eekhoorn als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "The curious squirrel as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -2879,12 +2879,12 @@
           "en": "Bark grooves, a weathered face and layered fabric folds. A quiet guardian among roots, leaves and little mushrooms."
         },
         "detail": {
-          "nl": "Bastgroeven, een doorleefd gezicht en gelaagde stofplooien. Een stille wachter tussen wortels, blaadjes en kleine paddenstoelen. Een jeneverbes met gedraaide stam sluit aan op de wortels van het figuur. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 7–9 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
-          "en": "Bark grooves, a weathered face and layered fabric folds. A quiet guardian among roots, leaves and little mushrooms. A twisted-trunk juniper echoes the roots of the figure. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 7–9 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
+          "nl": "Bastgroeven, een doorleefd gezicht en gelaagde stofplooien. Een stille wachter tussen wortels, blaadjes en kleine paddenstoelen. Een jeneverbes met gedraaide stam sluit aan op de wortels van het figuur. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
+          "en": "Bark grooves, a weathered face and layered fabric folds. A quiet guardian among roots, leaves and little mushrooms. A twisted-trunk juniper echoes the roots of the figure. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
         },
         "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 7–9 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 7–9 cm · not yet printed"
+          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
+          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
         },
         "options": [
           "black"
@@ -2910,10 +2910,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniatures/root-guardian-detailed-black-v1.webp",
+            "image": "miniature-views/bonsai-mini-root-guardian-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "De wortelwachter — naast een passende levende bonsai",
-              "en": "The root guardian — beside a matching living bonsai"
+              "nl": "De wortelwachter als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "The root guardian as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -2942,12 +2942,12 @@
           "en": "A traveller at a weathered mountain gate, with a woven backpack, rope coils, textured hat and uneven stone steps."
         },
         "detail": {
-          "nl": "Een reiziger bij een verweerde bergpoort, met geweven rugzak, touwrollen, hoedstructuur en onregelmatige stenen treden. De hellende den vervolgt de beweging van het pad. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 7–9 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
-          "en": "A traveller at a weathered mountain gate, with a woven backpack, rope coils, textured hat and uneven stone steps. The slanting pine continues the movement of the path. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 7–9 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
+          "nl": "Een reiziger bij een verweerde bergpoort, met geweven rugzak, touwrollen, hoedstructuur en onregelmatige stenen treden. De hellende den vervolgt de beweging van het pad. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
+          "en": "A traveller at a weathered mountain gate, with a woven backpack, rope coils, textured hat and uneven stone steps. The slanting pine continues the movement of the path. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
         },
         "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 7–9 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 7–9 cm · not yet printed"
+          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
+          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
         },
         "options": [
           "black"
@@ -2973,10 +2973,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniatures/mountain-traveller-detailed-black-v1.webp",
+            "image": "miniature-views/bonsai-mini-mountain-traveller-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "De bergreiziger — naast een passende levende bonsai",
-              "en": "The mountain traveller — beside a matching living bonsai"
+              "nl": "De bergreiziger als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "The mountain traveller as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -3005,12 +3005,12 @@
           "en": "A quiet tea moment with deep fabric folds, a woven cushion, tiny kettle, cups and a leaf motif on the tea caddy."
         },
         "detail": {
-          "nl": "Een rustig theemoment met diepe stofplooien, een geweven zitkussen, kleine ketel, kopjes en een bladmotief op het theeblik. Een fijnvertakte esdoorn geeft de scène een zachte omlijsting. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 7–9 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
-          "en": "A quiet tea moment with deep fabric folds, a woven cushion, tiny kettle, cups and a leaf motif on the tea caddy. A finely branched maple softly frames the scene. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 7–9 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
+          "nl": "Een rustig theemoment met diepe stofplooien, een geweven zitkussen, kleine ketel, kopjes en een bladmotief op het theeblik. Een fijnvertakte esdoorn geeft de scène een zachte omlijsting. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
+          "en": "A quiet tea moment with deep fabric folds, a woven cushion, tiny kettle, cups and a leaf motif on the tea caddy. A finely branched maple softly frames the scene. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
         },
         "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 7–9 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 7–9 cm · not yet printed"
+          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
+          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
         },
         "options": [
           "black"
@@ -3036,10 +3036,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniatures/tea-artisan-detailed-black-v1.webp",
+            "image": "miniature-views/bonsai-mini-tea-artisan-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "De theemaker — naast een passende levende bonsai",
-              "en": "The tea artisan — beside a matching living bonsai"
+              "nl": "De theemaker als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "The tea artisan as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -3068,12 +3068,12 @@
           "en": "A graceful crane with overlapping feather layers, a curved neck, reed heads and water ripples in its base."
         },
         "detail": {
-          "nl": "Een sierlijke kraanvogel met overlappende veerlagen, gebogen hals, rietpluimen en waterrimpels in de voet. Een slanke iep sluit aan op de verticale lijnen van vogel en riet. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 7–9 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
-          "en": "A graceful crane with overlapping feather layers, a curved neck, reed heads and water ripples in its base. A slender elm echoes the vertical lines of the bird and reeds. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 7–9 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
+          "nl": "Een sierlijke kraanvogel met overlappende veerlagen, gebogen hals, rietpluimen en waterrimpels in de voet. Een slanke iep sluit aan op de verticale lijnen van vogel en riet. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
+          "en": "A graceful crane with overlapping feather layers, a curved neck, reed heads and water ripples in its base. A slender elm echoes the vertical lines of the bird and reeds. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
         },
         "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 7–9 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 7–9 cm · not yet printed"
+          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
+          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
         },
         "options": [
           "black"
@@ -3099,10 +3099,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniatures/reed-crane-detailed-black-v1.webp",
+            "image": "miniature-views/bonsai-mini-reed-crane-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "Kraanvogel aan de oever — naast een passende levende bonsai",
-              "en": "Crane by the water — beside a matching living bonsai"
+              "nl": "Kraanvogel aan de oever als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "Crane by the water as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -3131,12 +3131,12 @@
           "en": "An alert fox in a hollow root arch. Fine fur tufts, bark fissures, little fungi and curled leaves give the scene depth."
         },
         "detail": {
-          "nl": "Een alerte vos in een holle wortelboog. Fijne vachtplukjes, bastkloven, zwammetjes en gekrulde bladeren geven het tafereel diepte. Een jeneverbes brengt de ruwe wortelstructuur terug in de levende boom. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 7–9 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
-          "en": "An alert fox in a hollow root arch. Fine fur tufts, bark fissures, little fungi and curled leaves give the scene depth. A juniper repeats the rough root structure in the living tree. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 7–9 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
+          "nl": "Een alerte vos in een holle wortelboog. Fijne vachtplukjes, bastkloven, zwammetjes en gekrulde bladeren geven het tafereel diepte. Een jeneverbes brengt de ruwe wortelstructuur terug in de levende boom. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen.",
+          "en": "An alert fox in a hollow root arch. Fine fur tufts, bark fissures, little fungi and curled leaves give the scene depth. A juniper repeats the rough root structure in the living tree. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included."
         },
         "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 7–9 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 7–9 cm · not yet printed"
+          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
+          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
         },
         "options": [
           "black"
@@ -3162,10 +3162,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniatures/root-fox-detailed-black-v1.webp",
+            "image": "miniature-views/bonsai-mini-root-fox-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "Vos in de wortelboog — naast een passende levende bonsai",
-              "en": "Fox in the root arch — beside a matching living bonsai"
+              "nl": "Vos in de wortelboog als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "Fox in the root arch as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
@@ -3194,12 +3194,12 @@
           "en": "A bonsai master at his workbench, with apron seams, a tool roll, wire spool and a tiny tree printed as part of the sculpture."
         },
         "detail": {
-          "nl": "Een zittende bonsaimeester met schort, schaar, gereedschappen en werkbank. Het losse ontwerp bevat geen meegeprint boompje. Op de tweede foto verzorgt hij een tak van een levende shohin-iep op de werkbank. Die boom en pot zijn styling en niet inbegrepen. Fijn reliëf en matte zwarte resin maken stofplooien en gereedschappen zichtbaar. Gegenereerd ontwerpvoorstel, nog niet geprint; richtmaat circa 7–9 cm, definitieve maat en uitvoerbare details bespreken we.",
-          "en": "A seated bonsai master with apron, scissors, tools and workbench. The individual design includes no printed tree. In the second photo, he tends a branch of a living shohin elm on the bench. The tree and pot are styling and not included. Fine relief and matte-black resin reveal fabric folds and tools. Generated proposal, not yet printed; target size around 7–9 cm, with final size and feasible details agreed on enquiry."
+          "nl": "Een zittende bonsaimeester met schort, schaar, gereedschappen en werkbank. Het losse ontwerp bevat geen meegeprint boompje. Op de tweede foto verzorgt hij een tak van een levende shohin-iep op de werkbank. Die boom en pot zijn styling en niet inbegrepen. Fijn reliëf en matte zwarte resin maken stofplooien en gereedschappen zichtbaar. Gegenereerd ontwerpvoorstel, nog niet geprint; richtmaat circa 3–5 cm, definitieve maat en uitvoerbare details bespreken we.",
+          "en": "A seated bonsai master with apron, scissors, tools and workbench. The individual design includes no printed tree. In the second photo, he tends a branch of a living shohin elm on the bench. The tree and pot are styling and not included. Fine relief and matte-black resin reveal fabric folds and tools. Generated proposal, not yet printed; target size around 3–5 cm, with final size and feasible details agreed on enquiry."
         },
         "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 7–9 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 7–9 cm · not yet printed"
+          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
+          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
         },
         "options": [
           "black"
@@ -3225,10 +3225,10 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-bonsai-master-black-with-bonsai-v1.webp",
+            "image": "miniature-views/bonsai-mini-bonsai-master-black-with-bonsai-scale-v2.webp",
             "alt": {
-              "nl": "De bonsaimeester — naast een passende levende bonsai",
-              "en": "The bonsai master — beside a matching living bonsai"
+              "nl": "De bonsaimeester als klein zwart resinminiatuur bij een veel grotere levende bonsai; gegenereerd voorbeeld",
+              "en": "The bonsai master as a small black resin miniature beside a much larger living bonsai; generated example"
             },
             "view": "withBonsai",
             "previewFinish": "black",
