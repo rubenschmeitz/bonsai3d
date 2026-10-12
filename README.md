@@ -6,7 +6,7 @@ The site is served directly from the root of the main branch using GitHub Pages.
 Use `python3 -m http.server 8851` for local review. No build or dependencies are required.
 
 The curated catalogue, finish choices, product galleries and product/finish links work in the browser.
-The homepage is a short introduction with three category links. The full catalogue
+The homepage introduces the maker story and six exhibition categories. The full catalogue
 is on `collectie.html`, finish comparisons on `afwerkingen.html`, and Ruben's
 workshop, custom work and frequently asked questions on `atelier.html`.
 `voorbeelden.html` shows four curated generated exhibition studies in wood look
@@ -17,9 +17,7 @@ these compositions. Its separate catalogue entry remains available.
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
 
-The October 2026 collection contains twenty-eight objects: eight existing products,
-twelve miniature design proposals and eight table/jita proposals. There are fourteen
-miniatures and twelve tables/jitas in total.
+The October 2026 collection now contains 37 objects across six categories, including 14 miniatures, 15 tables/jitas, two pots and six accent/stone/display accessories.
 New miniatures are generated concepts, have not been printed and have no production
 geometry. Size, finish, details and manufacturability are agreed through an enquiry.
 Their current exhibition images depict simple plain matte-black resin miniatures
@@ -83,3 +81,26 @@ are the active gallery. Previous generated organic variants are retained as
 archived files but are no longer shown. Existing saved jita selections retain
 their identity and use its documented wood-look finish. All other products, black-only
 miniature options, static examples and original photo bytes are preserved.
+
+## Atelier identity and pricing revision — 12 October 2026
+
+The native SVG mark connects an asymmetrical branching tree with print layers.
+Close generated photographic compositions show each table with a bonsai, each jita
+with an accent planting (the owner's own jita retains its actual photograph),
+each pot with a matching tree and each miniature beside a living example bonsai.
+52 new images include three original signature designs with root, branch-lattice
+and contour details and six exhibition accessories. All originals remain available.
+
+Raw black/grey is distinct from hand-worked wood look. Grey is an enquiry colour
+preference and explicitly has no generated preview yet. Catalogue guide prices
+are EUR10–100 per object. Only pots have a stock indication, based on the owner's
+confirmation; exact size, colour and quantities need confirmation. Other items
+are on enquiry, with unprinted designs identified as proposals.
+
+`maatwerk.html` estimates a custom piece by object type, dimensions, detail, new
+design work, finish and quantity. Its assumptions are provisional retail
+estimates, not measured printing costs. Larger/complex configurations and wood
+finish on a pot require discussion instead of an automatic price. No automatic
+quote, order, payment or submission occurs. Drafts include chosen prices and
+calculator details and remain copyable/downloadable locally. Trees, plants,
+stones, styling and delivery are excluded.

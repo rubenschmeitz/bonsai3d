@@ -1,3 +1,34 @@
+# Current atelier direction — 12 October 2026
+
+BONSAI3D connects the movement and texture of a bonsai to its printed display
+objects. The SVG mark combines branching lines with layered supports. Warm paper,
+forest green, brown detail colour and expressive serif headlines distinguish
+Ruben's small workshop from a generic product grid. Images fill the frame with
+physical-looking printed objects and matching living trees, while preserving the
+owner's original photographs separately. New designs remain generated proposals.
+
+The signature additions explore twisted deadwood-root legs, irregular branch
+lattices and topographic relief. New categories cover accent holders, suiseki
+bases and exhibition accessories. These product ideas follow the owner's brief;
+the Omiya Bonsai Art Museum's gallery description and Peter Warren's Mirai display
+article informed the choice of exhibition elements. Their images/designs were
+not reused. Sources: https://www.bonsai-art-museum.jp/en/facilities/service-3/
+and https://bonsaimirai.com/blog/bonsai-display-pt-i .
+
+The owner confirmed only pots currently in stock and requested estimated prices
+between EUR10 and EUR100. Catalogue prices and custom calculator assumptions are
+indicative. Raw black/grey uses the print colour; wood look requires additional
+sanding, colour layers and surface work. Final cost, material, fit, load capacity
+and manufacturing feasibility need discussion. No physical validation was done.
+
+The four refined static examples from the concurrent exhibition revision remain
+intact. The retired exhibition composer stays removed. The interactive custom
+calculator is a separate enquiry aid. YORI3D remains private and offline.
+
+---
+
+## Historical design notes
+
 # BONSAI3D design notes — October 2026
 
 Current navigation revision: the interactive composer has been removed from all
