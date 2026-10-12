@@ -233,6 +233,396 @@
         }
       },
       {
+        "id": "bonsai-mini-garden-cart",
+        "name": {
+          "nl": "De tuinier met kruiwagen",
+          "en": "The gardener with a wheelbarrow"
+        },
+        "short": {
+          "nl": "Een tuinier met een kleine kruiwagen en verzamelde bladeren. Een herkenbaar moment uit de tuin, naast de boom.",
+          "en": "A gardener with a small wheelbarrow and collected leaves. A familiar moment from the garden, beside the tree."
+        },
+        "category": "miniatures",
+        "options": [
+          "black"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "pricing": {
+          "base": 35,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "imageStyle": "isolated-exhibition",
+        "spec": {
+          "nl": "Miniatuur in matzwart resin; richtmaat 3–5 cm, maat en details op aanvraag. Boom en pot niet inbegrepen.",
+          "en": "Miniature in matte-black resin; target size 3–5 cm, size and details on enquiry. Tree and pot not included."
+        },
+        "detail": {
+          "nl": "Een tuinier met een kleine kruiwagen en verzamelde bladeren. Een herkenbaar moment uit de tuin, naast de boom. Een ontwerp geïnspireerd op het dagelijks leven in Nederlandse tuinen en parken. De eerste foto toont alleen de miniatuur; de tweede geeft een gegenereerd presentatievoorbeeld met een passende bonsai. Het figuur, de eigen voet en de bijbehorende accessoires zijn één matzwart resinontwerp. De boom en pot zijn styling en niet inbegrepen. Ontwerp nog niet geprint; richtprijs, maat en uitvoerbare details bespreken we bij de aanvraag. In het presentatievoorbeeld vormt een richtmaat van 3–5 cm een klein accent bij een voorbeeldboom van circa 30–45 cm. Dit zijn illustratieve maten, geen fysieke meting.",
+          "en": "A gardener with a small wheelbarrow and collected leaves. A familiar moment from the garden, beside the tree. A design inspired by everyday life in Dutch gardens and parks. The first photograph shows only the miniature; the second is a generated display example with a matching bonsai. The figure, its own base and integral accessories form one matte-black resin design. The tree and pot are styling and are not included. Design not yet printed; guide price, size and feasible details are agreed on enquiry. In the display example, a target size of 3–5 cm is a small accent beside an illustrative tree around 30–45 cm tall. These are illustrative dimensions, not physical measurements."
+        },
+        "gallery": [
+          {
+            "image": "dutch-miniatures/bonsai-mini-garden-cart-black-isolated-v1.webp",
+            "alt": {
+              "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld",
+              "en": "The gardener with a wheelbarrow — the miniature alone, shown large"
+            },
+            "view": "isolated",
+            "previewFinish": "black",
+            "visualKind": "isolatedConcept"
+          },
+          {
+            "image": "dutch-miniatures/bonsai-mini-garden-cart-black-with-bonsai-scale-v2.webp",
+            "alt": {
+              "nl": "De tuinier met kruiwagen — bij een passende levende bonsai",
+              "en": "The gardener with a wheelbarrow — beside a matching living bonsai"
+            },
+            "view": "withBonsai",
+            "previewFinish": "black",
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "dutch-miniatures/bonsai-mini-garden-cart-black-isolated-v1.webp",
+        "imageAlt": {
+          "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld",
+          "en": "The gardener with a wheelbarrow — the miniature alone, shown large"
+        },
+        "visualKind": "isolatedConcept"
+      },
+      {
+        "id": "bonsai-mini-walker-dog",
+        "name": {
+          "nl": "De wandelaar met hond",
+          "en": "The walker with a dog"
+        },
+        "short": {
+          "nl": "Een wandelaar in een regenjas met een terriër die bij de boom wil snuffelen. Zoals tijdens een rondje door het park.",
+          "en": "A walker in a rain jacket with a terrier that wants to sniff beside the tree. A moment from a walk through the park."
+        },
+        "category": "miniatures",
+        "options": [
+          "black"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "pricing": {
+          "base": 40,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "imageStyle": "isolated-exhibition",
+        "spec": {
+          "nl": "Miniatuur in matzwart resin; richtmaat 3–5 cm, maat en details op aanvraag. Boom en pot niet inbegrepen.",
+          "en": "Miniature in matte-black resin; target size 3–5 cm, size and details on enquiry. Tree and pot not included."
+        },
+        "detail": {
+          "nl": "Een wandelaar in een regenjas met een terriër die bij de boom wil snuffelen. Zoals tijdens een rondje door het park. Een ontwerp geïnspireerd op het dagelijks leven in Nederlandse tuinen en parken. De eerste foto toont alleen de miniatuur; de tweede geeft een gegenereerd presentatievoorbeeld met een passende bonsai. Het figuur, de eigen voet en de bijbehorende accessoires zijn één matzwart resinontwerp. De boom en pot zijn styling en niet inbegrepen. Ontwerp nog niet geprint; richtprijs, maat en uitvoerbare details bespreken we bij de aanvraag. In het presentatievoorbeeld vormt een richtmaat van 3–5 cm een klein accent bij een voorbeeldboom van circa 30–45 cm. Dit zijn illustratieve maten, geen fysieke meting.",
+          "en": "A walker in a rain jacket with a terrier that wants to sniff beside the tree. A moment from a walk through the park. A design inspired by everyday life in Dutch gardens and parks. The first photograph shows only the miniature; the second is a generated display example with a matching bonsai. The figure, its own base and integral accessories form one matte-black resin design. The tree and pot are styling and are not included. Design not yet printed; guide price, size and feasible details are agreed on enquiry. In the display example, a target size of 3–5 cm is a small accent beside an illustrative tree around 30–45 cm tall. These are illustrative dimensions, not physical measurements."
+        },
+        "gallery": [
+          {
+            "image": "dutch-miniatures/bonsai-mini-walker-dog-black-isolated-v1.webp",
+            "alt": {
+              "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld",
+              "en": "The walker with a dog — the miniature alone, shown large"
+            },
+            "view": "isolated",
+            "previewFinish": "black",
+            "visualKind": "isolatedConcept"
+          },
+          {
+            "image": "dutch-miniatures/bonsai-mini-walker-dog-black-with-bonsai-scale-v2.webp",
+            "alt": {
+              "nl": "De wandelaar met hond — bij een passende levende bonsai",
+              "en": "The walker with a dog — beside a matching living bonsai"
+            },
+            "view": "withBonsai",
+            "previewFinish": "black",
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "dutch-miniatures/bonsai-mini-walker-dog-black-isolated-v1.webp",
+        "imageAlt": {
+          "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld",
+          "en": "The walker with a dog — the miniature alone, shown large"
+        },
+        "visualKind": "isolatedConcept"
+      },
+      {
+        "id": "bonsai-mini-garden-bench",
+        "name": {
+          "nl": "Samen op het tuinbankje",
+          "en": "Together on the garden bench"
+        },
+        "short": {
+          "nl": "Twee bezoekers nemen even plaats op een eenvoudig tuinbankje. Hun blik volgt de stam en kroon van de boom.",
+          "en": "Two visitors pause on a simple garden bench. Their gaze follows the tree’s trunk and canopy."
+        },
+        "category": "miniatures",
+        "options": [
+          "black"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "pricing": {
+          "base": 45,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "imageStyle": "isolated-exhibition",
+        "spec": {
+          "nl": "Miniatuur in matzwart resin; richtmaat 3–5 cm, maat en details op aanvraag. Boom en pot niet inbegrepen.",
+          "en": "Miniature in matte-black resin; target size 3–5 cm, size and details on enquiry. Tree and pot not included."
+        },
+        "detail": {
+          "nl": "Twee bezoekers nemen even plaats op een eenvoudig tuinbankje. Hun blik volgt de stam en kroon van de boom. Een ontwerp geïnspireerd op het dagelijks leven in Nederlandse tuinen en parken. De eerste foto toont alleen de miniatuur; de tweede geeft een gegenereerd presentatievoorbeeld met een passende bonsai. Het figuur, de eigen voet en de bijbehorende accessoires zijn één matzwart resinontwerp. De boom en pot zijn styling en niet inbegrepen. Ontwerp nog niet geprint; richtprijs, maat en uitvoerbare details bespreken we bij de aanvraag. In het presentatievoorbeeld vormt een richtmaat van 3–5 cm een klein accent bij een voorbeeldboom van circa 30–45 cm. Dit zijn illustratieve maten, geen fysieke meting.",
+          "en": "Two visitors pause on a simple garden bench. Their gaze follows the tree’s trunk and canopy. A design inspired by everyday life in Dutch gardens and parks. The first photograph shows only the miniature; the second is a generated display example with a matching bonsai. The figure, its own base and integral accessories form one matte-black resin design. The tree and pot are styling and are not included. Design not yet printed; guide price, size and feasible details are agreed on enquiry. In the display example, a target size of 3–5 cm is a small accent beside an illustrative tree around 30–45 cm tall. These are illustrative dimensions, not physical measurements."
+        },
+        "gallery": [
+          {
+            "image": "dutch-miniatures/bonsai-mini-garden-bench-black-isolated-v1.webp",
+            "alt": {
+              "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld",
+              "en": "Together on the garden bench — the miniature alone, shown large"
+            },
+            "view": "isolated",
+            "previewFinish": "black",
+            "visualKind": "isolatedConcept"
+          },
+          {
+            "image": "dutch-miniatures/bonsai-mini-garden-bench-black-with-bonsai-scale-v2.webp",
+            "alt": {
+              "nl": "Samen op het tuinbankje — bij een passende levende bonsai",
+              "en": "Together on the garden bench — beside a matching living bonsai"
+            },
+            "view": "withBonsai",
+            "previewFinish": "black",
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "dutch-miniatures/bonsai-mini-garden-bench-black-isolated-v1.webp",
+        "imageAlt": {
+          "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld",
+          "en": "Together on the garden bench — the miniature alone, shown large"
+        },
+        "visualKind": "isolatedConcept"
+      },
+      {
+        "id": "bonsai-mini-hedgehog",
+        "name": {
+          "nl": "De egel",
+          "en": "The hedgehog"
+        },
+        "short": {
+          "nl": "Een egel met fijne stekels en een lage snuffelende houding. Een klein tuindier dat onder de boom zijn weg zoekt.",
+          "en": "A hedgehog with fine spines and a low sniffing posture. A small garden animal finding its way beneath the tree."
+        },
+        "category": "miniatures",
+        "options": [
+          "black"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "pricing": {
+          "base": 20,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "imageStyle": "isolated-exhibition",
+        "spec": {
+          "nl": "Miniatuur in matzwart resin; richtmaat 3–5 cm, maat en details op aanvraag. Boom en pot niet inbegrepen.",
+          "en": "Miniature in matte-black resin; target size 3–5 cm, size and details on enquiry. Tree and pot not included."
+        },
+        "detail": {
+          "nl": "Een egel met fijne stekels en een lage snuffelende houding. Een klein tuindier dat onder de boom zijn weg zoekt. Een ontwerp geïnspireerd op het dagelijks leven in Nederlandse tuinen en parken. De eerste foto toont alleen de miniatuur; de tweede geeft een gegenereerd presentatievoorbeeld met een passende bonsai. Het figuur, de eigen voet en de bijbehorende accessoires zijn één matzwart resinontwerp. De boom en pot zijn styling en niet inbegrepen. Ontwerp nog niet geprint; richtprijs, maat en uitvoerbare details bespreken we bij de aanvraag. In het presentatievoorbeeld vormt een richtmaat van 3–5 cm een klein accent bij een voorbeeldboom van circa 30–45 cm. Dit zijn illustratieve maten, geen fysieke meting.",
+          "en": "A hedgehog with fine spines and a low sniffing posture. A small garden animal finding its way beneath the tree. A design inspired by everyday life in Dutch gardens and parks. The first photograph shows only the miniature; the second is a generated display example with a matching bonsai. The figure, its own base and integral accessories form one matte-black resin design. The tree and pot are styling and are not included. Design not yet printed; guide price, size and feasible details are agreed on enquiry. In the display example, a target size of 3–5 cm is a small accent beside an illustrative tree around 30–45 cm tall. These are illustrative dimensions, not physical measurements."
+        },
+        "gallery": [
+          {
+            "image": "dutch-miniatures/bonsai-mini-hedgehog-black-isolated-v1.webp",
+            "alt": {
+              "nl": "De egel — alleen de miniatuur, groot in beeld",
+              "en": "The hedgehog — the miniature alone, shown large"
+            },
+            "view": "isolated",
+            "previewFinish": "black",
+            "visualKind": "isolatedConcept"
+          },
+          {
+            "image": "dutch-miniatures/bonsai-mini-hedgehog-black-with-bonsai-scale-v2.webp",
+            "alt": {
+              "nl": "De egel — bij een passende levende bonsai",
+              "en": "The hedgehog — beside a matching living bonsai"
+            },
+            "view": "withBonsai",
+            "previewFinish": "black",
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "dutch-miniatures/bonsai-mini-hedgehog-black-isolated-v1.webp",
+        "imageAlt": {
+          "nl": "De egel — alleen de miniatuur, groot in beeld",
+          "en": "The hedgehog — the miniature alone, shown large"
+        },
+        "visualKind": "isolatedConcept"
+      },
+      {
+        "id": "bonsai-mini-robin",
+        "name": {
+          "nl": "Het roodborstje",
+          "en": "The robin"
+        },
+        "short": {
+          "nl": "Het bekende kleine tuinvogeltje, uitgewerkt in zwart resin. Op een lage steen kijkt het omhoog naar een tak.",
+          "en": "The familiar little garden bird, rendered in black resin. From a low stone it looks up towards a branch."
+        },
+        "category": "miniatures",
+        "options": [
+          "black"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "pricing": {
+          "base": 20,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "imageStyle": "isolated-exhibition",
+        "spec": {
+          "nl": "Miniatuur in matzwart resin; richtmaat 3–5 cm, maat en details op aanvraag. Boom en pot niet inbegrepen.",
+          "en": "Miniature in matte-black resin; target size 3–5 cm, size and details on enquiry. Tree and pot not included."
+        },
+        "detail": {
+          "nl": "Het bekende kleine tuinvogeltje, uitgewerkt in zwart resin. Op een lage steen kijkt het omhoog naar een tak. Een ontwerp geïnspireerd op het dagelijks leven in Nederlandse tuinen en parken. De eerste foto toont alleen de miniatuur; de tweede geeft een gegenereerd presentatievoorbeeld met een passende bonsai. Het figuur, de eigen voet en de bijbehorende accessoires zijn één matzwart resinontwerp. De boom en pot zijn styling en niet inbegrepen. Ontwerp nog niet geprint; richtprijs, maat en uitvoerbare details bespreken we bij de aanvraag. In het presentatievoorbeeld vormt een richtmaat van 3–5 cm een klein accent bij een voorbeeldboom van circa 30–45 cm. Dit zijn illustratieve maten, geen fysieke meting.",
+          "en": "The familiar little garden bird, rendered in black resin. From a low stone it looks up towards a branch. A design inspired by everyday life in Dutch gardens and parks. The first photograph shows only the miniature; the second is a generated display example with a matching bonsai. The figure, its own base and integral accessories form one matte-black resin design. The tree and pot are styling and are not included. Design not yet printed; guide price, size and feasible details are agreed on enquiry. In the display example, a target size of 3–5 cm is a small accent beside an illustrative tree around 30–45 cm tall. These are illustrative dimensions, not physical measurements."
+        },
+        "gallery": [
+          {
+            "image": "dutch-miniatures/bonsai-mini-robin-black-isolated-v1.webp",
+            "alt": {
+              "nl": "Het roodborstje — alleen de miniatuur, groot in beeld",
+              "en": "The robin — the miniature alone, shown large"
+            },
+            "view": "isolated",
+            "previewFinish": "black",
+            "visualKind": "isolatedConcept"
+          },
+          {
+            "image": "dutch-miniatures/bonsai-mini-robin-black-with-bonsai-scale-v2.webp",
+            "alt": {
+              "nl": "Het roodborstje — bij een passende levende bonsai",
+              "en": "The robin — beside a matching living bonsai"
+            },
+            "view": "withBonsai",
+            "previewFinish": "black",
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "dutch-miniatures/bonsai-mini-robin-black-isolated-v1.webp",
+        "imageAlt": {
+          "nl": "Het roodborstje — alleen de miniatuur, groot in beeld",
+          "en": "The robin — the miniature alone, shown large"
+        },
+        "visualKind": "isolatedConcept"
+      },
+      {
+        "id": "bonsai-mini-hare",
+        "name": {
+          "nl": "De haas",
+          "en": "The hare"
+        },
+        "short": {
+          "nl": "Een alerte haas met lange oren en fijn vachtreliëf. Een rustig accent zoals je het aan de rand van een weiland ziet.",
+          "en": "An alert hare with long ears and fine fur relief. A quiet accent like one seen at the edge of a meadow."
+        },
+        "category": "miniatures",
+        "options": [
+          "black"
+        ],
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "pricing": {
+          "base": 25,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "indicative"
+        },
+        "imageStyle": "isolated-exhibition",
+        "spec": {
+          "nl": "Miniatuur in matzwart resin; richtmaat 3–5 cm, maat en details op aanvraag. Boom en pot niet inbegrepen.",
+          "en": "Miniature in matte-black resin; target size 3–5 cm, size and details on enquiry. Tree and pot not included."
+        },
+        "detail": {
+          "nl": "Een alerte haas met lange oren en fijn vachtreliëf. Een rustig accent zoals je het aan de rand van een weiland ziet. Een ontwerp geïnspireerd op het dagelijks leven in Nederlandse tuinen en parken. De eerste foto toont alleen de miniatuur; de tweede geeft een gegenereerd presentatievoorbeeld met een passende bonsai. Het figuur, de eigen voet en de bijbehorende accessoires zijn één matzwart resinontwerp. De boom en pot zijn styling en niet inbegrepen. Ontwerp nog niet geprint; richtprijs, maat en uitvoerbare details bespreken we bij de aanvraag. In het presentatievoorbeeld vormt een richtmaat van 3–5 cm een klein accent bij een voorbeeldboom van circa 30–45 cm. Dit zijn illustratieve maten, geen fysieke meting.",
+          "en": "An alert hare with long ears and fine fur relief. A quiet accent like one seen at the edge of a meadow. A design inspired by everyday life in Dutch gardens and parks. The first photograph shows only the miniature; the second is a generated display example with a matching bonsai. The figure, its own base and integral accessories form one matte-black resin design. The tree and pot are styling and are not included. Design not yet printed; guide price, size and feasible details are agreed on enquiry. In the display example, a target size of 3–5 cm is a small accent beside an illustrative tree around 30–45 cm tall. These are illustrative dimensions, not physical measurements."
+        },
+        "gallery": [
+          {
+            "image": "dutch-miniatures/bonsai-mini-hare-black-isolated-v1.webp",
+            "alt": {
+              "nl": "De haas — alleen de miniatuur, groot in beeld",
+              "en": "The hare — the miniature alone, shown large"
+            },
+            "view": "isolated",
+            "previewFinish": "black",
+            "visualKind": "isolatedConcept"
+          },
+          {
+            "image": "dutch-miniatures/bonsai-mini-hare-black-with-bonsai-scale-v2.webp",
+            "alt": {
+              "nl": "De haas — bij een passende levende bonsai",
+              "en": "The hare — beside a matching living bonsai"
+            },
+            "view": "withBonsai",
+            "previewFinish": "black",
+            "visualKind": "arrangementConcept"
+          }
+        ],
+        "image": "dutch-miniatures/bonsai-mini-hare-black-isolated-v1.webp",
+        "imageAlt": {
+          "nl": "De haas — alleen de miniatuur, groot in beeld",
+          "en": "The hare — the miniature alone, shown large"
+        },
+        "visualKind": "isolatedConcept"
+      },
+      {
         "id": "bonsai-mini-watergiver",
         "name": {
           "nl": "De watergever",
@@ -1446,641 +1836,6 @@
         }
       },
       {
-        "id": "bonsai-tea-figure",
-        "category": "miniatures",
-        "name": {
-          "nl": "Theedrinker",
-          "en": "Tea drinker"
-        },
-        "short": {
-          "nl": "Een zittende theedrinker als klein accent naast de boom.",
-          "en": "A seated tea drinker as a small accent beside the tree."
-        },
-        "detail": {
-          "nl": "Een zittende figuur in een gewaad, met een theekop in de hand en een theepot ernaast. Het geprinte exemplaar op de foto heeft een bronskleurige afwerking en een bruine, onregelmatige voet. Het kan als los accent naast een bonsai worden geplaatst. De kleur is een afwerking; het is geen bronzen beeld. Maat en afwerking van een nieuwe print bespreken we bij je aanvraag.",
-          "en": "A seated figure in a robe, holding a teacup with a teapot beside it. The printed example in the photograph has a bronze-coloured finish and a brown irregular base. It can sit as a separate accent beside a bonsai. The colour is a finish; the figure is not cast bronze. We discuss the size and finish of a new print with your enquiry."
-        },
-        "spec": {
-          "nl": "3D-print · maat en afwerking op aanvraag",
-          "en": "3D print · size and finish on enquiry"
-        },
-        "options": [
-          "wood",
-          "black",
-          "grey"
-        ],
-        "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
-        ],
-        "zone": "presentation",
-        "image": "miniature-views/bonsai-tea-figure-wood-isolated-v1.webp",
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-tea-figure-wood-isolated-v1.webp",
-            "alt": {
-              "nl": "Theedrinker — alleen de miniatuur, groot in beeld",
-              "en": "Tea drinker — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "wood",
-            "visualKind": "isolated"
-          },
-          {
-            "image": "atelier/bonsai-tea-figure-wood-v1.webp",
-            "alt": {
-              "nl": "Theedrinker — naast een passende levende bonsai",
-              "en": "Tea drinker — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "wood",
-            "visualKind": "arrangement"
-          },
-          {
-            "image": "miniature-views/bonsai-tea-figure-black-isolated-v1.webp",
-            "alt": {
-              "nl": "Theedrinker — alleen de miniatuur, groot in beeld",
-              "en": "Tea drinker — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolated"
-          },
-          {
-            "image": "atelier/bonsai-tea-figure-black-v1.webp",
-            "alt": {
-              "nl": "Theedrinker — naast een passende levende bonsai",
-              "en": "Tea drinker — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangement"
-          },
-          {
-            "image": "prints/natural/tea-figure-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/tea-figure.webp",
-            "alt": {
-              "nl": "Geprinte zittende theedrinker met bronskleurige afwerking, theepot en bruine voet",
-              "en": "Printed seated tea drinker with bronze-coloured finish, teapot and brown base"
-            },
-            "imageStyle": "documentary"
-          }
-        ],
-        "visualKind": "isolated",
-        "imageAlt": {
-          "nl": "Theedrinker — alleen de miniatuur, groot in beeld",
-          "en": "Tea drinker — the miniature alone, shown large"
-        },
-        "imageStyle": "isolated-exhibition",
-        "stage": "printed",
-        "finishes": {
-          "wood": {
-            "image": "miniature-views/bonsai-tea-figure-wood-isolated-v1.webp",
-            "alt": {
-              "nl": "Theedrinker — alleen de miniatuur, groot in beeld",
-              "en": "Tea drinker — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "wood",
-            "visualKind": "isolated"
-          },
-          "black": {
-            "image": "miniature-views/bonsai-tea-figure-black-isolated-v1.webp",
-            "alt": {
-              "nl": "Theedrinker — alleen de miniatuur, groot in beeld",
-              "en": "Tea drinker — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolated"
-          }
-        },
-        "compositionImage": "composition/tea-figure-cutout-v1.webp",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 25,
-          "woodExtra": 15,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-reader",
-        "category": "miniatures",
-        "name": {
-          "nl": "De lezer",
-          "en": "The reader"
-        },
-        "short": {
-          "nl": "Een zittende lezer met een open boek, een gedrapeerd gewaad en een lage voet. Voorgesteld in effen matzwart.",
-          "en": "A seated reader with an open book, a draped robe and a low base. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een zittende lezer met een open boek, een gedrapeerd gewaad en een lage voet. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "A seated reader with an open book, a draped robe and a low base. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-reader-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De lezer — alleen de miniatuur, groot in beeld",
-          "en": "The reader — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-reader-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De lezer — alleen de miniatuur, groot in beeld",
-              "en": "The reader — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "atelier/bonsai-mini-reader-black-v1.webp",
-            "alt": {
-              "nl": "De lezer — naast een passende levende bonsai",
-              "en": "The reader — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/reader-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-fisher",
-        "category": "miniatures",
-        "name": {
-          "nl": "De visser",
-          "en": "The fisherman"
-        },
-        "short": {
-          "nl": "Een visser op een rots, met een strohoed, hengel, mand en kleine vangst. Voorgesteld in effen matzwart.",
-          "en": "A fisherman seated on a rock, with a straw hat, fishing rod, basket and small catch. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een visser op een rots, met een strohoed, hengel, mand en kleine vangst. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "A fisherman seated on a rock, with a straw hat, fishing rod, basket and small catch. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-fisher-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De visser — alleen de miniatuur, groot in beeld",
-          "en": "The fisherman — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-fisher-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De visser — alleen de miniatuur, groot in beeld",
-              "en": "The fisherman — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "atelier/bonsai-mini-fisher-black-v1.webp",
-            "alt": {
-              "nl": "De visser — naast een passende levende bonsai",
-              "en": "The fisherman — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/fisher-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-pruner",
-        "category": "miniatures",
-        "name": {
-          "nl": "De snoeier",
-          "en": "The pruner"
-        },
-        "short": {
-          "nl": "Een knielende bonsailiefhebber met een kleine den, snoeischaar en tuingereedschap. Voorgesteld in effen matzwart.",
-          "en": "A kneeling bonsai enthusiast with a small pine, pruning scissors and garden tools. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een knielende snoeier met schaar, lage werktafel, gieter en draad. Het losse ontwerp bevat geen meegeprint boompje. Op de tweede foto staat een levende den op het werktafeltje, met een tak bij de schaar. Die boom en pot zijn styling en niet inbegrepen. Gegenereerd ontwerpvoorstel in matzwart resin, nog niet geprint. Maat, materiaal en uitvoerbare details bespreken we bij de aanvraag.",
-          "en": "A kneeling pruner with scissors, a low worktable, watering can and wire. The individual design includes no printed tree. In the second photo, a living pine sits on the worktable, with a branch beside the shears. The tree and pot are styling and not included. Generated matte-black resin proposal, not yet printed. We discuss size, material and feasible details on enquiry."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-pruner-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De snoeier — alleen de miniatuur, groot in beeld",
-          "en": "The pruner — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-pruner-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De snoeier — alleen de miniatuur, groot in beeld",
-              "en": "The pruner — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "miniature-views/bonsai-mini-pruner-black-with-bonsai-v1.webp",
-            "alt": {
-              "nl": "De snoeier — naast een passende levende bonsai",
-              "en": "The pruner — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/pruner-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-photographer",
-        "category": "miniatures",
-        "name": {
-          "nl": "De fotograaf",
-          "en": "The photographer"
-        },
-        "short": {
-          "nl": "Een gehurkte fotograaf met een hoed, camera en kleine rugzak. Voorgesteld in effen matzwart.",
-          "en": "A crouching photographer with a hat, camera and small backpack. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een gehurkte fotograaf met een hoed, camera en kleine rugzak. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "A crouching photographer with a hat, camera and small backpack. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-photographer-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De fotograaf — alleen de miniatuur, groot in beeld",
-          "en": "The photographer — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-photographer-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De fotograaf — alleen de miniatuur, groot in beeld",
-              "en": "The photographer — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "atelier/bonsai-mini-photographer-black-v1.webp",
-            "alt": {
-              "nl": "De fotograaf — naast een passende levende bonsai",
-              "en": "The photographer — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/photographer-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-tai-chi",
-        "category": "miniatures",
-        "name": {
-          "nl": "In balans",
-          "en": "In balance"
-        },
-        "short": {
-          "nl": "Een rustig tai-chimoment met open handen en losse kleding op een lage voet. Voorgesteld in effen matzwart.",
-          "en": "A quiet tai chi pose with open hands and loose clothes on a low base. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een rustig tai-chimoment met open handen en losse kleding op een lage voet. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "A quiet tai chi pose with open hands and loose clothes on a low base. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-tai-chi-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "In balans — alleen de miniatuur, groot in beeld",
-          "en": "In balance — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-tai-chi-black-isolated-v1.webp",
-            "alt": {
-              "nl": "In balans — alleen de miniatuur, groot in beeld",
-              "en": "In balance — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "atelier/bonsai-mini-tai-chi-black-v1.webp",
-            "alt": {
-              "nl": "In balans — naast een passende levende bonsai",
-              "en": "In balance — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/tai-chi-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-lantern-keeper",
-        "category": "miniatures",
-        "name": {
-          "nl": "De lantaarnwachter",
-          "en": "The lantern keeper"
-        },
-        "short": {
-          "nl": "Een reiziger met een hoed, bepakking en een kleine lantaarn. Voorgesteld in effen matzwart.",
-          "en": "A traveller with a hat, pack and small lantern. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een reiziger met een hoed, bepakking en een kleine lantaarn. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "A traveller with a hat, pack and small lantern. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-lantern-keeper-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De lantaarnwachter — alleen de miniatuur, groot in beeld",
-          "en": "The lantern keeper — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-lantern-keeper-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De lantaarnwachter — alleen de miniatuur, groot in beeld",
-              "en": "The lantern keeper — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "atelier/bonsai-mini-lantern-keeper-black-v1.webp",
-            "alt": {
-              "nl": "De lantaarnwachter — naast een passende levende bonsai",
-              "en": "The lantern keeper — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/lantern-keeper-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-tea-host",
-        "category": "miniatures",
-        "name": {
-          "nl": "Het theemoment",
-          "en": "The tea moment"
-        },
-        "short": {
-          "nl": "Een knielende theeschenker met een kleine theepot, kopje en laag tafeltje. Voorgesteld in effen matzwart.",
-          "en": "A kneeling tea host with a small teapot, cup and low table. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een knielende theeschenker met een kleine theepot, kopje en laag tafeltje. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "A kneeling tea host with a small teapot, cup and low table. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-tea-host-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "Het theemoment — alleen de miniatuur, groot in beeld",
-          "en": "The tea moment — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-tea-host-black-isolated-v1.webp",
-            "alt": {
-              "nl": "Het theemoment — alleen de miniatuur, groot in beeld",
-              "en": "The tea moment — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "miniature-views/bonsai-mini-tea-host-black-with-bonsai-v1.webp",
-            "alt": {
-              "nl": "Het theemoment — naast een passende levende bonsai",
-              "en": "The tea moment — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/tea-host-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-bonsai-observer",
-        "category": "miniatures",
-        "name": {
-          "nl": "De beschouwer",
-          "en": "The observer"
-        },
-        "short": {
-          "nl": "Een beschouwer die ontspannen op een rots zit, met een kleine veldfles. Voorgesteld in effen matzwart.",
-          "en": "An observer sitting quietly on a rock, with a small flask. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een beschouwer die ontspannen op een rots zit, met een kleine veldfles. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "An observer sitting quietly on a rock, with a small flask. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-bonsai-observer-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De beschouwer — alleen de miniatuur, groot in beeld",
-          "en": "The observer — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-bonsai-observer-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De beschouwer — alleen de miniatuur, groot in beeld",
-              "en": "The observer — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "atelier/bonsai-mini-bonsai-observer-black-v1.webp",
-            "alt": {
-              "nl": "De beschouwer — naast een passende levende bonsai",
-              "en": "The observer — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/bonsai-observer-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
         "id": "bonsai-mini-fox",
         "category": "miniatures",
         "name": {
@@ -2262,70 +2017,6 @@
           }
         ],
         "compositionImage": "miniatures/tortoise-black-cutout-v3.webp",
-        "imageStyle": "isolated-exhibition",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 15,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true
-      },
-      {
-        "id": "bonsai-mini-stone-lantern",
-        "category": "miniatures",
-        "name": {
-          "nl": "Tuinlantaarn",
-          "en": "Garden lantern"
-        },
-        "short": {
-          "nl": "Een kleine Japanse tuinlantaarn met een pagodedak, vensters en een lage voet. Voorgesteld in effen matzwart.",
-          "en": "A small Japanese garden lantern with a pagoda roof, windows and a low base. Proposed in plain matte black."
-        },
-        "detail": {
-          "nl": "Een kleine Japanse tuinlantaarn met een pagodedak, vensters en een lage voet. Het beeld is een gegenereerd voorbeeld van een resinminiatuur in effen matzwart, groot afgebeeld als losse productweergave. De afwerking vraagt geen gekleurde details. Dit ontwerp is nog niet geprint. Maat, materiaal, details en maakbaarheid stemmen we samen af. Het fotografische voorbeeld plaatst de ruwe zwarte miniatuur naast een levende voorbeeldbonsai. De boom is styling en niet inbegrepen.",
-          "en": "A small Japanese garden lantern with a pagoda roof, windows and a low base. The image is a generated example of a resin miniature in plain matte black, shown large in an individual product portrait. The finish needs no coloured details. This design has not been printed. We agree size, material, details and manufacturability together. The photographic example places the raw black miniature beside a living example bonsai. The tree is styling and is not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · nog niet geprint · maat op aanvraag",
-          "en": "Design proposal · not yet printed · size on enquiry"
-        },
-        "options": [
-          "black",
-          "grey"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "image": "miniature-views/bonsai-mini-stone-lantern-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "Tuinlantaarn — alleen de miniatuur, groot in beeld",
-          "en": "Garden lantern — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-stone-lantern-black-isolated-v1.webp",
-            "alt": {
-              "nl": "Tuinlantaarn — alleen de miniatuur, groot in beeld",
-              "en": "Garden lantern — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "atelier/bonsai-mini-stone-lantern-black-v1.webp",
-            "alt": {
-              "nl": "Tuinlantaarn — naast een passende levende bonsai",
-              "en": "Garden lantern — beside a matching living bonsai"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept"
-          }
-        ],
-        "compositionImage": "miniatures/stone-lantern-black-cutout-v3.webp",
         "imageStyle": "isolated-exhibition",
         "availability": "enquiry",
         "pricing": {
@@ -2871,198 +2562,6 @@
         }
       },
       {
-        "id": "bonsai-mini-root-guardian",
-        "category": "miniatures",
-        "name": {
-          "nl": "De wortelwachter",
-          "en": "The root guardian"
-        },
-        "short": {
-          "nl": "Bastgroeven, een doorleefd gezicht en gelaagde stofplooien. Een stille wachter tussen wortels, blaadjes en kleine paddenstoelen.",
-          "en": "Bark grooves, a weathered face and layered fabric folds. A quiet guardian among roots, leaves and little mushrooms."
-        },
-        "detail": {
-          "nl": "Bastgroeven, een doorleefd gezicht en gelaagde stofplooien. Een stille wachter tussen wortels, blaadjes en kleine paddenstoelen. Een jeneverbes met gedraaide stam sluit aan op de wortels van het figuur. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen. In het tentoonstellingsbeeld staat de bonsai op een presentatietafel en het kleine miniatuur los ernaast op een eigen jita. Presentatietafel en jita zijn aankleding en niet inbegrepen.",
-          "en": "Bark grooves, a weathered face and layered fabric folds. A quiet guardian among roots, leaves and little mushrooms. A twisted-trunk juniper echoes the roots of the figure. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included. In the exhibition image the bonsai stands on a display table and the small miniature separately alongside on its own jita. Display table and jita are styling and are not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
-        },
-        "options": [
-          "black"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "detailedMiniature": true,
-        "image": "miniature-views/bonsai-mini-root-guardian-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De wortelwachter — alleen de miniatuur, groot in beeld",
-          "en": "The root guardian — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-root-guardian-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De wortelwachter — alleen de miniatuur, groot in beeld",
-              "en": "The root guardian — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "miniature-views/bonsai-mini-root-guardian-black-exhibition-v3.webp",
-            "alt": {
-              "nl": "De wortelwachter als klein zwart resinaccent op een eigen jita naast een bonsai op een houten presentatietafel; gegenereerd tentoonstellingsvoorbeeld",
-              "en": "The root guardian as a small black resin accent on its own jita beside a bonsai on a wooden display stand; generated exhibition example"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 35,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true,
-        "imageStyle": "isolated-exhibition"
-      },
-      {
-        "id": "bonsai-mini-mountain-traveller",
-        "category": "miniatures",
-        "name": {
-          "nl": "De bergreiziger",
-          "en": "The mountain traveller"
-        },
-        "short": {
-          "nl": "Een reiziger bij een verweerde bergpoort, met geweven rugzak, touwrollen, hoedstructuur en onregelmatige stenen treden.",
-          "en": "A traveller at a weathered mountain gate, with a woven backpack, rope coils, textured hat and uneven stone steps."
-        },
-        "detail": {
-          "nl": "Een reiziger bij een verweerde bergpoort, met geweven rugzak, touwrollen, hoedstructuur en onregelmatige stenen treden. De hellende den vervolgt de beweging van het pad. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen. In het tentoonstellingsbeeld staat de bonsai op een presentatietafel en het kleine miniatuur los ernaast op een eigen jita. Presentatietafel en jita zijn aankleding en niet inbegrepen.",
-          "en": "A traveller at a weathered mountain gate, with a woven backpack, rope coils, textured hat and uneven stone steps. The slanting pine continues the movement of the path. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included. In the exhibition image the bonsai stands on a display table and the small miniature separately alongside on its own jita. Display table and jita are styling and are not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
-        },
-        "options": [
-          "black"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "detailedMiniature": true,
-        "image": "miniature-views/bonsai-mini-mountain-traveller-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De bergreiziger — alleen de miniatuur, groot in beeld",
-          "en": "The mountain traveller — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-mountain-traveller-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De bergreiziger — alleen de miniatuur, groot in beeld",
-              "en": "The mountain traveller — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "miniature-views/bonsai-mini-mountain-traveller-black-exhibition-v3.webp",
-            "alt": {
-              "nl": "De bergreiziger als klein zwart resinaccent op een eigen jita naast een bonsai op een houten presentatietafel; gegenereerd tentoonstellingsvoorbeeld",
-              "en": "The mountain traveller as a small black resin accent on its own jita beside a bonsai on a wooden display stand; generated exhibition example"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 35,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true,
-        "imageStyle": "isolated-exhibition"
-      },
-      {
-        "id": "bonsai-mini-tea-artisan",
-        "category": "miniatures",
-        "name": {
-          "nl": "De theemaker",
-          "en": "The tea artisan"
-        },
-        "short": {
-          "nl": "Een rustig theemoment met diepe stofplooien, een geweven zitkussen, kleine ketel, kopjes en een bladmotief op het theeblik.",
-          "en": "A quiet tea moment with deep fabric folds, a woven cushion, tiny kettle, cups and a leaf motif on the tea caddy."
-        },
-        "detail": {
-          "nl": "Een rustig theemoment met diepe stofplooien, een geweven zitkussen, kleine ketel, kopjes en een bladmotief op het theeblik. Een fijnvertakte esdoorn geeft de scène een zachte omlijsting. Het hele miniatuur, inclusief voet en kleine accessoires, is voorgesteld in zwart resin. Fijn reliëf, matte oppervlakken en subtiele print- en nabewerkingssporen maken de details zichtbaar zonder schilderwerk. Dit is een gegenereerd fotografisch ontwerpvoorstel, nog niet geprint. Richtmaat circa 3–5 cm; definitieve maat en uitvoerbare details bespreken we bij de aanvraag. De levende bonsai en zijn pot zijn styling en niet inbegrepen. In het tentoonstellingsbeeld staat de bonsai op een presentatietafel en het kleine miniatuur los ernaast op een eigen jita. Presentatietafel en jita zijn aankleding en niet inbegrepen.",
-          "en": "A quiet tea moment with deep fabric folds, a woven cushion, tiny kettle, cups and a leaf motif on the tea caddy. A finely branched maple softly frames the scene. The entire miniature, including its base and tiny accessories, is proposed in black resin. Fine relief, matte surfaces and subtle print and cleanup traces reveal the details without painting. This is a generated photographic design proposal, not yet printed. Target size around 3–5 cm; final dimensions and feasible details are agreed on enquiry. The living bonsai and its pot are styling and are not included. In the exhibition image the bonsai stands on a display table and the small miniature separately alongside on its own jita. Display table and jita are styling and are not included."
-        },
-        "spec": {
-          "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
-          "en": "Design proposal · black resin only · target size 3–5 cm · not yet printed"
-        },
-        "options": [
-          "black"
-        ],
-        "stage": "future",
-        "visualKind": "isolatedConcept",
-        "newDesign": true,
-        "detailedMiniature": true,
-        "image": "miniature-views/bonsai-mini-tea-artisan-black-isolated-v1.webp",
-        "imageAlt": {
-          "nl": "De theemaker — alleen de miniatuur, groot in beeld",
-          "en": "The tea artisan — the miniature alone, shown large"
-        },
-        "gallery": [
-          {
-            "image": "miniature-views/bonsai-mini-tea-artisan-black-isolated-v1.webp",
-            "alt": {
-              "nl": "De theemaker — alleen de miniatuur, groot in beeld",
-              "en": "The tea artisan — the miniature alone, shown large"
-            },
-            "view": "isolated",
-            "previewFinish": "black",
-            "visualKind": "isolatedConcept"
-          },
-          {
-            "image": "miniature-views/bonsai-mini-tea-artisan-black-exhibition-v3.webp",
-            "alt": {
-              "nl": "De theemaker als klein zwart resinaccent op een eigen jita naast een bonsai op een houten presentatietafel; gegenereerd tentoonstellingsvoorbeeld",
-              "en": "The tea artisan as a small black resin accent on its own jita beside a bonsai on a wooden display stand; generated exhibition example"
-            },
-            "view": "withBonsai",
-            "previewFinish": "black",
-            "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
-          }
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": 30,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "miniatureViews": true,
-        "imageStyle": "isolated-exhibition"
-      },
-      {
         "id": "bonsai-mini-reed-crane",
         "category": "miniatures",
         "name": {
@@ -3194,16 +2693,16 @@
         "id": "bonsai-mini-bonsai-master",
         "category": "miniatures",
         "name": {
-          "nl": "De bonsaimeester",
-          "en": "The bonsai master"
+          "nl": "De boomverzorger",
+          "en": "The tree carer"
         },
         "short": {
-          "nl": "Een bonsaimeester aan zijn werkbank, met schortnaden, een gereedschapsrol, draadspoel en een klein meegeprint boompje.",
-          "en": "A bonsai master at his workbench, with apron seams, a tool roll, wire spool and a tiny tree printed as part of the sculpture."
+          "nl": "Een boomverzorger met werkbank, schort en handgereedschap. Een rustig moment uit de werkplaats.",
+          "en": "A tree carer with workbench, apron and hand tools. A quiet moment from the workshop."
         },
         "detail": {
-          "nl": "Een zittende bonsaimeester met schort, schaar, gereedschappen en werkbank. Het losse ontwerp bevat geen meegeprint boompje. Op de tweede foto verzorgt hij een tak van een levende shohin-iep op de werkbank. Die boom en pot zijn styling en niet inbegrepen. Fijn reliëf en matte zwarte resin maken stofplooien en gereedschappen zichtbaar. Gegenereerd ontwerpvoorstel, nog niet geprint; richtmaat circa 3–5 cm, definitieve maat en uitvoerbare details bespreken we. In het tentoonstellingsbeeld staat de bonsai op een presentatietafel en het kleine miniatuur los ernaast op een eigen jita. Presentatietafel en jita zijn aankleding en niet inbegrepen.",
-          "en": "A seated bonsai master with apron, scissors, tools and workbench. The individual design includes no printed tree. In the second photo, he tends a branch of a living shohin elm on the bench. The tree and pot are styling and not included. Fine relief and matte-black resin reveal fabric folds and tools. Generated proposal, not yet printed; target size around 3–5 cm, with final size and feasible details agreed on enquiry. In the exhibition image the bonsai stands on a display table and the small miniature separately alongside on its own jita. Display table and jita are styling and are not included."
+          "nl": "Een zittende boomverzorger met schort, schaar, gereedschappen en werkbank. Het losse ontwerp bevat geen meegeprint boompje. Op de tweede foto verzorgt hij een tak van een levende shohin-iep op de werkbank. Die boom en pot zijn styling en niet inbegrepen. Fijn reliëf en matte zwarte resin maken stofplooien en gereedschappen zichtbaar. Gegenereerd ontwerpvoorstel, nog niet geprint; richtmaat circa 3–5 cm, definitieve maat en uitvoerbare details bespreken we. In het tentoonstellingsbeeld staat de bonsai op een presentatietafel en het kleine miniatuur los ernaast op een eigen jita. Presentatietafel en jita zijn aankleding en niet inbegrepen.",
+          "en": "A seated tree carer with apron, scissors, tools and workbench. The individual design includes no printed tree. In the second photo, he tends a branch of a living shohin elm on the bench. The tree and pot are styling and not included. Fine relief and matte-black resin reveal fabric folds and tools. Generated proposal, not yet printed; target size around 3–5 cm, with final size and feasible details agreed on enquiry. In the exhibition image the bonsai stands on a display table and the small miniature separately alongside on its own jita. Display table and jita are styling and are not included."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
@@ -3218,15 +2717,15 @@
         "detailedMiniature": true,
         "image": "miniature-views/bonsai-mini-bonsai-master-black-isolated-v1.webp",
         "imageAlt": {
-          "nl": "De bonsaimeester — alleen de miniatuur, groot in beeld",
-          "en": "The bonsai master — the miniature alone, shown large"
+          "nl": "De boomverzorger — alleen de miniatuur, groot in beeld",
+          "en": "The tree carer — the miniature alone, shown large"
         },
         "gallery": [
           {
             "image": "miniature-views/bonsai-mini-bonsai-master-black-isolated-v1.webp",
             "alt": {
-              "nl": "De bonsaimeester — alleen de miniatuur, groot in beeld",
-              "en": "The bonsai master — the miniature alone, shown large"
+              "nl": "De boomverzorger — alleen de miniatuur, groot in beeld",
+              "en": "The tree carer — the miniature alone, shown large"
             },
             "view": "isolated",
             "previewFinish": "black",
@@ -3235,8 +2734,8 @@
           {
             "image": "miniature-views/bonsai-mini-bonsai-master-black-exhibition-v3.webp",
             "alt": {
-              "nl": "De bonsaimeester als klein zwart resinaccent op een eigen jita naast een bonsai op een houten presentatietafel; gegenereerd tentoonstellingsvoorbeeld",
-              "en": "The bonsai master as a small black resin accent on its own jita beside a bonsai on a wooden display stand; generated exhibition example"
+              "nl": "De boomverzorger als klein zwart resinaccent op een eigen jita naast een bonsai op een houten presentatietafel; gegenereerd tentoonstellingsvoorbeeld",
+              "en": "The tree carer as a small black resin accent on its own jita beside a bonsai on a wooden display stand; generated exhibition example"
             },
             "view": "withBonsai",
             "previewFinish": "black",

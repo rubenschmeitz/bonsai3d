@@ -151,3 +151,25 @@ neutral partition. Small scale and isolated-first gallery order remain. All old
 images preserved. These are generated staging proposals, not physical show photos.
 Tree/pot/stand/jita are styling, not included in miniature prices. Prompts and
 provenance: private research/miniature-exhibition-2026-10-12/.
+
+## Dutch garden miniature direction — 12 October 2026
+
+The active collection now contains 36 objects, including 15 miniatures. Thirteen
+traditional robe/tea/temple-themed entries are removed from active product cards,
+links and enquiries; original product records and every previous image are archived.
+Six new matte-black resin design proposals draw on everyday Dutch gardens and
+parks: gardener with wheelbarrow, walker with dog, garden bench couple, hedgehog,
+robin and hare. Each starts with a large isolated portrait and then the same
+sculpture beside a natural-looking bonsai. They are unprinted, on enquiry and have
+indicative guide prices EUR35/40/45/20/20/25. Existing modern gardeners and animals
+remain; the former bonsai-master label is now tree carer.
+
+Four static exhibitions remain; the two tea-drinker accents are replaced by a
+small robin and hedgehog, keeping the existing pot/table/tree compositions. Home
+shows the three new garden/park human scenes; examples also include animal and
+existing tree-care stories. 20 built-in Imagegen calls produced 14 selected images; six initial context
+variants are archived. The six new pairings follow the latest small-accent scale
+(target miniature 3–5 cm, illustrative tree 30–45 cm). Built-in Imagegen only;
+full prompts, raw PNGs, references and hashes are archived privately. Trees, pots
+and display styling are not included with the miniature. Existing pot records,
+non-miniature designs, earlier media, custom estimate and prior removals remain.

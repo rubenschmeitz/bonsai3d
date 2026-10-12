@@ -10,7 +10,7 @@
       var groups = [
         {category:'display',product:'bonsai-classic-table',nl:'Tafels & jita’s',en:'Stands & jitas',copyNl:'Een basis voor jouw opstelling.',copyEn:'A foundation for your display.'},
         {category:'pots',product:'bonsai-firethorn-pot',nl:'Schalen',en:'Pots',copyNl:'Een eigen vorm rond de boom.',copyEn:'A distinctive form around the tree.'},
-        {category:'miniatures',product:'bonsai-tea-figure',nl:'Figuren',en:'Figures',copyNl:'Een klein accent naast de bonsai.',copyEn:'A small accent beside your bonsai.'}
+        {category:'miniatures',product:'bonsai-mini-walker-dog',nl:'Figuren',en:'Figures',copyNl:'Een klein accent naast de bonsai.',copyEn:'A small accent beside your bonsai.'}
       ];
       return hero + '<section class="home-collection wrap" aria-labelledby="browse-title"><div class="section-heading"><h2 id="browse-title">' + tr('Rond de bonsai.', 'Around the bonsai.') + '</h2>' + api.link('collection',tr('Bekijk alles','View all objects')+' ↗','text-link') + '</div><div class="category-grid">' + groups.map(function (group) {
         var p=shop.products.find(function(item){return item.id===group.product;}),photo=api.finishImage(p,api.style);
@@ -26,18 +26,18 @@
                 "id": "maple-wood",
                 "nl": "Een luchtige esdoorn.",
                 "en": "An airy maple.",
-                "copyNl": "Een open kroon boven een lage, brede tafel. De boom beweegt naar het kleine accent; de ruimte ertussen geeft beide een eigen plek.",
-                "copyEn": "An open crown above a low, broad stand. The tree moves towards the small accent; the space between them gives each its own place.",
-                "altNl": "Gegenereerde tentoonstellingsopstelling met een natuurlijke esdoorn, de grijze takkenpot en lage houtlook tafel, met een kleine bronzen theedrinker op afstand",
-                "altEn": "Generated exhibition display with a natural-looking maple, grey branch pot and low wood-look stand, with a small bronze tea drinker set apart",
+                "copyNl": "Een open kroon boven de lage houtlook tafel. Het kleine roodborstje kijkt naar de boom; de lege ruimte ertussen houdt de opstelling rustig.",
+                "copyEn": "An open crown above the low wood-look stand. The little robin looks towards the tree; the empty space between them keeps the display calm.",
+                "altNl": "Gegenereerde esdoorn in de bestaande grijze takkenpot op Rubens houtlook tafel, met een klein matzwart roodborstje als accent",
+                "altEn": "Generated maple in the existing grey branch pot on Ruben’s wood-look stand, with a small matte-black robin accent",
                 "product": "bonsai-classic-table",
                 "finish": "wood",
                 "linkNl": "Bekijk de displaytafel",
                 "linkEn": "View the low display stand",
-                "figure": "bonsai-tea-figure",
-                "figureNl": "Bekijk de theedrinker",
-                "figureEn": "View the tea drinker",
-                "image": "exhibition/maple-wood-v2.webp"
+                "figure": "bonsai-mini-robin",
+                "figureNl": "Bekijk het roodborstje",
+                "figureEn": "View the robin",
+                "image": "exhibition/maple-wood-dutch-v3.webp"
         },
         {
                 "id": "juniper-wood",
@@ -57,18 +57,18 @@
                 "id": "pine-black",
                 "nl": "Den, ruimte & matzwart.",
                 "en": "Pine, space & matte black.",
-                "copyNl": "Een asymmetrische den op een lage zwarte tafel. De theedrinker staat klein en los van het onderstel, aan de kant waar de kroon naartoe beweegt.",
-                "copyEn": "An asymmetrical pine on a low black stand. The small tea drinker sits apart from the support, on the side towards which the crown moves.",
-                "altNl": "Gegenereerde natuurlijke den in de bestaande grijze takkenpot op de lage matzwarte tafel, met een kleine zwarte theedrinker op afstand",
-                "altEn": "Generated natural-looking pine in the existing grey branch pot on the low matte-black stand, with a small black tea drinker set apart",
+                "copyNl": "Een asymmetrische den op de lage zwarte tafel. Een kleine egel staat los van het onderstel en keert zijn neus naar de boom.",
+                "copyEn": "An asymmetrical pine on the low black stand. A little hedgehog sits apart from the support, its nose turned towards the tree.",
+                "altNl": "Gegenereerde den in de bestaande grijze takkenpot op Rubens matzwarte tafel, met een kleine zwarte egel als accent",
+                "altEn": "Generated pine in the existing grey branch pot on Ruben’s matte-black stand, with a small black hedgehog accent",
                 "product": "bonsai-classic-table",
                 "finish": "black",
                 "linkNl": "Bekijk de displaytafel",
                 "linkEn": "View the low display stand",
-                "figure": "bonsai-tea-figure",
-                "figureNl": "Bekijk de theedrinker",
-                "figureEn": "View the tea drinker",
-                "image": "exhibition/pine-black-v2.webp"
+                "figure": "bonsai-mini-hedgehog",
+                "figureNl": "Bekijk de egel",
+                "figureEn": "View the hedgehog",
+                "image": "exhibition/pine-black-dutch-v3.webp"
         },
         {
                 "id": "cascade-refined-black",
