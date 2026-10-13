@@ -246,3 +246,6 @@ body.curated-shop .selection-row img{
     filter:blur(.18px) contrast(.96) saturate(.93) url("photo-finish-v1.svg#grain");
   }
 }
+
+/* Keep complete corrected trees, pots and stands visible, including category cards. */
+body.curated-shop img[src*="tree-proportions/"]{object-fit:contain!important}

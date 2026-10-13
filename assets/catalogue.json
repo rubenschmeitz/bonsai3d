@@ -110,7 +110,7 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "table-renewal/bonsai-classic-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-classic-table-wood-v1.webp",
             "alt": {
               "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Low display table with one matching bonsai — generated display example"
@@ -119,7 +119,7 @@
             "originalPhoto": "prints/classic-display-table.webp"
           },
           {
-            "image": "table-renewal/bonsai-classic-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-classic-table-black-v1.webp",
             "alt": {
               "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Low display table with one matching bonsai — generated display example"
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "image": "table-renewal/bonsai-classic-table-wood-v2.webp",
+        "image": "tree-proportions/bonsai-classic-table-wood-v1.webp",
         "imageAlt": {
           "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
           "en": "Low display table with one matching bonsai — generated display example"
@@ -157,7 +157,7 @@
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "table-renewal/bonsai-classic-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-classic-table-wood-v1.webp",
             "alt": {
               "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Low display table with one matching bonsai — generated display example"
@@ -166,7 +166,7 @@
             "originalPhoto": "prints/classic-display-table.webp"
           },
           "black": {
-            "image": "table-renewal/bonsai-classic-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-classic-table-black-v1.webp",
             "alt": {
               "nl": "Lage displaytafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Low display table with one matching bonsai — generated display example"
@@ -221,7 +221,7 @@
         },
         "gallery": [
           {
-            "image": "dutch-miniatures/bonsai-mini-garden-cart-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-garden-cart-isolated-black-v1.webp",
             "alt": {
               "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld",
               "en": "The gardener with a wheelbarrow — the miniature alone, shown large"
@@ -231,7 +231,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-garden-cart-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-garden-cart-black-v1.webp",
             "alt": {
               "nl": "De tuinier met kruiwagen als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The gardener with a wheelbarrow as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -241,7 +241,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "dutch-miniatures/bonsai-mini-garden-cart-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-garden-cart-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld",
           "en": "The gardener with a wheelbarrow — the miniature alone, shown large"
@@ -286,7 +286,7 @@
         },
         "gallery": [
           {
-            "image": "dutch-miniatures/bonsai-mini-walker-dog-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-walker-dog-isolated-black-v1.webp",
             "alt": {
               "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld",
               "en": "The walker with a dog — the miniature alone, shown large"
@@ -296,7 +296,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-walker-dog-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-walker-dog-black-v1.webp",
             "alt": {
               "nl": "De wandelaar met hond als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The walker with a dog as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -306,7 +306,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "dutch-miniatures/bonsai-mini-walker-dog-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-walker-dog-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld",
           "en": "The walker with a dog — the miniature alone, shown large"
@@ -351,7 +351,7 @@
         },
         "gallery": [
           {
-            "image": "table-renewal/bonsai-root-relief-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-root-relief-table-wood-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root relief table with one matching bonsai — generated display example"
@@ -359,7 +359,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "table-renewal/bonsai-root-relief-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-root-relief-table-black-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root relief table with one matching bonsai — generated display example"
@@ -369,7 +369,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "table-renewal/bonsai-root-relief-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-root-relief-table-wood-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root relief table with one matching bonsai — generated display example"
@@ -377,7 +377,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "table-renewal/bonsai-root-relief-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-root-relief-table-black-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root relief table with one matching bonsai — generated display example"
@@ -385,7 +385,7 @@
             "visualKind": "arrangementConcept"
           }
         },
-        "image": "table-renewal/bonsai-root-relief-table-wood-v2.webp",
+        "image": "tree-proportions/bonsai-root-relief-table-wood-v1.webp",
         "imageAlt": {
           "nl": "Wortelreliëftafel met één passende bonsai — gegenereerd presentatievoorbeeld",
           "en": "Root relief table with one matching bonsai — generated display example"
@@ -431,7 +431,7 @@
         },
         "gallery": [
           {
-            "image": "table-renewal/bonsai-flow-edge-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-flow-edge-table-wood-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Bark edge table with one matching bonsai — generated display example"
@@ -439,7 +439,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "table-renewal/bonsai-flow-edge-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-flow-edge-table-black-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Bark edge table with one matching bonsai — generated display example"
@@ -449,7 +449,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "table-renewal/bonsai-flow-edge-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-flow-edge-table-wood-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Bark edge table with one matching bonsai — generated display example"
@@ -457,7 +457,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "table-renewal/bonsai-flow-edge-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-flow-edge-table-black-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Bark edge table with one matching bonsai — generated display example"
@@ -465,7 +465,7 @@
             "visualKind": "arrangementConcept"
           }
         },
-        "image": "table-renewal/bonsai-flow-edge-table-wood-v2.webp",
+        "image": "tree-proportions/bonsai-flow-edge-table-wood-v1.webp",
         "imageAlt": {
           "nl": "Schorsrandtafel met één passende bonsai — gegenereerd presentatievoorbeeld",
           "en": "Bark edge table with one matching bonsai — generated display example"
@@ -511,7 +511,7 @@
         },
         "gallery": [
           {
-            "image": "table-renewal/bonsai-branchwork-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-branchwork-table-wood-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branchwork table with one matching bonsai — generated display example"
@@ -519,7 +519,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "table-renewal/bonsai-branchwork-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-branchwork-table-black-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branchwork table with one matching bonsai — generated display example"
@@ -529,7 +529,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "table-renewal/bonsai-branchwork-table-wood-v2.webp",
+            "image": "tree-proportions/bonsai-branchwork-table-wood-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branchwork table with one matching bonsai — generated display example"
@@ -537,7 +537,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "table-renewal/bonsai-branchwork-table-black-v2.webp",
+            "image": "tree-proportions/bonsai-branchwork-table-black-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branchwork table with one matching bonsai — generated display example"
@@ -545,7 +545,7 @@
             "visualKind": "arrangementConcept"
           }
         },
-        "image": "table-renewal/bonsai-branchwork-table-wood-v2.webp",
+        "image": "tree-proportions/bonsai-branchwork-table-wood-v1.webp",
         "imageAlt": {
           "nl": "Takkenwerktafel met één passende bonsai — gegenereerd presentatievoorbeeld",
           "en": "Branchwork table with one matching bonsai — generated display example"
@@ -591,7 +591,7 @@
         },
         "gallery": [
           {
-            "image": "dutch-miniatures/bonsai-mini-garden-bench-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-garden-bench-isolated-black-v1.webp",
             "alt": {
               "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld",
               "en": "Together on the garden bench — the miniature alone, shown large"
@@ -601,7 +601,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-garden-bench-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-garden-bench-black-v1.webp",
             "alt": {
               "nl": "Samen op het tuinbankje als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "Together on the garden bench as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -611,7 +611,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "dutch-miniatures/bonsai-mini-garden-bench-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-garden-bench-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld",
           "en": "Together on the garden bench — the miniature alone, shown large"
@@ -656,7 +656,7 @@
         },
         "gallery": [
           {
-            "image": "dutch-miniatures/bonsai-mini-hedgehog-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-hedgehog-isolated-black-v1.webp",
             "alt": {
               "nl": "De egel — alleen de miniatuur, groot in beeld",
               "en": "The hedgehog — the miniature alone, shown large"
@@ -666,7 +666,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-hedgehog-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-hedgehog-black-v1.webp",
             "alt": {
               "nl": "De egel als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The hedgehog as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -676,7 +676,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "dutch-miniatures/bonsai-mini-hedgehog-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-hedgehog-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De egel — alleen de miniatuur, groot in beeld",
           "en": "The hedgehog — the miniature alone, shown large"
@@ -721,7 +721,7 @@
         },
         "gallery": [
           {
-            "image": "dutch-miniatures/bonsai-mini-robin-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-robin-isolated-black-v1.webp",
             "alt": {
               "nl": "Het roodborstje — alleen de miniatuur, groot in beeld",
               "en": "The robin — the miniature alone, shown large"
@@ -731,7 +731,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-robin-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-robin-black-v1.webp",
             "alt": {
               "nl": "Het roodborstje als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The robin as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -741,7 +741,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "dutch-miniatures/bonsai-mini-robin-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-robin-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "Het roodborstje — alleen de miniatuur, groot in beeld",
           "en": "The robin — the miniature alone, shown large"
@@ -786,7 +786,7 @@
         },
         "gallery": [
           {
-            "image": "dutch-miniatures/bonsai-mini-hare-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-hare-isolated-black-v1.webp",
             "alt": {
               "nl": "De haas — alleen de miniatuur, groot in beeld",
               "en": "The hare — the miniature alone, shown large"
@@ -796,7 +796,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-hare-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-hare-black-v1.webp",
             "alt": {
               "nl": "De haas als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The hare as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -806,7 +806,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "dutch-miniatures/bonsai-mini-hare-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-hare-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De haas — alleen de miniatuur, groot in beeld",
           "en": "The hare — the miniature alone, shown large"
@@ -850,7 +850,7 @@
         },
         "gallery": [
           {
-            "image": "miniature-views/bonsai-mini-watergiver-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-watergiver-isolated-black-v1.webp",
             "alt": {
               "nl": "De watergever — alleen de miniatuur, groot in beeld",
               "en": "The watergiver — the miniature alone, shown large"
@@ -860,7 +860,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-watergiver-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-watergiver-black-v1.webp",
             "alt": {
               "nl": "De watergever als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The watergiver as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -871,7 +871,7 @@
             "pairingContext": "exhibition"
           }
         ],
-        "image": "miniature-views/bonsai-mini-watergiver-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-watergiver-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De watergever — alleen de miniatuur, groot in beeld",
           "en": "The watergiver — the miniature alone, shown large"
@@ -915,7 +915,7 @@
         },
         "gallery": [
           {
-            "image": "miniature-views/bonsai-mini-branch-pruner-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-branch-pruner-isolated-black-v1.webp",
             "alt": {
               "nl": "De takverzorger — alleen de miniatuur, groot in beeld",
               "en": "The branch tender — the miniature alone, shown large"
@@ -925,7 +925,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-branch-pruner-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-branch-pruner-black-v1.webp",
             "alt": {
               "nl": "De takverzorger als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The branch tender as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -936,7 +936,7 @@
             "pairingContext": "exhibition"
           }
         ],
-        "image": "miniature-views/bonsai-mini-branch-pruner-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-branch-pruner-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De takverzorger — alleen de miniatuur, groot in beeld",
           "en": "The branch tender — the miniature alone, shown large"
@@ -980,7 +980,7 @@
         },
         "gallery": [
           {
-            "image": "miniature-views/bonsai-mini-root-squirrel-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-root-squirrel-isolated-black-v1.webp",
             "alt": {
               "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur, groot in beeld",
               "en": "The curious squirrel — the miniature alone, shown large"
@@ -990,7 +990,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-root-squirrel-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-root-squirrel-black-v1.webp",
             "alt": {
               "nl": "De nieuwsgierige eekhoorn als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The curious squirrel as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -1001,7 +1001,7 @@
             "pairingContext": "exhibition"
           }
         ],
-        "image": "miniature-views/bonsai-mini-root-squirrel-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-root-squirrel-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur, groot in beeld",
           "en": "The curious squirrel — the miniature alone, shown large"
@@ -1035,7 +1035,7 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp",
+            "image": "tree-proportions/bonsai-root-pedestal-wood-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Round root pedestal with one matching bonsai — generated display example"
@@ -1044,7 +1044,7 @@
             "originalPhoto": "prints/root-pedestal.webp"
           },
           {
-            "image": "table-renewal/bonsai-root-pedestal-black-v2.webp",
+            "image": "tree-proportions/bonsai-root-pedestal-black-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Round root pedestal with one matching bonsai — generated display example"
@@ -1110,7 +1110,7 @@
             }
           }
         ],
-        "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp",
+        "image": "tree-proportions/bonsai-root-pedestal-wood-v1.webp",
         "imageAlt": {
           "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
           "en": "Round root pedestal with one matching bonsai — generated display example"
@@ -1120,7 +1120,7 @@
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp",
+            "image": "tree-proportions/bonsai-root-pedestal-wood-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Round root pedestal with one matching bonsai — generated display example"
@@ -1129,7 +1129,7 @@
             "originalPhoto": "prints/root-pedestal.webp"
           },
           "black": {
-            "image": "table-renewal/bonsai-root-pedestal-black-v2.webp",
+            "image": "tree-proportions/bonsai-root-pedestal-black-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Round root pedestal with one matching bonsai — generated display example"
@@ -1173,7 +1173,7 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "table-renewal/bonsai-open-root-pedestal-wood-v2.webp",
+            "image": "tree-proportions/bonsai-open-root-pedestal-wood-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Open root pedestal with one matching bonsai — generated display example"
@@ -1182,7 +1182,7 @@
             "originalPhoto": "prints/open-root-pedestal.webp"
           },
           {
-            "image": "table-renewal/bonsai-open-root-pedestal-black-v2.webp",
+            "image": "tree-proportions/bonsai-open-root-pedestal-black-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Open root pedestal with one matching bonsai — generated display example"
@@ -1210,7 +1210,7 @@
             }
           }
         ],
-        "image": "table-renewal/bonsai-open-root-pedestal-wood-v2.webp",
+        "image": "tree-proportions/bonsai-open-root-pedestal-wood-v1.webp",
         "imageAlt": {
           "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
           "en": "Open root pedestal with one matching bonsai — generated display example"
@@ -1220,7 +1220,7 @@
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "table-renewal/bonsai-open-root-pedestal-wood-v2.webp",
+            "image": "tree-proportions/bonsai-open-root-pedestal-wood-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Open root pedestal with one matching bonsai — generated display example"
@@ -1229,7 +1229,7 @@
             "originalPhoto": "prints/open-root-pedestal.webp"
           },
           "black": {
-            "image": "table-renewal/bonsai-open-root-pedestal-black-v2.webp",
+            "image": "tree-proportions/bonsai-open-root-pedestal-black-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard met één passende bonsai — gegenereerd presentatievoorbeeld",
               "en": "Open root pedestal with one matching bonsai — generated display example"
@@ -1386,7 +1386,7 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "pot-renewal/bonsai-firethorn-pot-own-v2.webp",
+        "image": "tree-proportions/bonsai-firethorn-pot-own-v1.webp",
         "visualKind": "arrangement",
         "archiveId": "bonsai-firethorn-pot",
         "imageAlt": {
@@ -1395,7 +1395,7 @@
         },
         "gallery": [
           {
-            "image": "pot-renewal/bonsai-firethorn-pot-own-v2.webp",
+            "image": "tree-proportions/bonsai-firethorn-pot-own-v1.webp",
             "alt": {
               "nl": "Takkenpot met één passende bonsai — gegenereerd op basis van mijn eigen foto",
               "en": "Branch pot with one matching bonsai — generated from my own photograph"
@@ -1496,11 +1496,11 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "pot-renewal/bonsai-red-branch-relief-pot-own-v2.webp",
+        "image": "tree-proportions/bonsai-red-branch-relief-pot-own-v1.webp",
         "visualKind": "arrangement",
         "gallery": [
           {
-            "image": "pot-renewal/bonsai-red-branch-relief-pot-own-v2.webp",
+            "image": "tree-proportions/bonsai-red-branch-relief-pot-own-v1.webp",
             "alt": {
               "nl": "Rode takkenpot met één passende bonsai — gegenereerd op basis van mijn eigen foto",
               "en": "Red branch pot with one matching bonsai — generated from my own photograph"
@@ -1600,7 +1600,7 @@
         },
         "finishes": {
           "black": {
-            "image": "pot-renewal/pot-rootflow-black-v3.webp",
+            "image": "tree-proportions/pot-rootflow-black-v1.webp",
             "alt": {
               "nl": "Wortelboog-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Root arch pot with bonsai in raw black — generated design proposal"
@@ -1608,7 +1608,7 @@
             "visualKind": "arrangementConcept"
           },
           "grey": {
-            "image": "pot-renewal/pot-rootflow-grey-v3.webp",
+            "image": "tree-proportions/pot-rootflow-grey-v1.webp",
             "alt": {
               "nl": "Wortelboog-schaal met bonsai in ruw grijs — gegenereerd ontwerpvoorstel",
               "en": "Root arch pot with bonsai in raw grey — generated design proposal"
@@ -1616,14 +1616,14 @@
             "visualKind": "arrangementConcept"
           }
         },
-        "image": "pot-renewal/pot-rootflow-black-v3.webp",
+        "image": "tree-proportions/pot-rootflow-black-v1.webp",
         "imageAlt": {
           "nl": "Wortelboog-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Root arch pot with bonsai in raw black — generated design proposal"
         },
         "gallery": [
           {
-            "image": "pot-renewal/pot-rootflow-black-v3.webp",
+            "image": "tree-proportions/pot-rootflow-black-v1.webp",
             "alt": {
               "nl": "Wortelboog-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Root arch pot with bonsai in raw black — generated design proposal"
@@ -1631,7 +1631,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "pot-renewal/pot-rootflow-grey-v3.webp",
+            "image": "tree-proportions/pot-rootflow-grey-v1.webp",
             "alt": {
               "nl": "Wortelboog-schaal met bonsai in ruw grijs — gegenereerd ontwerpvoorstel",
               "en": "Root arch pot with bonsai in raw grey — generated design proposal"
@@ -1677,7 +1677,7 @@
         },
         "finishes": {
           "black": {
-            "image": "pot-renewal/pot-strata-black-v3.webp",
+            "image": "tree-proportions/pot-strata-black-v1.webp",
             "alt": {
               "nl": "Breuklijn-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Faultline pot with bonsai in raw black — generated design proposal"
@@ -1685,7 +1685,7 @@
             "visualKind": "arrangementConcept"
           },
           "grey": {
-            "image": "pot-renewal/pot-strata-grey-v3.webp",
+            "image": "tree-proportions/pot-strata-grey-v1.webp",
             "alt": {
               "nl": "Breuklijn-schaal met bonsai in ruw grijs — gegenereerd ontwerpvoorstel",
               "en": "Faultline pot with bonsai in raw grey — generated design proposal"
@@ -1693,14 +1693,14 @@
             "visualKind": "arrangementConcept"
           }
         },
-        "image": "pot-renewal/pot-strata-black-v3.webp",
+        "image": "tree-proportions/pot-strata-black-v1.webp",
         "imageAlt": {
           "nl": "Breuklijn-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Faultline pot with bonsai in raw black — generated design proposal"
         },
         "gallery": [
           {
-            "image": "pot-renewal/pot-strata-black-v3.webp",
+            "image": "tree-proportions/pot-strata-black-v1.webp",
             "alt": {
               "nl": "Breuklijn-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Faultline pot with bonsai in raw black — generated design proposal"
@@ -1708,7 +1708,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "pot-renewal/pot-strata-grey-v3.webp",
+            "image": "tree-proportions/pot-strata-grey-v1.webp",
             "alt": {
               "nl": "Breuklijn-schaal met bonsai in ruw grijs — gegenereerd ontwerpvoorstel",
               "en": "Faultline pot with bonsai in raw grey — generated design proposal"
@@ -1754,7 +1754,7 @@
         },
         "finishes": {
           "black": {
-            "image": "pot-renewal/pot-cascade-black-v3.webp",
+            "image": "tree-proportions/pot-cascade-black-v1.webp",
             "alt": {
               "nl": "Wervelcascade-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Spiral cascade pot with bonsai in raw black — generated design proposal"
@@ -1762,7 +1762,7 @@
             "visualKind": "arrangementConcept"
           },
           "grey": {
-            "image": "pot-renewal/pot-cascade-grey-v3.webp",
+            "image": "tree-proportions/pot-cascade-grey-v1.webp",
             "alt": {
               "nl": "Wervelcascade-schaal met bonsai in ruw grijs — gegenereerd ontwerpvoorstel",
               "en": "Spiral cascade pot with bonsai in raw grey — generated design proposal"
@@ -1770,14 +1770,14 @@
             "visualKind": "arrangementConcept"
           }
         },
-        "image": "pot-renewal/pot-cascade-black-v3.webp",
+        "image": "tree-proportions/pot-cascade-black-v1.webp",
         "imageAlt": {
           "nl": "Wervelcascade-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Spiral cascade pot with bonsai in raw black — generated design proposal"
         },
         "gallery": [
           {
-            "image": "pot-renewal/pot-cascade-black-v3.webp",
+            "image": "tree-proportions/pot-cascade-black-v1.webp",
             "alt": {
               "nl": "Wervelcascade-schaal met bonsai in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Spiral cascade pot with bonsai in raw black — generated design proposal"
@@ -1785,7 +1785,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "pot-renewal/pot-cascade-grey-v3.webp",
+            "image": "tree-proportions/pot-cascade-grey-v1.webp",
             "alt": {
               "nl": "Wervelcascade-schaal met bonsai in ruw grijs — gegenereerd ontwerpvoorstel",
               "en": "Spiral cascade pot with bonsai in raw grey — generated design proposal"
@@ -1819,7 +1819,7 @@
           "wood",
           "grey"
         ],
-        "image": "accent-renewal/accent-moss-black-v2.webp",
+        "image": "tree-proportions/accent-moss-black-v1.webp",
         "imageAlt": {
           "nl": "Moseiland met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Moss island with small accent plants in raw black — generated design proposal"
@@ -1827,7 +1827,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "accent-renewal/accent-moss-black-v2.webp",
+            "image": "tree-proportions/accent-moss-black-v1.webp",
             "alt": {
               "nl": "Moseiland met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Moss island with small accent plants in raw black — generated design proposal"
@@ -1835,7 +1835,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "accent-renewal/accent-moss-wood-v2.webp",
+            "image": "tree-proportions/accent-moss-wood-v1.webp",
             "alt": {
               "nl": "Moseiland met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Moss island with small accent plants in wood look — generated design proposal"
@@ -1855,7 +1855,7 @@
         "zone": "presentation",
         "finishes": {
           "black": {
-            "image": "accent-renewal/accent-moss-black-v2.webp",
+            "image": "tree-proportions/accent-moss-black-v1.webp",
             "alt": {
               "nl": "Moseiland met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Moss island with small accent plants in raw black — generated design proposal"
@@ -1863,7 +1863,7 @@
             "visualKind": "arrangementConcept"
           },
           "wood": {
-            "image": "accent-renewal/accent-moss-wood-v2.webp",
+            "image": "tree-proportions/accent-moss-wood-v1.webp",
             "alt": {
               "nl": "Moseiland met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Moss island with small accent plants in wood look — generated design proposal"
@@ -1897,7 +1897,7 @@
           "wood",
           "grey"
         ],
-        "image": "accent-renewal/accent-ripple-black-v2.webp",
+        "image": "tree-proportions/accent-ripple-black-v1.webp",
         "imageAlt": {
           "nl": "Rimpelstandaard met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Ripple stand with small accent plants in raw black — generated design proposal"
@@ -1905,7 +1905,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "accent-renewal/accent-ripple-black-v2.webp",
+            "image": "tree-proportions/accent-ripple-black-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Ripple stand with small accent plants in raw black — generated design proposal"
@@ -1913,7 +1913,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "accent-renewal/accent-ripple-wood-v2.webp",
+            "image": "tree-proportions/accent-ripple-wood-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Ripple stand with small accent plants in wood look — generated design proposal"
@@ -1933,7 +1933,7 @@
         "zone": "presentation",
         "finishes": {
           "black": {
-            "image": "accent-renewal/accent-ripple-black-v2.webp",
+            "image": "tree-proportions/accent-ripple-black-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Ripple stand with small accent plants in raw black — generated design proposal"
@@ -1941,7 +1941,7 @@
             "visualKind": "arrangementConcept"
           },
           "wood": {
-            "image": "accent-renewal/accent-ripple-wood-v2.webp",
+            "image": "tree-proportions/accent-ripple-wood-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Ripple stand with small accent plants in wood look — generated design proposal"
@@ -1988,7 +1988,7 @@
         "visualKind": "arrangementConcept",
         "finishes": {
           "black": {
-            "image": "accent-renewal/accent-root-nest-black-v2.webp",
+            "image": "tree-proportions/accent-root-nest-black-v1.webp",
             "alt": {
               "nl": "Wortelnest met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Root nest with small accent plants in raw black — generated design proposal"
@@ -1996,7 +1996,7 @@
             "visualKind": "arrangementConcept"
           },
           "wood": {
-            "image": "accent-renewal/accent-root-nest-wood-v2.webp",
+            "image": "tree-proportions/accent-root-nest-wood-v1.webp",
             "alt": {
               "nl": "Wortelnest met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Root nest with small accent plants in wood look — generated design proposal"
@@ -2006,7 +2006,7 @@
         },
         "gallery": [
           {
-            "image": "accent-renewal/accent-root-nest-black-v2.webp",
+            "image": "tree-proportions/accent-root-nest-black-v1.webp",
             "alt": {
               "nl": "Wortelnest met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Root nest with small accent plants in raw black — generated design proposal"
@@ -2014,7 +2014,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "accent-renewal/accent-root-nest-wood-v2.webp",
+            "image": "tree-proportions/accent-root-nest-wood-v1.webp",
             "alt": {
               "nl": "Wortelnest met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Root nest with small accent plants in wood look — generated design proposal"
@@ -2022,7 +2022,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "accent-renewal/accent-root-nest-black-v2.webp",
+        "image": "tree-proportions/accent-root-nest-black-v1.webp",
         "imageAlt": {
           "nl": "Wortelnest met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Root nest with small accent plants in raw black — generated design proposal"
@@ -2066,7 +2066,7 @@
         "visualKind": "arrangementConcept",
         "finishes": {
           "black": {
-            "image": "accent-renewal/accent-seedpod-black-v2.webp",
+            "image": "tree-proportions/accent-seedpod-black-v1.webp",
             "alt": {
               "nl": "Zaadhuls met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Seedpod cradle with small accent plants in raw black — generated design proposal"
@@ -2074,7 +2074,7 @@
             "visualKind": "arrangementConcept"
           },
           "wood": {
-            "image": "accent-renewal/accent-seedpod-wood-v2.webp",
+            "image": "tree-proportions/accent-seedpod-wood-v1.webp",
             "alt": {
               "nl": "Zaadhuls met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Seedpod cradle with small accent plants in wood look — generated design proposal"
@@ -2084,7 +2084,7 @@
         },
         "gallery": [
           {
-            "image": "accent-renewal/accent-seedpod-black-v2.webp",
+            "image": "tree-proportions/accent-seedpod-black-v1.webp",
             "alt": {
               "nl": "Zaadhuls met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Seedpod cradle with small accent plants in raw black — generated design proposal"
@@ -2092,7 +2092,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "accent-renewal/accent-seedpod-wood-v2.webp",
+            "image": "tree-proportions/accent-seedpod-wood-v1.webp",
             "alt": {
               "nl": "Zaadhuls met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Seedpod cradle with small accent plants in wood look — generated design proposal"
@@ -2100,7 +2100,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "accent-renewal/accent-seedpod-black-v2.webp",
+        "image": "tree-proportions/accent-seedpod-black-v1.webp",
         "imageAlt": {
           "nl": "Zaadhuls met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Seedpod cradle with small accent plants in raw black — generated design proposal"
@@ -2144,7 +2144,7 @@
         "visualKind": "arrangementConcept",
         "finishes": {
           "black": {
-            "image": "accent-renewal/accent-rockfold-black-v2.webp",
+            "image": "tree-proportions/accent-rockfold-black-v1.webp",
             "alt": {
               "nl": "Rotsplooi met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Rock fold with small accent plants in raw black — generated design proposal"
@@ -2152,7 +2152,7 @@
             "visualKind": "arrangementConcept"
           },
           "wood": {
-            "image": "accent-renewal/accent-rockfold-wood-v2.webp",
+            "image": "tree-proportions/accent-rockfold-wood-v1.webp",
             "alt": {
               "nl": "Rotsplooi met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Rock fold with small accent plants in wood look — generated design proposal"
@@ -2162,7 +2162,7 @@
         },
         "gallery": [
           {
-            "image": "accent-renewal/accent-rockfold-black-v2.webp",
+            "image": "tree-proportions/accent-rockfold-black-v1.webp",
             "alt": {
               "nl": "Rotsplooi met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
               "en": "Rock fold with small accent plants in raw black — generated design proposal"
@@ -2170,7 +2170,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "accent-renewal/accent-rockfold-wood-v2.webp",
+            "image": "tree-proportions/accent-rockfold-wood-v1.webp",
             "alt": {
               "nl": "Rotsplooi met kleine accentbeplanting in houtlook — gegenereerd ontwerpvoorstel",
               "en": "Rock fold with small accent plants in wood look — generated design proposal"
@@ -2178,7 +2178,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "accent-renewal/accent-rockfold-black-v2.webp",
+        "image": "tree-proportions/accent-rockfold-black-v1.webp",
         "imageAlt": {
           "nl": "Rotsplooi met kleine accentbeplanting in ruw zwart — gegenereerd ontwerpvoorstel",
           "en": "Rock fold with small accent plants in raw black — generated design proposal"
@@ -2209,7 +2209,7 @@
           "wood",
           "grey"
         ],
-        "image": "presentation-renewal/label-branch-black-v2.webp",
+        "image": "tree-proportions/label-branch-black-v1.webp",
         "imageAlt": {
           "nl": "Taklijn-kaarthouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Branch line label stand in raw black beside a bonsai — generated display example"
@@ -2217,7 +2217,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "presentation-renewal/label-branch-wood-v2.webp",
+            "image": "tree-proportions/label-branch-wood-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch line label stand in wood look beside a bonsai — generated display example"
@@ -2225,7 +2225,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/label-branch-black-v2.webp",
+            "image": "tree-proportions/label-branch-black-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch line label stand in raw black beside a bonsai — generated display example"
@@ -2245,7 +2245,7 @@
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/label-branch-wood-v2.webp",
+            "image": "tree-proportions/label-branch-wood-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch line label stand in wood look beside a bonsai — generated display example"
@@ -2253,7 +2253,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/label-branch-black-v2.webp",
+            "image": "tree-proportions/label-branch-black-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch line label stand in raw black beside a bonsai — generated display example"
@@ -2287,7 +2287,7 @@
           "wood",
           "grey"
         ],
-        "image": "presentation-renewal/scroll-moon-black-v2.webp",
+        "image": "tree-proportions/scroll-moon-black-v1.webp",
         "imageAlt": {
           "nl": "Maanboog-display in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Moon arc display in raw black beside a bonsai — generated display example"
@@ -2295,7 +2295,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "presentation-renewal/scroll-moon-wood-v2.webp",
+            "image": "tree-proportions/scroll-moon-wood-v1.webp",
             "alt": {
               "nl": "Maanboog-display in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Moon arc display in wood look beside a bonsai — generated display example"
@@ -2303,7 +2303,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/scroll-moon-black-v2.webp",
+            "image": "tree-proportions/scroll-moon-black-v1.webp",
             "alt": {
               "nl": "Maanboog-display in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Moon arc display in raw black beside a bonsai — generated display example"
@@ -2323,7 +2323,7 @@
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/scroll-moon-wood-v2.webp",
+            "image": "tree-proportions/scroll-moon-wood-v1.webp",
             "alt": {
               "nl": "Maanboog-display in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Moon arc display in wood look beside a bonsai — generated display example"
@@ -2331,7 +2331,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/scroll-moon-black-v2.webp",
+            "image": "tree-proportions/scroll-moon-black-v1.webp",
             "alt": {
               "nl": "Maanboog-display in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Moon arc display in raw black beside a bonsai — generated display example"
@@ -2459,7 +2459,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "atelier/signature-jin-table-black-v1.webp",
+            "image": "tree-proportions/signature-jin-table-black-v1.webp",
             "alt": {
               "nl": "Jin-tafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
               "en": "Jin stand with a matching tree or exhibition element, generated photographic example"
@@ -2478,7 +2478,7 @@
         },
         "finishes": {
           "black": {
-            "image": "atelier/signature-jin-table-black-v1.webp",
+            "image": "tree-proportions/signature-jin-table-black-v1.webp",
             "alt": {
               "nl": "Jin-tafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
               "en": "Jin stand with a matching tree or exhibition element, generated photographic example"
@@ -2521,7 +2521,7 @@
           "black",
           "grey"
         ],
-        "image": "atelier/signature-shoji-table-wood-v1.webp",
+        "image": "tree-proportions/signature-shoji-table-wood-v1.webp",
         "imageAlt": {
           "nl": "Schaduwtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
           "en": "Shadow stand with a matching tree or exhibition element, generated photographic example"
@@ -2529,7 +2529,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "atelier/signature-shoji-table-wood-v1.webp",
+            "image": "tree-proportions/signature-shoji-table-wood-v1.webp",
             "alt": {
               "nl": "Schaduwtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
               "en": "Shadow stand with a matching tree or exhibition element, generated photographic example"
@@ -2537,7 +2537,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "atelier/signature-shoji-table-black-v1.webp",
+            "image": "tree-proportions/signature-shoji-table-black-v1.webp",
             "alt": {
               "nl": "Schaduwtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
               "en": "Shadow stand with a matching tree or exhibition element, generated photographic example"
@@ -2556,7 +2556,7 @@
         },
         "finishes": {
           "black": {
-            "image": "atelier/signature-shoji-table-black-v1.webp",
+            "image": "tree-proportions/signature-shoji-table-black-v1.webp",
             "alt": {
               "nl": "Schaduwtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
               "en": "Shadow stand with a matching tree or exhibition element, generated photographic example"
@@ -2564,7 +2564,7 @@
             "visualKind": "arrangementConcept"
           },
           "wood": {
-            "image": "atelier/signature-shoji-table-wood-v1.webp",
+            "image": "tree-proportions/signature-shoji-table-wood-v1.webp",
             "alt": {
               "nl": "Schaduwtafel met passende boom of tentoonstellingselement, gegenereerd fotografisch voorbeeld",
               "en": "Shadow stand with a matching tree or exhibition element, generated photographic example"
@@ -2700,14 +2700,14 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "miniature-views/bonsai-mini-root-fox-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-root-fox-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "Vos in de wortelboog — alleen de miniatuur, groot in beeld",
           "en": "Fox in the root arch — the miniature alone, shown large"
         },
         "gallery": [
           {
-            "image": "miniature-views/bonsai-mini-root-fox-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-root-fox-isolated-black-v1.webp",
             "alt": {
               "nl": "Vos in de wortelboog — alleen de miniatuur, groot in beeld",
               "en": "Fox in the root arch — the miniature alone, shown large"
@@ -2717,7 +2717,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-root-fox-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-root-fox-black-v1.webp",
             "alt": {
               "nl": "Vos in de wortelboog als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "Fox in the root arch as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -2764,14 +2764,14 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "miniature-views/bonsai-mini-bonsai-master-black-isolated-v1.webp",
+        "image": "tree-proportions/bonsai-mini-bonsai-master-isolated-black-v1.webp",
         "imageAlt": {
           "nl": "De boomverzorger — alleen de miniatuur, groot in beeld",
           "en": "The tree carer — the miniature alone, shown large"
         },
         "gallery": [
           {
-            "image": "miniature-views/bonsai-mini-bonsai-master-black-isolated-v1.webp",
+            "image": "tree-proportions/bonsai-mini-bonsai-master-isolated-black-v1.webp",
             "alt": {
               "nl": "De boomverzorger — alleen de miniatuur, groot in beeld",
               "en": "The tree carer — the miniature alone, shown large"
@@ -2781,7 +2781,7 @@
             "visualKind": "isolatedConcept"
           },
           {
-            "image": "miniature-views/bonsai-mini-bonsai-master-realistic-bonsai-v4.webp",
+            "image": "tree-proportions/bonsai-mini-bonsai-master-black-v1.webp",
             "alt": {
               "nl": "De boomverzorger als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
               "en": "The tree carer as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
@@ -2827,7 +2827,7 @@
           "wood",
           "grey"
         ],
-        "image": "presentation-renewal/detail-bridge-black-v2.webp",
+        "image": "tree-proportions/detail-bridge-black-v1.webp",
         "imageAlt": {
           "nl": "Wortelbruggetje in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Root footbridge in raw black beside a bonsai — generated display example"
@@ -2835,7 +2835,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "presentation-renewal/detail-bridge-wood-v2.webp",
+            "image": "tree-proportions/detail-bridge-wood-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root footbridge in wood look beside a bonsai — generated display example"
@@ -2843,7 +2843,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/detail-bridge-black-v2.webp",
+            "image": "tree-proportions/detail-bridge-black-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root footbridge in raw black beside a bonsai — generated display example"
@@ -2853,7 +2853,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/detail-bridge-wood-v2.webp",
+            "image": "tree-proportions/detail-bridge-wood-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root footbridge in wood look beside a bonsai — generated display example"
@@ -2861,7 +2861,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/detail-bridge-black-v2.webp",
+            "image": "tree-proportions/detail-bridge-black-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Root footbridge in raw black beside a bonsai — generated display example"
@@ -2905,7 +2905,7 @@
           "wood",
           "grey"
         ],
-        "image": "presentation-renewal/detail-bamboo-screen-black-v2.webp",
+        "image": "tree-proportions/detail-bamboo-screen-black-v1.webp",
         "imageAlt": {
           "nl": "Takkenscherm in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Branch screen in raw black beside a bonsai — generated display example"
@@ -2913,7 +2913,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "presentation-renewal/detail-bamboo-screen-wood-v2.webp",
+            "image": "tree-proportions/detail-bamboo-screen-wood-v1.webp",
             "alt": {
               "nl": "Takkenscherm in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch screen in wood look beside a bonsai — generated display example"
@@ -2921,7 +2921,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/detail-bamboo-screen-black-v2.webp",
+            "image": "tree-proportions/detail-bamboo-screen-black-v1.webp",
             "alt": {
               "nl": "Takkenscherm in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch screen in raw black beside a bonsai — generated display example"
@@ -2931,7 +2931,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/detail-bamboo-screen-wood-v2.webp",
+            "image": "tree-proportions/detail-bamboo-screen-wood-v1.webp",
             "alt": {
               "nl": "Takkenscherm in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch screen in wood look beside a bonsai — generated display example"
@@ -2939,7 +2939,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/detail-bamboo-screen-black-v2.webp",
+            "image": "tree-proportions/detail-bamboo-screen-black-v1.webp",
             "alt": {
               "nl": "Takkenscherm in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Branch screen in raw black beside a bonsai — generated display example"
@@ -2983,7 +2983,7 @@
           "wood",
           "grey"
         ],
-        "image": "presentation-renewal/detail-scroll-stand-black-v2.webp",
+        "image": "tree-proportions/detail-scroll-stand-black-v1.webp",
         "imageAlt": {
           "nl": "Seizoenshouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Seasonal image stand in raw black beside a bonsai — generated display example"
@@ -2991,7 +2991,7 @@
         "visualKind": "arrangementConcept",
         "gallery": [
           {
-            "image": "presentation-renewal/detail-scroll-stand-wood-v2.webp",
+            "image": "tree-proportions/detail-scroll-stand-wood-v1.webp",
             "alt": {
               "nl": "Seizoenshouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Seasonal image stand in wood look beside a bonsai — generated display example"
@@ -2999,7 +2999,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/detail-scroll-stand-black-v2.webp",
+            "image": "tree-proportions/detail-scroll-stand-black-v1.webp",
             "alt": {
               "nl": "Seizoenshouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Seasonal image stand in raw black beside a bonsai — generated display example"
@@ -3009,7 +3009,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/detail-scroll-stand-wood-v2.webp",
+            "image": "tree-proportions/detail-scroll-stand-wood-v1.webp",
             "alt": {
               "nl": "Seizoenshouder in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Seasonal image stand in wood look beside a bonsai — generated display example"
@@ -3017,7 +3017,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/detail-scroll-stand-black-v2.webp",
+            "image": "tree-proportions/detail-scroll-stand-black-v1.webp",
             "alt": {
               "nl": "Seizoenshouder in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Seasonal image stand in raw black beside a bonsai — generated display example"
@@ -3074,7 +3074,7 @@
         "visualKind": "arrangementConcept",
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/detail-leaf-window-wood-v2.webp",
+            "image": "tree-proportions/detail-leaf-window-wood-v1.webp",
             "alt": {
               "nl": "Bladvenster in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Leaf window in wood look beside a bonsai — generated display example"
@@ -3082,7 +3082,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/detail-leaf-window-black-v2.webp",
+            "image": "tree-proportions/detail-leaf-window-black-v1.webp",
             "alt": {
               "nl": "Bladvenster in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Leaf window in raw black beside a bonsai — generated display example"
@@ -3092,7 +3092,7 @@
         },
         "gallery": [
           {
-            "image": "presentation-renewal/detail-leaf-window-wood-v2.webp",
+            "image": "tree-proportions/detail-leaf-window-wood-v1.webp",
             "alt": {
               "nl": "Bladvenster in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Leaf window in wood look beside a bonsai — generated display example"
@@ -3100,7 +3100,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/detail-leaf-window-black-v2.webp",
+            "image": "tree-proportions/detail-leaf-window-black-v1.webp",
             "alt": {
               "nl": "Bladvenster in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Leaf window in raw black beside a bonsai — generated display example"
@@ -3108,7 +3108,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "presentation-renewal/detail-leaf-window-black-v2.webp",
+        "image": "tree-proportions/detail-leaf-window-black-v1.webp",
         "imageAlt": {
           "nl": "Bladvenster in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Leaf window in raw black beside a bonsai — generated display example"
@@ -3153,7 +3153,7 @@
         "sellingUnit": "set",
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/detail-contour-platforms-wood-v2.webp",
+            "image": "tree-proportions/detail-contour-platforms-wood-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Contour platforms in wood look beside a bonsai — generated display example"
@@ -3161,7 +3161,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/detail-contour-platforms-black-v2.webp",
+            "image": "tree-proportions/detail-contour-platforms-black-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Contour platforms in raw black beside a bonsai — generated display example"
@@ -3171,7 +3171,7 @@
         },
         "gallery": [
           {
-            "image": "presentation-renewal/detail-contour-platforms-wood-v2.webp",
+            "image": "tree-proportions/detail-contour-platforms-wood-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Contour platforms in wood look beside a bonsai — generated display example"
@@ -3179,7 +3179,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/detail-contour-platforms-black-v2.webp",
+            "image": "tree-proportions/detail-contour-platforms-black-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Contour platforms in raw black beside a bonsai — generated display example"
@@ -3187,7 +3187,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "presentation-renewal/detail-contour-platforms-black-v2.webp",
+        "image": "tree-proportions/detail-contour-platforms-black-v1.webp",
         "imageAlt": {
           "nl": "Hoogtelijn-plateaus in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Contour platforms in raw black beside a bonsai — generated display example"
@@ -3231,7 +3231,7 @@
         "visualKind": "arrangementConcept",
         "finishes": {
           "wood": {
-            "image": "presentation-renewal/detail-season-fan-wood-v2.webp",
+            "image": "tree-proportions/detail-season-fan-wood-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Season fan in wood look beside a bonsai — generated display example"
@@ -3239,7 +3239,7 @@
             "visualKind": "arrangementConcept"
           },
           "black": {
-            "image": "presentation-renewal/detail-season-fan-black-v2.webp",
+            "image": "tree-proportions/detail-season-fan-black-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Season fan in raw black beside a bonsai — generated display example"
@@ -3249,7 +3249,7 @@
         },
         "gallery": [
           {
-            "image": "presentation-renewal/detail-season-fan-wood-v2.webp",
+            "image": "tree-proportions/detail-season-fan-wood-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier in houtlook naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Season fan in wood look beside a bonsai — generated display example"
@@ -3257,7 +3257,7 @@
             "visualKind": "arrangementConcept"
           },
           {
-            "image": "presentation-renewal/detail-season-fan-black-v2.webp",
+            "image": "tree-proportions/detail-season-fan-black-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
               "en": "Season fan in raw black beside a bonsai — generated display example"
@@ -3265,7 +3265,7 @@
             "visualKind": "arrangementConcept"
           }
         ],
-        "image": "presentation-renewal/detail-season-fan-black-v2.webp",
+        "image": "tree-proportions/detail-season-fan-black-v1.webp",
         "imageAlt": {
           "nl": "Seizoenswaaier in ruw zwart naast een bonsai — gegenereerd presentatievoorbeeld",
           "en": "Season fan in raw black beside a bonsai — generated display example"

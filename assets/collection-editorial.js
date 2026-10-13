@@ -37,7 +37,7 @@
                 "figure": "bonsai-mini-robin",
                 "figureNl": "Bekijk het roodborstje",
                 "figureEn": "View the robin",
-                "image": "exhibition/maple-wood-dutch-v3.webp"
+                "image": "tree-proportions/exhibition-maple-wood-v1.webp"
         },
         {
                 "id": "juniper-wood",
@@ -51,7 +51,7 @@
                 "finish": "wood",
                 "linkNl": "Bekijk de wortelstandaard",
                 "linkEn": "View the round root stand",
-                "image": "table-renewal/bonsai-root-pedestal-wood-v2.webp"
+                "image": "tree-proportions/bonsai-root-pedestal-wood-v1.webp"
         },
         {
                 "id": "pine-black",
@@ -68,7 +68,7 @@
                 "figure": "bonsai-mini-hedgehog",
                 "figureNl": "Bekijk de egel",
                 "figureEn": "View the hedgehog",
-                "image": "exhibition/pine-black-dutch-v3.webp"
+                "image": "tree-proportions/exhibition-pine-black-v1.webp"
         },
         {
                 "id": "cascade-refined-black",
@@ -82,7 +82,7 @@
                 "finish": "black",
                 "linkNl": "Bekijk de open wortelstandaard",
                 "linkEn": "View the open root stand",
-                "image": "table-renewal/bonsai-open-root-pedestal-black-v2.webp"
+                "image": "tree-proportions/bonsai-open-root-pedestal-black-v1.webp"
         }
 ];
       return '<section class="examples wrap" aria-labelledby="examples-title"><div class="section-heading"><div><p class="eyebrow">BONSAI3D / '+tr('VOORBEELDOPSTELLINGEN','DISPLAY EXAMPLES')+'</p><h1 class="page-title" id="examples-title">'+tr('Ideeën voor<br>jouw opstelling.','Ideas for<br>your display.')+'</h1></div><p>'+tr('Vier opstellingen waarin de boom de richting bepaalt. Een passende tafel, voldoende ruimte en soms één klein accent. In houtlook en matzwart.','Four displays shaped by the direction of the tree. A suitable stand, room to breathe and sometimes one small accent. In wood look and matte black.')+'</p></div><div class="example-stories">'+examples.map(function (example,i) {
