@@ -231,3 +231,18 @@ body.curated-shop img[src*="presentation-renewal/"]{object-fit:contain}
 
 /* Preserve the whole pot and bonsai in the new presentation photographs. */
 body.curated-shop img[src*="pot-renewal/"]{object-fit:contain}
+
+/* Shared photographic finish, including images inserted or changed by galleries.
+   Raster photos only: preserve the crisp logo, typography and controls. */
+body.curated-shop img[src]:not([src*=".svg"]){
+  filter:blur(.45px) contrast(.96) saturate(.93) url("photo-finish-v1.svg#grain");
+}
+body.curated-shop .gallery-thumbnails img,
+body.curated-shop .selection-row img{
+  filter:contrast(.96) saturate(.93) url("photo-finish-v1.svg#grain");
+}
+@media(max-width:760px){
+  body.curated-shop .product-art img{
+    filter:blur(.18px) contrast(.96) saturate(.93) url("photo-finish-v1.svg#grain");
+  }
+}
