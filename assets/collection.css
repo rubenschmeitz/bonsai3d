@@ -261,3 +261,28 @@ body.curated-shop .home-browse h2{font-size:24px;margin:0 0 18px}
 .home-category-link{display:flex;justify-content:space-between;gap:12px;padding:12px 0;border-bottom:1px solid var(--line);font-size:16px}
 .home-category-link:hover{color:var(--accent)}
 @media(max-width:700px){body.curated-shop[data-page=home] .signature-hero{gap:22px;padding-block:26px 28px}body.curated-shop[data-page=home] .signature-copy h1{font-size:46px;letter-spacing:-1px}body.curated-shop[data-page=home] .signature-photo>img{aspect-ratio:1.45;max-height:260px}.home-browse{padding-block:22px 26px}.home-category-links{grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 18px}.home-category-link{font-size:14px}.photo-seal{bottom:32px}}
+
+/* A restrained photo gallery and visual entrances to the collection. */
+.home-gallery{min-width:0;outline-offset:5px}
+.home-gallery-slide{margin:0}
+.home-gallery-slide[hidden]{display:none}
+.home-gallery-image{display:block;width:100%;padding:0;border:0;background:var(--soft);cursor:pointer;border-radius:42% 42% 3px 3px;overflow:hidden}
+.home-gallery-image img{display:block;width:100%;height:420px;object-fit:contain}
+.home-gallery-slide figcaption{display:grid;gap:5px;min-height:54px;margin-top:13px;color:var(--muted);font-size:10px;line-height:1.5}
+.home-gallery-slide figcaption strong{font-size:15px;font-weight:500;color:var(--ink)}
+.home-gallery-controls{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:10px}
+.home-gallery-controls button{width:42px;height:42px;padding:0;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.home-gallery-dots{display:flex;gap:8px}
+.home-gallery-dots button[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.home-category-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-bottom:20px}
+.home-category-card{min-width:0}
+.home-category-card figure{margin:0}
+.home-category-card img{display:block;width:100%;height:255px;object-fit:contain;background:var(--soft)}
+.home-category-card figcaption{font-size:9px;color:var(--muted);line-height:1.5;margin-top:8px;min-height:27px}
+.home-category-card>div{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-top:10px}
+body.curated-shop .home-category-card h3{font-family:AtelierSerif,Georgia,serif;font-size:27px;font-weight:400;margin:0}
+.home-category-card>div>span{font-size:24px}
+.home-atelier-link{margin:24px 0 0}
+body.curated-shop[data-page=atelier] #finishes{padding-top:48px;border-bottom:1px solid var(--line);scroll-margin-top:24px}
+@media(max-width:700px){.home-gallery-image img{height:310px}.home-category-cards{gap:18px;grid-template-columns:1fr}.home-category-card{display:grid;grid-template-columns:132px 1fr;gap:18px;align-items:center;padding-block:8px}.home-category-card img{height:156px}.home-category-card figcaption{font-size:8px;min-height:0}.home-category-card>div{margin:0}body.curated-shop .home-category-card h3{font-size:24px}.home-browse .section-heading{display:flex;align-items:center;gap:14px;margin-bottom:20px}.home-browse .section-heading .text-link{font-size:12px;white-space:nowrap}.home-browse .section-heading h2{margin:0}.home-category-links{grid-template-columns:1fr}.home-atelier-link .text-link{font-size:13px}}
+@media(max-width:360px){.home-category-card{grid-template-columns:112px 1fr;gap:14px}.home-category-card img{height:136px}body.curated-shop .home-category-card h3{font-size:22px}.home-gallery-image img{height:270px}}

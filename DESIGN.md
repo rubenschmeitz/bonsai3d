@@ -1,3 +1,15 @@
+# Homepage imagery and simpler navigation — 14 October 2026
+
+Primary navigation contains Collection, The atelier and Custom. The logo links
+home. Finishes are part of the atelier, with a redirect for old finish URLs.
+The homepage now includes three manually selectable product photographs and
+three photographic category cards, with short links to the remaining categories.
+Images retain generated/photo provenance and concept labels. Gallery controls
+support keyboard arrows and announce the selected photograph. No automatic
+rotation, new images or catalogue changes are introduced.
+
+Earlier design notes follow.
+
 # Compact homepage — 13 October 2026
 
 The homepage now contains a short photographic introduction with collection and

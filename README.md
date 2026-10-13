@@ -6,11 +6,14 @@ The site is served directly from the root of the main branch using GitHub Pages.
 Use `python3 -m http.server 8851` for local review. No build or dependencies are required.
 
 The curated catalogue, finish choices, product galleries and product/finish links work in the browser.
-The compact homepage has one short introduction, collection/custom enquiry actions,
-and six direct category links. Maker stories remain on `atelier.html`; product details
-and miniatures are in `collectie.html`, finishes in `afwerkingen.html`, and the custom
-estimator in `maatwerk.html`. The examples page and its old `opstelling.html` alias
-have been removed. Existing photographic assets and catalogue records are preserved.
+The homepage pairs a short introduction with a three-image gallery (buttons and
+arrow keys; no automatic rotation), three photographic category entrances and
+three additional category links. Primary navigation has Collection, The atelier
+and Custom; the brand logo opens Home. Maker stories and finish comparisons are
+combined on `atelier.html`; old `afwerkingen.html` links preserve query parameters
+and redirect to its finishes section. The estimator stays on `maatwerk.html`.
+The examples page and its old composer alias remain removed. Catalogue records,
+photographs and their provenance labels are preserved.
 
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
