@@ -1,0 +1,27 @@
+{
+  "status": "preparation",
+  "tradeName": "BONSAI3D",
+  "legalForm": null,
+  "seller": {
+    "legalName": null,
+    "address": null,
+    "email": null,
+    "phone": null,
+    "kvkNumber": null,
+    "vatId": null,
+    "returnAddress": null
+  },
+  "taxScheme": "undecided",
+  "sales": {
+    "onlineOrdering": false,
+    "onlinePayments": false,
+    "shippingPrice": null,
+    "leadTime": null,
+    "paymentMethods": []
+  },
+  "withdrawal": {
+    "endpoint": null,
+    "automaticAcknowledgement": false
+  },
+  "policyDate": "2026-10-14"
+}

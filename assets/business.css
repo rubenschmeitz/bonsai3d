@@ -1,0 +1,24 @@
+body.curated-shop .service-page{padding-block:76px 90px}
+.service-heading{max-width:790px;margin-bottom:48px}
+body.curated-shop .service-heading .page-title{font-size:clamp(36px,5vw,64px);line-height:1.08;font-weight:400;letter-spacing:-1px;margin-bottom:24px}
+.service-heading>p{max-width:680px;line-height:1.75}
+.business-status{font-size:12px;line-height:1.6;color:var(--muted);border-left:2px solid var(--ink);padding-left:12px;margin:18px 0}
+.service-layout{display:grid;grid-template-columns:260px minmax(0,1fr);gap:65px;align-items:start}
+.service-index{display:grid;gap:0;border-top:1px solid var(--line);position:sticky;top:30px}
+.service-index a{padding:14px 0;border-bottom:1px solid var(--line);font-size:14px;line-height:1.5}
+.service-body,.privacy-body{max-width:790px;min-width:0}
+.service-section{border-top:1px solid var(--line);padding-block:30px 38px;scroll-margin-top:30px}
+body.curated-shop .service-section h2{font-size:clamp(25px,3vw,35px);margin-bottom:22px;line-height:1.2}
+.service-section p{font-size:15px;line-height:1.8;margin-bottom:18px;overflow-wrap:anywhere}
+.service-section a:not(.button){text-decoration:underline;text-underline-offset:3px}
+.seller-details div{padding:10px 0;border-bottom:1px solid var(--line)}
+.seller-details dt{color:var(--muted);font-size:12px}.seller-details dd{margin:4px 0 0;white-space:pre-line}
+.enquiry-agreement{padding:18px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:22px 0}
+.enquiry-agreement strong{font-weight:600;font-size:14px}.enquiry-agreement p{font-size:12px;line-height:1.7;margin:8px 0}
+.enquiry-agreement .text-link{font-size:12px;margin-right:20px}
+.product-service-link{margin:14px 0;font-size:12px}
+.inquiry-delivery{margin:20px 0}.inquiry-delivery select{width:100%;padding:12px;background:#fff;border:1px solid var(--line);color:var(--ink)}
+body.curated-shop footer nav{flex-wrap:wrap;gap:20px}
+body.curated-shop footer .business-status{display:block;max-width:310px;font-size:11px;line-height:1.7}
+#privacy-status{display:block;font-size:13px;line-height:1.7;margin-top:15px}
+@media(max-width:760px){body.curated-shop .service-page{padding-block:42px 55px}.service-layout{grid-template-columns:1fr;gap:32px}.service-index{position:static;grid-template-columns:1fr 1fr;gap:0 18px}.service-heading{margin-bottom:32px}.service-section p{font-size:14px}.service-index a{font-size:12px}.service-section{padding-block:24px 30px}}

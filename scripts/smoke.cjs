@@ -31,9 +31,54 @@ let browser; const report = { pages: [], errors: [], checks: 0 };
       await page.evaluate(async()=> { for (const img of document.images) img.loading='eager'; await Promise.all([...document.images].filter(x=>x.src).map(x=>x.decode().catch(()=>{}))); });
       const broken=await page.evaluate(()=>[...document.images].filter(i=>i.src && !i.naturalWidth).map(i=>i.src));
       assert.deepEqual(broken, [], `Broken images on ${url}`); report.checks++;
+      if (await page.locator('footer .business-status').count()) { assert(await page.locator('footer .business-status').isVisible(), 'Preparation status visible '+url); report.checks++; }
+      if (['service.html','privacy.html'].includes(url)) { assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1), 'No overflow '+url); report.checks++; await page.screenshot({path:path.join(out, `${width}-${url.replace(/[^a-z0-9]/gi,'-')}.png`),fullPage:true}); }
       if (url==='index.html' || url==='bonsai3d/' || url==='yori3d/' || url==='galerij.html') await page.screenshot({path:path.join(out, `${width}-${url.replace(/[^a-z0-9]/gi,'-')}.png`),fullPage:true});
       report.pages.push({width,url});
     }
+  }
+  if (fs.existsSync(path.join(publicRoot,'assets','business-config.json'))) {
+    const writes=[]; page.on('request', r=> { if(!['GET','HEAD'].includes(r.method())) writes.push(r.method()+' '+r.url()); });
+    function checked(value,message){assert.ok(value,message);report.checks++;}
+    for(const lang of ['nl','en']) {
+      await page.goto(base+'service.html?lang='+lang+'&style=wood',{waitUntil:'networkidle'});
+      checked(await page.locator('footer a[data-page=privacy]').count()===1,'Privacy link available');
+      checked(await page.locator('#retour').count()===1,'Returns information reachable');
+      checked((await page.locator('.business-status').first().textContent()).includes(lang==='nl'?'voorbereiding':'preparation'),'Preparation status visible');
+      await page.goto(base+'maatwerk.html?lang='+lang+'&style=wood',{waitUntil:'networkidle'});
+      await page.locator('#quote-enquiry').click();
+      checked(await page.locator('#inquiry-dialog').evaluate(d=>d.open),'Custom estimate opens draft');
+      checked(await page.locator('#inquiry-form input[name=name]').evaluate(input=>!input.required),'Name optional for local draft');
+      checked(await page.locator('#inquiry-form input[name=email]').evaluate(input=>!input.required),'Email optional for local draft');
+      await page.locator('#inquiry-form select[name=delivery]').selectOption('shipping');
+      await page.locator('#inquiry-form button[type=submit]').click();
+      let draft=await page.locator('#request-text').textContent();
+      checked(draft.includes(lang==='nl'?'geen bestelling':'not an order'),'Draft cannot imply an order');
+      checked(draft.includes(lang==='nl'?'Verzending bespreken':'Discuss delivery'),'Delivery preference exported');
+      checked(draft.includes(lang==='nl'?'Nog niet ingevuld':'Not yet entered'),'Blank contact fields supported');
+      await page.locator('#inquiry-form input[name=name]').fill('Testklant');
+      checked(await page.locator('.request-output').isHidden(),'Editing invalidates previous draft');
+      await page.locator('#inquiry-form input[name=email]').fill('voorbeeld@example.invalid');
+      await page.locator('#inquiry-form textarea[name=idea]').fill('Synthetisch testidee, geen echte aanvraag.');
+      await page.locator('#inquiry-form button[type=submit]').click();
+      const event=page.waitForEvent('download');await page.locator('#download-request').click();
+      const download=await event;const file=path.join(out,'draft-'+lang+'.txt');await download.saveAs(file);
+      checked(fs.readFileSync(file,'utf8').includes('voorbeeld@example.invalid'),'Download includes explicitly entered details');
+      checked(!(await page.evaluate(()=>Object.values(localStorage).join(' '))).includes('voorbeeld@example.invalid'),'Contact details not stored in browser preferences');
+      await page.screenshot({path:path.join(out,'draft-'+lang+'.png')});
+      await page.locator('#inquiry-dialog .dialog-close').click();
+    }
+    await page.goto(base+'privacy.html?lang=nl',{waitUntil:'networkidle'});
+    await page.evaluate(()=>{for(const key of ['bonsai3d-selection','loof3d-selection','tak-selection','tak-en-vorm-selection'])localStorage.setItem(key,JSON.stringify([{id:'bonsai-classic-table',finish:'black',quantity:1}]));localStorage.setItem('unrelated-preference','keep');});
+    await page.reload({waitUntil:'networkidle'});
+    checked(await page.locator('.selection-toggle .count').textContent()==='1','Existing selection restored');
+    await page.locator('#clear-site-data').click();
+    checked(await page.locator('.selection-toggle .count').textContent()==='0','Cleared selection reflected immediately');
+    checked(await page.evaluate(()=>['ruben-shop-language','bonsai3d-style','bonsai3d-selection','bonsai3d-custom','loof3d-selection','tak-selection','tak-en-vorm-selection'].every(k=>localStorage.getItem(k)===null)),'Current and legacy preferences removed');
+    checked(await page.evaluate(()=>localStorage.getItem('unrelated-preference'))==='keep','Unrelated browser data preserved');
+    checked((await page.locator('#privacy-status').textContent()).includes('gewist'),'Clear confirmation visible');
+    checked(writes.length===0,'No enquiry/order/return sent by site');
+    report.businessPreparation={status:'passed',contactFields:'optional',export:'local only',privacyClear:'current and legacy keys',networkWrites:writes};
   }
   assert.deepEqual(report.errors, [], 'Browser errors'); report.checks++; report.status='passed';
 } catch(e) { report.status='failed'; report.failure=e.stack; process.exitCode=1; }
