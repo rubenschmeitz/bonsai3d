@@ -182,3 +182,7 @@ more natural foliage, twig taper, bark and root texture while preserving the
 small black miniatures and existing display props. First portraits, options
 and guide prices stay unchanged. Full prompts, originals and retired records
 are archived privately in research/realistic-exhibition-trees-2026-10-12/.
+
+## Portable development and Codex Cloud
+
+See [CLOUD.md](CLOUD.md) for installation, preview, checks and cloud setup.
