@@ -17,77 +17,7 @@
         var content='<figure><img src="'+image(photo.image)+'" alt="'+esc(api.t(photo.alt))+'" width="1254" height="1254" loading="lazy"><figcaption>'+api.imageLabel(photo)+'</figcaption></figure><div class="category-copy"><h3>'+tr(group.nl,group.en)+'</h3><span aria-hidden="true">↗</span><p>'+tr(group.copyNl,group.copyEn)+'</p></div>';
         return api.link('collection',content,'category-card',{category:group.category});
       }).join('')+'</div></section>' +
-      '<section class="home-next wrap" aria-label="'+tr('Afwerking en maatwerk','Finishes and custom work')+'"><p>'+tr('Houtlook of matzwart. Afgestemd op jouw opstelling.','Wood look or matte black. Made to suit your display.')+'</p><div>'+api.link('examples',tr('Bekijk voorbeeldopstellingen','See display examples')+' ↗','text-link')+api.link('finishes',tr('Kies je afwerking','Choose your finish')+' ↗','text-link')+api.link('atelier',tr('Over Ruben & maatwerk','About Ruben & custom work')+' ↗','text-link')+'</div></section>';
-    },
-    examples: function (api) {
-      var tr=api.tr, image=api.image;
-      var examples=[
-        {
-                "id": "maple-wood",
-                "nl": "Een luchtige esdoorn.",
-                "en": "An airy maple.",
-                "copyNl": "Een open kroon boven de lage houtlook tafel. Het kleine roodborstje kijkt naar de boom; de lege ruimte ertussen houdt de opstelling rustig.",
-                "copyEn": "An open crown above the low wood-look stand. The little robin looks towards the tree; the empty space between them keeps the display calm.",
-                "altNl": "Gegenereerde esdoorn in de bestaande grijze takkenpot op Rubens houtlook tafel, met een klein matzwart roodborstje als accent",
-                "altEn": "Generated maple in the existing grey branch pot on Ruben’s wood-look stand, with a small matte-black robin accent",
-                "product": "bonsai-classic-table",
-                "finish": "wood",
-                "linkNl": "Bekijk de displaytafel",
-                "linkEn": "View the low display stand",
-                "figure": "bonsai-mini-robin",
-                "figureNl": "Bekijk het roodborstje",
-                "figureEn": "View the robin",
-                "image": "tree-proportions/exhibition-maple-wood-v1.webp"
-        },
-        {
-                "id": "juniper-wood",
-                "nl": "Beweging & houtlook.",
-                "en": "Movement & wood look.",
-                "copyNl": "Een halfcascade met ruimte aan de kant waar de takken naartoe groeien. De ronde wortelstandaard geeft hoogte; zonder extra figuur blijven de lijnen leesbaar.",
-                "copyEn": "A semi-cascade with space in the direction of its branches. The round root stand adds height; the lines remain clear without an extra figure.",
-                "altNl": "Gegenereerde halfcascadejeneverbes in een bruine pot op de ronde houtlook wortelstandaard, zonder figuur en met lege ruimte naast de takken",
-                "altEn": "Generated semi-cascade juniper in a brown pot on the round wood-look root stand, with no figure and open space beside the branches",
-                "product": "bonsai-root-pedestal",
-                "finish": "wood",
-                "linkNl": "Bekijk de wortelstandaard",
-                "linkEn": "View the round root stand",
-                "image": "tree-proportions/bonsai-root-pedestal-wood-v1.webp"
-        },
-        {
-                "id": "pine-black",
-                "nl": "Den, ruimte & matzwart.",
-                "en": "Pine, space & matte black.",
-                "copyNl": "Een asymmetrische den op de lage zwarte tafel. Een kleine egel staat los van het onderstel en keert zijn neus naar de boom.",
-                "copyEn": "An asymmetrical pine on the low black stand. A little hedgehog sits apart from the support, its nose turned towards the tree.",
-                "altNl": "Gegenereerde den in de bestaande grijze takkenpot op Rubens matzwarte tafel, met een kleine zwarte egel als accent",
-                "altEn": "Generated pine in the existing grey branch pot on Ruben’s matte-black stand, with a small black hedgehog accent",
-                "product": "bonsai-classic-table",
-                "finish": "black",
-                "linkNl": "Bekijk de displaytafel",
-                "linkEn": "View the low display stand",
-                "figure": "bonsai-mini-hedgehog",
-                "figureNl": "Bekijk de egel",
-                "figureEn": "View the hedgehog",
-                "image": "tree-proportions/exhibition-pine-black-v1.webp"
-        },
-        {
-                "id": "cascade-refined-black",
-                "nl": "Hoogte & open ruimte.",
-                "en": "Height & open space.",
-                "copyNl": "Een kleine den op de hoge open wortelstandaard. De pot past ruim op het blad; de slanke wortels houden de opstelling luchtig.",
-                "copyEn": "A small pine on the tall open root stand. The pot fits comfortably on the top, while the slender roots keep the display light.",
-                "altNl": "Gegenereerd voorbeeld: één den op de hoge matzwarte open wortelstandaard",
-                "altEn": "Generated example: one pine on the tall matte-black open root stand",
-                "product": "bonsai-open-root-pedestal",
-                "finish": "black",
-                "linkNl": "Bekijk de open wortelstandaard",
-                "linkEn": "View the open root stand",
-                "image": "tree-proportions/bonsai-open-root-pedestal-black-v1.webp"
-        }
-];
-      return '<section class="examples wrap" aria-labelledby="examples-title"><div class="section-heading"><div><p class="eyebrow">BONSAI3D / '+tr('VOORBEELDOPSTELLINGEN','DISPLAY EXAMPLES')+'</p><h1 class="page-title" id="examples-title">'+tr('Ideeën voor<br>jouw opstelling.','Ideas for<br>your display.')+'</h1></div><p>'+tr('Vier opstellingen waarin de boom de richting bepaalt. Een passende tafel, voldoende ruimte en soms één klein accent. In houtlook en matzwart.','Four displays shaped by the direction of the tree. A suitable stand, room to breathe and sometimes one small accent. In wood look and matte black.')+'</p></div><div class="example-stories">'+examples.map(function (example,i) {
-        return '<article class="display-example" id="'+example.id+'" data-example="'+example.id+'"><figure><img src="'+image(example.image)+'" alt="'+tr(example.altNl,example.altEn)+'" width="1536" height="1024" loading="'+(i===0?'eager':'lazy')+'"><figcaption>'+tr('Gegenereerde tentoonstellingsstudie met BONSAI3D-ontwerpen. Boom en styling zijn voorbeelden.','Generated exhibition study with BONSAI3D designs. Tree and styling are examples.')+'</figcaption></figure><div class="example-copy"><p class="eyebrow">0'+(i+1)+' / '+tr(example.finish==='wood'?'HOUTLOOK':'MATZWART',example.finish==='wood'?'WOOD LOOK':'MATTE BLACK')+'</p><h2>'+tr(example.nl,example.en)+'</h2><p>'+tr(example.copyNl,example.copyEn)+'</p><button class="text-link" data-product="'+example.product+'" data-finish="'+example.finish+'">'+tr(example.linkNl,example.linkEn)+' ↗</button>'+(example.figure?'<button class="text-link example-figure-link" data-product="'+example.figure+'" data-finish="'+example.finish+'">'+tr(example.figureNl,example.figureEn)+' ↗</button>':'')+'</div></article>';
-      }).join('')+'</div><div class="examples-note"><p>'+tr('De beelden zijn bedoeld als inspiratie. De bomen en styling zijn presentatievoorbeelden; maat, afwerking en uitvoering bespreken we per aanvraag.','These images are for inspiration. Trees and styling are display examples; size, finish and final version are discussed for each enquiry.')+'</p><a class="text-link" href="'+api.pageUrl('atelier')+'#display">'+tr('Bekijk ook een eigen opstelling','See one of my own displays')+' ↗</a></div></section>';
+      '<section class="home-next wrap" aria-label="'+tr('Afwerking en maatwerk','Finishes and custom work')+'"><p>'+tr('Houtlook of matzwart. Afgestemd op jouw opstelling.','Wood look or matte black. Made to suit your display.')+'</p><div>'+api.link('finishes',tr('Kies je afwerking','Choose your finish')+' ↗','text-link')+api.link('atelier',tr('Over Ruben & maatwerk','About Ruben & custom work')+' ↗','text-link')+'</div></section>';
     },
     finishes: function (api) {
       var tr=api.tr,esc=api.esc,shop=api.shop,image=api.image;

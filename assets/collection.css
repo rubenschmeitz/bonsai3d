@@ -249,3 +249,15 @@ body.curated-shop .selection-row img{
 
 /* Keep complete corrected trees, pots and stands visible, including category cards. */
 body.curated-shop img[src*="tree-proportions/"]{object-fit:contain!important}
+
+/* Compact home: one introduction and direct category links. */
+body.curated-shop[data-page=home] .signature-hero{gap:48px;padding-block:38px 42px}
+body.curated-shop[data-page=home] .signature-copy h1{font-size:clamp(46px,5.4vw,76px);margin-bottom:22px}
+body.curated-shop[data-page=home] .signature-photo{align-self:center}
+body.curated-shop[data-page=home] .signature-photo>img{aspect-ratio:1.25;max-height:420px}
+.home-browse{border-top:1px solid var(--line);padding-block:28px 36px}
+body.curated-shop .home-browse h2{font-size:24px;margin:0 0 18px}
+.home-category-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 24px}
+.home-category-link{display:flex;justify-content:space-between;gap:12px;padding:12px 0;border-bottom:1px solid var(--line);font-size:16px}
+.home-category-link:hover{color:var(--accent)}
+@media(max-width:700px){body.curated-shop[data-page=home] .signature-hero{gap:22px;padding-block:26px 28px}body.curated-shop[data-page=home] .signature-copy h1{font-size:46px;letter-spacing:-1px}body.curated-shop[data-page=home] .signature-photo>img{aspect-ratio:1.45;max-height:260px}.home-browse{padding-block:22px 26px}.home-category-links{grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 18px}.home-category-link{font-size:14px}.photo-seal{bottom:32px}}

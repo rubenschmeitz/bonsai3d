@@ -1,3 +1,14 @@
+# Compact homepage — 13 October 2026
+
+The homepage now contains a short photographic introduction with collection and
+custom enquiry actions, followed by six compact category links. Maker stories
+stay on the atelier page and product detail sections stay in the collection.
+The examples page, its old composer alias and navigation links have been removed.
+Existing catalogue records, photographs and provenance labels are preserved.
+The former exhibition anchor leads to the collection. YORI3D stays private/offline.
+
+The following notes describe earlier revisions.
+
 # Current atelier direction — 12 October 2026
 
 BONSAI3D connects the movement and texture of a bonsai to its printed display

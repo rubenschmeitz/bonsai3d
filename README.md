@@ -6,13 +6,11 @@ The site is served directly from the root of the main branch using GitHub Pages.
 Use `python3 -m http.server 8851` for local review. No build or dependencies are required.
 
 The curated catalogue, finish choices, product galleries and product/finish links work in the browser.
-The homepage introduces the maker story and six exhibition categories. The full catalogue
-is on `collectie.html`, finish comparisons on `afwerkingen.html`, and Ruben's
-workshop, custom work and frequently asked questions on `atelier.html`.
-`voorbeelden.html` shows four curated generated exhibition studies in wood look
-and matte black. Product links open the exact finish; the two small tea accents
-also link to the matching figure. The kneeling bonsai enthusiast is excluded from
-these compositions. Its former catalogue entry is now retired at the owner’s request.
+The compact homepage has one short introduction, collection/custom enquiry actions,
+and six direct category links. Maker stories remain on `atelier.html`; product details
+and miniatures are in `collectie.html`, finishes in `afwerkingen.html`, and the custom
+estimator in `maatwerk.html`. The examples page and its old `opstelling.html` alias
+have been removed. Existing photographic assets and catalogue records are preserved.
 
 Private workshop data, manufacturing source paths, research archives and the other brand
 are excluded. Font licences are included beside the fonts.
@@ -23,7 +21,7 @@ geometry. Size, finish, details and manufacturability are agreed through an enqu
 Their current photographic images depict matte-black resin miniatures with
 modest light and ordinary surface irregularities. Six new detailed proposals add
 bark, feather, fur, fabric and tool relief, all black only, beside living bonsais.
-They appear on the homepage, examples page and first in the miniature category.
+They appear in the miniature category.
 Their indicative guide prices are EUR25–40, excluding living trees and styling.
 Legacy miniature preferences remain preserved. These are generated examples, not
 photographs of existing printed stock. Earlier v1/v2 images and matching black

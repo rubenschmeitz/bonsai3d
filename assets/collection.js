@@ -1,8 +1,8 @@
 (async function () {
   'use strict';
   var page = document.body.dataset.page || 'home';
-  var pages = {home:'./',collection:'./collectie.html',finishes:'./afwerkingen.html',examples:'./voorbeelden.html',atelier:'./atelier.html',custom:'./maatwerk.html'};
-  var legacy = {collection:'collection',finishes:'finishes',studio:'atelier',custom:'atelier',guide:'atelier',display:'atelier',exhibition:'examples'};
+  var pages = {home:'./',collection:'./collectie.html',finishes:'./afwerkingen.html',atelier:'./atelier.html',custom:'./maatwerk.html'};
+  var legacy = {collection:'collection',finishes:'finishes',studio:'atelier',custom:'atelier',guide:'atelier',display:'atelier',exhibition:'collection'};
   var anchor = location.hash.slice(1);
   if (page === 'home' && legacy[anchor]) {
     location.replace(pages[legacy[anchor]] + location.search + location.hash);
@@ -29,8 +29,8 @@
   Object.assign(ui.en, {natural:'Quiet & natural',warm:'Warm & colourful',earth:'Earth tones',dark:'Dark & understated',custom:'My own preference',originalFinish:'Like the model',finished:'Product visualisation',finishedNote:'Generated product visualisation. Colour and final version are agreed together; plants are styling.',potFinish:'Preferred look'});
   function u(key) { return ui[language][key]; }
   ui.nl.custom='Op maat'; ui.en.custom='Custom';
-  Object.assign(ui.nl, {home:'Home',atelier:'Het atelier',examples:'Voorbeelden',concept:'Gegenereerd voorbeeld · nog niet geprint',conceptNote:'Gegenereerd fotografisch voorbeeld van een matzwarte resinminiatuur. Het ontwerp is nog niet geprint; maat en maakbaarheid stemmen we samen af.',corrected:'Eigen foto · licht gecorrigeerd',correctedNote:'Eigen foto met een betere uitsnede en subtiele correcties in belichting en kleur. Vorm en productdetails zijn behouden.'});
-  Object.assign(ui.en, {home:'Home',atelier:'The atelier',examples:'Display examples',concept:'Generated example · not yet printed',conceptNote:'Generated photographic example of a matte-black resin miniature. The design has not been printed; size and manufacturability are agreed together.',corrected:'Own photograph · lightly corrected',correctedNote:'Own photograph with improved framing and subtle exposure and colour corrections. Shape and product details are preserved.'});
+  Object.assign(ui.nl, {home:'Home',atelier:'Het atelier',concept:'Gegenereerd voorbeeld · nog niet geprint',conceptNote:'Gegenereerd fotografisch voorbeeld van een matzwarte resinminiatuur. Het ontwerp is nog niet geprint; maat en maakbaarheid stemmen we samen af.',corrected:'Eigen foto · licht gecorrigeerd',correctedNote:'Eigen foto met een betere uitsnede en subtiele correcties in belichting en kleur. Vorm en productdetails zijn behouden.'});
+  Object.assign(ui.en, {home:'Home',atelier:'The atelier',concept:'Generated example · not yet printed',conceptNote:'Generated photographic example of a matte-black resin miniature. The design has not been printed; size and manufacturability are agreed together.',corrected:'Own photograph · lightly corrected',correctedNote:'Own photograph with improved framing and subtle exposure and colour corrections. Shape and product details are preserved.'});
   ui.nl.black='Ruw zwart'; ui.en.black='Raw black'; ui.nl.grey='Ruw grijs'; ui.en.grey='Raw grey';
   function price(p,f){return BonsaiPricing.money(BonsaiPricing.product(p,f),language);}
   function availability(p){return p.availability==='stock'?tr('Potjes op voorraad','Pots in stock'):p.stage==='future'?tr('Ontwerp op aanvraag','Design on enquiry'):tr('Bij te maken op aanvraag','Made to order');}
@@ -80,7 +80,7 @@
     var content = page === 'collection' ? collection() : window.BonsaiEditorial[page](api);
     document.getElementById('app').innerHTML = '<a class="skip" href="#main">' + u('skip') + '</a>' +
       '<header class="site-header"><div class="header-inner">' + logo() + '<nav id="main-nav" aria-label="' + u('menu') + '">' + Object.keys(pages).map(function (name) { return link(name,u(name),'nav-link' + (name === page ? ' current' : '')).replace('class=',(name === page ? 'aria-current="page" ' : '') + 'class='); }).join('') + '</nav><div class="header-actions"><div class="languages" role="group" aria-label="' + u('language') + '">' + ['nl','en'].map(function (lang) { return '<button type="button" data-language="' + lang + '" aria-pressed="' + (language === lang) + '">' + lang.toUpperCase() + '</button>'; }).join('') + '</div><button class="selection-toggle" data-open-inquiry><span class="selection-label">' + u('selection') + '</span><span class="count">' + total() + '</span></button></div><button class="menu-toggle" aria-controls="main-nav" aria-expanded="false" aria-label="' + u('menu') + '"><span aria-hidden="true">☰</span></button></div></header>' +
-      '<main id="main">' + content + '</main><footer class="wrap"><div>' + logo() + '<p>' + u('footer') + '</p></div><nav aria-label="' + tr('Meer ontdekken','Explore more') + '">' + link('collection',u('collection'),'text-link') + link('finishes',u('finishes'),'text-link') + link('atelier',u('atelier'),'text-link') + link('examples',u('examples'),'text-link') + '</nav><p class="footer-note">© ' + new Date().getFullYear() + ' BONSAI3D</p></footer>' +
+      '<main id="main">' + content + '</main><footer class="wrap"><div>' + logo() + '<p>' + u('footer') + '</p></div><nav aria-label="' + tr('Meer ontdekken','Explore more') + '">' + link('collection',u('collection'),'text-link') + link('finishes',u('finishes'),'text-link') + link('atelier',u('atelier'),'text-link') + '</nav><p class="footer-note">© ' + new Date().getFullYear() + ' BONSAI3D</p></footer>' +
       '<dialog id="product-dialog" aria-labelledby="product-title"></dialog><dialog id="inquiry-dialog" aria-labelledby="inquiry-title"></dialog><div class="toast" role="status" aria-live="polite"></div>';
     renderProducts(); bindProductLinks(); bind(); if(window.BonsaiDetails) window.BonsaiDetails.bind({tr:tr,language:language,openInquiry:openInquiry});
   }
