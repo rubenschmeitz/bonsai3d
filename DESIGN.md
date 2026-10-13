@@ -1,3 +1,20 @@
+# Shop reference refinement — 14 October 2026
+
+The user named Bonsai Plaza and Lodder Bonsai as references. Their live homepages
+were reviewed, including Lodder’s linked Bonsai Shop. The interpretation uses
+recognisable shop structure: clear collection actions, category shortcuts, search
+and named product cards with guide prices and availability. The gallery now has
+rectangular framing. Three primary navigation choices and two home sections remain.
+Existing BONSAI3D colours, type, catalogue, media and provenance are retained.
+No reference photos, branding, copy, sales promises or checkout behavior reused.
+
+References inspected:
+- https://www.bonsaiplaza.com/nl/ — search, category navigation, priced products.
+- https://lodderbonsai.nl/ — large imagery and distinct collection actions.
+- https://www.bonsaishop.nl/ — category entrances and product presentation.
+
+Earlier design notes follow.
+
 # Homepage imagery and simpler navigation — 14 October 2026
 
 Primary navigation contains Collection, The atelier and Custom. The logo links

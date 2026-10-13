@@ -7,8 +7,8 @@ Use `python3 -m http.server 8851` for local review. No build or dependencies are
 
 The curated catalogue, finish choices, product galleries and product/finish links work in the browser.
 The homepage pairs a short introduction with a three-image gallery (buttons and
-arrow keys; no automatic rotation), three photographic category entrances and
-three additional category links. Primary navigation has Collection, The atelier
+arrow keys; no automatic rotation), three concrete product cards with guide prices, availability and detail links,
+six category shortcuts and a search form. Search queries open the filtered collection. Primary navigation has Collection, The atelier
 and Custom; the brand logo opens Home. Maker stories and finish comparisons are
 combined on `atelier.html`; old `afwerkingen.html` links preserve query parameters
 and redirect to its finishes section. The estimator stays on `maatwerk.html`.

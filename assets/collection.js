@@ -17,7 +17,7 @@
   function remember(key, value) { try { localStorage.setItem(key, value); } catch (_) {} }
   var language = (query.get('lang') || stored('ruben-shop-language', 'nl')) === 'en' ? 'en' : 'nl';
   var style = (query.get('style') || stored('bonsai3d-style', 'wood')) === 'black' ? 'black' : 'wood';
-  var category = 'all', search = '', selection = [], cardStyles = {}, activeProduct = null, activeFinish = style;
+  var category = 'all', search = query.get('search') || '', selection = [], cardStyles = {}, activeProduct = null, activeFinish = style;
   if (shop.categories.some(function (c) { return c.id === query.get('category'); })) category = query.get('category');
   remember('ruben-shop-language', language); remember('bonsai3d-style', style);
   var lastFocus = null, lastRequest = '', toastTimer;

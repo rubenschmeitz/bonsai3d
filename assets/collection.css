@@ -286,3 +286,30 @@ body.curated-shop .home-category-card h3{font-family:AtelierSerif,Georgia,serif;
 body.curated-shop[data-page=atelier] #finishes{padding-top:48px;border-bottom:1px solid var(--line);scroll-margin-top:24px}
 @media(max-width:700px){.home-gallery-image img{height:310px}.home-category-cards{gap:18px;grid-template-columns:1fr}.home-category-card{display:grid;grid-template-columns:132px 1fr;gap:18px;align-items:center;padding-block:8px}.home-category-card img{height:156px}.home-category-card figcaption{font-size:8px;min-height:0}.home-category-card>div{margin:0}body.curated-shop .home-category-card h3{font-size:24px}.home-browse .section-heading{display:flex;align-items:center;gap:14px;margin-bottom:20px}.home-browse .section-heading .text-link{font-size:12px;white-space:nowrap}.home-browse .section-heading h2{margin:0}.home-category-links{grid-template-columns:1fr}.home-atelier-link .text-link{font-size:13px}}
 @media(max-width:360px){.home-category-card{grid-template-columns:112px 1fr;gap:14px}.home-category-card img{height:136px}body.curated-shop .home-category-card h3{font-size:22px}.home-gallery-image img{height:270px}}
+
+/* Shop conventions: search, category shortcuts and concrete product cards. */
+.shop-facts{background:#e9ece2;border-bottom:1px solid var(--line)}
+.shop-facts ul{display:flex;justify-content:center;gap:24px 54px;list-style:none;padding-block:12px;margin-block:0;font-size:11px;color:#49604d}
+.shop-facts li:before{content:'✓';margin-right:8px}
+.home-search{display:flex;max-width:460px;margin-top:26px;border:1px solid #bdc8b8;background:#fffef9}
+.home-search input{min-width:0;width:100%;padding:12px 14px;border:0;background:transparent;color:var(--ink);font:inherit;font-size:14px}
+.home-search button{padding:10px 18px;border:0;border-left:1px solid #bdc8b8;background:#e9ece2;color:var(--ink);cursor:pointer;font:inherit;font-size:13px}
+.home-gallery{max-width:470px;width:100%;justify-self:center}
+.home-gallery-image{border-radius:3px}
+.home-category-nav{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 30px}
+.category-shortcut{border:1px solid var(--line);padding:9px 14px;font-size:13px;background:#f0f0e8}
+.category-shortcut:hover{border-color:var(--ink);color:var(--ink)}
+.home-category-card{display:flex;flex-direction:column;gap:0}
+.home-card-photo{display:block;width:100%;padding:0;border:0;background:transparent;cursor:pointer;text-align:left}
+.home-category-card>div{display:block;margin-top:14px}
+.home-category-card>.home-card-info{flex:1;display:flex!important;flex-direction:column;align-items:flex-start!important;justify-content:flex-start;gap:0}
+.home-card-info .eyebrow{font-size:10px;color:var(--muted);margin:0 0 6px}
+body.curated-shop .home-card-info h3{font-size:26px;line-height:1.2;margin:0 0 10px}
+.home-card-info h3 button{font:inherit;color:inherit;text-align:left;border:0;padding:0;background:transparent;cursor:pointer}
+.home-card-price{display:flex;gap:9px;align-items:baseline;font-size:12px;color:var(--muted);margin:0 0 8px}
+.home-card-price strong{font-size:22px;font-weight:500;color:var(--ink)}
+.home-card-info .availability{margin:0 0 14px}
+.home-card-actions{display:flex;flex-wrap:wrap;gap:12px 20px;margin-top:auto}
+.home-card-actions .text-link{font-size:12px}
+@media(max-width:700px){.shop-facts ul{flex-wrap:wrap;gap:7px 16px;padding-block:10px;font-size:10px}.home-category-nav{gap:8px;margin-bottom:24px}.category-shortcut{padding:8px 10px;font-size:12px}.home-category-card{display:grid;grid-template-columns:124px minmax(0,1fr);gap:16px;align-items:start;border-bottom:1px solid var(--line);padding-block:10px 20px}.home-category-card:last-child{border:0;padding-bottom:0}.home-category-card>div{margin-top:0}.home-category-card img{height:156px}body.curated-shop .home-card-info h3{font-size:22px}.home-card-actions{gap:12px;flex-direction:column}.home-card-photo figcaption{font-size:8px}.home-card-info .availability{font-size:10px}.home-search{margin-top:22px}}
+@media(max-width:360px){.home-category-card{grid-template-columns:104px minmax(0,1fr);gap:14px}.home-category-card img{height:138px}body.curated-shop .home-card-info h3{font-size:20px}.home-card-price{gap:7px;font-size:11px}.home-card-price strong{font-size:19px}}
