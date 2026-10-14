@@ -276,7 +276,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 40,
+          "base": 35,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -588,7 +588,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 45,
+          "base": 35,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -932,7 +932,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 40,
+          "base": 35,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -2859,7 +2859,7 @@
         ],
         "availability": "enquiry",
         "pricing": {
-          "base": 40,
+          "base": 35,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
