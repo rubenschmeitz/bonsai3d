@@ -31,7 +31,7 @@ let browser; const report = { pages: [], errors: [], checks: 0 };
       await page.evaluate(async()=> { for (const img of document.images) img.loading='eager'; await Promise.all([...document.images].filter(x=>x.src).map(x=>x.decode().catch(()=>{}))); });
       const broken=await page.evaluate(()=>[...document.images].filter(i=>i.src && !i.naturalWidth).map(i=>i.src));
       assert.deepEqual(broken, [], `Broken images on ${url}`); report.checks++;
-      if (await page.locator('.interest-banner').count()) {assert(await page.locator('.interest-banner').isVisible(),'Interest phase on '+url);report.checks++;}
+      if (await page.locator('.interest-banner').count()) {assert(!/overige objecten op aanvraag|other objects on enquiry/i.test(await page.locator('body').innerText()),'No old sales availability text '+url);report.checks++;assert(await page.locator('.interest-banner').isVisible(),'Interest phase on '+url);report.checks++;}
       if (await page.locator('footer .business-status').count()) { assert(await page.locator('footer .business-status').isVisible(), 'Preparation status visible '+url); report.checks++; }
       if (['service.html','privacy.html'].includes(url)) { assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1), 'No overflow '+url); report.checks++; await page.screenshot({path:path.join(out, `${width}-${url.replace(/[^a-z0-9]/gi,'-')}.png`),fullPage:true}); }
       if (url==='index.html' || url==='bonsai3d/' || url==='yori3d/' || url==='galerij.html') await page.screenshot({path:path.join(out, `${width}-${url.replace(/[^a-z0-9]/gi,'-')}.png`),fullPage:true});
