@@ -1,7 +1,7 @@
 # Business preparation
 
-The public site is an enquiry-draft catalogue in preparation. It accepts no
-orders or payments and has no configured public contact email. Do not present
+The public site is an interest-testing catalogue (`status: "interest"`). It accepts no
+orders, reservations or payments and has no configured public contact email. Do not present
 local downloads as submitted enquiries, orders or withdrawal notifications.
 
 `assets/business-config.json` is the single place for future **public** seller
@@ -10,7 +10,8 @@ registration, VAT treatment, delivery and payment have not been confirmed.
 Never add account passwords, tokens, bank details, private notes or customer
 records to this public repository. Leave unknown information empty.
 
-The application currently permits only `status: "preparation"`, with online
+The application currently permits `status: "interest"` and the legacy
+`status: "preparation"`, with online
 ordering and online payments disabled. Changing these values is not a launch
 switch: the app deliberately refuses an unsupported sales mode. A future launch
 requires its own implementation and review of the actual selling process.
@@ -49,3 +50,28 @@ cart, while name/email and the overall request text are not persisted. Prices
 are recomputed from current catalogue/estimate inputs. Design work is a one-off
 fee per configuration; quote-only versions are excluded from the known subtotal.
 Delivery is undecided and no full payable total or payment is implied.
+
+## Interest-testing phase and future ordering
+
+The current public flow is **My interests**, not a shopping cart. It saves the
+existing structured product/configuration model locally (including quantities,
+colour, dimensions and guide prices). Feedback, interest level and suggested
+price are only included in a locally copied/downloaded text draft; they are not
+persisted or transmitted. Contact and delivery fields are disabled and hidden.
+No Marktplaats listing URL has been supplied; no direct listing link or posting
+is invented. Visitors share feedback in their existing Marktplaats conversation.
+The site has no feedback dashboard, customer account, order ID or reservation.
+
+Product data, price functions and configuration storage are retained to avoid
+rebuilding them when sales are authorized. Future ordering is **not implemented**
+and cannot be activated by changing one JSON flag. Implement and validate a
+server-side order/price/stock workflow, seller details, shipping/tax calculation,
+consumer information, confirmation and privacy handling before accepting orders.
+Integrate a suitable hosted payment provider if online payment is desired; never
+put secret credentials or customer records on GitHub Pages. Use the retained
+product/configuration schema for an order draft, but recompute and validate prices
+on the server. Review actual stock/manufacturing before promising fulfilment.
+Existing interests must never become orders automatically when the mode changes.
+
+Calling the site an interest survey does not determine business-registration or
+tax status. No claim of a legal exemption is made by the site.

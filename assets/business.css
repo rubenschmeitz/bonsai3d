@@ -22,3 +22,7 @@ body.curated-shop footer nav{flex-wrap:wrap;gap:20px}
 body.curated-shop footer .business-status{display:block;max-width:310px;font-size:11px;line-height:1.7}
 #privacy-status{display:block;font-size:13px;line-height:1.7;margin-top:15px}
 @media(max-width:760px){body.curated-shop .service-page{padding-block:42px 55px}.service-layout{grid-template-columns:1fr;gap:32px}.service-index{position:static;grid-template-columns:1fr 1fr;gap:0 18px}.service-heading{margin-bottom:32px}.service-section p{font-size:14px}.service-index a{font-size:12px}.service-section{padding-block:24px 30px}}
+
+.interest-banner{display:flex;align-items:center;gap:18px;border-bottom:1px solid var(--line);padding-block:16px;font-size:12px;line-height:1.6}.interest-banner strong{white-space:nowrap;font-weight:600}.interest-banner span{flex:1}.interest-feedback{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:20px}.interest-feedback label{display:grid;gap:8px}.interest-feedback select,.interest-feedback input{width:100%;min-width:0;padding:12px;border:1px solid var(--line);background:#fff;color:var(--ink)}[data-business-mode="interest"] .form-pair[hidden],[data-business-mode="interest"] .inquiry-delivery[hidden]{display:none!important}@media(max-width:760px){.interest-banner{display:block}.interest-banner strong,.interest-banner span,.interest-banner a{display:block}.interest-banner span{margin:5px 0}.interest-feedback{grid-template-columns:1fr;gap:12px}}
+
+.interest-icon{font-size:20px;line-height:1;margin-right:5px}
