@@ -43,3 +43,9 @@ Rules checked on 14 October 2026:
 - [AP: right to information](https://autoriteitpersoonsgegevens.nl/nl/zelf-doen/privacyrechten/recht-op-informatie)
 
 Preparation is not business registration or a legal-compliance certification.
+
+Cart refinement: per-object preferences and dimensions are saved locally with the
+cart, while name/email and the overall request text are not persisted. Prices
+are recomputed from current catalogue/estimate inputs. Design work is a one-off
+fee per configuration; quote-only versions are excluded from the known subtotal.
+Delivery is undecided and no full payable total or payment is implied.
