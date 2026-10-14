@@ -2808,12 +2808,12 @@
           "en": "The tree carer"
         },
         "short": {
-          "nl": "Een boomverzorger met werkbank, schort en handgereedschap. Een rustig moment uit de werkplaats.",
-          "en": "A tree carer with workbench, apron and hand tools. A quiet moment from the workshop."
+          "nl": "Een boomverzorger die een bonsai op zijn werkbank snoeit. Een rustig moment uit de werkplaats.",
+          "en": "A tree carer pruning a bonsai on his workbench. A quiet moment from the workshop."
         },
         "detail": {
-          "nl": "Een zittende boomverzorger met schort, schaar, gereedschappen en werkbank. Het losse ontwerp bevat geen meegeprint boompje. Op de tweede foto verzorgt hij een tak van een levende shohin-iep op de werkbank. Die boom en pot zijn styling en niet inbegrepen. Fijn reliëf en matte zwarte resin maken stofplooien en gereedschappen zichtbaar. Gegenereerd ontwerpvoorstel, nog niet geprint; richtmaat circa 3–5 cm, definitieve maat en uitvoerbare details bespreken we. In het tentoonstellingsbeeld staat de bonsai op een presentatietafel en het kleine miniatuur los ernaast op een eigen jita. Presentatietafel en jita zijn aankleding en niet inbegrepen.",
-          "en": "A seated tree carer with apron, scissors, tools and workbench. The individual design includes no printed tree. In the second photo, he tends a branch of a living shohin elm on the bench. The tree and pot are styling and not included. Fine relief and matte-black resin reveal fabric folds and tools. Generated proposal, not yet printed; target size around 3–5 cm, with final size and feasible details agreed on enquiry. In the exhibition image the bonsai stands on a display table and the small miniature separately alongside on its own jita. Display table and jita are styling and are not included."
+          "nl": "Een zittende boomverzorger met schort, schaar, gereedschappen en een bonsai in een lage schaal op zijn werkbank. Zijn schaar sluit aan op een tak van het boompje. De kleine bonsai, schaal, werkbank en figuur vormen samen het miniatuurontwerp, met een matzwarte basis en subtiele grijze drybrush op de hogere details. Gegenereerd ontwerpvoorstel, nog niet geprint; richtmaat circa 3–5 cm, definitieve maat en uitvoerbare details bespreken we. De grote levende bonsai, presentatietafel en jita in het tweede beeld zijn aankleding en niet inbegrepen.",
+          "en": "A seated tree carer with apron, scissors, tools and a bonsai in a shallow pot on his workbench. His shears meet a branch of the little tree. The small bonsai, pot, workbench and figure form the miniature design together, with a matte-black base and subtle grey drybrushing on raised details. Generated proposal, not yet printed; target size around 3–5 cm, with final size and feasible details agreed on enquiry. The large living bonsai, display stand and jita in the second image are styling and are not included."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · uitsluitend zwart resin · richtmaat 3–5 cm · nog niet geprint",
@@ -2827,17 +2827,17 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "miniature-drybrush/bonsai-mini-bonsai-master-isolated-grey-drybrush-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-bonsai-master-isolated-bonsai-drybrush-v2.webp",
         "imageAlt": {
-          "nl": "De boomverzorger — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
-          "en": "The tree carer — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
+          "nl": "De boomverzorger snoeit een kleine bonsai op zijn werkbank; matzwart met grijze drybrush; gegenereerd ontwerpvoorbeeld",
+          "en": "The tree carer prunes a small bonsai on his workbench; matte black with grey drybrushing; generated design example"
         },
         "gallery": [
           {
-            "image": "miniature-drybrush/bonsai-mini-bonsai-master-isolated-grey-drybrush-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-bonsai-master-isolated-bonsai-drybrush-v2.webp",
             "alt": {
-              "nl": "De boomverzorger — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
-              "en": "The tree carer — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
+              "nl": "De boomverzorger snoeit een kleine bonsai op zijn werkbank; matzwart met grijze drybrush; gegenereerd ontwerpvoorbeeld",
+              "en": "The tree carer prunes a small bonsai on his workbench; matte black with grey drybrushing; generated design example"
             },
             "view": "isolated",
             "previewFinish": "black",
@@ -2845,10 +2845,10 @@
             "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "miniature-drybrush/bonsai-mini-bonsai-master-with-bonsai-grey-drybrush-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-bonsai-master-with-bonsai-bonsai-drybrush-v2.webp",
             "alt": {
-              "nl": "De boomverzorger als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
-              "en": "The tree carer as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
+              "nl": "De boomverzorger snoeit een kleine bonsai op zijn werkbank; matzwart met grijze drybrush; gegenereerd ontwerpvoorbeeld bij een grote levende bonsai",
+              "en": "The tree carer prunes a small bonsai on his workbench; matte black with grey drybrushing; generated design example beside a large living bonsai"
             },
             "view": "withBonsai",
             "previewFinish": "black",
