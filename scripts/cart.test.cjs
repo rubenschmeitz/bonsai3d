@@ -14,3 +14,11 @@ const custom=cart.normalise({kind:'custom',configuration:c,quantity:4,note:'Exam
 assert.equal(cart.normalise({kind:'custom',configuration:{...c,width:'invalid'},quantity:1},products,pricing),null);
 const bounded=make(1,{note:'a'.repeat(800),width:5,depth:-1,height:Infinity});assert.equal(bounded.personalisation.note.length,600);assert.equal(bounded.personalisation.width,'');assert.equal(bounded.personalisation.height,'');
 console.log('Cart model: pricing, one-off design fees, quote-only totals, variant separation, quantity limits, migration and persistence passed.');
+
+for(const [size,extra] of [[80,10],[100,10],[150,15],[200,15],[250,20],[350,25],[500,30]])assert.equal(pricing.woodSurcharge(size),extra);
+for(const type of Object.keys(pricing.types)){const c={type,finish:'black',...pricing.types[type],detail:'plain',design:'adapt',quantity:1};c.finish='black';const estimate=pricing.estimate(c);assert(estimate.valid);assert(Number.isFinite(estimate.unit));assert.equal(estimate.base,pricing.types[type].base);assert.equal(estimate.unit,pricing.types[type].base);}
+const small=pricing.estimate({type:'miniature',finish:'wood',width:60,depth:60,height:80,detail:'plain',design:'adapt',quantity:1});assert.equal(small.finish,10);assert.equal(small.unit,25);
+const big=pricing.estimate({type:'table',finish:'wood',width:500,depth:200,height:80,detail:'plain',design:'adapt',quantity:1});assert.equal(big.finish,30);assert(Number.isFinite(big.total));
+const colourA=cart.normalise({id:p.id,finish:'custom',quantity:1,personalisation:{colour:{hex:'#aabbcc',name:'RAL 6009'}}},products,pricing);assert.equal(colourA.personalisation.colour.hex,'#aabbcc');assert.equal(cart.quote(colourA,products,pricing).manual,true);
+const colourB=cart.normalise({...colourA,personalisation:{colour:{hex:'#112233',name:'Blue'}}},products,pricing);assert.notEqual(cart.key(colourA),cart.key(colourB));assert.deepEqual(cart.hydrate(JSON.parse(JSON.stringify([colourA])),products,pricing),[colourA]);
+console.log('Own colour, size-based wood fees and finite calculator base prices passed.');
