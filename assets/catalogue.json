@@ -223,32 +223,35 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-garden-cart-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-garden-cart-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld",
-              "en": "The gardener with a wheelbarrow — the miniature alone, shown large"
+              "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The gardener with a wheelbarrow — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-garden-cart-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-garden-cart-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De tuinier met kruiwagen als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The gardener with a wheelbarrow as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De tuinier met kruiwagen als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The gardener with a wheelbarrow as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
-            "visualKind": "arrangementConcept"
+            "visualKind": "arrangementConcept",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-garden-cart-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-garden-cart-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld",
-          "en": "The gardener with a wheelbarrow — the miniature alone, shown large"
+          "nl": "De tuinier met kruiwagen — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The gardener with a wheelbarrow — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-walker-dog",
@@ -289,32 +292,35 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-walker-dog-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-walker-dog-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld",
-              "en": "The walker with a dog — the miniature alone, shown large"
+              "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The walker with a dog — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-walker-dog-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-walker-dog-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De wandelaar met hond als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The walker with a dog as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De wandelaar met hond als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The walker with a dog as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
-            "visualKind": "arrangementConcept"
+            "visualKind": "arrangementConcept",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-walker-dog-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-walker-dog-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld",
-          "en": "The walker with a dog — the miniature alone, shown large"
+          "nl": "De wandelaar met hond — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The walker with a dog — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-root-relief-table",
@@ -598,32 +604,35 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-garden-bench-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-garden-bench-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld",
-              "en": "Together on the garden bench — the miniature alone, shown large"
+              "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "Together on the garden bench — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-garden-bench-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-garden-bench-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "Samen op het tuinbankje als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "Together on the garden bench as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "Samen op het tuinbankje als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "Together on the garden bench as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
-            "visualKind": "arrangementConcept"
+            "visualKind": "arrangementConcept",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-garden-bench-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-garden-bench-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld",
-          "en": "Together on the garden bench — the miniature alone, shown large"
+          "nl": "Samen op het tuinbankje — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "Together on the garden bench — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-hedgehog",
@@ -664,32 +673,35 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-hedgehog-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-hedgehog-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De egel — alleen de miniatuur, groot in beeld",
-              "en": "The hedgehog — the miniature alone, shown large"
+              "nl": "De egel — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The hedgehog — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-hedgehog-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-hedgehog-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De egel als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The hedgehog as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De egel als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The hedgehog as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
-            "visualKind": "arrangementConcept"
+            "visualKind": "arrangementConcept",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-hedgehog-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-hedgehog-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De egel — alleen de miniatuur, groot in beeld",
-          "en": "The hedgehog — the miniature alone, shown large"
+          "nl": "De egel — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The hedgehog — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-robin",
@@ -730,32 +742,35 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-robin-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-robin-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "Het roodborstje — alleen de miniatuur, groot in beeld",
-              "en": "The robin — the miniature alone, shown large"
+              "nl": "Het roodborstje — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The robin — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-robin-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-robin-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "Het roodborstje als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The robin as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "Het roodborstje als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The robin as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
-            "visualKind": "arrangementConcept"
+            "visualKind": "arrangementConcept",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-robin-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-robin-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "Het roodborstje — alleen de miniatuur, groot in beeld",
-          "en": "The robin — the miniature alone, shown large"
+          "nl": "Het roodborstje — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The robin — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-hare",
@@ -796,32 +811,35 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-hare-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-hare-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De haas — alleen de miniatuur, groot in beeld",
-              "en": "The hare — the miniature alone, shown large"
+              "nl": "De haas — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The hare — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-hare-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-hare-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De haas als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The hare as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De haas als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The hare as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
-            "visualKind": "arrangementConcept"
+            "visualKind": "arrangementConcept",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-hare-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-hare-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De haas — alleen de miniatuur, groot in beeld",
-          "en": "The hare — the miniature alone, shown large"
+          "nl": "De haas — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The hare — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-watergiver",
@@ -861,33 +879,36 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-watergiver-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-watergiver-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De watergever — alleen de miniatuur, groot in beeld",
-              "en": "The watergiver — the miniature alone, shown large"
+              "nl": "De watergever — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The watergiver — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-watergiver-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-watergiver-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De watergever als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The watergiver as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De watergever als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The watergiver as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
+            "pairingContext": "exhibition",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-watergiver-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-watergiver-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De watergever — alleen de miniatuur, groot in beeld",
-          "en": "The watergiver — the miniature alone, shown large"
+          "nl": "De watergever — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The watergiver — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-branch-pruner",
@@ -927,33 +948,36 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-branch-pruner-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-branch-pruner-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De takverzorger — alleen de miniatuur, groot in beeld",
-              "en": "The branch tender — the miniature alone, shown large"
+              "nl": "De takverzorger — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The branch tender — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-branch-pruner-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-branch-pruner-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De takverzorger als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The branch tender as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De takverzorger als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The branch tender as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
+            "pairingContext": "exhibition",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-branch-pruner-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-branch-pruner-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De takverzorger — alleen de miniatuur, groot in beeld",
-          "en": "The branch tender — the miniature alone, shown large"
+          "nl": "De takverzorger — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The branch tender — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-root-squirrel",
@@ -993,33 +1017,36 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-root-squirrel-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-root-squirrel-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur, groot in beeld",
-              "en": "The curious squirrel — the miniature alone, shown large"
+              "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The curious squirrel — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-root-squirrel-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-root-squirrel-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De nieuwsgierige eekhoorn als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The curious squirrel as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De nieuwsgierige eekhoorn als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The curious squirrel as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
+            "pairingContext": "exhibition",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
-        "image": "tree-proportions/bonsai-mini-root-squirrel-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-root-squirrel-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur, groot in beeld",
-          "en": "The curious squirrel — the miniature alone, shown large"
+          "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The curious squirrel — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
-        "visualKind": "isolatedConcept"
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-root-pedestal",
@@ -2732,32 +2759,34 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "tree-proportions/bonsai-mini-root-fox-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-root-fox-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "Vos in de wortelboog — alleen de miniatuur, groot in beeld",
-          "en": "Fox in the root arch — the miniature alone, shown large"
+          "nl": "Vos in de wortelboog — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "Fox in the root arch — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-root-fox-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-root-fox-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "Vos in de wortelboog — alleen de miniatuur, groot in beeld",
-              "en": "Fox in the root arch — the miniature alone, shown large"
+              "nl": "Vos in de wortelboog — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "Fox in the root arch — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-root-fox-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-root-fox-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "Vos in de wortelboog als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "Fox in the root arch as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "Vos in de wortelboog als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "Fox in the root arch as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
+            "pairingContext": "exhibition",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
         "availability": "enquiry",
@@ -2768,7 +2797,8 @@
           "kind": "indicative"
         },
         "miniatureViews": true,
-        "imageStyle": "isolated-exhibition"
+        "imageStyle": "isolated-exhibition",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "bonsai-mini-bonsai-master",
@@ -2797,32 +2827,34 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "tree-proportions/bonsai-mini-bonsai-master-isolated-black-v1.webp",
+        "image": "miniature-drybrush/bonsai-mini-bonsai-master-isolated-grey-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De boomverzorger — alleen de miniatuur, groot in beeld",
-          "en": "The tree carer — the miniature alone, shown large"
+          "nl": "De boomverzorger — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+          "en": "The tree carer — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-mini-bonsai-master-isolated-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-bonsai-master-isolated-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De boomverzorger — alleen de miniatuur, groot in beeld",
-              "en": "The tree carer — the miniature alone, shown large"
+              "nl": "De boomverzorger — alleen de miniatuur, groot in beeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The tree carer — the miniature alone, shown large; matte-black base with subtle grey drybrushing"
             },
             "view": "isolated",
             "previewFinish": "black",
-            "visualKind": "isolatedConcept"
+            "visualKind": "isolatedConcept",
+            "finishTreatment": "black-grey-drybrush"
           },
           {
-            "image": "tree-proportions/bonsai-mini-bonsai-master-black-v1.webp",
+            "image": "miniature-drybrush/bonsai-mini-bonsai-master-with-bonsai-grey-drybrush-v1.webp",
             "alt": {
-              "nl": "De boomverzorger als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld",
-              "en": "The tree carer as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example"
+              "nl": "De boomverzorger als klein zwart resinminiatuur bij een bonsai met natuurlijke vertakking en bladstructuur; gegenereerd fotografisch voorbeeld; matzwarte basis met subtiele grijze drybrush",
+              "en": "The tree carer as a small black resin miniature beside a bonsai with natural branching and foliage; generated photographic example; matte-black base with subtle grey drybrushing"
             },
             "view": "withBonsai",
             "previewFinish": "black",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition"
+            "pairingContext": "exhibition",
+            "finishTreatment": "black-grey-drybrush"
           }
         ],
         "availability": "enquiry",
@@ -2833,7 +2865,8 @@
           "kind": "indicative"
         },
         "miniatureViews": true,
-        "imageStyle": "isolated-exhibition"
+        "imageStyle": "isolated-exhibition",
+        "finishTreatment": "black-grey-drybrush"
       },
       {
         "id": "detail-bridge",
