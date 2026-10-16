@@ -75,7 +75,7 @@
     save();
   } catch (_) {}
   function pageUrl(name, options) {
-    var params = new URLSearchParams(Object.assign({lang:language,style:style}, options || {}));
+    var params = new URLSearchParams(Object.assign({lang:language,style:style,v:'groeilijnen-nav-20261016'}, options || {}));
     return pages[name] + '?' + params.toString() + (name === 'finishes' ? '#finishes' : '');
   }
   function link(name, content, className, options) {
