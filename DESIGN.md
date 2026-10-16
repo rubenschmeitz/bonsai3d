@@ -1,11 +1,12 @@
-# Product copy and captions — 16 October 2026
+# Product images without captions — 16 October 2026
 
-Public product copy, captions and accessible image descriptions focus on the
-object, framing and finish. The user requested removal of repeated explanations
-about generating design examples. Image provenance remains in the catalogue
-metadata and provenance files. Product stages, availability, indicative pricing
-and the interest-only flow remain unchanged. Image-information disclosures appear
-only when there is useful finish or colour information to show.
+The user explicitly requests no text underneath product images, including
+labels such as 'Productbeeld · nog niet geprint'. Render image areas without
+figcaptions, image-status labels or expandable image-information notes throughout
+the homepage, collection, atelier and product dialogs. Gallery controls and
+descriptive alternative text remain available. Product names, prices and normal
+product descriptions belong in their existing information areas. Keep technical
+provenance and actual product stages in their data records.
 
 Earlier design notes follow.
 
