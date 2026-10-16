@@ -329,3 +329,10 @@ body.curated-shop .soft-photo-frame:has(>img[src*="ordinary-photos/"]):before{di
 body.curated-shop .soft-photo-frame>img[src*="ordinary-photos/"]{mask-image:none}
 /* Keep all header controls reachable on narrow phone screens. */
 @media(max-width:380px){body.curated-shop .site-header .brand-wordmark{width:130px;height:37px}body.curated-shop .header-inner{gap:8px}body.curated-shop .header-actions{gap:8px}}
+
+/* Groeilijnen: compact tree, legible wordmark and intrinsic proportions. */
+body.curated-shop .site-header .brand-wordmark,
+body.curated-shop footer .brand-wordmark{width:250px;height:auto;filter:none}
+@media(max-width:960px){body.curated-shop .site-header .brand-wordmark{width:190px}}
+@media(max-width:700px){body.curated-shop .site-header .brand-wordmark{width:170px}}
+@media(max-width:380px){body.curated-shop .site-header .brand-wordmark{width:146px}}
