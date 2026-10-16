@@ -5,7 +5,7 @@
   "seller": {
     "legalName": null,
     "address": null,
-    "email": null,
+    "email": "rubenschmeitz1998@gmail.com",
     "phone": null,
     "kvkNumber": null,
     "vatId": null,
@@ -23,7 +23,7 @@
     "endpoint": null,
     "automaticAcknowledgement": false
   },
-  "policyDate": "2026-10-14",
+  "policyDate": "2026-10-16",
   "interest": {
     "acceptOrders": false,
     "acceptReservations": false,

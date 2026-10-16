@@ -26,3 +26,14 @@ body.curated-shop footer .business-status{display:block;max-width:310px;font-siz
 .interest-banner{display:flex;align-items:center;gap:18px;border-bottom:1px solid var(--line);padding-block:16px;font-size:12px;line-height:1.6}.interest-banner strong{white-space:nowrap;font-weight:600}.interest-banner span{flex:1}.interest-feedback{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:20px}.interest-feedback label{display:grid;gap:8px}.interest-feedback select,.interest-feedback input{width:100%;min-width:0;padding:12px;border:1px solid var(--line);background:#fff;color:var(--ink)}[data-business-mode="interest"] .form-pair[hidden],[data-business-mode="interest"] .inquiry-delivery[hidden]{display:none!important}@media(max-width:760px){.interest-banner{display:block}.interest-banner strong,.interest-banner span,.interest-banner a{display:block}.interest-banner span{margin:5px 0}.interest-feedback{grid-template-columns:1fr;gap:12px}}
 
 .interest-icon{font-size:20px;line-height:1;margin-right:5px}
+
+/* Contact details and timing share the existing service-page typography. */
+.footer-contact{margin-top:20px;display:grid;gap:5px;font-size:13px;line-height:1.6}
+.footer-contact span{color:var(--muted);font-size:12px}
+.footer-contact a{width:fit-content;max-width:100%;overflow-wrap:anywhere;text-decoration:underline;text-underline-offset:3px}
+body.curated-shop .contact-address{font-size:clamp(17px,2.2vw,23px);font-weight:600;overflow-wrap:anywhere}
+.timing-list{margin:24px 0}
+.timing-list>div{display:grid;grid-template-columns:150px 1fr;gap:24px;border-top:1px solid var(--line);padding:18px 0}
+.timing-list dt{font-size:15px;font-weight:600}
+.timing-list dd{margin:0;font-size:14px;line-height:1.8}
+@media(max-width:760px){.timing-list>div{grid-template-columns:1fr;gap:8px}.footer-contact{font-size:12px}}

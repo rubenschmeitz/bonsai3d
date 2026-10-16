@@ -1,17 +1,50 @@
 (function () {
   'use strict';
   function section(id, title, paragraphs, api) {
-    return '<section id="' + id + '" class="service-section"><h2>' + title + '</h2>' + paragraphs.map(function (p) { return p.startsWith('<dl') ? p : '<p>' + p + '</p>'; }).join('') + '</section>';
+    return '<section id="' + id + '" class="service-section"><h2>' + title + '</h2>' + paragraphs.map(function (p) { return p.startsWith('<dl') || p.startsWith('<p') ? p : '<p>' + p + '</p>'; }).join('') + '</section>';
   }
   function preparation(api) {
     if (api.business.status === 'interest') return '<p class="business-status">'+api.tr('Interessepeiling · geen bestellingen of reserveringen.','Interest survey · no orders or reservations.')+'</p>';
     return '<p class="business-status">' + api.tr('Collectie in voorbereiding · aanvragen zijn vrijblijvend.', 'Collection in preparation · enquiries are non-binding.') + '</p>';
   }
+  function emailAction(api, className) {
+    var email = api.business.seller.email;
+    if (!email) return '';
+    var href = 'mailto:' + email + '?subject=' + encodeURIComponent(api.tr('Een vraag over BONSAI3D', 'A question about BONSAI3D'));
+    return '<a class="' + (className || 'button primary') + '" href="' + api.esc(href) + '">' + api.tr('Mail Ruben', 'Email Ruben') + ' ↗</a>';
+  }
+  function footerContact(api) {
+    var email = api.business.seller.email;
+    if (!email) return '';
+    return '<p class="footer-contact"><span>' + api.tr('Een vraag of een idee?', 'A question or an idea?') + '</span><a href="mailto:' + api.esc(email) + '">' + api.esc(email) + '</a></p>';
+  }
+  function contactSection(api) {
+    var tr = api.tr, email = api.business.seller.email;
+    return section('contact', tr('Mail me gerust.', 'Feel free to email me.'), [
+      tr('Heb je een vraag over een object, een eigen idee of wil je weten wat er mogelijk is? Stuur me een mail. Je hoeft nog niet precies te weten hoe het moet worden.', 'Have a question about an object, an idea of your own, or want to know what’s possible? Send me an email. You don’t need to have every detail worked out yet.'),
+      '<a class="contact-address" href="mailto:' + api.esc(email) + '">' + api.esc(email) + '</a>',
+      emailAction(api),
+      tr('Vertel welk object je bedoelt en, als je dat al weet, de gewenste maat en afwerking. Heb je iets bewaard bij Mijn interesse? Kopieer dat overzicht en plak het in je mail.', 'Tell me which object you have in mind and, if you know already, the size and finish you’d like. Saved something under My interests? Copy that overview and paste it into your email.')
+    ], api);
+  }
+  function timingSection(api) {
+    var tr = api.tr;
+    var rows = [
+      [tr('Al gemaakt', 'Already made'), tr('Bij een potje dat er al is, bevestig ik eerst of het nog beschikbaar is. Daarna spreken we af wanneer je het kunt ophalen of wanneer ik het verstuur.', 'For a pot that’s already made, I first confirm whether it’s still available. Then we agree when you can collect it or when I’ll send it.')],
+      [tr('Nieuw geprint', 'A new print'), tr('De maaktijd hangt af van de maat, de printduur en de afwerking. Houtlook vraagt extra handwerk en droogtijd. Ik bevestig de verwachte planning voordat ik begin.', 'Making time depends on the size, printing time and finish. Wood look needs extra hand finishing and drying time. I confirm the expected schedule before I start.')],
+      [tr('Een eigen ontwerp', 'Your own design'), tr('Voor maatwerk kijken we eerst samen naar het idee, de maten en wat haalbaar is. Het uitwerken van een ontwerp en een eventuele proefprint komen vóór het maken van de definitieve versie.', 'For custom work, we first look at the idea, dimensions and what’s feasible. Developing the design and any test print come before making the final version.')]
+    ];
+    return section('maaktijd', tr('Maak- en levertijd', 'Making and delivery time'), [
+      tr('Niet alles op de site is direct klaar om mee te nemen. Ik stem de planning graag met je af; een vaste termijn voor alle objecten kan ik nog niet noemen.', 'Not everything on the site is ready to take home straight away. I’m happy to discuss the schedule with you; I can’t give one fixed lead time for every object yet.'),
+      '<dl class="timing-list">' + rows.map(function (row) { return '<div><dt>' + row[0] + '</dt><dd>' + row[1] + '</dd></div>'; }).join('') + '</dl>',
+      tr('Maaktijd is de tijd die ik nodig heb om een object te maken en af te werken. Bij verzending komt de bezorgtijd daar nog bij. Ook verzenden of afhalen spreken we vooraf af. Heb je iets voor een bepaalde datum nodig? Zet die datum dan in je mail.', 'Making time is the time I need to produce and finish an object. If it’s shipped, delivery time comes after that. We also agree on shipping or collection beforehand. Need something by a particular date? Include that date in your email.')
+    ], api);
+  }
   function interestService(api) {
     var tr=api.tr;
-    var body=section('aanvragen',tr('Ik hoor graag wat je ervan vindt.','I’d like to hear what you think.'),[
+    var body=contactSection(api)+timingSection(api)+section('aanvragen',tr('Ik hoor graag wat je ervan vindt.','I’d like to hear what you think.'),[
       tr('Ik ben benieuwd welke ideeën je leuk vindt. Kijk rond en bewaar gerust wat voorbeelden, kleuren of maten bij Mijn interesse. Je kunt hier nog niets bestellen, reserveren of betalen.','I’m curious which ideas you like. Have a look around and save a few examples, colours or sizes under My interests. You can’t order, reserve or pay for anything here yet.'),
-      tr('Zet erbij wat je mooi vindt, wat je zou veranderen en welke prijs je in gedachten hebt. Daarna kun je het overzicht kopiëren of downloaden en zelf delen in je Marktplaatsgesprek. De site verstuurt niets en verzamelt je reactie niet.','Add what you like, what you’d change and the price you have in mind. Then copy or download the overview and share it yourself in your Marktplaats conversation. The site doesn’t send anything or collect your response.'),
+      tr('Zet erbij wat je mooi vindt, wat je zou veranderen en welke prijs je in gedachten hebt. Daarna kun je het overzicht kopiëren of downloaden en zelf per e-mail delen. De site verstuurt niets en verzamelt je reactie niet.','Add what you like, what you’d change and the price you have in mind. Then copy or download the overview and share it yourself by email. The site doesn’t send anything or collect your response.'),
       '<button class="button primary" type="button" data-open-inquiry>'+tr('Bekijk mijn interesse','View my interests')+' ↗</button>'
     ],api);
     body+=section('prijzen',tr('Wat zou het ongeveer kosten?','Roughly what would it cost?'),[
@@ -25,11 +58,7 @@
     body+=section('retour',tr('En als ik iets wil laten maken?','What if I’d like something made?'),[
       tr('Als je later via deze site kunt bestellen, moeten de verkopers- en contactgegevens, prijs, levering, betaling en retourafspraken eerst duidelijk zijn. Dan komt er ook een bestelbevestiging. Zover is het nu nog niet: je kunt hier niets kopen of een retour aanmelden.','Before ordering through this site becomes possible, seller and contact details, prices, delivery, payment and returns need to be clear. There will be an order confirmation too. We’re not there yet: you can’t buy anything or arrange a return here.')
     ],api);
-    body+=section('contact',tr('Stuur me je reactie via Marktplaats.','Send me your thoughts through Marktplaats.'),[
-      tr('Kwam je hier via Marktplaats? Stuur je reactie dan in dat gesprek. Er staat nog geen openbaar e-mailadres of rechtstreekse advertentielink op de site. Kopiëren of downloaden verstuurt niets; dat doe je zelf.','Did you come here from Marktplaats? Send your thoughts in that conversation. There’s no public email address or direct listing link on the site yet. Copying or downloading doesn’t send anything; you do that yourself.'),
-      api.link('privacy',tr('Over je gegevens en lokale opslag','About your data and local storage')+' ↗','text-link')
-    ],api);
-    return '<div class="service-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / '+tr('INTERESSEPEILING','INTEREST SURVEY')+'</p><h1 class="page-title">'+tr('Wat spreekt jou aan?','What appeals to you?')+'</h1><p>'+tr('Wat vind je leuk, wat zou je anders doen en wat zou je ervoor overhebben?','What do you like, what would you change and what would you pay for it?')+'</p>'+preparation(api)+'</header><div class="service-body">'+body+'</div></div>';
+    return '<div class="service-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / '+tr('CONTACT & MAAKTIJD','CONTACT & MAKING TIME')+'</p><h1 class="page-title">'+tr('Een vraag of een idee?','A question or an idea?')+'</h1><p>'+tr('Hier vind je mijn mailadres en lees je hoe het zit met maken, afwerken en bezorgen.','Here’s my email address and how making, finishing and delivery work.')+'</p>'+preparation(api)+'</header><div class="service-body">'+body+'</div></div>';
   }
   function service(api) {
     if (api.business.status === 'interest') return interestService(api);
@@ -77,7 +106,7 @@
       details.length ? '<dl class="seller-details">' + details.map(function (row) { return '<div><dt>' + tr(row[1], row[2]) + '</dt><dd>' + esc(seller[row[0]]) + '</dd></div>'; }).join('') + '</dl>' : tr('De definitieve verkoper, rechtsvorm, registratie- en contactgegevens worden vóór de verkoopstart toegevoegd.', 'The final seller, legal structure, registration and contact details will be added before sales start.'),
       '<button class="button primary" type="button" data-open-inquiry>' + tr('Bewaar mijn interesseconcept', 'Save my interest draft') + ' ↗</button>'
     ], api);
-    return '<div class="service-page wrap">' + intro + '<div class="service-layout">' + nav + '<div class="service-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 14 oktober 2026. Voorbereidingsinformatie; de definitieve verkoopafspraken worden vóór een aankoop verstrekt.', 'Updated: 14 October 2026. Preparation information; final sales agreements are provided before a purchase.') + '</p></div></div></div>';
+    return '<div class="service-page wrap">' + intro + '<div class="service-layout">' + nav + '<div class="service-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 16 oktober 2026. Voorbereidingsinformatie; de definitieve verkoopafspraken worden vóór een aankoop verstrekt.', 'Updated: 16 October 2026. Preparation information; final sales agreements are provided before a purchase.') + '</p></div></div></div>';
   }
   function privacy(api) {
     var tr = api.tr;
@@ -91,24 +120,27 @@
       tr('BONSAI3D gebruikt op deze website geen eigen advertentietrackers of analyticsdiensten. Lettertypen en productbeelden worden met de website geladen. Functionele voorkeuren gebruiken lokale browseropslag.', 'BONSAI3D uses no advertising trackers or analytics services on this website. Fonts and product images load with the website. Functional preferences use local browser storage.'),
       tr('De website wordt gehost via GitHub Pages. Bij het laden ontvangt GitHub technische gegevens, zoals je IP-adres en informatie over het verzoek en je browser. Daarvoor geldt de ', 'The website is hosted through GitHub Pages. When it loads, GitHub receives technical information, such as your IP address and information about the request and your browser. See the ') + '<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">' + tr('privacyverklaring van GitHub', 'GitHub privacy statement') + ' ↗</a>.'
     ], api);
-    body += section('later-contact', tr('Wanneer je later contact opneemt.', 'When you contact us in future.'), [
-      tr('Het openbare contactkanaal en de definitieve verkoper zijn nog niet vastgesteld. Vóór de verkoopstart vullen we deze informatie aan met wie verantwoordelijk is, welke gegevens nodig zijn voor offertes en bestellingen, de grondslagen, ontvangers en bewaartermijnen.', 'The public contact channel and final seller have not yet been established. Before sales start, this information will be completed with the responsible party, the data needed for quotes and orders, legal bases, recipients and retention periods.'),
-      tr('Ook wordt dan uitgelegd hoe je inzage, correctie of verwijdering kunt vragen en hoe je andere privacyrechten kunt uitoefenen. Je kunt over persoonsgegevens een klacht indienen bij de ', 'It will also explain how to request access, correction or erasure and exercise other privacy rights. You may lodge a personal-data complaint with the ') + '<a href="https://autoriteitpersoonsgegevens.nl/" target="_blank" rel="noopener">' + tr('Autoriteit Persoonsgegevens', 'Dutch Data Protection Authority') + ' ↗</a>.',
-      api.link('service', tr('Lees over aanvragen en contact', 'Read about enquiries and contact') + ' ↗', 'text-link')
+    body += section('mail-contact', tr('Als je me mailt.', 'When you email me.'), [
+      tr('De mailknoppen openen je eigen mailprogramma. Je kiest daar zelf wat je meestuurt en wanneer je het bericht verzendt. Pas dan ontvang ik je e-mailadres en je bericht.', 'The email buttons open your own email app. You choose what to include and when to send it. Only then do I receive your email address and your message.'),
+      tr('Gebruik de mail voor je vraag of idee en stuur alleen de gegevens mee die daarvoor nodig zijn. Je kunt me op hetzelfde adres ook vragen stellen over je gegevens.', 'Use the email for your question or idea and include only the details needed for it. You can also use the same address to ask me about your data.'),
+      footerContact(api),
+      api.link('service', tr('Contact en maaktijd', 'Contact and making time') + ' ↗', 'text-link')
     ], api);
-    return '<div class="service-page privacy-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / PRIVACY</p><h1 class="page-title">' + tr('Jouw gegevens.<br>Jouw keuze.', 'Your data.<br>Your choice.') + '</h1><p>' + tr('Dit is hoe de huidige website met je selectie, voorkeuren en interesseconcept omgaat.', 'Here is how the current website handles your selection, preferences and interest draft.') + '</p></header><div class="privacy-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 14 oktober 2026.', 'Updated: 14 October 2026.') + '</p></div></div>';
+    return '<div class="service-page privacy-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / PRIVACY</p><h1 class="page-title">' + tr('Jouw gegevens.<br>Jouw keuze.', 'Your data.<br>Your choice.') + '</h1><p>' + tr('Dit is hoe de huidige website met je selectie, voorkeuren en interesseconcept omgaat.', 'Here is how the current website handles your selection, preferences and interest draft.') + '</p></header><div class="privacy-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 16 oktober 2026.', 'Updated: 16 October 2026.') + '</p></div></div>';
   }
   window.BonsaiBusiness = {
     service: service,
     privacy: privacy,
     preparation: preparation,
+    emailAction: emailAction,
+    footerContact: footerContact,
     enquiryNotice: function (api) {
-      if(api.business.status==='interest')return '<div class="enquiry-agreement"><strong>'+api.tr('Alleen belangstelling peilen','Exploring interest only')+'</strong><p>'+api.tr('Dit is geen bestelling of reservering. Je voorkeuren en feedback blijven op je apparaat. Kopieer ze zelf naar een Marktplaatsgesprek; wij ontvangen ze niet via deze website.','This is not an order or reservation. Your preferences and feedback stay on your device. Copy them yourself into a Marktplaats conversation; we do not receive them through this website.')+'</p>'+api.link('service',api.tr('Over deze peiling','About this survey')+' ↗','text-link')+' '+api.link('privacy','Privacy ↗','text-link')+'</div>';
+      if(api.business.status==='interest')return '<div class="enquiry-agreement"><strong>'+api.tr('Alleen belangstelling peilen','Exploring interest only')+'</strong><p>'+api.tr('Dit is geen bestelling of reservering. Je voorkeuren en feedback blijven op je apparaat. Kopieer je overzicht en plak het in een mail aan Ruben. De mailknop opent je eigen mailprogramma; je verstuurt het bericht daar zelf.','This is not an order or reservation. Your preferences and feedback stay on your device. Copy your overview and paste it into an email to Ruben. The email button opens your own email app; you send the message there yourself.')+'</p>'+api.link('service',api.tr('Over deze peiling','About this survey')+' ↗','text-link')+' '+api.link('privacy','Privacy ↗','text-link')+'</div>';
       return '<div class="enquiry-agreement"><strong>' + api.tr('Vrijblijvend interesseconcept', 'Non-binding interest draft') + '</strong><p>' + api.tr('Dit is geen bestelling. Het contactkanaal is nog in voorbereiding. Voor een aankoop worden uitvoering, definitieve totaalprijs, levering, betaling en retourinformatie eerst bevestigd.', 'This is not an order. The contact channel is still being prepared. Before a purchase, the final piece, total price, delivery, payment and returns information are confirmed.') + '</p>' + api.link('service', api.tr('Aanvragen, levering en retouren', 'Enquiries, delivery and returns') + ' ↗', 'text-link') + api.link('privacy', api.tr('Hoe je gegevens worden gebruikt', 'How your data is used') + ' ↗', 'text-link') + '</div>';
     },
     requestText: function (api, delivery) {
       var tr = api.tr;
-      if(api.business.status==='interest')return '\n\n'+tr('Dit is alleen feedback voor een interessepeiling, geen bestelling of reservering. Niet verstuurd. Deel dit zelf in je Marktplaatsgesprek.','This is only feedback for an interest survey, not an order or reservation. Not sent. Share it yourself in your Marktplaats conversation.');
+      if(api.business.status==='interest')return '\n\n'+tr('Dit is alleen feedback voor een interessepeiling, geen bestelling of reservering. Niet verstuurd. Je kunt dit zelf per e-mail delen.','This is only feedback for an interest survey, not an order or reservation. Not sent. You can share this yourself by email.');
       var choice = {discuss: tr('Nog bespreken', 'To be discussed'), shipping: tr('Verzending bespreken', 'Discuss delivery'), collection: tr('Afhalen bespreken', 'Discuss collection')};
       return '\n\n' + tr('Leveringsvoorkeur: ', 'Delivery preference: ') + (choice[delivery] || choice.discuss) + '\n\n' + tr('Vóór een aankoop te bevestigen: uitvoering en maakbaarheid; definitieve consumentenprijs met toepasselijke belastingen en verzendkosten; beschikbare voorraad of maaktermijn; betaling; verkopersgegevens; bedenktijd en eventuele specifieke maatwerkuitzondering.', 'To confirm before a purchase: final piece and manufacturability; final consumer price with applicable taxes and shipping; available stock or production lead time; payment; seller details; withdrawal rights and any specific custom-work exception.') + '\n\n' + tr('Dit concept is niet verstuurd en is geen bestelling. Het openbare contactkanaal van BONSAI3D is nog in voorbereiding. Bewaar het concept totdat je het zelf wilt delen.', 'This draft has not been sent and is not an order. BONSAI3D’s public contact channel is still being prepared. Save the draft until you wish to share it yourself.');
     },
