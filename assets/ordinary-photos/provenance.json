@@ -1,0 +1,712 @@
+{
+  "created": "2026-10-16",
+  "generator": "Built-in image_gen.imagegen",
+  "purpose": "Generated design previews; no physical inventory or printing evidence",
+  "sourceRevision": "2b4728d",
+  "images": [
+    {
+      "source": "miniature-drybrush/bonsai-mini-garden-cart-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-garden-cart-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "3e462356d880b8f5a38c581a1194779e09e156548caa7d9314e1d750e231062b",
+      "webpSha256": "ef788a379df3d31e5cdda9470d0f62e4a64a3159c70e995c88b3905a69861bbd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-root-relief-table-wood-v1.webp",
+      "target": "ordinary-photos/bonsai-root-relief-table-wood-v1-context-natural-v1.webp",
+      "rawSha256": "68084a7d3a585c5bb6aa29d2d7e0d6e0b4dcb736574321c0f5b29f53fa24dd31",
+      "webpSha256": "fec58dc9d236291fdda2145530fbc615d4c6663854e759e2a478a929a5b5b91e",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/pot-rootflow-black-v1.webp",
+      "target": "ordinary-photos/pot-rootflow-black-v1-context-natural-v1.webp",
+      "rawSha256": "0904054665ebadb1e44863f0dbcc98e753f986c12b179b3619acc9aafb9136c8",
+      "webpSha256": "0643878ad0ffd0b17a9bb00dfc2db59d4b526dda6b32e9fb4c1b76fe65d68a94",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-walker-dog-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-walker-dog-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "4ad9163a059b1cbf9aa41f320dd843433d9a1dc1984f7afb0d87c3030a20b7d1",
+      "webpSha256": "677ce1cf2bf7b37de82a868f7646c41c95ed68d8de5eb61d2105bd648ac695d6",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-garden-bench-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-garden-bench-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "75c3d0d66bad24055a50e993a691683413d700a19b525818a6bbb97b561305f2",
+      "webpSha256": "a07f219b80d8f5b1c92f584b34adef3371acbd16ca501ab78e8bf90e7316b3e5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-hedgehog-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-hedgehog-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "e2548b33e85f189c68bb23974c9d3a7b4a86e094d42ac59a8644d08d31924551",
+      "webpSha256": "b8ac64f4ced798230835a1c811ee23925213604deed486392c3d972c6f1a5529",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-root-relief-table-wood-v1.webp",
+      "target": "ordinary-photos/bonsai-root-relief-table-wood-v1-natural-v1.webp",
+      "rawSha256": "a0ff1122d82cfaa528f5b0de7ce56857b4745a79fab0d6c4d0922591ec3d4bdd",
+      "webpSha256": "89f0b0edb4b6fd655118ba139e51ac89de05a5672ad9826eecf77b30f6a92c84",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-root-relief-table-black-v1.webp",
+      "target": "ordinary-photos/bonsai-root-relief-table-black-v1-natural-v1.webp",
+      "rawSha256": "0949b647d39fad2a6f09ed14e8c7d3b8622d3e0e1372767c7a8c92924ada8e01",
+      "webpSha256": "7655c83d962912b76b6afee916eedfd4bfc37190085bf1d194f75ce31b931092",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/pot-rootflow-black-v1.webp",
+      "target": "ordinary-photos/pot-rootflow-black-v1-natural-v1.webp",
+      "rawSha256": "6eb6999bb1ffc3ecd4e3f8241ad400b5d85f6960e898870c660c678f23e68766",
+      "webpSha256": "1476a1379f620fe84e09bf43dea921caebf1b05f3694fa4a7e2e92b993431e73",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-robin-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-robin-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "e5ff907d66a52f53519817ed158363cc8a379e842d13899efc86aba1736116d3",
+      "webpSha256": "2bcb3ce6802b8816a6b1ec3d9b8eecb9a39d433a03bda0db8224725a362669bc",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-hare-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-hare-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "89e3830f156769dd69209a58348560860efba5d63a820054530930ece675f439",
+      "webpSha256": "2d0e39cf70f1866eab04b6209bac27c4f4f55cfa6e40bb194186b15ed2cfbecd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-watergiver-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-watergiver-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "d5e316fbb8fe7f344c6fddc830f1d33b8abfe7f950ba88da02dd2f85909fbf4a",
+      "webpSha256": "e4a6a8ab608b47b895a8d384918735a3b706bdb098478a3ab0eaa9d91d60561e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-branch-pruner-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-branch-pruner-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "5bce7c2ee2da2d2cb466f8162008969bb30934be9468877633ea033b7f977a80",
+      "webpSha256": "2d709be3c9c65727fc9f5aedc33381a8e390f3f7f11454918a2a520d6b843457",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-root-squirrel-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-root-squirrel-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "0dfe12eb7d55826ca86df8cf1efb5a1d9440208fd848927e73605e1d06c08681",
+      "webpSha256": "3d856e45635a837ca7e5f2aec6d66791db465177ff2bbabe6a71a309418dd871",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-root-fox-isolated-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-root-fox-isolated-grey-drybrush-v1-natural-v1.webp",
+      "rawSha256": "b392b558f3cc17cdb9015a8abf314a8d1819b0ac391b22baefd5dcddb6a70e6b",
+      "webpSha256": "6c2fa98404acf0fd2ab70b2c9bf2dbf9bc543e277e7d06ce6b0604ec24db3487",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "miniature-drybrush/bonsai-mini-bonsai-master-isolated-bonsai-drybrush-v2.webp",
+      "target": "ordinary-photos/bonsai-mini-bonsai-master-isolated-bonsai-drybrush-v2-natural-v1.webp",
+      "rawSha256": "14011006f6ca4c2303dfe6b957d56d084688a06042e1b5cc1aabc1fbffb37dff",
+      "webpSha256": "3d8c85ff2129ee80183a23ac5e18cfcee14d71ed83ea34c28c294187ac4cfed2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-classic-table-black-v1.webp",
+      "target": "ordinary-photos/bonsai-classic-table-black-v1-natural-v1.webp",
+      "rawSha256": "91ce9f3162af9f8ae313758112815847811b055c11e6d01d662a92509c97a792",
+      "webpSha256": "dace6cecdc6d65337a604c5d4e940c1970975bf7e10638334c02a4c0d7f7f07b",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-flow-edge-table-wood-v1.webp",
+      "target": "ordinary-photos/bonsai-flow-edge-table-wood-v1-natural-v1.webp",
+      "rawSha256": "be8c55139d651f9b0eabf003974cbc0b42d963b2f35f805a35f226cf6dc9e7f5",
+      "webpSha256": "043f319d958e026ac16d109041d2dc709d0550ef2d83a5b308d55e897bbf8ceb",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-flow-edge-table-black-v1.webp",
+      "target": "ordinary-photos/bonsai-flow-edge-table-black-v1-natural-v1.webp",
+      "rawSha256": "c56b94917adf3b75beaab9ad255d5d03fc011f240a92184de3513d5179c1990f",
+      "webpSha256": "0e1fc8b73ca661915da74e7e2005de6cac65694d3aa600a8d6d0008122db399c",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-branchwork-table-wood-v1.webp",
+      "target": "ordinary-photos/bonsai-branchwork-table-wood-v1-natural-v1.webp",
+      "rawSha256": "31c99e4c0f9331422297d22d081fa4640bb8db69c31f01fbd13698df1e5d4957",
+      "webpSha256": "3b4fd02d54b347ffd22380d7f442ab94b0890084c5746f37ec28bf7bd9ccf3e9",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-branchwork-table-black-v1.webp",
+      "target": "ordinary-photos/bonsai-branchwork-table-black-v1-natural-v1.webp",
+      "rawSha256": "a9bf77a72131c3809ca1b0d1c39fd3e376da7d66a26f85a223f40eeaa9e9ccc5",
+      "webpSha256": "64ab792cac019c83eabe1e0cab58fdc4b5437000856b31d807500ec7466776c7",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-root-pedestal-black-v1.webp",
+      "target": "ordinary-photos/bonsai-root-pedestal-black-v1-natural-v1.webp",
+      "rawSha256": "707b582b38ab915d504e740a5b64007f468ce0d34ec332e2f17d89d88ee5c015",
+      "webpSha256": "76d9c1b1e810a4d0410d86579a3120a04317d457c6336c8d66ee8b267663da76",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/bonsai-open-root-pedestal-black-v1.webp",
+      "target": "ordinary-photos/bonsai-open-root-pedestal-black-v1-natural-v1.webp",
+      "rawSha256": "cf9f6e8e25431cb49f38dd2b4963c1ff1424e67c36cf29e317139135f2290ba1",
+      "webpSha256": "000811445651b081959ac7a441f4b7fdfbddc70cb6936f4eece898a85beccb1e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "atelier/bonsai-oval-jita-wood-v1.webp",
+      "target": "ordinary-photos/bonsai-oval-jita-wood-v1-natural-v1.webp",
+      "rawSha256": "91c9653f3b040cd0417fd1325da366b1ad1625c73435ceda095b0ac8ef915fa5",
+      "webpSha256": "2b5b44a020cc5db9a14d92224e5f7eb04e4b72393e62bfe8b124af1170b9eea9",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "atelier/bonsai-oval-jita-black-v1.webp",
+      "target": "ordinary-photos/bonsai-oval-jita-black-v1-natural-v1.webp",
+      "rawSha256": "235732539b14b491279d1f2eb2715281308b93796f4f2e8790d5969e63861d3a",
+      "webpSha256": "aced61b626c0d1c54a5535cfd6b3161fb1fea09ab6ad02ad35a1cc5af47c1d61",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "atelier/signature-contour-jita-wood-v1.webp",
+      "target": "ordinary-photos/signature-contour-jita-wood-v1-natural-v1.webp",
+      "rawSha256": "86a5871cea87f04c848d58a0f91a0f14f3a547c83441140ac364ccc5dbeb6a3c",
+      "webpSha256": "9ca4ed7661ed9345aeba25d8e2cb01b28f08ca7e021c234b740d2a3b84b0203c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "atelier/signature-contour-jita-black-v1.webp",
+      "target": "ordinary-photos/signature-contour-jita-black-v1-natural-v1.webp",
+      "rawSha256": "47f67a06c21bb9e25ee88bafd7726f750305576e3178aab15e84845150756521",
+      "webpSha256": "5174ee4db5956f849702fd0e9cc519dd7df32e679ff59556c03f5f5fae1bfdef",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "atelier/signature-jin-table-wood-v1.webp",
+      "target": "ordinary-photos/signature-jin-table-wood-v1-natural-v1.webp",
+      "rawSha256": "b62c02fbbbb218c54fbb36740bc36bb28f3068253ecb818edb274ef075f52061",
+      "webpSha256": "2cf786461acdbe549a49b6b2e8883a44425d84dcda94a0aa387be437a5d1accb",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/signature-jin-table-black-v1.webp",
+      "target": "ordinary-photos/signature-jin-table-black-v1-natural-v1.webp",
+      "rawSha256": "521e2d4e30413cee22f75436e5fb2cd101c35b4b251b399a5866f4ad9fbdcf79",
+      "webpSha256": "5352e55b14330eb3e7d926b58572b368ff07bd5fe9c067108319646398c6dc8b",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/signature-shoji-table-wood-v1.webp",
+      "target": "ordinary-photos/signature-shoji-table-wood-v1-natural-v1.webp",
+      "rawSha256": "82c1b5a879314e4540892dedb775314f78af0487d8ccbcb1a78106b08e0c8c67",
+      "webpSha256": "43d47f8e290547041d7e14dc069f7e7ff654e785a1861a58abc5ca7db99dd2d5",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/signature-shoji-table-black-v1.webp",
+      "target": "ordinary-photos/signature-shoji-table-black-v1-natural-v1.webp",
+      "rawSha256": "5a31746b1a84ed84da44fb828b7c644226cef4194d756a605a764d17676c305b",
+      "webpSha256": "d9c67f842b83b14049aae448307751b68cea0b138fe023b7fc39e5d88e45a92a",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/pot-rootflow-grey-v1.webp",
+      "target": "ordinary-photos/pot-rootflow-grey-v1-natural-v1.webp",
+      "rawSha256": "b3b7b1a6de33e958536d4d06020fb64ae9db81f139139009fbe2031512a92c14",
+      "webpSha256": "371b2a36928af3a6d3093908c9c8500c51ff0950b657a6d72fbf1ac1b2e2734f",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/pot-strata-black-v1.webp",
+      "target": "ordinary-photos/pot-strata-black-v1-natural-v1.webp",
+      "rawSha256": "f9d40344808b3d76d9b72e077ef3386a58d3ccadb8fd988a30876c2d3c40976c",
+      "webpSha256": "cdc804036223844e77d73b07676beaed67d95230ed7fe7512720792979e852f7",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/pot-strata-grey-v1.webp",
+      "target": "ordinary-photos/pot-strata-grey-v1-natural-v1.webp",
+      "rawSha256": "5f55b1af99acea57171addb9c5da9997c0ad5986558f794aedb11e9a23f2907b",
+      "webpSha256": "957d3c7d3d7d16fae06868cb4bdaeeb57f5f60c2cde7567be2de7836e270f977",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/pot-cascade-black-v1.webp",
+      "target": "ordinary-photos/pot-cascade-black-v1-natural-v1.webp",
+      "rawSha256": "4a478a04145c57ab445bcd79d6cd3f4f808ddced4b2d7ae4b389e9ba07fce83d",
+      "webpSha256": "1f2b52fe6eae1894eac1e4871abad48e297a650a19b80bf47acf40da2018bafe",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/pot-cascade-grey-v1.webp",
+      "target": "ordinary-photos/pot-cascade-grey-v1-natural-v1.webp",
+      "rawSha256": "93a78bf773adf0f6e451f39946b930927d9953536b547eca6f769b2c2e194176",
+      "webpSha256": "f14887304f6fdb163d9b7a86cb4e509873f6e8b3aebe3d1925e8909f1676c1d5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-moss-black-v1.webp",
+      "target": "ordinary-photos/accent-moss-black-v1-natural-v1.webp",
+      "rawSha256": "1cab8f5d961967c870aed73d575022e71fbd3f0e32c51ae935c1e191cc0ea014",
+      "webpSha256": "ebfb288792911ecd5bb1d8f4451f6fa75e160ca10156de9be7cbe86cc3d514c3",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-moss-wood-v1.webp",
+      "target": "ordinary-photos/accent-moss-wood-v1-natural-v1.webp",
+      "rawSha256": "c979cd9108eb4aa70d80d3bbf36f5f2de2f152bcac920a08a72f157c58cda583",
+      "webpSha256": "6e8a7b57014f8f02f09b68e23ac9c94e2b59fa54dfb567738af9d6db4de43f11",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-ripple-black-v1.webp",
+      "target": "ordinary-photos/accent-ripple-black-v1-natural-v1.webp",
+      "rawSha256": "ab8e0370d229398981cd6462dc60244485a82f8f644372164192701099c0859c",
+      "webpSha256": "7195471ac94b51449b5b6664e4e11a521582eb71b7fc5d39d4b3be6c8266a0a5",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-ripple-wood-v1.webp",
+      "target": "ordinary-photos/accent-ripple-wood-v1-natural-v1.webp",
+      "rawSha256": "c34d936d153508f6a785b683b6add87c93e5d20cb79a36b288b7fb0863571f2f",
+      "webpSha256": "69d467826632c2d54482d2c4832617a963125cba65827bacffd2b743d5fa6e18",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-root-nest-black-v1.webp",
+      "target": "ordinary-photos/accent-root-nest-black-v1-natural-v1.webp",
+      "rawSha256": "2cf5cc4f283a9b53513e81509a7033317493957b8220a5bd54a7a344e98bd79c",
+      "webpSha256": "0b186ddd11df88493c33ee49c36074d40d83e836a9e205432d96a0311b919062",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-root-nest-wood-v1.webp",
+      "target": "ordinary-photos/accent-root-nest-wood-v1-natural-v1.webp",
+      "rawSha256": "050f556a1059d97bc9928fd35f0221161098ff3e9f57c3ace49d1d1c45abeb65",
+      "webpSha256": "dbae3cc5f97a9dc19e9c438b3a8e5f4a7404040a0f52a56243fe097cd5d09c88",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-seedpod-black-v1.webp",
+      "target": "ordinary-photos/accent-seedpod-black-v1-natural-v1.webp",
+      "rawSha256": "d910fa7b95f6d1e08f9c7a8e10b1c4956345a0580634f066fad08796fd2a9cae",
+      "webpSha256": "c857a3e4616bb91a7f44bcc132317b11f205e469efbc81d0f288007aa2db28a5",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-seedpod-wood-v1.webp",
+      "target": "ordinary-photos/accent-seedpod-wood-v1-natural-v1.webp",
+      "rawSha256": "5a3cc22ea93dc8906c4cce0372073a676bd08e1a6c045a1de8c2c0ba4a2ca528",
+      "webpSha256": "c39e89a101a6e7aee94ac5429b97c93fe8366f542a0286fafa3f5f7fa817ce79",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-rockfold-black-v1.webp",
+      "target": "ordinary-photos/accent-rockfold-black-v1-natural-v1.webp",
+      "rawSha256": "fdb50f98b109338017645ac009d4d134d82d2b6d86eac468891513d30f1feecb",
+      "webpSha256": "bde96669bd99d262ac9c5999dfb0582671ddc1defec0f3fb243180a83c9b9e7d",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/accent-rockfold-wood-v1.webp",
+      "target": "ordinary-photos/accent-rockfold-wood-v1-natural-v1.webp",
+      "rawSha256": "87cbb2ff882b0b43a066e08e8c09ad2760347ab128a78d9050856fe261ea0ff7",
+      "webpSha256": "b6b92dcd153fba480d5ee96b4a31839b091e7e013aa7ccdff40dc65ecc2129c3",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "atelier/stone-ridge-black-v1.webp",
+      "target": "ordinary-photos/stone-ridge-black-v1-natural-v1.webp",
+      "rawSha256": "2fc374ab039cbf333a204abbade7f92d0374ad43b7e502745cca8118d61e152f",
+      "webpSha256": "2c11bc474a2054521f8685e1d19582df3267d9594da0ad5e18f5336f5574bf7f",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "atelier/stone-river-black-v1.webp",
+      "target": "ordinary-photos/stone-river-black-v1-natural-v1.webp",
+      "rawSha256": "3243fa04b15c5e5c2867a73efb6394b698a508a9b37113a274e1b8edb70d8f45",
+      "webpSha256": "0f06401e9460572dfb950481b068670ff5304e3862ae76411b39cdefce7f413c",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/label-branch-black-v1.webp",
+      "target": "ordinary-photos/label-branch-black-v1-natural-v1.webp",
+      "rawSha256": "8d59bd540ceeb1afb758e419bb56a15f6ce4a27b1224000142c55e55b18eac12",
+      "webpSha256": "e33c274b2f8e017456701b1e71a87584470d0ad842734f7ff9da6bb82f4d820a",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/label-branch-wood-v1.webp",
+      "target": "ordinary-photos/label-branch-wood-v1-natural-v1.webp",
+      "rawSha256": "acf55c13ea4592b72c666c773803abea78440a25cbd556e001f7ca7459087306",
+      "webpSha256": "db20c7f987e3d850672a3330cce7c218f52f2f749adaa0f01287e8977561dd10",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/scroll-moon-black-v1.webp",
+      "target": "ordinary-photos/scroll-moon-black-v1-natural-v1.webp",
+      "rawSha256": "c781a3c8f10d127fa2ce114730be05604dda56a945873ec118c1a9abd4ba700a",
+      "webpSha256": "86d9af1d08f725b9d8d2f66d99e0949f00ae2edd68f1f7dd942da9cfe94e5e23",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/scroll-moon-wood-v1.webp",
+      "target": "ordinary-photos/scroll-moon-wood-v1-natural-v1.webp",
+      "rawSha256": "09f559f627bd142192aea1b5d595c3fff2dbe7069455dd68e9e8f9f8227ddb93",
+      "webpSha256": "5eb2fa040fffe5a80a4ae83eacc45c3bcc9d9e22b6134c7fdb770d9899f09a88",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-bridge-black-v1.webp",
+      "target": "ordinary-photos/detail-bridge-black-v1-natural-v1.webp",
+      "rawSha256": "951fa7d091b601695e11156c6750be678189f6bc560a3018a6ec21219d1bfd29",
+      "webpSha256": "e09265123ea5960d5f818bc47c393712b578feeb1b77eeb2a63528358643a94e",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-bridge-wood-v1.webp",
+      "target": "ordinary-photos/detail-bridge-wood-v1-natural-v1.webp",
+      "rawSha256": "40031c133c612be21863730ae24b29507b523f2e8326e8df7398b2f4530da975",
+      "webpSha256": "496dab693f9ce05902d297886f8c7b36dd7e5e0a38bdfab6a929c765d6c3945a",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-bamboo-screen-black-v1.webp",
+      "target": "ordinary-photos/detail-bamboo-screen-black-v1-natural-v1.webp",
+      "rawSha256": "005ab6de047fe2ef12ead1709af8b7fd8d1e00b9938fc0ba308e4501c024d4ff",
+      "webpSha256": "84ca011efc3427f3e4bd5b76fbcb7a81b01ac82fd1b983e04c45d4c34fe9a4c3",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-bamboo-screen-wood-v1.webp",
+      "target": "ordinary-photos/detail-bamboo-screen-wood-v1-natural-v1.webp",
+      "rawSha256": "f2e72a7114306c6ab8c8975b01e562c7e671ae9f317d1989ac62171fea67b1f4",
+      "webpSha256": "0fe14dfed0b26e411641bbcacda152b0f7828d624d423c0b7142dbb3ca02ba2a",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-scroll-stand-black-v1.webp",
+      "target": "ordinary-photos/detail-scroll-stand-black-v1-natural-v1.webp",
+      "rawSha256": "fcfe375088f6bb9847d4958681d463c8b95e54025dd131132b6114315320b889",
+      "webpSha256": "c3884ef06bc8b7076cfc9ad82ae5df7fd39028e9e7d326dd73a689fb82864542",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-scroll-stand-wood-v1.webp",
+      "target": "ordinary-photos/detail-scroll-stand-wood-v1-natural-v1.webp",
+      "rawSha256": "31262259a8bd7e283c0ba417baa92932abb173c205d835f89cbf3003f1b34c97",
+      "webpSha256": "4fb40d51b06281bb61343eaa8df73553c676f5acb71cd2d899459c7f13b8f3f5",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-leaf-window-wood-v1.webp",
+      "target": "ordinary-photos/detail-leaf-window-wood-v1-natural-v1.webp",
+      "rawSha256": "4361ea9b6b92f5cd26d06fd85a10e4d0d1837f7454f3c41866e00b43419b9471",
+      "webpSha256": "c8e340b70e3991bfcdf992c951d317a78bede9db3f546eedd22beeea3aac32c5",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-leaf-window-black-v1.webp",
+      "target": "ordinary-photos/detail-leaf-window-black-v1-natural-v1.webp",
+      "rawSha256": "2f00c9aa11ae9a7003f08e28f8067281bcf4376379f82c7239ea45195857f7ec",
+      "webpSha256": "33c5ec9c62646ed52012da5f32d9dfe53cb78371a8b24409ff73b808d77b9c27",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-contour-platforms-wood-v1.webp",
+      "target": "ordinary-photos/detail-contour-platforms-wood-v1-natural-v1.webp",
+      "rawSha256": "ccaf11e7a7989374f81cae4df948ea1aa150d7358317a66d02a85c20f84494d5",
+      "webpSha256": "9ec3f6297b5b7ff3b601323169632ad89636719322f2861ed8ba39d76cb34528",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-contour-platforms-black-v1.webp",
+      "target": "ordinary-photos/detail-contour-platforms-black-v1-natural-v1.webp",
+      "rawSha256": "8a3f4844ecda081f05e267b1b1bde0e4b05b8dbf7caa1dbb927f7eb21e1023b1",
+      "webpSha256": "d186b06be4b3020eec812cf443f1edbc344b3336db6fe88cd127e6f06fabcb7d",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-season-fan-wood-v1.webp",
+      "target": "ordinary-photos/detail-season-fan-wood-v1-natural-v1.webp",
+      "rawSha256": "6513857540b0c9b26361e08c5dfb14e826163f2dab05ce48a3e77c197de985e1",
+      "webpSha256": "b86f6ce33a18c2ccfe0d5369ebb5c97041ca70e3667f380052b6ff3b9bdcf9d7",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    },
+    {
+      "source": "tree-proportions/detail-season-fan-black-v1.webp",
+      "target": "ordinary-photos/detail-season-fan-black-v1-natural-v1.webp",
+      "rawSha256": "9f22b9a1703f60922065fafcbbecc77d58062cb9e9ef693cae4c60985d50c6c3",
+      "webpSha256": "30d14c5467d555470e241bf2744d3ac79948d10eeb2a7c99196a7f51a700c919",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "generated": true
+    }
+  ]
+}
