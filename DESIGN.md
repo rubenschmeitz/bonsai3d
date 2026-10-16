@@ -1,3 +1,15 @@
+# Writing voice — 16 October 2026
+
+Write as Ruben explaining his own work: direct, friendly and specific. Use short,
+ordinary sentences. Describe what an object looks like and how it could be made.
+Avoid grand slogans, decorative metaphors and repeated words such as 'rustig
+accent', 'eigen lijnenspel' or 'karakter'. Use first person for making and finishing
+work. Keep the same relaxed voice in English. Keep factual status, guide prices,
+dimensions, inclusions and the interest-only process clear. Do not add image
+captions, image notes, invented print results or new sales promises.
+
+Earlier design notes follow.
+
 # Product images without captions — 16 October 2026
 
 The user explicitly requests no text underneath product images, including
