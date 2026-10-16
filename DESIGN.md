@@ -1,3 +1,14 @@
+# Quiet page copy — 16 October 2026
+
+Explain the interest-only state once, briefly, on the service page. Do not repeat
+it in banners, footers, product cards, product dialogs or the saved-selection
+form. Keep selection, pricing and local export controls working without turning
+them into orders or submissions. Avoid repeated self-introductions such as
+'Ik ben Ruben' or 'I’m Ruben'. Continue the relaxed, concrete voice and keep
+images free of captions and image notes.
+
+Earlier design notes follow.
+
 # Writing voice — 16 October 2026
 
 Write as Ruben explaining his own work: direct, friendly and specific. Use short,

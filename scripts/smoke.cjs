@@ -45,7 +45,7 @@ let browser; const report = { pages: [], errors: [], checks: 0 };
     for(const lang of ['nl','en']) {
       await page.goto(base+'service.html?lang='+lang+'&style=wood',{waitUntil:'networkidle'});
       checked(await page.locator('footer a[data-page=privacy]').count()===1,'Privacy link available');
-      checked(await page.locator('#retour').count()===1,'Returns information reachable');
+      if(interestOnly){checked(await page.locator('.interest-explanation').count()===1,'One concise explanation on service');checked(await page.locator('.interest-banner,footer .business-status').count()===0,'No repeated survey notices');}else checked(await page.locator('#retour').count()===1,'Returns information reachable');
       checked((await page.locator('.business-status').first().textContent()).includes(interestOnly?(lang==='nl'?'Interessepeiling':'Interest survey'):(lang==='nl'?'voorbereiding':'preparation')),'Preparation status visible');
       await page.goto(base+'maatwerk.html?lang='+lang+'&style=wood',{waitUntil:'networkidle'});
       await page.locator('#quote-enquiry').click();
@@ -64,7 +64,7 @@ let browser; const report = { pages: [], errors: [], checks: 0 };
       } else await page.locator('#inquiry-form select[name=delivery]').selectOption('shipping');
       await page.locator('#inquiry-form button[type=submit]').click();
       let draft=await page.locator('#request-text').textContent();
-      checked(draft.includes(lang==='nl'?'geen bestelling':'not an order'),'Draft cannot imply an order');
+      if(interestOnly){checked(draft.includes(lang==='nl'?'Mijn selectie voor BONSAI3D':'My selection for BONSAI3D'),'Export describes a selection');checked(draft.includes(lang==='nl'?'niet verstuurd':'not been sent'),'Export has not been submitted');}else checked(draft.includes(lang==='nl'?'geen bestelling':'not an order'),'Draft cannot imply an order');
       if(interestOnly) {
         checked(draft.includes(lang==='nl'?'Dit spreekt mij aan':'This appeals to me'),'Interest level exported');
         checked(draft.includes('45'),'Suggested price exported');

@@ -1,8 +1,14 @@
 # Business preparation
 
 The public site is an interest-testing catalogue (`status: "interest"`). It accepts no
-orders, reservations or payments and has no configured public contact email. Do not present
+orders, reservations or payments. The configured public email is available for
+questions and sharing saved selections. Do not present
 local downloads as submitted enquiries, orders or withdrawal notifications.
+
+Public copy explains the current interest-only state once on the service page.
+Do not repeat that explanation in global banners, footers, product cards or
+selection notices. Local exports describe saved choices and state that they
+have not been submitted; they do not create orders or reservations.
 
 `assets/business-config.json` is the single place for future **public** seller
 information. Its empty fields are deliberate: legal structure, contact details,
@@ -59,7 +65,7 @@ colour, dimensions and guide prices). Feedback, interest level and suggested
 price are only included in a locally copied/downloaded text draft; they are not
 persisted or transmitted. Contact and delivery fields are disabled and hidden.
 No Marktplaats listing URL has been supplied; no direct listing link or posting
-is invented. Visitors share feedback in their existing Marktplaats conversation.
+is invented. Visitors can share their saved overview through their own email app.
 The site has no feedback dashboard, customer account, order ID or reservation.
 
 Product data, price functions and configuration storage are retained to avoid

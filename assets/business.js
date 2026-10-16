@@ -4,7 +4,7 @@
     return '<section id="' + id + '" class="service-section"><h2>' + title + '</h2>' + paragraphs.map(function (p) { return p.startsWith('<dl') || p.startsWith('<p') ? p : '<p>' + p + '</p>'; }).join('') + '</section>';
   }
   function preparation(api) {
-    if (api.business.status === 'interest') return '<p class="business-status">'+api.tr('Interessepeiling · geen bestellingen of reserveringen.','Interest survey · no orders or reservations.')+'</p>';
+    if (api.business.status === 'interest') return '';
     return '<p class="business-status">' + api.tr('Collectie in voorbereiding · aanvragen zijn vrijblijvend.', 'Collection in preparation · enquiries are non-binding.') + '</p>';
   }
   function emailAction(api, className) {
@@ -42,23 +42,13 @@
   }
   function interestService(api) {
     var tr=api.tr;
-    var body=contactSection(api)+timingSection(api)+section('aanvragen',tr('Ik hoor graag wat je ervan vindt.','I’d like to hear what you think.'),[
-      tr('Ik ben benieuwd welke ideeën je leuk vindt. Kijk rond en bewaar gerust wat voorbeelden, kleuren of maten bij Mijn interesse. Je kunt hier nog niets bestellen, reserveren of betalen.','I’m curious which ideas you like. Have a look around and save a few examples, colours or sizes under My interests. You can’t order, reserve or pay for anything here yet.'),
-      tr('Zet erbij wat je mooi vindt, wat je zou veranderen en welke prijs je in gedachten hebt. Daarna kun je het overzicht kopiëren of downloaden en zelf per e-mail delen. De site verstuurt niets en verzamelt je reactie niet.','Add what you like, what you’d change and the price you have in mind. Then copy or download the overview and share it yourself by email. The site doesn’t send anything or collect your response.'),
-      '<button class="button primary" type="button" data-open-inquiry>'+tr('Bekijk mijn interesse','View my interests')+' ↗</button>'
+    var body=contactSection(api)+timingSection(api)+section('prijzen',tr('Prijzen en afwerking','Prices and finishes'),[
+      tr('Bij de objecten staan richtprijzen. Houtlook kost €10 tot €30 extra, afhankelijk van de maat. Bomen, planten, stenen en andere aankleding horen er niet bij.','The objects show guide prices. Wood look adds €10 to €30, depending on size. Trees, plants, stones and other props are not included.')
     ],api);
-    body+=section('prijzen',tr('Wat zou het ongeveer kosten?','Roughly what would it cost?'),[
-      tr('De prijzen zijn een eerste schatting, geen aanbod of definitieve offerte. Je kunt met maten en kleuren spelen om te zien waar je ongeveer op uitkomt. Houtlook kost €10 tot €30 extra, afhankelijk van de maat, omdat ik die afwerking met de hand doe.','Prices are a first estimate, not an offer or final quote. Try different sizes and colours to see roughly where you end up. Wood look adds €10 to €30, depending on size, because I do that finish by hand.'),
-      tr('De bomen, planten, stenen en andere aankleding op de beelden zitten niet in de prijs. Je kunt op de site niet afrekenen en er wordt geen geld afgeschreven.','Trees, plants, stones and other props in the images are not included in the price. There is no checkout on the site and no money is taken.')
+    body+=section('levering',tr('Wat is er beschikbaar?','What is available?'),[
+      tr('Op dit moment zijn alleen eigen potjes op voorraad. De andere objecten zijn eerder gemaakte vormen of ontwerpen die nog uitgewerkt moeten worden. Beschikbare maten en kleuren bevestig ik apart.','At the moment, only my own pots are in stock. The other objects are previously made shapes or designs that still need work. I confirm available sizes and colours separately.')
     ],api);
-    body+=section('levering',tr('Wat is er al, en wat is nog een idee?','What is already made, and what is still an idea?'),[
-      tr('Op dit moment heb ik alleen eigen potjes op voorraad. Wat er precies beschikbaar is, moet ik nog bevestigen; je reserveert hier niets. De andere objecten zijn vormen die ik al eens gemaakt heb, of ideeën die ik nog moet uitwerken.','At the moment, I only have my own pots in stock. I still need to confirm what is available; nothing is reserved here. The other objects are shapes I’ve made before or ideas I still need to work out.'),
-      tr('We moeten nog kijken welke maat en welk materiaal passen, of het goed te maken is en waarvoor je het wilt gebruiken.','We still need to look at the right size and material, whether it can be made properly and what you want to use it for.')
-    ],api);
-    body+=section('retour',tr('En als ik iets wil laten maken?','What if I’d like something made?'),[
-      tr('Als je later via deze site kunt bestellen, moeten de verkopers- en contactgegevens, prijs, levering, betaling en retourafspraken eerst duidelijk zijn. Dan komt er ook een bestelbevestiging. Zover is het nu nog niet: je kunt hier niets kopen of een retour aanmelden.','Before ordering through this site becomes possible, seller and contact details, prices, delivery, payment and returns need to be clear. There will be an order confirmation too. We’re not there yet: you can’t buy anything or arrange a return here.')
-    ],api);
-    return '<div class="service-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / '+tr('CONTACT & MAAKTIJD','CONTACT & MAKING TIME')+'</p><h1 class="page-title">'+tr('Een vraag of een idee?','A question or an idea?')+'</h1><p>'+tr('Hier vind je mijn mailadres en lees je hoe het zit met maken, afwerken en bezorgen.','Here’s my email address and how making, finishing and delivery work.')+'</p>'+preparation(api)+'</header><div class="service-body">'+body+'</div></div>';
+    return '<div class="service-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / SERVICE</p><h1 class="page-title">'+tr('Service & contact','Service & contact')+'</h1><p class="business-status interest-explanation">'+tr('Interessepeiling: je kunt hier voorbeelden bekijken en je wensen bewaren, maar nog niet bestellen, reserveren of betalen. Je overzicht kun je zelf per e-mail delen.','Interest survey: browse examples and save your preferences here. Ordering, reservations and payments are not available yet. You can share your overview yourself by email.')+'</p></header><div class="service-body">'+body+'</div></div>';
   }
   function service(api) {
     if (api.business.status === 'interest') return interestService(api);
@@ -135,12 +125,12 @@
     emailAction: emailAction,
     footerContact: footerContact,
     enquiryNotice: function (api) {
-      if(api.business.status==='interest')return '<div class="enquiry-agreement"><strong>'+api.tr('Alleen belangstelling peilen','Exploring interest only')+'</strong><p>'+api.tr('Dit is geen bestelling of reservering. Je voorkeuren en feedback blijven op je apparaat. Kopieer je overzicht en plak het in een mail aan Ruben. De mailknop opent je eigen mailprogramma; je verstuurt het bericht daar zelf.','This is not an order or reservation. Your preferences and feedback stay on your device. Copy your overview and paste it into an email to Ruben. The email button opens your own email app; you send the message there yourself.')+'</p>'+api.link('service',api.tr('Over deze peiling','About this survey')+' ↗','text-link')+' '+api.link('privacy','Privacy ↗','text-link')+'</div>';
+      if(api.business.status==='interest')return '';
       return '<div class="enquiry-agreement"><strong>' + api.tr('Vrijblijvend interesseconcept', 'Non-binding interest draft') + '</strong><p>' + api.tr('Dit is geen bestelling. Het contactkanaal is nog in voorbereiding. Voor een aankoop worden uitvoering, definitieve totaalprijs, levering, betaling en retourinformatie eerst bevestigd.', 'This is not an order. The contact channel is still being prepared. Before a purchase, the final piece, total price, delivery, payment and returns information are confirmed.') + '</p>' + api.link('service', api.tr('Aanvragen, levering en retouren', 'Enquiries, delivery and returns') + ' ↗', 'text-link') + api.link('privacy', api.tr('Hoe je gegevens worden gebruikt', 'How your data is used') + ' ↗', 'text-link') + '</div>';
     },
     requestText: function (api, delivery) {
       var tr = api.tr;
-      if(api.business.status==='interest')return '\n\n'+tr('Dit is alleen feedback voor een interessepeiling, geen bestelling of reservering. Niet verstuurd. Je kunt dit zelf per e-mail delen.','This is only feedback for an interest survey, not an order or reservation. Not sent. You can share this yourself by email.');
+      if(api.business.status==='interest')return '\n\n'+tr('Dit overzicht is niet verstuurd.','This overview has not been sent.');
       var choice = {discuss: tr('Nog bespreken', 'To be discussed'), shipping: tr('Verzending bespreken', 'Discuss delivery'), collection: tr('Afhalen bespreken', 'Discuss collection')};
       return '\n\n' + tr('Leveringsvoorkeur: ', 'Delivery preference: ') + (choice[delivery] || choice.discuss) + '\n\n' + tr('Vóór een aankoop te bevestigen: uitvoering en maakbaarheid; definitieve consumentenprijs met toepasselijke belastingen en verzendkosten; beschikbare voorraad of maaktermijn; betaling; verkopersgegevens; bedenktijd en eventuele specifieke maatwerkuitzondering.', 'To confirm before a purchase: final piece and manufacturability; final consumer price with applicable taxes and shipping; available stock or production lead time; payment; seller details; withdrawal rights and any specific custom-work exception.') + '\n\n' + tr('Dit concept is niet verstuurd en is geen bestelling. Het openbare contactkanaal van BONSAI3D is nog in voorbereiding. Bewaar het concept totdat je het zelf wilt delen.', 'This draft has not been sent and is not an order. BONSAI3D’s public contact channel is still being prepared. Save the draft until you wish to share it yourself.');
     },
