@@ -1,0 +1,317 @@
+{
+  "created": "2026-10-16",
+  "generator": "Built-in image_gen.imagegen",
+  "sourceRevision": "63531e3b94f90a7c2f42224dfe139eac0a1e1559",
+  "purpose": "Generated miniature finish examples; no physical stock or successful-print evidence",
+  "finish": "Black primer with white drybrushed raised details",
+  "images": [
+    {
+      "id": "bonsai-mini-garden-cart",
+      "source": "ordinary-photos/bonsai-mini-garden-cart-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-garden-cart-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "ef788a379df3d31e5cdda9470d0f62e4a64a3159c70e995c88b3905a69861bbd",
+      "rawSha256": "4d32f2a031933ebeceabe04916a3679699e93e8c1da3d67c3c55f00b898b7fc2",
+      "webpSha256": "04dcea0a96fa4ae6044dc1de7365088c065ad2de6e084a56d5da3b13b915d393",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-garden-cart",
+      "source": "miniature-drybrush/bonsai-mini-garden-cart-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-garden-cart-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "de8e19c553fe46cae2637e42163cb2654d1256adc6e7e37068c68f3072122f8d",
+      "rawSha256": "62de285b2c625e475235510a0e8c983f9b7fd8135b2effb7d43b77938d965df8",
+      "webpSha256": "c18e201b3365a01addcb4890511aacf4266b3a4501f7554c7de1da134c5a09db",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-walker-dog",
+      "source": "ordinary-photos/bonsai-mini-walker-dog-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-walker-dog-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "677ce1cf2bf7b37de82a868f7646c41c95ed68d8de5eb61d2105bd648ac695d6",
+      "rawSha256": "ad4b152bc65a4a20ece8c976622c44e763fa775127ff8c13fd1c26f78db4662e",
+      "webpSha256": "c392089ef5714f791012bce14ad838818cffed64446cdf3ca8fa37d35af69bc1",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-walker-dog",
+      "source": "miniature-drybrush/bonsai-mini-walker-dog-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-walker-dog-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "b473750ab099bf8afcc20dfc295ff5a4dcdbf2571daa989c1c70d6f363d8f3e7",
+      "rawSha256": "9430369c8a7fb0d4323f36c7f01f2c64234d23e7c184667ae313a37fadc5819a",
+      "webpSha256": "c2cdfd65232ccd1e28eaec813637187e2dd63cfc2d4c0c08e7a48df9a04c1f2e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-garden-bench",
+      "source": "ordinary-photos/bonsai-mini-garden-bench-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-garden-bench-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "a07f219b80d8f5b1c92f584b34adef3371acbd16ca501ab78e8bf90e7316b3e5",
+      "rawSha256": "8eb9d75e830a9ea5778e14104f4c954d611725e05e2a3844059ff0956fd50617",
+      "webpSha256": "c41d26a6357a6dacc1f0dfee4dfd858c89d916952d24700da2f91adc5622567a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-garden-bench",
+      "source": "miniature-drybrush/bonsai-mini-garden-bench-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-garden-bench-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "f39722feb78d1505255bd3b88d6d01124a1172ceead8855149bedc5ef3a8c074",
+      "rawSha256": "a4cb63fe6b552d369bb1d409050750c246e00f2de84b13ee0310e437d9b3b418",
+      "webpSha256": "758b10a25b201a0f3eebe49f753905e6619b58a4eb4a9606001326836afc97a4",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-hedgehog",
+      "source": "ordinary-photos/bonsai-mini-hedgehog-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-hedgehog-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "b8ac64f4ced798230835a1c811ee23925213604deed486392c3d972c6f1a5529",
+      "rawSha256": "6d964ace94ebc91f87e9ea357ce1853a296b9d24d441c7df7b3d6e0df73e8f24",
+      "webpSha256": "14eed8ff9a4864f1f367cad5942a1c0bafb5477d2909c8c1041df859a7225b43",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-hedgehog",
+      "source": "miniature-drybrush/bonsai-mini-hedgehog-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-hedgehog-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "b092603d9e6768f820bcf7d088d56edb7d3884dde932885d8bb9e74c494072d8",
+      "rawSha256": "1e99aeb8e517761eecb3a0b04f69fcaf115dd7143aab6fb3f33a37cd8c63cdac",
+      "webpSha256": "a1be4e68d2ebe132a0a7f14361426abd64db426c1552aeea7490fa0a9594336a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-robin",
+      "source": "ordinary-photos/bonsai-mini-robin-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-robin-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "2bcb3ce6802b8816a6b1ec3d9b8eecb9a39d433a03bda0db8224725a362669bc",
+      "rawSha256": "68aaaded35aa0de6be74eb5a302621a6c4e12ed8e487d77148bc65310c489d43",
+      "webpSha256": "22855714b87c9ef3566cde072fd44ba27cc1bb40a1bbd9fda64e840a7ba90756",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-robin",
+      "source": "miniature-drybrush/bonsai-mini-robin-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-robin-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "fec0c0b4934f8d933f140b4fbbe297e0b63d2988ed35ab558874c491678e3c75",
+      "rawSha256": "8fad13143f1222be09db8adeede0606b505fd079e2aa2afe6263c9a7e105343d",
+      "webpSha256": "e66f9768041b8fb45e46b0d75a27ff0d6aa18a84cd97c0fa07d9056c3f813f7c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-hare",
+      "source": "ordinary-photos/bonsai-mini-hare-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-hare-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "2d0e39cf70f1866eab04b6209bac27c4f4f55cfa6e40bb194186b15ed2cfbecd",
+      "rawSha256": "97a5633a46727e02be7178cc11a90167e55c2b069693b5b28ea2dcaa28f3d2ec",
+      "webpSha256": "7c683c49566b5c0fff820099c599f90f3cb4832c481ab854c35a4493568fd504",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-hare",
+      "source": "miniature-drybrush/bonsai-mini-hare-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-hare-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "4fa90dc4e0511e34a37e4203668208baaa922e5611f0d482c4f2952f4d3bae22",
+      "rawSha256": "30764031669041f7a3a6b728ea1fcc1cacaeb7b4273cb8e3fa15f5206e58660d",
+      "webpSha256": "f8142004ddb57d9668552b8de5b43d444cac7889a2b2e01336b76501d6df2005",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-watergiver",
+      "source": "ordinary-photos/bonsai-mini-watergiver-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-watergiver-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "e4a6a8ab608b47b895a8d384918735a3b706bdb098478a3ab0eaa9d91d60561e",
+      "rawSha256": "04dc93705ff0133d5a6e3591085882213f7d3b053a676bf73359c3234525784b",
+      "webpSha256": "711469250ded6ad62215db9fbad59dc945eb203793b31f70537c08f304118c87",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-watergiver",
+      "source": "miniature-drybrush/bonsai-mini-watergiver-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-watergiver-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "151a9c9eacd24b8d5efc5ff929c40e8eee37dad72170451e4804d6197842f885",
+      "rawSha256": "21c448150f00c89a0c584cfcbe4ac84339719c505fa1f98e340f290cb94a3a06",
+      "webpSha256": "d3bc5ae7ccfe8c2eb4aa8f2aa54008299e1504768290b9f70104f2c4d42f44da",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-branch-pruner",
+      "source": "ordinary-photos/bonsai-mini-branch-pruner-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-branch-pruner-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "2d709be3c9c65727fc9f5aedc33381a8e390f3f7f11454918a2a520d6b843457",
+      "rawSha256": "91e44ef14cfad9fcf0194c8ec61dee89f29412763f558944c8568a2750cb63d6",
+      "webpSha256": "c238dfaf731e45d5264d0807625557a66ce57b505f98c01856623b4a3b954ada",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-branch-pruner",
+      "source": "miniature-drybrush/bonsai-mini-branch-pruner-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-branch-pruner-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "8e6f6a6d167ff667ca0c3ac1f3bbd2a32dcd8f9cac6f4d2f794eb24673e20798",
+      "rawSha256": "1fac765af78f947a6daec3a8509c724a98eab304373fe0f0fe5c77ddc0f8f791",
+      "webpSha256": "11816ceff887a1f69ebf114a6d7c623ecbe46e58b8be60265d9a351fc048157c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-root-squirrel",
+      "source": "ordinary-photos/bonsai-mini-root-squirrel-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-root-squirrel-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "3d856e45635a837ca7e5f2aec6d66791db465177ff2bbabe6a71a309418dd871",
+      "rawSha256": "98bb3417ef40463403621f4473ce54c2a733cf3a1acc2d5e14af5d532f94c639",
+      "webpSha256": "c689f15961b7a49eb76e5490db4c50ed8e4c359f3166b28e7134a77554b9d2be",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-root-squirrel",
+      "source": "miniature-drybrush/bonsai-mini-root-squirrel-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-root-squirrel-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "926a70c2fdbd2d3d297062c9e305ac1d0d5614f792f1e2228052473799454b05",
+      "rawSha256": "f8d9d482572c3a49ed23186585c72759f85bfe6c8a7c2bb7d6db645bc5ef0012",
+      "webpSha256": "b70ca1ffea5147b5b4a38e0aaea94c57da2f3f31ce02e490f6adcddc50602333",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-root-fox",
+      "source": "ordinary-photos/bonsai-mini-root-fox-isolated-grey-drybrush-v1-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-root-fox-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "6c2fa98404acf0fd2ab70b2c9bf2dbf9bc543e277e7d06ce6b0604ec24db3487",
+      "rawSha256": "11bab6a68c571ee2a19a7a4e25d76f6badf6be42237e8b8329508bf975c5a2d3",
+      "webpSha256": "fc49f7be50a4a1682839147559e48a6a2c60711404d03d3e7575d5e1055e42b3",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-root-fox",
+      "source": "miniature-drybrush/bonsai-mini-root-fox-with-bonsai-grey-drybrush-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-root-fox-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "db59eabc9144fb50758ff064b1cfb1c0348edbc2ebed0663405c6ca9e2d18a4b",
+      "rawSha256": "245124325c34360056862a47900384c75081404c3259cd0e7ed523aa9f803efb",
+      "webpSha256": "515f1cde24401dd6693802e2875999c247b53f43fd9899e586a906a00b9b5c46",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-bonsai-master",
+      "source": "ordinary-photos/bonsai-mini-bonsai-master-isolated-bonsai-drybrush-v2-natural-v1.webp",
+      "target": "ordinary-photos/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
+      "role": "product",
+      "inputSha256": "3d8c85ff2129ee80183a23ac5e18cfcee14d71ed83ea34c28c294187ac4cfed2",
+      "rawSha256": "5b62f33cec5b3acea4c53bdf3216c1fd12b715231a142f19c3e50f97d9d97885",
+      "webpSha256": "1fa7abbbd90b51a56df9c197c51651191aedba3e56533a3c39a5631d51211db9",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "id": "bonsai-mini-bonsai-master",
+      "source": "miniature-drybrush/bonsai-mini-bonsai-master-with-bonsai-bonsai-drybrush-v2.webp",
+      "target": "ordinary-photos/bonsai-mini-bonsai-master-context-white-drybrush-v1.webp",
+      "role": "context",
+      "inputSha256": "ff37a44cf1865178368a665c1ebcd0f008d5be93129492de97a24c41c9cd3e6b",
+      "rawSha256": "96d8b2f7c7380accf1bfecf586e52e8c1828c08eafdb77f9f784c366b238627b",
+      "webpSha256": "836128d095094359ebcb688044bff4558b4c293108f70437b6ec4f2d0f116869",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    }
+  ]
+}
