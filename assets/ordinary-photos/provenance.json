@@ -707,6 +707,67 @@
         1080
       ],
       "generated": true
+    },
+    {
+      "source": "prints/classic-display-table.webp",
+      "target": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
+      "inputSha256": "29ef48275539f9f06abd6b01fae117c0b7d0f620c10e9f103b4fdfb892ee5142",
+      "rawSha256": "3b2ccfacca53a244be37141b2878fb96846970f94d0e056aa622dfeb9d336e12",
+      "webpSha256": "3656922906093822fa123365e3e9268048bf9876922197c58b4f5c362322bcd8",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "prints/root-pedestal.webp",
+      "target": "ordinary-photos/bonsai-root-pedestal-recreated-v1.webp",
+      "inputSha256": "472369e5b1415ce8124f79d6957fc8232dfd36f08438d330a87e3d7c54fb6dde",
+      "rawSha256": "a4b3abfd90204df0b253ae094d98b658fef4e9e338d5c584f239f06b09fb9f04",
+      "webpSha256": "b66f50d00418f4f9717aeae981e1eabd584aac4806574e74caa111bea47fde2b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "prints/open-root-pedestal.webp",
+      "target": "ordinary-photos/bonsai-open-root-pedestal-recreated-v1.webp",
+      "inputSha256": "5d4e694ed6aec487c6dd5a9d6624a3226c68a08798786f9ef87d564c8f87e5d0",
+      "rawSha256": "18d2281e39e0202886076200705814f345e9a4e2aafc03589e586d9511187881",
+      "webpSha256": "d5e46d6cd2cbab9188a0f4d234adc64b637ff914549844ff26a88ef24fed97b7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "prints/gray-branch-pot.webp",
+      "target": "ordinary-photos/bonsai-firethorn-pot-recreated-v1.webp",
+      "inputSha256": "6c85e864902bfc2d673676acce81d121d3c20fe494a3dc9c8a49d590561045f5",
+      "rawSha256": "a10401c33e919693e65d1c37c6772fdd24ad047112f29eedc725afdbc3f61931",
+      "webpSha256": "5885458f8d6fb801bb7964786a292429b9b45db31673f7832127926c8ec5ab63",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
+    },
+    {
+      "source": "prints/red-branch-pot.webp",
+      "target": "ordinary-photos/bonsai-red-branch-relief-pot-recreated-v1.webp",
+      "inputSha256": "fb6aa5dc8b62055ac58320623cedc19460510f17b83242684707214115f0171d",
+      "rawSha256": "94261e6122ba8071949fb5f76d48330cdb1cf84d5370f8cfa1dbba8e04b60cb0",
+      "webpSha256": "023fdb90a6533439e449c8d07cf298f16304dc845dddc4d0e630a357f025b46d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "generated": true
     }
-  ]
+  ],
+  "originalPhotographsDisplayed": false
 }

@@ -95,8 +95,8 @@
           "en": "A low table with a rectangular top and broad feet."
         },
         "detail": {
-          "nl": "Een lage, geprinte displaytafel met een rechthoekig blad en breed gevormde voeten. De bruine afwerking en het patroon in het blad geven een houtachtige uitstraling. De foto toont het gemaakte exemplaar. Voor een nieuwe print kiezen we maat, kleur en ondersteuning rond jouw pot. De nieuwe presentatiebeelden zijn gegenereerd op basis van mijn eigen foto; de originele foto staat ook in de galerij. Boom en pot zijn niet inbegrepen.",
-          "en": "A low printed display table with a rectangular top and broadly shaped feet. The brown finish and pattern in the top give it a wood-like appearance. The photograph shows the made example. We choose dimensions, colour and support around your pot for a new print. The new display images are generated from my own photograph; the original photograph is also in the gallery. Tree and pot are excluded."
+          "nl": "Een lage, geprinte displaytafel met een rechthoekig blad en breed gevormde voeten. De bruine afwerking en het patroon in het blad geven een houtachtige uitstraling. Het beeld is een gegenereerde reconstructie van het gemaakte exemplaar. Voor een nieuwe print kiezen we maat, kleur en ondersteuning rond jouw pot. De productbeelden zijn gegenereerd op basis van de oorspronkelijke productfoto. Vorm en afwerking kunnen bij een nieuwe print afwijken. Boom en pot zijn niet inbegrepen.",
+          "en": "A low printed display table with a rectangular top and broadly shaped feet. The brown finish and pattern in the top give it a wood-like appearance. The image is a generated recreation of the made example. We choose dimensions, colour and support around your pot for a new print. The product images are generated from the original product photograph. Shape and finish may vary in a new print. Tree and pot are excluded."
         },
         "spec": {
           "nl": "3D-print · maat en afwerking op aanvraag",
@@ -117,7 +117,6 @@
               "en": "Low display table with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/classic-display-table.webp",
             "photoRole": "context",
             "contextFinish": "wood"
           },
@@ -128,7 +127,6 @@
               "en": "Low display table with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/classic-display-table.webp",
             "photoRole": "context",
             "contextFinish": "black"
           },
@@ -139,48 +137,36 @@
               "en": "Low display table — product alone, generated design example"
             },
             "visualKind": "isolated",
-            "originalPhoto": "prints/classic-display-table.webp",
             "photoRole": "product"
           },
           {
-            "image": "prints/natural/classic-display-table-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/classic-display-table.webp",
+            "image": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
             "alt": {
-              "nl": "Geprinte lage displaytafel met houtachtige afwerking",
-              "en": "Printed low display table with wood-effect finish"
+              "nl": "Lage displaytafel — gegenereerd op basis van de originele productfoto",
+              "en": "Low display table — generated from the original product photograph"
             },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/classic-display-table.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geprinte lage displaytafel met houtachtige afwerking",
-              "en": "Printed low display table with wood-effect finish"
-            }
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           }
         ],
-        "image": "prints/natural/classic-display-table-natural-v1.webp",
+        "image": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
         "imageAlt": {
-          "nl": "Lage displaytafel — eigen productfoto",
-          "en": "Low display table — own product photograph"
+          "nl": "Lage displaytafel — gegenereerd op basis van de originele productfoto",
+          "en": "Low display table — generated from the original product photograph"
         },
-        "visualKind": "corrected",
-        "imageStyle": "exhibition",
+        "visualKind": "isolated",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/classic-display-table-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/classic-display-table.webp",
-            "imageStyle": "documentary",
-            "photoRole": "product",
+            "image": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
             "alt": {
-              "nl": "Lage displaytafel — eigen productfoto",
-              "en": "Low display table — own product photograph"
-            }
+              "nl": "Lage displaytafel — gegenereerd op basis van de originele productfoto",
+              "en": "Low display table — generated from the original product photograph"
+            },
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           },
           "black": {
             "image": "ordinary-photos/bonsai-classic-table-black-v1-natural-v1.webp",
@@ -189,7 +175,6 @@
               "en": "Low display table — product alone, generated design example"
             },
             "visualKind": "isolated",
-            "originalPhoto": "prints/classic-display-table.webp",
             "photoRole": "product"
           }
         },
@@ -200,7 +185,9 @@
           "currency": "EUR",
           "kind": "indicative"
         },
-        "photoSequence": "product-context"
+        "photoSequence": "product-context",
+        "photoRole": "product",
+        "referenceRecreation": true
       },
       {
         "id": "bonsai-mini-garden-cart",
@@ -1174,8 +1161,8 @@
           "en": "A round top above a twisted root base."
         },
         "detail": {
-          "nl": "Een hoge, geprinte standaard met een rond blad en een dicht onderstel van wortelvormen. De afwerking combineert een warmbruin blad met een donkerdere voet. De galerij toont het exemplaar los en met een bonsaiopstelling. Pot en boom zijn styling; maat, draagvlak en de passende belasting van een nieuwe standaard stemmen we apart af. De nieuwe presentatiebeelden zijn gegenereerd op basis van mijn eigen foto; de originele foto staat ook in de galerij. Boom en pot zijn niet inbegrepen.",
-          "en": "A tall printed stand with a round top and a dense root-shaped base. The finish combines a warm brown top with darker roots. The gallery shows the stand alone and in a bonsai arrangement. Pot and tree are styling; we agree dimensions, support area and suitable load for a new stand separately. The new display images are generated from my own photograph; the original photograph is also in the gallery. Tree and pot are excluded."
+          "nl": "Een hoge, geprinte standaard met een rond blad en een dicht onderstel van wortelvormen. De afwerking combineert een warmbruin blad met een donkerdere voet. De gegenereerde beelden tonen de standaard los en in een bonsaiopstelling. Pot en boom zijn styling; maat, draagvlak en de passende belasting van een nieuwe standaard stemmen we apart af. De productbeelden zijn gegenereerd op basis van de oorspronkelijke productfoto. Vorm en afwerking kunnen bij een nieuwe print afwijken. Boom en pot zijn niet inbegrepen.",
+          "en": "A tall printed stand with a round top and a dense root-shaped base. The finish combines a warm brown top with darker roots. The generated images show the stand alone and in a bonsai arrangement. Pot and tree are styling; we agree dimensions, support area and suitable load for a new stand separately. The product images are generated from the original product photograph. Shape and finish may vary in a new print. Tree and pot are excluded."
         },
         "spec": {
           "nl": "3D-print · maat en afwerking op aanvraag",
@@ -1196,7 +1183,6 @@
               "en": "Round root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/root-pedestal.webp",
             "photoRole": "context",
             "contextFinish": "wood"
           },
@@ -1207,7 +1193,6 @@
               "en": "Round root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/root-pedestal.webp",
             "photoRole": "context",
             "contextFinish": "black"
           },
@@ -1218,86 +1203,36 @@
               "en": "Round root pedestal — product alone, generated design example"
             },
             "visualKind": "isolated",
-            "originalPhoto": "prints/root-pedestal.webp",
             "photoRole": "product"
           },
           {
-            "image": "prints/natural/root-pedestal-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/root-pedestal.webp",
+            "image": "ordinary-photos/bonsai-root-pedestal-recreated-v1.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard, los gefotografeerd",
-              "en": "Round root pedestal photographed alone"
+              "nl": "Ronde wortelstandaard — gegenereerd op basis van de originele productfoto",
+              "en": "Round root pedestal — generated from the original product photograph"
             },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/natural/root-pedestal-workshop-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/root-pedestal-workshop.webp",
-            "alt": {
-              "nl": "Ronde wortelstandaard in de werkplaats",
-              "en": "Round root pedestal in the workshop"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/natural/root-pedestal-arrangement-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/root-pedestal-arrangement.webp",
-            "alt": {
-              "nl": "Wortelstandaard met een bonsaiopstelling",
-              "en": "Root pedestal in a bonsai arrangement"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/root-pedestal.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Ronde wortelstandaard, los gefotografeerd",
-              "en": "Round root pedestal photographed alone"
-            }
-          },
-          {
-            "image": "prints/root-pedestal-workshop.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Ronde wortelstandaard in de werkplaats",
-              "en": "Round root pedestal in the workshop"
-            }
-          },
-          {
-            "image": "prints/root-pedestal-arrangement.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Wortelstandaard met een bonsaiopstelling",
-              "en": "Root pedestal in a bonsai arrangement"
-            }
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           }
         ],
-        "image": "prints/natural/root-pedestal-natural-v1.webp",
+        "image": "ordinary-photos/bonsai-root-pedestal-recreated-v1.webp",
         "imageAlt": {
-          "nl": "Ronde wortelstandaard — eigen productfoto",
-          "en": "Round root pedestal — own product photograph"
+          "nl": "Ronde wortelstandaard — gegenereerd op basis van de originele productfoto",
+          "en": "Round root pedestal — generated from the original product photograph"
         },
-        "visualKind": "corrected",
-        "imageStyle": "exhibition",
+        "visualKind": "isolated",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/root-pedestal-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/root-pedestal.webp",
-            "imageStyle": "documentary",
-            "photoRole": "product",
+            "image": "ordinary-photos/bonsai-root-pedestal-recreated-v1.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard — eigen productfoto",
-              "en": "Round root pedestal — own product photograph"
-            }
+              "nl": "Ronde wortelstandaard — gegenereerd op basis van de originele productfoto",
+              "en": "Round root pedestal — generated from the original product photograph"
+            },
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           },
           "black": {
             "image": "ordinary-photos/bonsai-root-pedestal-black-v1-natural-v1.webp",
@@ -1306,7 +1241,6 @@
               "en": "Round root pedestal — product alone, generated design example"
             },
             "visualKind": "isolated",
-            "originalPhoto": "prints/root-pedestal.webp",
             "photoRole": "product"
           }
         },
@@ -1317,7 +1251,9 @@
           "currency": "EUR",
           "kind": "indicative"
         },
-        "photoSequence": "product-context"
+        "photoSequence": "product-context",
+        "photoRole": "product",
+        "referenceRecreation": true
       },
       {
         "id": "bonsai-open-root-pedestal",
@@ -1331,8 +1267,8 @@
           "en": "A tall stand with a curved, open root form."
         },
         "detail": {
-          "nl": "Een slanke geprinte standaard waarvan de wortels omhoog buigen naar een rond blad. De open ruimtes tussen de wortelvormen maken het onderstel lichter in beeld. De foto toont de donkere, afgewerkte print. Maat, voetplaatsing en geschikt draaggewicht worden voor een nieuwe uitvoering afgestemd. De nieuwe presentatiebeelden zijn gegenereerd op basis van mijn eigen foto; de originele foto staat ook in de galerij. Boom en pot zijn niet inbegrepen.",
-          "en": "A slender printed stand with roots curving upwards towards a round top. Open gaps between the root forms give the base a lighter appearance. The photograph shows the dark finished print. Dimensions, foot placement and suitable load are agreed for a new version. The new display images are generated from my own photograph; the original photograph is also in the gallery. Tree and pot are excluded."
+          "nl": "Een slanke geprinte standaard waarvan de wortels omhoog buigen naar een rond blad. De open ruimtes tussen de wortelvormen maken het onderstel lichter in beeld. Het gegenereerde beeld volgt de donkere afwerking van de oorspronkelijke print. Maat, voetplaatsing en geschikt draaggewicht worden voor een nieuwe uitvoering afgestemd. De productbeelden zijn gegenereerd op basis van de oorspronkelijke productfoto. Vorm en afwerking kunnen bij een nieuwe print afwijken. Boom en pot zijn niet inbegrepen.",
+          "en": "A slender printed stand with roots curving upwards towards a round top. Open gaps between the root forms give the base a lighter appearance. The generated image follows the dark finish of the original print. Dimensions, foot placement and suitable load are agreed for a new version. The product images are generated from the original product photograph. Shape and finish may vary in a new print. Tree and pot are excluded."
         },
         "spec": {
           "nl": "3D-print · maat en afwerking op aanvraag",
@@ -1353,7 +1289,6 @@
               "en": "Open root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/open-root-pedestal.webp",
             "photoRole": "context",
             "contextFinish": "wood"
           },
@@ -1364,7 +1299,6 @@
               "en": "Open root pedestal with one matching bonsai — generated display example"
             },
             "visualKind": "arrangement",
-            "originalPhoto": "prints/open-root-pedestal.webp",
             "photoRole": "context",
             "contextFinish": "black"
           },
@@ -1375,48 +1309,36 @@
               "en": "Open root pedestal — product alone, generated design example"
             },
             "visualKind": "isolated",
-            "originalPhoto": "prints/open-root-pedestal.webp",
             "photoRole": "product"
           },
           {
-            "image": "prints/natural/open-root-pedestal-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/open-root-pedestal.webp",
+            "image": "ordinary-photos/bonsai-open-root-pedestal-recreated-v1.webp",
             "alt": {
-              "nl": "Geprinte open wortelstandaard met rond blad",
-              "en": "Printed open root pedestal with round top"
+              "nl": "Open wortelstandaard — gegenereerd op basis van de originele productfoto",
+              "en": "Open root pedestal — generated from the original product photograph"
             },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/open-root-pedestal.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Geprinte open wortelstandaard met rond blad",
-              "en": "Printed open root pedestal with round top"
-            }
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           }
         ],
-        "image": "prints/natural/open-root-pedestal-natural-v1.webp",
+        "image": "ordinary-photos/bonsai-open-root-pedestal-recreated-v1.webp",
         "imageAlt": {
-          "nl": "Open wortelstandaard — eigen productfoto",
-          "en": "Open root pedestal — own product photograph"
+          "nl": "Open wortelstandaard — gegenereerd op basis van de originele productfoto",
+          "en": "Open root pedestal — generated from the original product photograph"
         },
-        "visualKind": "corrected",
-        "imageStyle": "exhibition",
+        "visualKind": "isolated",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "prints/natural/open-root-pedestal-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/open-root-pedestal.webp",
-            "imageStyle": "documentary",
-            "photoRole": "product",
+            "image": "ordinary-photos/bonsai-open-root-pedestal-recreated-v1.webp",
             "alt": {
-              "nl": "Open wortelstandaard — eigen productfoto",
-              "en": "Open root pedestal — own product photograph"
-            }
+              "nl": "Open wortelstandaard — gegenereerd op basis van de originele productfoto",
+              "en": "Open root pedestal — generated from the original product photograph"
+            },
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           },
           "black": {
             "image": "ordinary-photos/bonsai-open-root-pedestal-black-v1-natural-v1.webp",
@@ -1425,7 +1347,6 @@
               "en": "Open root pedestal — product alone, generated design example"
             },
             "visualKind": "isolated",
-            "originalPhoto": "prints/open-root-pedestal.webp",
             "photoRole": "product"
           }
         },
@@ -1436,7 +1357,9 @@
           "currency": "EUR",
           "kind": "indicative"
         },
-        "photoSequence": "product-context"
+        "photoSequence": "product-context",
+        "photoRole": "product",
+        "referenceRecreation": true
       },
       {
         "id": "bonsai-oval-jita",
@@ -1592,8 +1515,8 @@
           "en": "A rectangular pot with thorny branch relief."
         },
         "detail": {
-          "nl": "Een rechthoekige geprinte pot op lage voeten, met een donkere tak die schuin over de voorkant loopt. De foto’s tonen de grijze uitvoering leeg en een lichte uitvoering met een bloeiende bonsai. Maat, kleur, materiaal en drainage bespreken we voor een nieuwe print. De levende boom dient als presentatievoorbeeld. Het nieuwe presentatiebeeld is gegenereerd op basis van mijn eigen potfoto. De originele foto’s blijven in de galerij. Boom niet inbegrepen; beschikbare maat en kleur bevestig ik bij je aanvraag.",
-          "en": "A rectangular printed pot on low feet, with a dark branch running diagonally across the front. The photographs show the gray version empty and a pale version with a flowering bonsai. We discuss size, colour, material and drainage for a new print. The living tree is display styling. The new display image is generated from my own pot photograph. Original photos remain in the gallery. Tree excluded; available size and colour are confirmed on enquiry."
+          "nl": "Een rechthoekige geprinte pot op lage voeten, met een donkere tak die schuin over de voorkant loopt. De gegenereerde beelden tonen de grijze uitvoering leeg en een lichte uitvoering met een bloeiende bonsai. Maat, kleur, materiaal en drainage bespreken we voor een nieuwe print. De levende boom dient als presentatievoorbeeld. De productbeelden zijn gegenereerd op basis van de oorspronkelijke potfoto. Vorm en afwerking kunnen bij een nieuwe print afwijken. Boom niet inbegrepen; beschikbare maat en kleur bevestig ik bij je aanvraag.",
+          "en": "A rectangular printed pot on low feet, with a dark branch running diagonally across the front. The generated images show the gray version empty and a pale version with a flowering bonsai. We discuss size, colour, material and drainage for a new print. The living tree is display styling. The product images are generated from the original pot photograph. Shape and finish may vary in a new print. Tree excluded; available size and colour are confirmed on enquiry."
         },
         "spec": {
           "nl": "Grijze en lichte uitvoering · maat op aanvraag",
@@ -1605,12 +1528,12 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "prints/natural/gray-branch-pot-natural-v1.webp",
-        "visualKind": "corrected",
+        "image": "ordinary-photos/bonsai-firethorn-pot-recreated-v1.webp",
+        "visualKind": "isolated",
         "archiveId": "bonsai-firethorn-pot",
         "imageAlt": {
-          "nl": "Takkenpot — eigen productfoto",
-          "en": "Branch pot — own product photograph"
+          "nl": "Takkenpot — gegenereerd op basis van de originele productfoto",
+          "en": "Branch pot — generated from the original product photograph"
         },
         "gallery": [
           {
@@ -1624,64 +1547,16 @@
             "contextFinish": "own"
           },
           {
-            "image": "prints/natural/gray-branch-pot-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/gray-branch-pot.webp",
+            "image": "ordinary-photos/bonsai-firethorn-pot-recreated-v1.webp",
             "alt": {
-              "nl": "Grijze takkenpot met zicht op de binnenkant",
-              "en": "Gray branch pot showing the interior"
+              "nl": "Takkenpot — gegenereerd op basis van de originele productfoto",
+              "en": "Branch pot — generated from the original product photograph"
             },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/natural/gray-branch-pot-front-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/gray-branch-pot-front.webp",
-            "alt": {
-              "nl": "Grijze takkenpot van voren",
-              "en": "Gray branch pot from the front"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/natural/white-branch-pot-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/white-branch-pot.webp",
-            "alt": {
-              "nl": "Witte takkenpot met bloeiende bonsai",
-              "en": "White branch pot with flowering bonsai"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/gray-branch-pot.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Grijze takkenpot met zicht op de binnenkant",
-              "en": "Gray branch pot showing the interior"
-            }
-          },
-          {
-            "image": "prints/gray-branch-pot-front.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Grijze takkenpot van voren",
-              "en": "Gray branch pot from the front"
-            }
-          },
-          {
-            "image": "prints/white-branch-pot.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Witte takkenpot met bloeiende bonsai",
-              "en": "White branch pot with flowering bonsai"
-            }
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           }
         ],
-        "imageStyle": "exhibition",
         "zone": "presentation",
         "availability": "stock",
         "pricing": {
@@ -1690,7 +1565,9 @@
           "currency": "EUR",
           "kind": "indicative"
         },
-        "photoSequence": "product-context"
+        "photoSequence": "product-context",
+        "photoRole": "product",
+        "referenceRecreation": true
       },
       {
         "id": "bonsai-red-branch-relief-pot",
@@ -1704,8 +1581,8 @@
           "en": "A deep red pot with pale branches in relief."
         },
         "detail": {
-          "nl": "Lichte takken steken af tegen de rode, vierkante pot en lopen door over de zijkanten. Je ziet hier het geprinte exemplaar, met daarnaast eerdere foto’s van opzij en van boven. Kleur, reliëf en vorm geven de pot een eigen karakter. Voor een nieuwe uitvoering stemmen we maat, materiaal en afwerking samen af. Het nieuwe presentatiebeeld is gegenereerd op basis van mijn eigen potfoto. De originele foto’s blijven in de galerij. Boom niet inbegrepen; beschikbare maat en kleur bevestig ik bij je aanvraag.",
-          "en": "Pale branches stand out against the red square pot and continue around its sides. These photographs show the printed example, including earlier side and top views. Colour, relief and form give the pot its character. For a new version, we agree the size, material and finish together. The new display image is generated from my own pot photograph. Original photos remain in the gallery. Tree excluded; available size and colour are confirmed on enquiry."
+          "nl": "Lichte takken steken af tegen de rode, vierkante pot en lopen door over de zijkanten. Je ziet hier een gegenereerde reconstructie op basis van de oorspronkelijke productfoto. Kleur, reliëf en vorm geven de pot een eigen karakter. Voor een nieuwe uitvoering stemmen we maat, materiaal en afwerking samen af. De productbeelden zijn gegenereerd op basis van de oorspronkelijke potfoto. Vorm en afwerking kunnen bij een nieuwe print afwijken. Boom niet inbegrepen; beschikbare maat en kleur bevestig ik bij je aanvraag.",
+          "en": "Pale branches stand out against the red square pot and continue around its sides. This is a generated recreation based on the original product photograph. Colour, relief and form give the pot its character. For a new version, we agree the size, material and finish together. The product images are generated from the original pot photograph. Shape and finish may vary in a new print. Tree excluded; available size and colour are confirmed on enquiry."
         },
         "spec": {
           "nl": "Gefotografeerd voorbeeld · uitvoering op aanvraag",
@@ -1717,8 +1594,8 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "prints/natural/red-branch-pot-natural-v1.webp",
-        "visualKind": "corrected",
+        "image": "ordinary-photos/bonsai-red-branch-relief-pot-recreated-v1.webp",
+        "visualKind": "isolated",
         "gallery": [
           {
             "image": "tree-proportions/bonsai-red-branch-relief-pot-own-v1.webp",
@@ -1731,51 +1608,21 @@
             "contextFinish": "own"
           },
           {
-            "image": "prints/natural/red-branch-pot-natural-v1.webp",
-            "visualKind": "corrected",
-            "originalPhoto": "prints/red-branch-pot.webp",
+            "image": "ordinary-photos/bonsai-red-branch-relief-pot-recreated-v1.webp",
             "alt": {
-              "nl": "Geprinte rode vierkante pot met lichte takken in reliëf rond de zijkanten",
-              "en": "Printed red square pot with pale branch relief around the sides"
+              "nl": "Rode takkenpot — gegenereerd op basis van de originele productfoto",
+              "en": "Red branch pot — generated from the original product photograph"
             },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "prints/red-branch-pot.webp",
-            "visualKind": "photo",
-            "alt": {
-              "nl": "Geprinte rode vierkante pot met lichte takken in reliëf rond de zijkanten",
-              "en": "Printed red square pot with pale branch relief around the sides"
-            },
-            "imageStyle": "documentary"
-          },
-          {
-            "image": "finished/archive/bonsai-red-branch-relief-pot-4.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Rode takkenpot van opzij — eerdere productfoto",
-              "en": "Red branch pot from the side — earlier product photograph"
-            },
-            "originalPhoto": "finished/archive/bonsai-red-branch-relief-pot-4.webp"
-          },
-          {
-            "image": "finished/archive/bonsai-red-branch-relief-pot-3.webp",
-            "visualKind": "photo",
-            "imageStyle": "documentary",
-            "alt": {
-              "nl": "Rode takkenpot van boven, met zicht op de bodem — eerdere productfoto",
-              "en": "Red branch pot from above, showing the base — earlier product photograph"
-            },
-            "originalPhoto": "finished/archive/bonsai-red-branch-relief-pot-3.webp"
+            "visualKind": "isolated",
+            "photoRole": "product",
+            "referenceRecreation": true
           }
         ],
         "archiveId": "bonsai-red-branch-relief-pot",
         "imageAlt": {
-          "nl": "Rode takkenpot — eigen productfoto",
-          "en": "Red branch pot — own product photograph"
+          "nl": "Rode takkenpot — gegenereerd op basis van de originele productfoto",
+          "en": "Red branch pot — generated from the original product photograph"
         },
-        "imageStyle": "exhibition",
         "zone": "presentation",
         "availability": "stock",
         "pricing": {
@@ -1784,7 +1631,9 @@
           "currency": "EUR",
           "kind": "indicative"
         },
-        "photoSequence": "product-context"
+        "photoSequence": "product-context",
+        "photoRole": "product",
+        "referenceRecreation": true
       },
       {
         "id": "pot-rootflow",
@@ -4064,7 +3913,7 @@
       "nl": "Ik ben Ruben. Ik ontwerp en 3D-print accessoires voor bonsai. Een potmaat, de hoogte van een tafel of een klein detail vormen vaak het begin. In de collectie staan bestaande ontwerpen naast nieuwe schetsen. Wat al is geprint en wat nog een concept is, staat bij het product.",
       "en": "I’m Ruben. I design and 3D print bonsai accessories. A pot dimension, a stand height or a small detail often starts the work. The collection includes existing designs and new sketches. Each product identifies what has been printed and what remains a concept."
     },
-    "storyImage": "prints/natural/classic-display-table-natural-v1.webp",
+    "storyImage": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
     "guideTitle": {
       "nl": "Maat, materiaal & gebruik",
       "en": "Size, material & use"
@@ -4086,8 +3935,8 @@
           "en": "What do the product images show?"
         },
         "a": {
-          "nl": "Je ziet eigen foto’s van eerder gemaakte prints, met een betere uitsnede en lichte correcties in belichting en kleur. De oorspronkelijke foto’s blijven in de productgalerijen beschikbaar. Nieuwe miniaturen zijn gegenereerde ontwerpvoorstellen en nog niet geprint. Nieuwe kleurvarianten zijn afwerkingsvoorbeelden. De grote bonsaifoto’s tonen echte bomen; boom en pot zijn presentatievoorbeelden.",
-          "en": "You see our own photographs of previously made prints, with improved framing and light exposure and colour corrections. Original photographs remain available in the product galleries. New miniatures are generated design proposals and have not been printed. New colour variants are finish previews. The large bonsai photographs show real trees; trees and pots are display examples."
+          "nl": "De beelden op deze site zijn gegenereerde product- en presentatievoorbeelden. Bij eerder gemaakte prints gebruiken we de oorspronkelijke productfoto als vorm- en afwerkingsreferentie. De originele foto zelf wordt niet getoond. Het eerste productbeeld toont alleen het object; op volgende beelden kan een bonsaiopstelling staan. Nieuwe miniaturen en andere concepten zijn nog niet geprint. Beelden zijn geen bewijs van voorraad; maat, afwerking en maakbaarheid bespreken we apart.",
+          "en": "The images on this site are generated product and display examples. For previously made prints, the original product photograph is used as a reference for shape and finish. The original photograph itself is not displayed. The first product image shows the object alone; later images may show a bonsai arrangement. New miniatures and other concepts have not been printed. Images are not evidence of stock; dimensions, finish and manufacturability are discussed separately."
         }
       },
       {
@@ -4117,7 +3966,7 @@
       "tak",
       "tak-en-vorm"
     ],
-    "storyVisualKind": "photo",
+    "storyVisualKind": "isolated",
     "imageStyle": "studio",
     "heroPhoto": {
       "image": "exhibition/flowering-wood-v1.webp",
@@ -4125,9 +3974,7 @@
         "nl": "Bloeiende bonsai in de bestaande lichte takkenpot op Rubens houtlook tafel in een gegenereerde tentoonstellingssetting",
         "en": "Flowering bonsai in the existing pale branch pot on Ruben’s wood-look table in a generated exhibition setting"
       },
-      "visualKind": "exhibition",
-      "originalPhoto": "prints/white-branch-pot.webp"
-    },
-    "storyOriginalPhoto": "prints/classic-display-table.webp"
+      "visualKind": "exhibition"
+    }
   }
 }
