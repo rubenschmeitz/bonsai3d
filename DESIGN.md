@@ -1,3 +1,14 @@
+# Product copy and captions — 16 October 2026
+
+Public product copy, captions and accessible image descriptions focus on the
+object, framing and finish. The user requested removal of repeated explanations
+about generating design examples. Image provenance remains in the catalogue
+metadata and provenance files. Product stages, availability, indicative pricing
+and the interest-only flow remain unchanged. Image-information disclosures appear
+only when there is useful finish or colour information to show.
+
+Earlier design notes follow.
+
 # Shop reference refinement — 14 October 2026
 
 The user named Bonsai Plaza and Lodder Bonsai as references. Their live homepages
