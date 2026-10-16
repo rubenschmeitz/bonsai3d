@@ -1537,10 +1537,10 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-firethorn-pot-own-v1.webp",
+            "image": "tree-proportions/bonsai-firethorn-pot-white-v2.webp",
             "alt": {
-              "nl": "Takkenpot met één passende bonsai — gegenereerd op basis van mijn eigen foto",
-              "en": "Branch pot with one matching bonsai — generated from my own photograph"
+              "nl": "Witte Takkenpot met vuurdoorn en oranjerode bessen — gegenereerd op basis van mijn originele potfoto",
+              "en": "White branch pot with firethorn and orange-red berries — generated from my original pot photograph"
             },
             "visualKind": "arrangement",
             "photoRole": "context",
