@@ -322,11 +322,11 @@ body.curated-shop .soft-photo-frame>img{--blend-x:clamp(12px,6%,36px);--blend-y:
 body.curated-shop .product-art>.soft-photo-frame{height:100%}
 
 /* Natural-light design previews carry their photographic finish in the source. */
-body.curated-shop img[src*="ordinary-photos/"]{filter:none!important;object-fit:contain!important}
+body.curated-shop img:is([src*="ordinary-photos/"],[src*="model-photos-v1/"]){filter:none!important;object-fit:contain!important}
 body.curated-shop .product:has(img[src*="ordinary-photos/"]) .card-image-note{display:block;font-size:11px;line-height:1.45;color:var(--muted);margin-top:8px}
 
-body.curated-shop .soft-photo-frame:has(>img[src*="ordinary-photos/"]):before{display:none}
-body.curated-shop .soft-photo-frame>img[src*="ordinary-photos/"]{mask-image:none}
+body.curated-shop .soft-photo-frame:has(>img:is([src*="ordinary-photos/"],[src*="model-photos-v1/"])):before{display:none}
+body.curated-shop .soft-photo-frame>img:is([src*="ordinary-photos/"],[src*="model-photos-v1/"]){mask-image:none}
 /* Keep all header controls reachable on narrow phone screens. */
 @media(max-width:380px){body.curated-shop .site-header .brand-wordmark{width:130px;height:37px}body.curated-shop .header-inner{gap:8px}body.curated-shop .header-actions{gap:8px}}
 

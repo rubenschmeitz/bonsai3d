@@ -24,7 +24,7 @@
       "nl": "Bonsaitafels, jita’s, schalen en miniaturen uit Rubens atelier. Ruw zwart of grijs, of met de hand in houtlook afgewerkt. Richtprijzen €10–€100; potjes op voorraad en overige objecten op aanvraag.",
       "en": "Bonsai stands, jitas, pots and miniatures from Ruben’s workshop. Raw black or grey, or finished by hand with a wood look. Guide prices €10–€100; pots in stock and other objects on enquiry."
     },
-    "heroImage": "finished/studio/display-table-v3.webp",
+    "heroImage": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
     "heroAlt": {
       "nl": "Studiorender van het lamellen-bonsaitafeltje uit de eigen modelbestanden",
       "en": "Studio render of the slatted bonsai display table from the source model"
@@ -111,71 +111,81 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-classic-table-wood-v1.webp",
+            "image": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Lage displaytafel met één passende bonsai",
-              "en": "Low display table with one matching bonsai"
+              "nl": "Lage displaytafel — het product",
+              "en": "Low display table — product view"
             },
-            "visualKind": "arrangement",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b"
+          },
+          {
+            "image": "model-photos-v1/bonsai-classic-table-product-black-v1.webp",
+            "alt": {
+              "nl": "Lage displaytafel — het product",
+              "en": "Low display table — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b"
+          },
+          {
+            "image": "model-photos-v1/bonsai-classic-table-context-wood-v1.webp",
+            "alt": {
+              "nl": "Lage displaytafel — in een bonsaiopstelling",
+              "en": "Low display table — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/bonsai-classic-table-black-v1.webp",
+            "image": "model-photos-v1/bonsai-classic-table-context-black-v1.webp",
             "alt": {
-              "nl": "Lage displaytafel met één passende bonsai",
-              "en": "Low display table with one matching bonsai"
+              "nl": "Lage displaytafel — in een bonsaiopstelling",
+              "en": "Low display table — in a bonsai arrangement"
             },
-            "visualKind": "arrangement",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/bonsai-classic-table-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Lage displaytafel — alleen het product",
-              "en": "Low display table — product alone"
-            },
-            "visualKind": "isolated",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
-            "alt": {
-              "nl": "Lage displaytafel",
-              "en": "Low display table"
-            },
-            "visualKind": "isolated",
-            "photoRole": "product",
-            "referenceRecreation": true
           }
         ],
-        "image": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
+        "image": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Lage displaytafel",
-          "en": "Low display table"
+          "nl": "Lage displaytafel — het product",
+          "en": "Low display table — product view"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
+            "image": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Lage displaytafel",
-              "en": "Low display table"
+              "nl": "Lage displaytafel — het product",
+              "en": "Low display table — product view"
             },
-            "visualKind": "isolated",
             "photoRole": "product",
-            "referenceRecreation": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b"
           },
           "black": {
-            "image": "ordinary-photos/bonsai-classic-table-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-classic-table-product-black-v1.webp",
             "alt": {
-              "nl": "Lage displaytafel — alleen het product",
-              "en": "Low display table — product alone"
+              "nl": "Lage displaytafel — het product",
+              "en": "Low display table — product view"
             },
-            "visualKind": "isolated",
-            "photoRole": "product"
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b"
           }
         },
         "availability": "enquiry",
@@ -186,8 +196,7 @@
           "kind": "indicative"
         },
         "photoSequence": "product-context",
-        "photoRole": "product",
-        "referenceRecreation": true
+        "photoRole": "product"
       },
       {
         "id": "bonsai-mini-garden-cart",
@@ -228,38 +237,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-garden-cart-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-garden-cart-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De tuinier met kruiwagen — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The gardener with a wheelbarrow — miniature alone; black primer with white drybrush"
+              "nl": "De tuinier met kruiwagen — het product",
+              "en": "The gardener with a wheelbarrow — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "48fcf7992a886004db97157d3a5c92169c62be423480622e905bf41bfb76abca",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-garden-cart-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-garden-cart-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De tuinier met kruiwagen — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The gardener with a wheelbarrow — beside a bonsai; black primer with white drybrush"
+              "nl": "De tuinier met kruiwagen — in een bonsaiopstelling",
+              "en": "The gardener with a wheelbarrow — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "48fcf7992a886004db97157d3a5c92169c62be423480622e905bf41bfb76abca",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-garden-cart-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-garden-cart-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De tuinier met kruiwagen — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The gardener with a wheelbarrow — miniature alone; black primer with white drybrush"
+          "nl": "De tuinier met kruiwagen — het product",
+          "en": "The gardener with a wheelbarrow — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-walker-dog",
@@ -300,38 +313,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-walker-dog-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-walker-dog-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De wandelaar met hond — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The walker with a dog — miniature alone; black primer with white drybrush"
+              "nl": "De wandelaar met hond — het product",
+              "en": "The walker with a dog — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "49ed56c80f090d773911533e10fadb8eea2ee54c8f68d305383a86a28ac13281",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-walker-dog-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-walker-dog-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De wandelaar met hond — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The walker with a dog — beside a bonsai; black primer with white drybrush"
+              "nl": "De wandelaar met hond — in een bonsaiopstelling",
+              "en": "The walker with a dog — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "49ed56c80f090d773911533e10fadb8eea2ee54c8f68d305383a86a28ac13281",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-walker-dog-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-walker-dog-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De wandelaar met hond — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The walker with a dog — miniature alone; black primer with white drybrush"
+          "nl": "De wandelaar met hond — het product",
+          "en": "The walker with a dog — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-root-relief-table",
@@ -372,68 +389,80 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-root-relief-table-wood-v1-context-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-root-relief-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Wortelreliëftafel met één passende bonsai",
-              "en": "Root relief table with one matching bonsai"
+              "nl": "Wortelreliëftafel — het product",
+              "en": "Root relief table — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f"
+          },
+          {
+            "image": "model-photos-v1/bonsai-root-relief-table-product-black-v1.webp",
+            "alt": {
+              "nl": "Wortelreliëftafel — het product",
+              "en": "Root relief table — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f"
+          },
+          {
+            "image": "model-photos-v1/bonsai-root-relief-table-context-wood-v1.webp",
+            "alt": {
+              "nl": "Wortelreliëftafel — in een bonsaiopstelling",
+              "en": "Root relief table — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/bonsai-root-relief-table-black-v1.webp",
+            "image": "model-photos-v1/bonsai-root-relief-table-context-black-v1.webp",
             "alt": {
-              "nl": "Wortelreliëftafel met één passende bonsai",
-              "en": "Root relief table with one matching bonsai"
+              "nl": "Wortelreliëftafel — in een bonsaiopstelling",
+              "en": "Root relief table — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/bonsai-root-relief-table-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelreliëftafel — alleen het product",
-              "en": "Root relief table — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/bonsai-root-relief-table-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelreliëftafel — alleen het product",
-              "en": "Root relief table — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/bonsai-root-relief-table-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-root-relief-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Wortelreliëftafel — alleen het product",
-              "en": "Root relief table — product alone"
+              "nl": "Wortelreliëftafel — het product",
+              "en": "Root relief table — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f"
           },
           "black": {
-            "image": "ordinary-photos/bonsai-root-relief-table-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-root-relief-table-product-black-v1.webp",
             "alt": {
-              "nl": "Wortelreliëftafel — alleen het product",
-              "en": "Root relief table — product alone"
+              "nl": "Wortelreliëftafel — het product",
+              "en": "Root relief table — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f"
           }
         },
-        "image": "ordinary-photos/bonsai-root-relief-table-wood-v1-natural-v1.webp",
+        "image": "model-photos-v1/bonsai-root-relief-table-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Wortelreliëftafel — alleen het product",
-          "en": "Root relief table — product alone"
+          "nl": "Wortelreliëftafel — het product",
+          "en": "Root relief table — product view"
         },
         "visualKind": "isolatedConcept",
         "imageStyle": "exhibition",
@@ -479,68 +508,80 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-flow-edge-table-wood-v1.webp",
+            "image": "model-photos-v1/bonsai-flow-edge-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Schorsrandtafel met één passende bonsai",
-              "en": "Bark edge table with one matching bonsai"
+              "nl": "Schorsrandtafel — het product",
+              "en": "Bark edge table — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2"
+          },
+          {
+            "image": "model-photos-v1/bonsai-flow-edge-table-product-black-v1.webp",
+            "alt": {
+              "nl": "Schorsrandtafel — het product",
+              "en": "Bark edge table — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2"
+          },
+          {
+            "image": "model-photos-v1/bonsai-flow-edge-table-context-wood-v1.webp",
+            "alt": {
+              "nl": "Schorsrandtafel — in een bonsaiopstelling",
+              "en": "Bark edge table — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/bonsai-flow-edge-table-black-v1.webp",
+            "image": "model-photos-v1/bonsai-flow-edge-table-context-black-v1.webp",
             "alt": {
-              "nl": "Schorsrandtafel met één passende bonsai",
-              "en": "Bark edge table with one matching bonsai"
+              "nl": "Schorsrandtafel — in een bonsaiopstelling",
+              "en": "Bark edge table — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/bonsai-flow-edge-table-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Schorsrandtafel — alleen het product",
-              "en": "Bark edge table — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/bonsai-flow-edge-table-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Schorsrandtafel — alleen het product",
-              "en": "Bark edge table — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/bonsai-flow-edge-table-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-flow-edge-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Schorsrandtafel — alleen het product",
-              "en": "Bark edge table — product alone"
+              "nl": "Schorsrandtafel — het product",
+              "en": "Bark edge table — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2"
           },
           "black": {
-            "image": "ordinary-photos/bonsai-flow-edge-table-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-flow-edge-table-product-black-v1.webp",
             "alt": {
-              "nl": "Schorsrandtafel — alleen het product",
-              "en": "Bark edge table — product alone"
+              "nl": "Schorsrandtafel — het product",
+              "en": "Bark edge table — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2"
           }
         },
-        "image": "ordinary-photos/bonsai-flow-edge-table-wood-v1-natural-v1.webp",
+        "image": "model-photos-v1/bonsai-flow-edge-table-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Schorsrandtafel — alleen het product",
-          "en": "Bark edge table — product alone"
+          "nl": "Schorsrandtafel — het product",
+          "en": "Bark edge table — product view"
         },
         "visualKind": "isolatedConcept",
         "imageStyle": "exhibition",
@@ -586,68 +627,80 @@
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-branchwork-table-wood-v1.webp",
+            "image": "model-photos-v1/bonsai-branchwork-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Takkenwerktafel met één passende bonsai",
-              "en": "Branchwork table with one matching bonsai"
+              "nl": "Takkenwerktafel — het product",
+              "en": "Branchwork table — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5"
+          },
+          {
+            "image": "model-photos-v1/bonsai-branchwork-table-product-black-v1.webp",
+            "alt": {
+              "nl": "Takkenwerktafel — het product",
+              "en": "Branchwork table — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5"
+          },
+          {
+            "image": "model-photos-v1/bonsai-branchwork-table-context-wood-v1.webp",
+            "alt": {
+              "nl": "Takkenwerktafel — in een bonsaiopstelling",
+              "en": "Branchwork table — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/bonsai-branchwork-table-black-v1.webp",
+            "image": "model-photos-v1/bonsai-branchwork-table-context-black-v1.webp",
             "alt": {
-              "nl": "Takkenwerktafel met één passende bonsai",
-              "en": "Branchwork table with one matching bonsai"
+              "nl": "Takkenwerktafel — in een bonsaiopstelling",
+              "en": "Branchwork table — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/bonsai-branchwork-table-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Takkenwerktafel — alleen het product",
-              "en": "Branchwork table — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/bonsai-branchwork-table-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Takkenwerktafel — alleen het product",
-              "en": "Branchwork table — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/bonsai-branchwork-table-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-branchwork-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Takkenwerktafel — alleen het product",
-              "en": "Branchwork table — product alone"
+              "nl": "Takkenwerktafel — het product",
+              "en": "Branchwork table — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5"
           },
           "black": {
-            "image": "ordinary-photos/bonsai-branchwork-table-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-branchwork-table-product-black-v1.webp",
             "alt": {
-              "nl": "Takkenwerktafel — alleen het product",
-              "en": "Branchwork table — product alone"
+              "nl": "Takkenwerktafel — het product",
+              "en": "Branchwork table — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5"
           }
         },
-        "image": "ordinary-photos/bonsai-branchwork-table-wood-v1-natural-v1.webp",
+        "image": "model-photos-v1/bonsai-branchwork-table-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Takkenwerktafel — alleen het product",
-          "en": "Branchwork table — product alone"
+          "nl": "Takkenwerktafel — het product",
+          "en": "Branchwork table — product view"
         },
         "visualKind": "isolatedConcept",
         "imageStyle": "exhibition",
@@ -693,38 +746,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-garden-bench-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-garden-bench-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "Samen op het tuinbankje — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "Together on the garden bench — miniature alone; black primer with white drybrush"
+              "nl": "Samen op het tuinbankje — het product",
+              "en": "Together on the garden bench — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": false,
+            "modelGeometryReferenceHash": null,
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-garden-bench-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-garden-bench-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "Samen op het tuinbankje — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "Together on the garden bench — beside a bonsai; black primer with white drybrush"
+              "nl": "Samen op het tuinbankje — in een bonsaiopstelling",
+              "en": "Together on the garden bench — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": false,
+            "modelGeometryReferenceHash": null,
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-garden-bench-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-garden-bench-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "Samen op het tuinbankje — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "Together on the garden bench — miniature alone; black primer with white drybrush"
+          "nl": "Samen op het tuinbankje — het product",
+          "en": "Together on the garden bench — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-hedgehog",
@@ -765,38 +822,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-hedgehog-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-hedgehog-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De egel — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The hedgehog — miniature alone; black primer with white drybrush"
+              "nl": "De egel — het product",
+              "en": "The hedgehog — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "8c936e6db1d5fc07d1aba797117dc9bf7f442e70a9d0abb3083fd78cb4658c4b",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-hedgehog-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-hedgehog-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De egel — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The hedgehog — beside a bonsai; black primer with white drybrush"
+              "nl": "De egel — in een bonsaiopstelling",
+              "en": "The hedgehog — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "8c936e6db1d5fc07d1aba797117dc9bf7f442e70a9d0abb3083fd78cb4658c4b",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-hedgehog-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-hedgehog-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De egel — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The hedgehog — miniature alone; black primer with white drybrush"
+          "nl": "De egel — het product",
+          "en": "The hedgehog — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-robin",
@@ -837,38 +898,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-robin-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-robin-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "Het roodborstje — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The robin — miniature alone; black primer with white drybrush"
+              "nl": "Het roodborstje — het product",
+              "en": "The robin — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "090f8931d02207a81e200d1e1f42f3a4a8c03e13266d03fbd3cf516a81550825",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-robin-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-robin-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "Het roodborstje — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The robin — beside a bonsai; black primer with white drybrush"
+              "nl": "Het roodborstje — in een bonsaiopstelling",
+              "en": "The robin — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "090f8931d02207a81e200d1e1f42f3a4a8c03e13266d03fbd3cf516a81550825",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-robin-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-robin-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "Het roodborstje — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The robin — miniature alone; black primer with white drybrush"
+          "nl": "Het roodborstje — het product",
+          "en": "The robin — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-hare",
@@ -909,38 +974,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-hare-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-hare-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De haas — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The hare — miniature alone; black primer with white drybrush"
+              "nl": "De haas — het product",
+              "en": "The hare — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2341e3f4523555bc1b25f719c7fa3d83dfe5600765028e5b25ee37ef9b4910f7",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-hare-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-hare-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De haas — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The hare — beside a bonsai; black primer with white drybrush"
+              "nl": "De haas — in een bonsaiopstelling",
+              "en": "The hare — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2341e3f4523555bc1b25f719c7fa3d83dfe5600765028e5b25ee37ef9b4910f7",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-hare-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-hare-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De haas — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The hare — miniature alone; black primer with white drybrush"
+          "nl": "De haas — het product",
+          "en": "The hare — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-watergiver",
@@ -980,39 +1049,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-watergiver-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-watergiver-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De watergever — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The watergiver — miniature alone; black primer with white drybrush"
+              "nl": "De watergever — het product",
+              "en": "The watergiver — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "acdecf2697729dd23af52acac3b654a599868b9605514f3d50fdb8fb0ce83e17",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-watergiver-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-watergiver-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De watergever — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The watergiver — beside a bonsai; black primer with white drybrush"
+              "nl": "De watergever — in een bonsaiopstelling",
+              "en": "The watergiver — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "acdecf2697729dd23af52acac3b654a599868b9605514f3d50fdb8fb0ce83e17",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-watergiver-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-watergiver-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De watergever — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The watergiver — miniature alone; black primer with white drybrush"
+          "nl": "De watergever — het product",
+          "en": "The watergiver — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-branch-pruner",
@@ -1052,39 +1124,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-branch-pruner-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-branch-pruner-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De takverzorger — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The branch tender — miniature alone; black primer with white drybrush"
+              "nl": "De takverzorger — het product",
+              "en": "The branch tender — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "559666865c2bb4a017e4000787b766c9ef8f5566d87f026e8f76359610a96a1f",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-branch-pruner-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-branch-pruner-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De takverzorger — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The branch tender — beside a bonsai; black primer with white drybrush"
+              "nl": "De takverzorger — in een bonsaiopstelling",
+              "en": "The branch tender — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "559666865c2bb4a017e4000787b766c9ef8f5566d87f026e8f76359610a96a1f",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-branch-pruner-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-branch-pruner-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De takverzorger — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The branch tender — miniature alone; black primer with white drybrush"
+          "nl": "De takverzorger — het product",
+          "en": "The branch tender — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-root-squirrel",
@@ -1124,39 +1199,42 @@
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-root-squirrel-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-root-squirrel-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The curious squirrel — miniature alone; black primer with white drybrush"
+              "nl": "De nieuwsgierige eekhoorn — het product",
+              "en": "The curious squirrel — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "1bdfce83284ce2451165fb57d04ae6fa9d0e384ece1408870f3c594e284a1e44",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-root-squirrel-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-root-squirrel-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De nieuwsgierige eekhoorn — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The curious squirrel — beside a bonsai; black primer with white drybrush"
+              "nl": "De nieuwsgierige eekhoorn — in een bonsaiopstelling",
+              "en": "The curious squirrel — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "1bdfce83284ce2451165fb57d04ae6fa9d0e384ece1408870f3c594e284a1e44",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "ordinary-photos/bonsai-mini-root-squirrel-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-root-squirrel-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De nieuwsgierige eekhoorn — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The curious squirrel — miniature alone; black primer with white drybrush"
+          "nl": "De nieuwsgierige eekhoorn — het product",
+          "en": "The curious squirrel — product view"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-root-pedestal",
@@ -1186,71 +1264,81 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-root-pedestal-wood-v1.webp",
+            "image": "model-photos-v1/bonsai-root-pedestal-product-wood-v1.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard met één passende bonsai",
-              "en": "Round root pedestal with one matching bonsai"
+              "nl": "Ronde wortelstandaard — het product",
+              "en": "Round root pedestal — product view"
             },
-            "visualKind": "arrangement",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a"
+          },
+          {
+            "image": "model-photos-v1/bonsai-root-pedestal-product-black-v1.webp",
+            "alt": {
+              "nl": "Ronde wortelstandaard — het product",
+              "en": "Round root pedestal — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a"
+          },
+          {
+            "image": "model-photos-v1/bonsai-root-pedestal-context-wood-v1.webp",
+            "alt": {
+              "nl": "Ronde wortelstandaard — in een bonsaiopstelling",
+              "en": "Round root pedestal — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/bonsai-root-pedestal-black-v1.webp",
+            "image": "model-photos-v1/bonsai-root-pedestal-context-black-v1.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard met één passende bonsai",
-              "en": "Round root pedestal with one matching bonsai"
+              "nl": "Ronde wortelstandaard — in een bonsaiopstelling",
+              "en": "Round root pedestal — in a bonsai arrangement"
             },
-            "visualKind": "arrangement",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/bonsai-root-pedestal-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Ronde wortelstandaard — alleen het product",
-              "en": "Round root pedestal — product alone"
-            },
-            "visualKind": "isolated",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/bonsai-root-pedestal-recreated-v1.webp",
-            "alt": {
-              "nl": "Ronde wortelstandaard",
-              "en": "Round root pedestal"
-            },
-            "visualKind": "isolated",
-            "photoRole": "product",
-            "referenceRecreation": true
           }
         ],
-        "image": "ordinary-photos/bonsai-root-pedestal-recreated-v1.webp",
+        "image": "model-photos-v1/bonsai-root-pedestal-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Ronde wortelstandaard",
-          "en": "Round root pedestal"
+          "nl": "Ronde wortelstandaard — het product",
+          "en": "Round root pedestal — product view"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/bonsai-root-pedestal-recreated-v1.webp",
+            "image": "model-photos-v1/bonsai-root-pedestal-product-wood-v1.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard",
-              "en": "Round root pedestal"
+              "nl": "Ronde wortelstandaard — het product",
+              "en": "Round root pedestal — product view"
             },
-            "visualKind": "isolated",
             "photoRole": "product",
-            "referenceRecreation": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a"
           },
           "black": {
-            "image": "ordinary-photos/bonsai-root-pedestal-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-root-pedestal-product-black-v1.webp",
             "alt": {
-              "nl": "Ronde wortelstandaard — alleen het product",
-              "en": "Round root pedestal — product alone"
+              "nl": "Ronde wortelstandaard — het product",
+              "en": "Round root pedestal — product view"
             },
-            "visualKind": "isolated",
-            "photoRole": "product"
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a"
           }
         },
         "availability": "enquiry",
@@ -1261,8 +1349,7 @@
           "kind": "indicative"
         },
         "photoSequence": "product-context",
-        "photoRole": "product",
-        "referenceRecreation": true
+        "photoRole": "product"
       },
       {
         "id": "bonsai-open-root-pedestal",
@@ -1292,71 +1379,81 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-open-root-pedestal-wood-v1.webp",
+            "image": "model-photos-v1/bonsai-open-root-pedestal-product-wood-v1.webp",
             "alt": {
-              "nl": "Open wortelstandaard met één passende bonsai",
-              "en": "Open root pedestal with one matching bonsai"
+              "nl": "Open wortelstandaard — het product",
+              "en": "Open root pedestal — product view"
             },
-            "visualKind": "arrangement",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4"
+          },
+          {
+            "image": "model-photos-v1/bonsai-open-root-pedestal-product-black-v1.webp",
+            "alt": {
+              "nl": "Open wortelstandaard — het product",
+              "en": "Open root pedestal — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4"
+          },
+          {
+            "image": "model-photos-v1/bonsai-open-root-pedestal-context-wood-v1.webp",
+            "alt": {
+              "nl": "Open wortelstandaard — in een bonsaiopstelling",
+              "en": "Open root pedestal — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/bonsai-open-root-pedestal-black-v1.webp",
+            "image": "model-photos-v1/bonsai-open-root-pedestal-context-black-v1.webp",
             "alt": {
-              "nl": "Open wortelstandaard met één passende bonsai",
-              "en": "Open root pedestal with one matching bonsai"
+              "nl": "Open wortelstandaard — in een bonsaiopstelling",
+              "en": "Open root pedestal — in a bonsai arrangement"
             },
-            "visualKind": "arrangement",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/bonsai-open-root-pedestal-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Open wortelstandaard — alleen het product",
-              "en": "Open root pedestal — product alone"
-            },
-            "visualKind": "isolated",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/bonsai-open-root-pedestal-recreated-v1.webp",
-            "alt": {
-              "nl": "Open wortelstandaard",
-              "en": "Open root pedestal"
-            },
-            "visualKind": "isolated",
-            "photoRole": "product",
-            "referenceRecreation": true
           }
         ],
-        "image": "ordinary-photos/bonsai-open-root-pedestal-recreated-v1.webp",
+        "image": "model-photos-v1/bonsai-open-root-pedestal-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Open wortelstandaard",
-          "en": "Open root pedestal"
+          "nl": "Open wortelstandaard — het product",
+          "en": "Open root pedestal — product view"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/bonsai-open-root-pedestal-recreated-v1.webp",
+            "image": "model-photos-v1/bonsai-open-root-pedestal-product-wood-v1.webp",
             "alt": {
-              "nl": "Open wortelstandaard",
-              "en": "Open root pedestal"
+              "nl": "Open wortelstandaard — het product",
+              "en": "Open root pedestal — product view"
             },
-            "visualKind": "isolated",
             "photoRole": "product",
-            "referenceRecreation": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4"
           },
           "black": {
-            "image": "ordinary-photos/bonsai-open-root-pedestal-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-open-root-pedestal-product-black-v1.webp",
             "alt": {
-              "nl": "Open wortelstandaard — alleen het product",
-              "en": "Open root pedestal — product alone"
+              "nl": "Open wortelstandaard — het product",
+              "en": "Open root pedestal — product view"
             },
-            "visualKind": "isolated",
-            "photoRole": "product"
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4"
           }
         },
         "availability": "enquiry",
@@ -1367,24 +1464,23 @@
           "kind": "indicative"
         },
         "photoSequence": "product-context",
-        "photoRole": "product",
-        "referenceRecreation": true
+        "photoRole": "product"
       },
       {
         "id": "bonsai-oval-jita",
         "category": "display",
         "displayType": "jita",
         "name": {
-          "nl": "Ovale jita",
-          "en": "Oval jita"
+          "nl": "Ronde jita",
+          "en": "Round jita"
         },
         "short": {
-          "nl": "Een dun, ovaal plaatje met een afgeronde rand.",
-          "en": "A thin oval display board with a rounded edge."
+          "nl": "Een dun, rond plaatje met een afgeronde rand.",
+          "en": "A thin round display board with a rounded edge."
         },
         "detail": {
-          "nl": "Een eenvoudig ovaal plaatje voor onder een klein object, met een dunne rand die rond is afgewerkt. Dit ontwerp is nog niet geprint. We bespreken de maat, het materiaal, de afwerking en wat erop moet staan voordat ik het verder uitwerk.",
-          "en": "A simple oval board for a small object, with a thin, rounded edge. This design has not been printed yet. We discuss the size, material, finish and what it needs to hold before I work it out further."
+          "nl": "Een eenvoudig rond plaatje voor onder een klein object, met een dunne rand die rond is afgewerkt. Dit ontwerp is nog niet geprint. We bespreken de maat, het materiaal, de afwerking en wat erop moet staan voordat ik het verder uitwerk.",
+          "en": "A simple round board for a small object, with a thin, rounded edge. This design has not been printed yet. We discuss the size, material, finish and what it needs to hold before I work it out further."
         },
         "spec": {
           "nl": "Ontwerpvoorstel · maat en uitvoering op aanvraag",
@@ -1399,107 +1495,83 @@
         "zone": "presentation",
         "stage": "future",
         "newDesign": true,
-        "image": "ordinary-photos/bonsai-oval-jita-wood-v1-natural-v1.webp",
+        "image": "model-photos-v1/bonsai-oval-jita-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Ovale jita — alleen het product",
-          "en": "Oval jita — product alone"
+          "nl": "Ronde jita — het product",
+          "en": "Round jita — product view"
         },
         "visualKind": "isolatedConcept",
         "imageStyle": "exhibition",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/bonsai-oval-jita-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-oval-jita-product-wood-v1.webp",
             "alt": {
-              "nl": "Ovale jita — alleen het product",
-              "en": "Oval jita — product alone"
+              "nl": "Ronde jita — het product",
+              "en": "Round jita — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21"
           },
           "black": {
-            "image": "ordinary-photos/bonsai-oval-jita-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/bonsai-oval-jita-product-black-v1.webp",
             "alt": {
-              "nl": "Ovale jita — alleen het product",
-              "en": "Oval jita — product alone"
+              "nl": "Ronde jita — het product",
+              "en": "Round jita — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21"
           }
         },
         "gallery": [
           {
-            "image": "atelier/bonsai-oval-jita-wood-v1.webp",
+            "image": "model-photos-v1/bonsai-oval-jita-product-wood-v1.webp",
             "alt": {
-              "nl": "Ovale jita met passende boom of tentoonstellingselement",
-              "en": "Oval jita with a matching tree or exhibition element"
+              "nl": "Ronde jita — het product",
+              "en": "Round jita — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21"
+          },
+          {
+            "image": "model-photos-v1/bonsai-oval-jita-product-black-v1.webp",
+            "alt": {
+              "nl": "Ronde jita — het product",
+              "en": "Round jita — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21"
+          },
+          {
+            "image": "model-photos-v1/bonsai-oval-jita-context-wood-v1.webp",
+            "alt": {
+              "nl": "Ronde jita — in een bonsaiopstelling",
+              "en": "Round jita — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21",
             "contextFinish": "wood"
           },
           {
-            "image": "atelier/bonsai-oval-jita-black-v1.webp",
+            "image": "model-photos-v1/bonsai-oval-jita-context-black-v1.webp",
             "alt": {
-              "nl": "Ovale jita met passende boom of tentoonstellingselement",
-              "en": "Oval jita with a matching tree or exhibition element"
+              "nl": "Ronde jita — in een bonsaiopstelling",
+              "en": "Round jita — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/bonsai-oval-jita-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Ovale jita — alleen het product",
-              "en": "Oval jita — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/bonsai-oval-jita-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Ovale jita — alleen het product",
-              "en": "Oval jita — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "display-designs/oval-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ovale jita",
-              "en": "Oval jita"
-            }
-          },
-          {
-            "image": "display-designs/oval-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ovale jita",
-              "en": "Oval jita"
-            }
-          },
-          {
-            "image": "display-designs/oval-jita-black-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ovale jita",
-              "en": "Oval jita"
-            }
-          },
-          {
-            "image": "display-designs/oval-jita-wood-v1.webp",
-            "visualKind": "displayConcept",
-            "imageStyle": "exhibition",
-            "alt": {
-              "nl": "Ovale jita",
-              "en": "Oval jita"
-            }
           }
         ],
         "availability": "enquiry",
@@ -1537,33 +1609,36 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "ordinary-photos/bonsai-firethorn-pot-recreated-v1.webp",
-        "visualKind": "isolated",
+        "image": "model-photos-v1/bonsai-firethorn-pot-product-white-v1.webp",
+        "visualKind": "isolatedConcept",
         "archiveId": "bonsai-firethorn-pot",
         "imageAlt": {
-          "nl": "Takkenpot",
-          "en": "Branch pot"
+          "nl": "Takkenpot — het product",
+          "en": "Branch pot — product view"
         },
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-firethorn-pot-white-v2.webp",
+            "image": "model-photos-v1/bonsai-firethorn-pot-product-white-v1.webp",
             "alt": {
-              "nl": "Witte Takkenpot met vuurdoorn en oranjerode bessen",
-              "en": "White branch pot with firethorn and orange-red berries"
+              "nl": "Takkenpot — het product",
+              "en": "Branch pot — product view"
             },
-            "visualKind": "arrangement",
-            "photoRole": "context",
-            "contextFinish": "own"
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c8827a8f13b57c3ee667e174ada82cc59a7ce16d3fb7347e37fee4839d1dbf58"
           },
           {
-            "image": "ordinary-photos/bonsai-firethorn-pot-recreated-v1.webp",
+            "image": "model-photos-v1/bonsai-firethorn-pot-context-white-v1.webp",
             "alt": {
-              "nl": "Takkenpot",
-              "en": "Branch pot"
+              "nl": "Takkenpot — in een bonsaiopstelling",
+              "en": "Branch pot — in a bonsai arrangement"
             },
-            "visualKind": "isolated",
-            "photoRole": "product",
-            "referenceRecreation": true
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "c8827a8f13b57c3ee667e174ada82cc59a7ce16d3fb7347e37fee4839d1dbf58",
+            "contextFinish": "own"
           }
         ],
         "zone": "presentation",
@@ -1575,8 +1650,7 @@
           "kind": "indicative"
         },
         "photoSequence": "product-context",
-        "photoRole": "product",
-        "referenceRecreation": true
+        "photoRole": "product"
       },
       {
         "id": "bonsai-red-branch-relief-pot",
@@ -1603,34 +1677,37 @@
           "custom"
         ],
         "stage": "printed",
-        "image": "ordinary-photos/bonsai-red-branch-relief-pot-recreated-v1.webp",
-        "visualKind": "isolated",
+        "image": "model-photos-v1/bonsai-red-branch-relief-pot-product-red-v1.webp",
+        "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/bonsai-red-branch-relief-pot-own-v1.webp",
+            "image": "model-photos-v1/bonsai-red-branch-relief-pot-product-red-v1.webp",
             "alt": {
-              "nl": "Rode takkenpot met één passende bonsai",
-              "en": "Red branch pot with one matching bonsai"
+              "nl": "Rode takkenpot — het product",
+              "en": "Red branch pot — product view"
             },
-            "visualKind": "arrangement",
-            "photoRole": "context",
-            "contextFinish": "own"
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "19fb1d9ef571edd1979add4c047cc4a67fbb3b5bb44ff60e7ba568189593d156"
           },
           {
-            "image": "ordinary-photos/bonsai-red-branch-relief-pot-recreated-v1.webp",
+            "image": "model-photos-v1/bonsai-red-branch-relief-pot-context-red-v1.webp",
             "alt": {
-              "nl": "Rode takkenpot",
-              "en": "Red branch pot"
+              "nl": "Rode takkenpot — in een bonsaiopstelling",
+              "en": "Red branch pot — in a bonsai arrangement"
             },
-            "visualKind": "isolated",
-            "photoRole": "product",
-            "referenceRecreation": true
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "19fb1d9ef571edd1979add4c047cc4a67fbb3b5bb44ff60e7ba568189593d156",
+            "contextFinish": "own"
           }
         ],
         "archiveId": "bonsai-red-branch-relief-pot",
         "imageAlt": {
-          "nl": "Rode takkenpot",
-          "en": "Red branch pot"
+          "nl": "Rode takkenpot — het product",
+          "en": "Red branch pot — product view"
         },
         "zone": "presentation",
         "availability": "stock",
@@ -1641,8 +1718,7 @@
           "kind": "indicative"
         },
         "photoSequence": "product-context",
-        "photoRole": "product",
-        "referenceRecreation": true
+        "photoRole": "product"
       },
       {
         "id": "pot-rootflow",
@@ -1682,67 +1758,79 @@
         },
         "finishes": {
           "black": {
-            "image": "ordinary-photos/pot-rootflow-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/pot-rootflow-product-black-v1.webp",
             "alt": {
-              "nl": "Wortelboog-schaal — alleen het product",
-              "en": "Root arch pot — product alone"
+              "nl": "Wortelboog-schaal — het product",
+              "en": "Root arch pot — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
           },
           "grey": {
-            "image": "ordinary-photos/pot-rootflow-grey-v1-natural-v1.webp",
+            "image": "model-photos-v1/pot-rootflow-product-grey-v1.webp",
             "alt": {
-              "nl": "Wortelboog-schaal — alleen het product",
-              "en": "Root arch pot — product alone"
+              "nl": "Wortelboog-schaal — het product",
+              "en": "Root arch pot — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
           }
         },
-        "image": "ordinary-photos/pot-rootflow-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/pot-rootflow-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Wortelboog-schaal — alleen het product",
-          "en": "Root arch pot — product alone"
+          "nl": "Wortelboog-schaal — het product",
+          "en": "Root arch pot — product view"
         },
         "gallery": [
           {
-            "image": "ordinary-photos/pot-rootflow-black-v1-context-natural-v1.webp",
+            "image": "model-photos-v1/pot-rootflow-product-black-v1.webp",
             "alt": {
-              "nl": "Wortelboog-schaal met bonsai in ruw zwart",
-              "en": "Root arch pot with bonsai in raw black"
+              "nl": "Wortelboog-schaal — het product",
+              "en": "Root arch pot — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
+          },
+          {
+            "image": "model-photos-v1/pot-rootflow-product-grey-v1.webp",
+            "alt": {
+              "nl": "Wortelboog-schaal — het product",
+              "en": "Root arch pot — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
+          },
+          {
+            "image": "model-photos-v1/pot-rootflow-context-black-v1.webp",
+            "alt": {
+              "nl": "Wortelboog-schaal — in een bonsaiopstelling",
+              "en": "Root arch pot — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/pot-rootflow-grey-v1.webp",
+            "image": "model-photos-v1/pot-rootflow-context-grey-v1.webp",
             "alt": {
-              "nl": "Wortelboog-schaal met bonsai in ruw grijs",
-              "en": "Root arch pot with bonsai in raw grey"
+              "nl": "Wortelboog-schaal — in een bonsaiopstelling",
+              "en": "Root arch pot — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d",
             "contextFinish": "grey"
-          },
-          {
-            "image": "ordinary-photos/pot-rootflow-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — alleen het product",
-              "en": "Root arch pot — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/pot-rootflow-grey-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — alleen het product",
-              "en": "Root arch pot — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "photoSequence": "product-context",
@@ -1786,67 +1874,79 @@
         },
         "finishes": {
           "black": {
-            "image": "ordinary-photos/pot-strata-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/pot-strata-product-black-v1.webp",
             "alt": {
-              "nl": "Breuklijn-schaal — alleen het product",
-              "en": "Faultline pot — product alone"
+              "nl": "Breuklijn-schaal — het product",
+              "en": "Faultline pot — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
           },
           "grey": {
-            "image": "ordinary-photos/pot-strata-grey-v1-natural-v1.webp",
+            "image": "model-photos-v1/pot-strata-product-grey-v1.webp",
             "alt": {
-              "nl": "Breuklijn-schaal — alleen het product",
-              "en": "Faultline pot — product alone"
+              "nl": "Breuklijn-schaal — het product",
+              "en": "Faultline pot — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
           }
         },
-        "image": "ordinary-photos/pot-strata-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/pot-strata-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Breuklijn-schaal — alleen het product",
-          "en": "Faultline pot — product alone"
+          "nl": "Breuklijn-schaal — het product",
+          "en": "Faultline pot — product view"
         },
         "gallery": [
           {
-            "image": "tree-proportions/pot-strata-black-v1.webp",
+            "image": "model-photos-v1/pot-strata-product-black-v1.webp",
             "alt": {
-              "nl": "Breuklijn-schaal met bonsai in ruw zwart",
-              "en": "Faultline pot with bonsai in raw black"
+              "nl": "Breuklijn-schaal — het product",
+              "en": "Faultline pot — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
+          },
+          {
+            "image": "model-photos-v1/pot-strata-product-grey-v1.webp",
+            "alt": {
+              "nl": "Breuklijn-schaal — het product",
+              "en": "Faultline pot — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
+          },
+          {
+            "image": "model-photos-v1/pot-strata-context-black-v1.webp",
+            "alt": {
+              "nl": "Breuklijn-schaal — in een bonsaiopstelling",
+              "en": "Faultline pot — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/pot-strata-grey-v1.webp",
+            "image": "model-photos-v1/pot-strata-context-grey-v1.webp",
             "alt": {
-              "nl": "Breuklijn-schaal met bonsai in ruw grijs",
-              "en": "Faultline pot with bonsai in raw grey"
+              "nl": "Breuklijn-schaal — in een bonsaiopstelling",
+              "en": "Faultline pot — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140",
             "contextFinish": "grey"
-          },
-          {
-            "image": "ordinary-photos/pot-strata-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — alleen het product",
-              "en": "Faultline pot — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/pot-strata-grey-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — alleen het product",
-              "en": "Faultline pot — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "photoSequence": "product-context",
@@ -1890,67 +1990,79 @@
         },
         "finishes": {
           "black": {
-            "image": "ordinary-photos/pot-cascade-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/pot-cascade-product-black-v1.webp",
             "alt": {
-              "nl": "Wervelcascade-schaal — alleen het product",
-              "en": "Spiral cascade pot — product alone"
+              "nl": "Wervelcascade-schaal — het product",
+              "en": "Spiral cascade pot — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
           },
           "grey": {
-            "image": "ordinary-photos/pot-cascade-grey-v1-natural-v1.webp",
+            "image": "model-photos-v1/pot-cascade-product-grey-v1.webp",
             "alt": {
-              "nl": "Wervelcascade-schaal — alleen het product",
-              "en": "Spiral cascade pot — product alone"
+              "nl": "Wervelcascade-schaal — het product",
+              "en": "Spiral cascade pot — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
           }
         },
-        "image": "ordinary-photos/pot-cascade-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/pot-cascade-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Wervelcascade-schaal — alleen het product",
-          "en": "Spiral cascade pot — product alone"
+          "nl": "Wervelcascade-schaal — het product",
+          "en": "Spiral cascade pot — product view"
         },
         "gallery": [
           {
-            "image": "tree-proportions/pot-cascade-black-v1.webp",
+            "image": "model-photos-v1/pot-cascade-product-black-v1.webp",
             "alt": {
-              "nl": "Wervelcascade-schaal met bonsai in ruw zwart",
-              "en": "Spiral cascade pot with bonsai in raw black"
+              "nl": "Wervelcascade-schaal — het product",
+              "en": "Spiral cascade pot — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
+          },
+          {
+            "image": "model-photos-v1/pot-cascade-product-grey-v1.webp",
+            "alt": {
+              "nl": "Wervelcascade-schaal — het product",
+              "en": "Spiral cascade pot — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
+          },
+          {
+            "image": "model-photos-v1/pot-cascade-context-black-v1.webp",
+            "alt": {
+              "nl": "Wervelcascade-schaal — in een bonsaiopstelling",
+              "en": "Spiral cascade pot — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/pot-cascade-grey-v1.webp",
+            "image": "model-photos-v1/pot-cascade-context-grey-v1.webp",
             "alt": {
-              "nl": "Wervelcascade-schaal met bonsai in ruw grijs",
-              "en": "Spiral cascade pot with bonsai in raw grey"
+              "nl": "Wervelcascade-schaal — in een bonsaiopstelling",
+              "en": "Spiral cascade pot — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0",
             "contextFinish": "grey"
-          },
-          {
-            "image": "ordinary-photos/pot-cascade-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — alleen het product",
-              "en": "Spiral cascade pot — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/pot-cascade-grey-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — alleen het product",
-              "en": "Spiral cascade pot — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "photoSequence": "product-context",
@@ -1982,50 +2094,58 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/accent-moss-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/accent-moss-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Moseiland — alleen het product",
-          "en": "Moss island — product alone"
+          "nl": "Moseiland — het product",
+          "en": "Moss island — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/accent-moss-black-v1.webp",
+            "image": "model-photos-v1/accent-moss-product-black-v1.webp",
             "alt": {
-              "nl": "Moseiland met kleine accentbeplanting in ruw zwart",
-              "en": "Moss island with small accent plants in raw black"
+              "nl": "Moseiland — het product",
+              "en": "Moss island — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771"
+          },
+          {
+            "image": "model-photos-v1/accent-moss-product-wood-v1.webp",
+            "alt": {
+              "nl": "Moseiland — het product",
+              "en": "Moss island — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771"
+          },
+          {
+            "image": "model-photos-v1/accent-moss-context-black-v1.webp",
+            "alt": {
+              "nl": "Moseiland — in een bonsaiopstelling",
+              "en": "Moss island — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/accent-moss-wood-v1.webp",
+            "image": "model-photos-v1/accent-moss-context-wood-v1.webp",
             "alt": {
-              "nl": "Moseiland met kleine accentbeplanting in houtlook",
-              "en": "Moss island with small accent plants in wood look"
+              "nl": "Moseiland — in een bonsaiopstelling",
+              "en": "Moss island — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/accent-moss-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Moseiland — alleen het product",
-              "en": "Moss island — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/accent-moss-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Moseiland — alleen het product",
-              "en": "Moss island — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "newDesign": true,
@@ -2040,22 +2160,26 @@
         "zone": "presentation",
         "finishes": {
           "black": {
-            "image": "ordinary-photos/accent-moss-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-moss-product-black-v1.webp",
             "alt": {
-              "nl": "Moseiland — alleen het product",
-              "en": "Moss island — product alone"
+              "nl": "Moseiland — het product",
+              "en": "Moss island — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771"
           },
           "wood": {
-            "image": "ordinary-photos/accent-moss-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-moss-product-wood-v1.webp",
             "alt": {
-              "nl": "Moseiland — alleen het product",
-              "en": "Moss island — product alone"
+              "nl": "Moseiland — het product",
+              "en": "Moss island — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771"
           }
         },
         "photoSequence": "product-context",
@@ -2087,50 +2211,58 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/accent-ripple-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/accent-ripple-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Rimpelstandaard — alleen het product",
-          "en": "Ripple stand — product alone"
+          "nl": "Rimpelstandaard — het product",
+          "en": "Ripple stand — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/accent-ripple-black-v1.webp",
+            "image": "model-photos-v1/accent-ripple-product-black-v1.webp",
             "alt": {
-              "nl": "Rimpelstandaard met kleine accentbeplanting in ruw zwart",
-              "en": "Ripple stand with small accent plants in raw black"
+              "nl": "Rimpelstandaard — het product",
+              "en": "Ripple stand — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c"
+          },
+          {
+            "image": "model-photos-v1/accent-ripple-product-wood-v1.webp",
+            "alt": {
+              "nl": "Rimpelstandaard — het product",
+              "en": "Ripple stand — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c"
+          },
+          {
+            "image": "model-photos-v1/accent-ripple-context-black-v1.webp",
+            "alt": {
+              "nl": "Rimpelstandaard — in een bonsaiopstelling",
+              "en": "Ripple stand — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/accent-ripple-wood-v1.webp",
+            "image": "model-photos-v1/accent-ripple-context-wood-v1.webp",
             "alt": {
-              "nl": "Rimpelstandaard met kleine accentbeplanting in houtlook",
-              "en": "Ripple stand with small accent plants in wood look"
+              "nl": "Rimpelstandaard — in een bonsaiopstelling",
+              "en": "Ripple stand — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/accent-ripple-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Rimpelstandaard — alleen het product",
-              "en": "Ripple stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/accent-ripple-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Rimpelstandaard — alleen het product",
-              "en": "Ripple stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "newDesign": true,
@@ -2145,22 +2277,26 @@
         "zone": "presentation",
         "finishes": {
           "black": {
-            "image": "ordinary-photos/accent-ripple-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-ripple-product-black-v1.webp",
             "alt": {
-              "nl": "Rimpelstandaard — alleen het product",
-              "en": "Ripple stand — product alone"
+              "nl": "Rimpelstandaard — het product",
+              "en": "Ripple stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c"
           },
           "wood": {
-            "image": "ordinary-photos/accent-ripple-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-ripple-product-wood-v1.webp",
             "alt": {
-              "nl": "Rimpelstandaard — alleen het product",
-              "en": "Ripple stand — product alone"
+              "nl": "Rimpelstandaard — het product",
+              "en": "Ripple stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c"
           }
         },
         "photoSequence": "product-context",
@@ -2205,68 +2341,80 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "black": {
-            "image": "ordinary-photos/accent-root-nest-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-root-nest-product-black-v1.webp",
             "alt": {
-              "nl": "Wortelnest — alleen het product",
-              "en": "Root nest — product alone"
+              "nl": "Wortelnest — het product",
+              "en": "Root nest — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40"
           },
           "wood": {
-            "image": "ordinary-photos/accent-root-nest-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-root-nest-product-wood-v1.webp",
             "alt": {
-              "nl": "Wortelnest — alleen het product",
-              "en": "Root nest — product alone"
+              "nl": "Wortelnest — het product",
+              "en": "Root nest — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40"
           }
         },
         "gallery": [
           {
-            "image": "tree-proportions/accent-root-nest-black-v1.webp",
+            "image": "model-photos-v1/accent-root-nest-product-black-v1.webp",
             "alt": {
-              "nl": "Wortelnest met kleine accentbeplanting in ruw zwart",
-              "en": "Root nest with small accent plants in raw black"
+              "nl": "Wortelnest — het product",
+              "en": "Root nest — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40"
+          },
+          {
+            "image": "model-photos-v1/accent-root-nest-product-wood-v1.webp",
+            "alt": {
+              "nl": "Wortelnest — het product",
+              "en": "Root nest — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40"
+          },
+          {
+            "image": "model-photos-v1/accent-root-nest-context-black-v1.webp",
+            "alt": {
+              "nl": "Wortelnest — in een bonsaiopstelling",
+              "en": "Root nest — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/accent-root-nest-wood-v1.webp",
+            "image": "model-photos-v1/accent-root-nest-context-wood-v1.webp",
             "alt": {
-              "nl": "Wortelnest met kleine accentbeplanting in houtlook",
-              "en": "Root nest with small accent plants in wood look"
+              "nl": "Wortelnest — in een bonsaiopstelling",
+              "en": "Root nest — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/accent-root-nest-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelnest — alleen het product",
-              "en": "Root nest — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/accent-root-nest-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelnest — alleen het product",
-              "en": "Root nest — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
-        "image": "ordinary-photos/accent-root-nest-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/accent-root-nest-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Wortelnest — alleen het product",
-          "en": "Root nest — product alone"
+          "nl": "Wortelnest — het product",
+          "en": "Root nest — product view"
         },
         "photoSequence": "product-context",
         "photoRole": "product"
@@ -2310,68 +2458,80 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "black": {
-            "image": "ordinary-photos/accent-seedpod-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-seedpod-product-black-v1.webp",
             "alt": {
-              "nl": "Zaadhuls — alleen het product",
-              "en": "Seedpod cradle — product alone"
+              "nl": "Zaadhuls — het product",
+              "en": "Seedpod cradle — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19"
           },
           "wood": {
-            "image": "ordinary-photos/accent-seedpod-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-seedpod-product-wood-v1.webp",
             "alt": {
-              "nl": "Zaadhuls — alleen het product",
-              "en": "Seedpod cradle — product alone"
+              "nl": "Zaadhuls — het product",
+              "en": "Seedpod cradle — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19"
           }
         },
         "gallery": [
           {
-            "image": "tree-proportions/accent-seedpod-black-v1.webp",
+            "image": "model-photos-v1/accent-seedpod-product-black-v1.webp",
             "alt": {
-              "nl": "Zaadhuls met kleine accentbeplanting in ruw zwart",
-              "en": "Seedpod cradle with small accent plants in raw black"
+              "nl": "Zaadhuls — het product",
+              "en": "Seedpod cradle — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19"
+          },
+          {
+            "image": "model-photos-v1/accent-seedpod-product-wood-v1.webp",
+            "alt": {
+              "nl": "Zaadhuls — het product",
+              "en": "Seedpod cradle — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19"
+          },
+          {
+            "image": "model-photos-v1/accent-seedpod-context-black-v1.webp",
+            "alt": {
+              "nl": "Zaadhuls — in een bonsaiopstelling",
+              "en": "Seedpod cradle — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/accent-seedpod-wood-v1.webp",
+            "image": "model-photos-v1/accent-seedpod-context-wood-v1.webp",
             "alt": {
-              "nl": "Zaadhuls met kleine accentbeplanting in houtlook",
-              "en": "Seedpod cradle with small accent plants in wood look"
+              "nl": "Zaadhuls — in een bonsaiopstelling",
+              "en": "Seedpod cradle — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/accent-seedpod-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Zaadhuls — alleen het product",
-              "en": "Seedpod cradle — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/accent-seedpod-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Zaadhuls — alleen het product",
-              "en": "Seedpod cradle — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
-        "image": "ordinary-photos/accent-seedpod-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/accent-seedpod-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Zaadhuls — alleen het product",
-          "en": "Seedpod cradle — product alone"
+          "nl": "Zaadhuls — het product",
+          "en": "Seedpod cradle — product view"
         },
         "photoSequence": "product-context",
         "photoRole": "product"
@@ -2415,68 +2575,80 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "black": {
-            "image": "ordinary-photos/accent-rockfold-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-rockfold-product-black-v1.webp",
             "alt": {
-              "nl": "Rotsplooi — alleen het product",
-              "en": "Rock fold — product alone"
+              "nl": "Rotsplooi — het product",
+              "en": "Rock fold — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2"
           },
           "wood": {
-            "image": "ordinary-photos/accent-rockfold-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/accent-rockfold-product-wood-v1.webp",
             "alt": {
-              "nl": "Rotsplooi — alleen het product",
-              "en": "Rock fold — product alone"
+              "nl": "Rotsplooi — het product",
+              "en": "Rock fold — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2"
           }
         },
         "gallery": [
           {
-            "image": "tree-proportions/accent-rockfold-black-v1.webp",
+            "image": "model-photos-v1/accent-rockfold-product-black-v1.webp",
             "alt": {
-              "nl": "Rotsplooi met kleine accentbeplanting in ruw zwart",
-              "en": "Rock fold with small accent plants in raw black"
+              "nl": "Rotsplooi — het product",
+              "en": "Rock fold — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2"
+          },
+          {
+            "image": "model-photos-v1/accent-rockfold-product-wood-v1.webp",
+            "alt": {
+              "nl": "Rotsplooi — het product",
+              "en": "Rock fold — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2"
+          },
+          {
+            "image": "model-photos-v1/accent-rockfold-context-black-v1.webp",
+            "alt": {
+              "nl": "Rotsplooi — in een bonsaiopstelling",
+              "en": "Rock fold — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/accent-rockfold-wood-v1.webp",
+            "image": "model-photos-v1/accent-rockfold-context-wood-v1.webp",
             "alt": {
-              "nl": "Rotsplooi met kleine accentbeplanting in houtlook",
-              "en": "Rock fold with small accent plants in wood look"
+              "nl": "Rotsplooi — in een bonsaiopstelling",
+              "en": "Rock fold — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/accent-rockfold-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Rotsplooi — alleen het product",
-              "en": "Rock fold — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/accent-rockfold-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Rotsplooi — alleen het product",
-              "en": "Rock fold — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
-        "image": "ordinary-photos/accent-rockfold-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/accent-rockfold-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Rotsplooi — alleen het product",
-          "en": "Rock fold — product alone"
+          "nl": "Rotsplooi — het product",
+          "en": "Rock fold — product view"
         },
         "photoSequence": "product-context",
         "photoRole": "product"
@@ -2507,50 +2679,58 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/label-branch-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/label-branch-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Taklijn-kaarthouder — alleen het product",
-          "en": "Branch line label stand — product alone"
+          "nl": "Taklijn-kaarthouder — het product",
+          "en": "Branch line label stand — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/label-branch-wood-v1.webp",
+            "image": "model-photos-v1/label-branch-product-wood-v1.webp",
             "alt": {
-              "nl": "Taklijn-kaarthouder in houtlook naast een bonsai",
-              "en": "Branch line label stand in wood look beside a bonsai"
+              "nl": "Taklijn-kaarthouder — het product",
+              "en": "Branch line label stand — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f"
+          },
+          {
+            "image": "model-photos-v1/label-branch-product-black-v1.webp",
+            "alt": {
+              "nl": "Taklijn-kaarthouder — het product",
+              "en": "Branch line label stand — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f"
+          },
+          {
+            "image": "model-photos-v1/label-branch-context-wood-v1.webp",
+            "alt": {
+              "nl": "Taklijn-kaarthouder — in een bonsaiopstelling",
+              "en": "Branch line label stand — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/label-branch-black-v1.webp",
+            "image": "model-photos-v1/label-branch-context-black-v1.webp",
             "alt": {
-              "nl": "Taklijn-kaarthouder in ruw zwart naast een bonsai",
-              "en": "Branch line label stand in raw black beside a bonsai"
+              "nl": "Taklijn-kaarthouder — in een bonsaiopstelling",
+              "en": "Branch line label stand — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/label-branch-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Taklijn-kaarthouder — alleen het product",
-              "en": "Branch line label stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/label-branch-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Taklijn-kaarthouder — alleen het product",
-              "en": "Branch line label stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "newDesign": true,
@@ -2565,22 +2745,26 @@
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/label-branch-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/label-branch-product-wood-v1.webp",
             "alt": {
-              "nl": "Taklijn-kaarthouder — alleen het product",
-              "en": "Branch line label stand — product alone"
+              "nl": "Taklijn-kaarthouder — het product",
+              "en": "Branch line label stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f"
           },
           "black": {
-            "image": "ordinary-photos/label-branch-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/label-branch-product-black-v1.webp",
             "alt": {
-              "nl": "Taklijn-kaarthouder — alleen het product",
-              "en": "Branch line label stand — product alone"
+              "nl": "Taklijn-kaarthouder — het product",
+              "en": "Branch line label stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f"
           }
         },
         "photoSequence": "product-context",
@@ -2612,50 +2796,58 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/scroll-moon-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/scroll-moon-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Maanboog-display — alleen het product",
-          "en": "Moon arc display — product alone"
+          "nl": "Maanboog-display — het product",
+          "en": "Moon arc display — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/scroll-moon-wood-v1.webp",
+            "image": "model-photos-v1/scroll-moon-product-wood-v1.webp",
             "alt": {
-              "nl": "Maanboog-display in houtlook naast een bonsai",
-              "en": "Moon arc display in wood look beside a bonsai"
+              "nl": "Maanboog-display — het product",
+              "en": "Moon arc display — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3"
+          },
+          {
+            "image": "model-photos-v1/scroll-moon-product-black-v1.webp",
+            "alt": {
+              "nl": "Maanboog-display — het product",
+              "en": "Moon arc display — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3"
+          },
+          {
+            "image": "model-photos-v1/scroll-moon-context-wood-v1.webp",
+            "alt": {
+              "nl": "Maanboog-display — in een bonsaiopstelling",
+              "en": "Moon arc display — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/scroll-moon-black-v1.webp",
+            "image": "model-photos-v1/scroll-moon-context-black-v1.webp",
             "alt": {
-              "nl": "Maanboog-display in ruw zwart naast een bonsai",
-              "en": "Moon arc display in raw black beside a bonsai"
+              "nl": "Maanboog-display — in een bonsaiopstelling",
+              "en": "Moon arc display — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/scroll-moon-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Maanboog-display — alleen het product",
-              "en": "Moon arc display — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/scroll-moon-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Maanboog-display — alleen het product",
-              "en": "Moon arc display — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "newDesign": true,
@@ -2670,22 +2862,26 @@
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/scroll-moon-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/scroll-moon-product-wood-v1.webp",
             "alt": {
-              "nl": "Maanboog-display — alleen het product",
-              "en": "Moon arc display — product alone"
+              "nl": "Maanboog-display — het product",
+              "en": "Moon arc display — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3"
           },
           "black": {
-            "image": "ordinary-photos/scroll-moon-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/scroll-moon-product-black-v1.webp",
             "alt": {
-              "nl": "Maanboog-display — alleen het product",
-              "en": "Moon arc display — product alone"
+              "nl": "Maanboog-display — het product",
+              "en": "Moon arc display — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3"
           }
         },
         "photoSequence": "product-context",
@@ -2717,50 +2913,58 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/signature-contour-jita-wood-v1-natural-v1.webp",
+        "image": "model-photos-v1/signature-contour-jita-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Contour-jita — alleen het product",
-          "en": "Contour jita — product alone"
+          "nl": "Contour-jita — het product",
+          "en": "Contour jita — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "atelier/signature-contour-jita-black-v1.webp",
+            "image": "model-photos-v1/signature-contour-jita-product-wood-v1.webp",
             "alt": {
-              "nl": "Contour-jita met passende boom of tentoonstellingselement",
-              "en": "Contour jita with a matching tree or exhibition element"
+              "nl": "Contour-jita — het product",
+              "en": "Contour jita — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5"
+          },
+          {
+            "image": "model-photos-v1/signature-contour-jita-product-black-v1.webp",
+            "alt": {
+              "nl": "Contour-jita — het product",
+              "en": "Contour jita — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5"
+          },
+          {
+            "image": "model-photos-v1/signature-contour-jita-context-black-v1.webp",
+            "alt": {
+              "nl": "Contour-jita — in een bonsaiopstelling",
+              "en": "Contour jita — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5",
             "contextFinish": "black"
           },
           {
-            "image": "atelier/signature-contour-jita-wood-v1.webp",
+            "image": "model-photos-v1/signature-contour-jita-context-wood-v1.webp",
             "alt": {
-              "nl": "Contour-jita met passende boom of tentoonstellingselement",
-              "en": "Contour jita with a matching tree or exhibition element"
+              "nl": "Contour-jita — in een bonsaiopstelling",
+              "en": "Contour jita — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/signature-contour-jita-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Contour-jita — alleen het product",
-              "en": "Contour jita — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/signature-contour-jita-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Contour-jita — alleen het product",
-              "en": "Contour jita — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "newDesign": true,
@@ -2774,22 +2978,26 @@
         },
         "finishes": {
           "black": {
-            "image": "ordinary-photos/signature-contour-jita-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/signature-contour-jita-product-black-v1.webp",
             "alt": {
-              "nl": "Contour-jita — alleen het product",
-              "en": "Contour jita — product alone"
+              "nl": "Contour-jita — het product",
+              "en": "Contour jita — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5"
           },
           "wood": {
-            "image": "ordinary-photos/signature-contour-jita-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/signature-contour-jita-product-wood-v1.webp",
             "alt": {
-              "nl": "Contour-jita — alleen het product",
-              "en": "Contour jita — product alone"
+              "nl": "Contour-jita — het product",
+              "en": "Contour jita — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5"
           }
         },
         "featured": true,
@@ -2822,50 +3030,58 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/signature-jin-table-wood-v1-natural-v1.webp",
+        "image": "model-photos-v1/signature-jin-table-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Jin-tafel — alleen het product",
-          "en": "Jin stand — product alone"
+          "nl": "Jin-tafel — het product",
+          "en": "Jin stand — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/signature-jin-table-black-v1.webp",
+            "image": "model-photos-v1/signature-jin-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Jin-tafel met passende boom of tentoonstellingselement",
-              "en": "Jin stand with a matching tree or exhibition element"
+              "nl": "Jin-tafel — het product",
+              "en": "Jin stand — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e"
+          },
+          {
+            "image": "model-photos-v1/signature-jin-table-product-black-v1.webp",
+            "alt": {
+              "nl": "Jin-tafel — het product",
+              "en": "Jin stand — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e"
+          },
+          {
+            "image": "model-photos-v1/signature-jin-table-context-black-v1.webp",
+            "alt": {
+              "nl": "Jin-tafel — in een bonsaiopstelling",
+              "en": "Jin stand — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e",
             "contextFinish": "black"
           },
           {
-            "image": "atelier/signature-jin-table-wood-v1.webp",
+            "image": "model-photos-v1/signature-jin-table-context-wood-v1.webp",
             "alt": {
-              "nl": "Jin-tafel met passende boom of tentoonstellingselement",
-              "en": "Jin stand with a matching tree or exhibition element"
+              "nl": "Jin-tafel — in een bonsaiopstelling",
+              "en": "Jin stand — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/signature-jin-table-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Jin-tafel — alleen het product",
-              "en": "Jin stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/signature-jin-table-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Jin-tafel — alleen het product",
-              "en": "Jin stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "newDesign": true,
@@ -2879,22 +3095,26 @@
         },
         "finishes": {
           "black": {
-            "image": "ordinary-photos/signature-jin-table-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/signature-jin-table-product-black-v1.webp",
             "alt": {
-              "nl": "Jin-tafel — alleen het product",
-              "en": "Jin stand — product alone"
+              "nl": "Jin-tafel — het product",
+              "en": "Jin stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e"
           },
           "wood": {
-            "image": "ordinary-photos/signature-jin-table-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/signature-jin-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Jin-tafel — alleen het product",
-              "en": "Jin stand — product alone"
+              "nl": "Jin-tafel — het product",
+              "en": "Jin stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e"
           }
         },
         "featured": true,
@@ -2927,50 +3147,58 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/signature-shoji-table-wood-v1-natural-v1.webp",
+        "image": "model-photos-v1/signature-shoji-table-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Schaduwtafel — alleen het product",
-          "en": "Shadow stand — product alone"
+          "nl": "Schaduwtafel — het product",
+          "en": "Shadow stand — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/signature-shoji-table-black-v1.webp",
+            "image": "model-photos-v1/signature-shoji-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Schaduwtafel met passende boom of tentoonstellingselement",
-              "en": "Shadow stand with a matching tree or exhibition element"
+              "nl": "Schaduwtafel — het product",
+              "en": "Shadow stand — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243"
+          },
+          {
+            "image": "model-photos-v1/signature-shoji-table-product-black-v1.webp",
+            "alt": {
+              "nl": "Schaduwtafel — het product",
+              "en": "Shadow stand — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243"
+          },
+          {
+            "image": "model-photos-v1/signature-shoji-table-context-black-v1.webp",
+            "alt": {
+              "nl": "Schaduwtafel — in een bonsaiopstelling",
+              "en": "Shadow stand — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243",
             "contextFinish": "black"
           },
           {
-            "image": "tree-proportions/signature-shoji-table-wood-v1.webp",
+            "image": "model-photos-v1/signature-shoji-table-context-wood-v1.webp",
             "alt": {
-              "nl": "Schaduwtafel met passende boom of tentoonstellingselement",
-              "en": "Shadow stand with a matching tree or exhibition element"
+              "nl": "Schaduwtafel — in een bonsaiopstelling",
+              "en": "Shadow stand — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243",
             "contextFinish": "wood"
-          },
-          {
-            "image": "ordinary-photos/signature-shoji-table-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Schaduwtafel — alleen het product",
-              "en": "Shadow stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/signature-shoji-table-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Schaduwtafel — alleen het product",
-              "en": "Shadow stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "newDesign": true,
@@ -2984,22 +3212,26 @@
         },
         "finishes": {
           "black": {
-            "image": "ordinary-photos/signature-shoji-table-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/signature-shoji-table-product-black-v1.webp",
             "alt": {
-              "nl": "Schaduwtafel — alleen het product",
-              "en": "Shadow stand — product alone"
+              "nl": "Schaduwtafel — het product",
+              "en": "Shadow stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243"
           },
           "wood": {
-            "image": "ordinary-photos/signature-shoji-table-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/signature-shoji-table-product-wood-v1.webp",
             "alt": {
-              "nl": "Schaduwtafel — alleen het product",
-              "en": "Shadow stand — product alone"
+              "nl": "Schaduwtafel — het product",
+              "en": "Shadow stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243"
           }
         },
         "featured": true,
@@ -3031,31 +3263,35 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/stone-ridge-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/stone-ridge-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Bergkam-dai — alleen het product",
-          "en": "Mountain ridge dai — product alone"
+          "nl": "Bergkam-dai — het product",
+          "en": "Mountain ridge dai — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "atelier/stone-ridge-black-v1.webp",
+            "image": "model-photos-v1/stone-ridge-product-black-v1.webp",
             "alt": {
-              "nl": "Bergkam-dai met passende boom of tentoonstellingselement",
-              "en": "Mountain ridge dai with a matching tree or exhibition element"
+              "nl": "Bergkam-dai — het product",
+              "en": "Mountain ridge dai — product view"
             },
-            "visualKind": "arrangementConcept",
-            "photoRole": "context",
-            "contextFinish": "own"
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fd8bb1531cec1744aec63abd5794c784552b3b363e5113050a3bb1aff2e4c9b3"
           },
           {
-            "image": "ordinary-photos/stone-ridge-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/stone-ridge-context-black-v1.webp",
             "alt": {
-              "nl": "Bergkam-dai — alleen het product",
-              "en": "Mountain ridge dai — product alone"
+              "nl": "Bergkam-dai — in een bonsaiopstelling",
+              "en": "Mountain ridge dai — in a bonsai arrangement"
             },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "fd8bb1531cec1744aec63abd5794c784552b3b363e5113050a3bb1aff2e4c9b3",
+            "contextFinish": "own"
           }
         ],
         "newDesign": true,
@@ -3095,31 +3331,35 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/stone-river-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/stone-river-product-black-v1.webp",
         "imageAlt": {
-          "nl": "Rivier-dai — alleen het product",
-          "en": "River dai — product alone"
+          "nl": "Rivier-dai — het product",
+          "en": "River dai — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "atelier/stone-river-black-v1.webp",
+            "image": "model-photos-v1/stone-river-product-black-v1.webp",
             "alt": {
-              "nl": "Rivier-dai met passende boom of tentoonstellingselement",
-              "en": "River dai with a matching tree or exhibition element"
+              "nl": "Rivier-dai — het product",
+              "en": "River dai — product view"
             },
-            "visualKind": "arrangementConcept",
-            "photoRole": "context",
-            "contextFinish": "own"
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "55111672ced77e9651faf23ba0a9e5a1aa817fbbbc1fa61b44ec1ae5adbc5536"
           },
           {
-            "image": "ordinary-photos/stone-river-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/stone-river-context-black-v1.webp",
             "alt": {
-              "nl": "Rivier-dai — alleen het product",
-              "en": "River dai — product alone"
+              "nl": "Rivier-dai — in een bonsaiopstelling",
+              "en": "River dai — in a bonsai arrangement"
             },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "55111672ced77e9651faf23ba0a9e5a1aa817fbbbc1fa61b44ec1ae5adbc5536",
+            "contextFinish": "own"
           }
         ],
         "newDesign": true,
@@ -3161,36 +3401,38 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "ordinary-photos/bonsai-mini-root-fox-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-root-fox-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "Vos in de wortelboog — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "Fox in the root arch — miniature alone; black primer with white drybrush"
+          "nl": "Vos in de wortelboog — het product",
+          "en": "Fox in the root arch — product view"
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-root-fox-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-root-fox-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "Vos in de wortelboog — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "Fox in the root arch — miniature alone; black primer with white drybrush"
+              "nl": "Vos in de wortelboog — het product",
+              "en": "Fox in the root arch — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "eb026d62ff45469a57164eef2183e89ce5a365d5eada8f91e98d2572eac0434b",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-root-fox-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-root-fox-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "Vos in de wortelboog — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "Fox in the root arch — beside a bonsai; black primer with white drybrush"
+              "nl": "Vos in de wortelboog — in een bonsaiopstelling",
+              "en": "Fox in the root arch — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "eb026d62ff45469a57164eef2183e89ce5a365d5eada8f91e98d2572eac0434b",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "availability": "enquiry",
@@ -3203,7 +3445,8 @@
         "miniatureViews": true,
         "imageStyle": "isolated-exhibition",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "bonsai-mini-bonsai-master",
@@ -3232,36 +3475,38 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "ordinary-photos/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
+        "image": "model-photos-v1/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De boomverzorger — alleen de miniatuur; zwarte primer met witte drybrush",
-          "en": "The tree carer — miniature alone; black primer with white drybrush"
+          "nl": "De boomverzorger — het product",
+          "en": "The tree carer — product view"
         },
         "gallery": [
           {
-            "image": "ordinary-photos/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De boomverzorger — alleen de miniatuur; zwarte primer met witte drybrush",
-              "en": "The tree carer — miniature alone; black primer with white drybrush"
+              "nl": "De boomverzorger — het product",
+              "en": "The tree carer — product view"
             },
-            "view": "isolated",
-            "previewFinish": "black",
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5450150c6f59779f6045eb1b9c8149876c647f799f040f64b707c325a050bbce",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           },
           {
-            "image": "ordinary-photos/bonsai-mini-bonsai-master-context-white-drybrush-v1.webp",
+            "image": "model-photos-v1/bonsai-mini-bonsai-master-context-white-drybrush-v1.webp",
             "alt": {
-              "nl": "De boomverzorger — naast een bonsai; zwarte primer met witte drybrush",
-              "en": "The tree carer — beside a bonsai; black primer with white drybrush"
+              "nl": "De boomverzorger — in een bonsaiopstelling",
+              "en": "The tree carer — in a bonsai arrangement"
             },
-            "view": "withBonsai",
-            "previewFinish": "black",
+            "photoRole": "context",
             "visualKind": "arrangementConcept",
-            "pairingContext": "exhibition",
-            "finishTreatment": "black-white-drybrush",
-            "photoRole": "context"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5450150c6f59779f6045eb1b9c8149876c647f799f040f64b707c325a050bbce",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "availability": "enquiry",
@@ -3274,7 +3519,8 @@
         "miniatureViews": true,
         "imageStyle": "isolated-exhibition",
         "finishTreatment": "black-white-drybrush",
-        "photoRole": "product"
+        "photoRole": "product",
+        "photoSequence": "product-context"
       },
       {
         "id": "detail-bridge",
@@ -3302,70 +3548,82 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/detail-bridge-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/detail-bridge-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Wortelbruggetje — alleen het product",
-          "en": "Root footbridge — product alone"
+          "nl": "Wortelbruggetje — het product",
+          "en": "Root footbridge — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/detail-bridge-wood-v1.webp",
+            "image": "model-photos-v1/detail-bridge-product-wood-v1.webp",
             "alt": {
-              "nl": "Wortelbruggetje in houtlook naast een bonsai",
-              "en": "Root footbridge in wood look beside a bonsai"
+              "nl": "Wortelbruggetje — het product",
+              "en": "Root footbridge — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5"
+          },
+          {
+            "image": "model-photos-v1/detail-bridge-product-black-v1.webp",
+            "alt": {
+              "nl": "Wortelbruggetje — het product",
+              "en": "Root footbridge — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5"
+          },
+          {
+            "image": "model-photos-v1/detail-bridge-context-wood-v1.webp",
+            "alt": {
+              "nl": "Wortelbruggetje — in een bonsaiopstelling",
+              "en": "Root footbridge — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/detail-bridge-black-v1.webp",
+            "image": "model-photos-v1/detail-bridge-context-black-v1.webp",
             "alt": {
-              "nl": "Wortelbruggetje in ruw zwart naast een bonsai",
-              "en": "Root footbridge in raw black beside a bonsai"
+              "nl": "Wortelbruggetje — in een bonsaiopstelling",
+              "en": "Root footbridge — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/detail-bridge-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelbruggetje — alleen het product",
-              "en": "Root footbridge — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/detail-bridge-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Wortelbruggetje — alleen het product",
-              "en": "Root footbridge — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/detail-bridge-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-bridge-product-wood-v1.webp",
             "alt": {
-              "nl": "Wortelbruggetje — alleen het product",
-              "en": "Root footbridge — product alone"
+              "nl": "Wortelbruggetje — het product",
+              "en": "Root footbridge — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5"
           },
           "black": {
-            "image": "ordinary-photos/detail-bridge-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-bridge-product-black-v1.webp",
             "alt": {
-              "nl": "Wortelbruggetje — alleen het product",
-              "en": "Root footbridge — product alone"
+              "nl": "Wortelbruggetje — het product",
+              "en": "Root footbridge — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5"
           }
         },
         "newDesign": true,
@@ -3407,70 +3665,82 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/detail-bamboo-screen-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/detail-bamboo-screen-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Takkenscherm — alleen het product",
-          "en": "Branch screen — product alone"
+          "nl": "Takkenscherm — het product",
+          "en": "Branch screen — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/detail-bamboo-screen-wood-v1.webp",
+            "image": "model-photos-v1/detail-bamboo-screen-product-wood-v1.webp",
             "alt": {
-              "nl": "Takkenscherm in houtlook naast een bonsai",
-              "en": "Branch screen in wood look beside a bonsai"
+              "nl": "Takkenscherm — het product",
+              "en": "Branch screen — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb"
+          },
+          {
+            "image": "model-photos-v1/detail-bamboo-screen-product-black-v1.webp",
+            "alt": {
+              "nl": "Takkenscherm — het product",
+              "en": "Branch screen — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb"
+          },
+          {
+            "image": "model-photos-v1/detail-bamboo-screen-context-wood-v1.webp",
+            "alt": {
+              "nl": "Takkenscherm — in een bonsaiopstelling",
+              "en": "Branch screen — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/detail-bamboo-screen-black-v1.webp",
+            "image": "model-photos-v1/detail-bamboo-screen-context-black-v1.webp",
             "alt": {
-              "nl": "Takkenscherm in ruw zwart naast een bonsai",
-              "en": "Branch screen in raw black beside a bonsai"
+              "nl": "Takkenscherm — in een bonsaiopstelling",
+              "en": "Branch screen — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/detail-bamboo-screen-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Takkenscherm — alleen het product",
-              "en": "Branch screen — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/detail-bamboo-screen-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Takkenscherm — alleen het product",
-              "en": "Branch screen — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/detail-bamboo-screen-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-bamboo-screen-product-wood-v1.webp",
             "alt": {
-              "nl": "Takkenscherm — alleen het product",
-              "en": "Branch screen — product alone"
+              "nl": "Takkenscherm — het product",
+              "en": "Branch screen — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb"
           },
           "black": {
-            "image": "ordinary-photos/detail-bamboo-screen-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-bamboo-screen-product-black-v1.webp",
             "alt": {
-              "nl": "Takkenscherm — alleen het product",
-              "en": "Branch screen — product alone"
+              "nl": "Takkenscherm — het product",
+              "en": "Branch screen — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb"
           }
         },
         "newDesign": true,
@@ -3512,70 +3782,82 @@
           "grey",
           "custom"
         ],
-        "image": "ordinary-photos/detail-scroll-stand-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/detail-scroll-stand-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Seizoenshouder — alleen het product",
-          "en": "Seasonal image stand — product alone"
+          "nl": "Seizoenshouder — het product",
+          "en": "Seasonal image stand — product view"
         },
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "tree-proportions/detail-scroll-stand-wood-v1.webp",
+            "image": "model-photos-v1/detail-scroll-stand-product-wood-v1.webp",
             "alt": {
-              "nl": "Seizoenshouder in houtlook naast een bonsai",
-              "en": "Seasonal image stand in wood look beside a bonsai"
+              "nl": "Seizoenshouder — het product",
+              "en": "Seasonal image stand — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2"
+          },
+          {
+            "image": "model-photos-v1/detail-scroll-stand-product-black-v1.webp",
+            "alt": {
+              "nl": "Seizoenshouder — het product",
+              "en": "Seasonal image stand — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2"
+          },
+          {
+            "image": "model-photos-v1/detail-scroll-stand-context-wood-v1.webp",
+            "alt": {
+              "nl": "Seizoenshouder — in een bonsaiopstelling",
+              "en": "Seasonal image stand — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/detail-scroll-stand-black-v1.webp",
+            "image": "model-photos-v1/detail-scroll-stand-context-black-v1.webp",
             "alt": {
-              "nl": "Seizoenshouder in ruw zwart naast een bonsai",
-              "en": "Seasonal image stand in raw black beside a bonsai"
+              "nl": "Seizoenshouder — in een bonsaiopstelling",
+              "en": "Seasonal image stand — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/detail-scroll-stand-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Seizoenshouder — alleen het product",
-              "en": "Seasonal image stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/detail-scroll-stand-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Seizoenshouder — alleen het product",
-              "en": "Seasonal image stand — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/detail-scroll-stand-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-scroll-stand-product-wood-v1.webp",
             "alt": {
-              "nl": "Seizoenshouder — alleen het product",
-              "en": "Seasonal image stand — product alone"
+              "nl": "Seizoenshouder — het product",
+              "en": "Seasonal image stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2"
           },
           "black": {
-            "image": "ordinary-photos/detail-scroll-stand-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-scroll-stand-product-black-v1.webp",
             "alt": {
-              "nl": "Seizoenshouder — alleen het product",
-              "en": "Seasonal image stand — product alone"
+              "nl": "Seizoenshouder — het product",
+              "en": "Seasonal image stand — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2"
           }
         },
         "newDesign": true,
@@ -3630,68 +3912,80 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/detail-leaf-window-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-leaf-window-product-wood-v1.webp",
             "alt": {
-              "nl": "Bladvenster — alleen het product",
-              "en": "Leaf window — product alone"
+              "nl": "Bladvenster — het product",
+              "en": "Leaf window — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a"
           },
           "black": {
-            "image": "ordinary-photos/detail-leaf-window-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-leaf-window-product-black-v1.webp",
             "alt": {
-              "nl": "Bladvenster — alleen het product",
-              "en": "Leaf window — product alone"
+              "nl": "Bladvenster — het product",
+              "en": "Leaf window — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a"
           }
         },
         "gallery": [
           {
-            "image": "tree-proportions/detail-leaf-window-wood-v1.webp",
+            "image": "model-photos-v1/detail-leaf-window-product-wood-v1.webp",
             "alt": {
-              "nl": "Bladvenster in houtlook naast een bonsai",
-              "en": "Leaf window in wood look beside a bonsai"
+              "nl": "Bladvenster — het product",
+              "en": "Leaf window — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a"
+          },
+          {
+            "image": "model-photos-v1/detail-leaf-window-product-black-v1.webp",
+            "alt": {
+              "nl": "Bladvenster — het product",
+              "en": "Leaf window — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a"
+          },
+          {
+            "image": "model-photos-v1/detail-leaf-window-context-wood-v1.webp",
+            "alt": {
+              "nl": "Bladvenster — in een bonsaiopstelling",
+              "en": "Leaf window — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/detail-leaf-window-black-v1.webp",
+            "image": "model-photos-v1/detail-leaf-window-context-black-v1.webp",
             "alt": {
-              "nl": "Bladvenster in ruw zwart naast een bonsai",
-              "en": "Leaf window in raw black beside a bonsai"
+              "nl": "Bladvenster — in een bonsaiopstelling",
+              "en": "Leaf window — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/detail-leaf-window-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Bladvenster — alleen het product",
-              "en": "Leaf window — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/detail-leaf-window-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Bladvenster — alleen het product",
-              "en": "Leaf window — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
-        "image": "ordinary-photos/detail-leaf-window-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/detail-leaf-window-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Bladvenster — alleen het product",
-          "en": "Leaf window — product alone"
+          "nl": "Bladvenster — het product",
+          "en": "Leaf window — product view"
         },
         "photoSequence": "product-context",
         "photoRole": "product"
@@ -3736,68 +4030,80 @@
         "sellingUnit": "set",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/detail-contour-platforms-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-contour-platforms-product-wood-v1.webp",
             "alt": {
-              "nl": "Hoogtelijn-plateaus (set van 3) — alleen het product",
-              "en": "Contour platforms (set of 3) — product alone"
+              "nl": "Hoogtelijn-plateaus (set van 3) — het product",
+              "en": "Contour platforms (set of 3) — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815"
           },
           "black": {
-            "image": "ordinary-photos/detail-contour-platforms-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-contour-platforms-product-black-v1.webp",
             "alt": {
-              "nl": "Hoogtelijn-plateaus (set van 3) — alleen het product",
-              "en": "Contour platforms (set of 3) — product alone"
+              "nl": "Hoogtelijn-plateaus (set van 3) — het product",
+              "en": "Contour platforms (set of 3) — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815"
           }
         },
         "gallery": [
           {
-            "image": "tree-proportions/detail-contour-platforms-wood-v1.webp",
+            "image": "model-photos-v1/detail-contour-platforms-product-wood-v1.webp",
             "alt": {
-              "nl": "Hoogtelijn-plateaus in houtlook naast een bonsai",
-              "en": "Contour platforms in wood look beside a bonsai"
+              "nl": "Hoogtelijn-plateaus (set van 3) — het product",
+              "en": "Contour platforms (set of 3) — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815"
+          },
+          {
+            "image": "model-photos-v1/detail-contour-platforms-product-black-v1.webp",
+            "alt": {
+              "nl": "Hoogtelijn-plateaus (set van 3) — het product",
+              "en": "Contour platforms (set of 3) — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815"
+          },
+          {
+            "image": "model-photos-v1/detail-contour-platforms-context-wood-v1.webp",
+            "alt": {
+              "nl": "Hoogtelijn-plateaus (set van 3) — in een bonsaiopstelling",
+              "en": "Contour platforms (set of 3) — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/detail-contour-platforms-black-v1.webp",
+            "image": "model-photos-v1/detail-contour-platforms-context-black-v1.webp",
             "alt": {
-              "nl": "Hoogtelijn-plateaus in ruw zwart naast een bonsai",
-              "en": "Contour platforms in raw black beside a bonsai"
+              "nl": "Hoogtelijn-plateaus (set van 3) — in een bonsaiopstelling",
+              "en": "Contour platforms (set of 3) — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/detail-contour-platforms-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Hoogtelijn-plateaus (set van 3) — alleen het product",
-              "en": "Contour platforms (set of 3) — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/detail-contour-platforms-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Hoogtelijn-plateaus (set van 3) — alleen het product",
-              "en": "Contour platforms (set of 3) — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
-        "image": "ordinary-photos/detail-contour-platforms-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/detail-contour-platforms-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Hoogtelijn-plateaus (set van 3) — alleen het product",
-          "en": "Contour platforms (set of 3) — product alone"
+          "nl": "Hoogtelijn-plateaus (set van 3) — het product",
+          "en": "Contour platforms (set of 3) — product view"
         },
         "photoSequence": "product-context",
         "photoRole": "product"
@@ -3841,68 +4147,80 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "wood": {
-            "image": "ordinary-photos/detail-season-fan-wood-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-season-fan-product-wood-v1.webp",
             "alt": {
-              "nl": "Seizoenswaaier — alleen het product",
-              "en": "Season fan — product alone"
+              "nl": "Seizoenswaaier — het product",
+              "en": "Season fan — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d"
           },
           "black": {
-            "image": "ordinary-photos/detail-season-fan-black-v1-natural-v1.webp",
+            "image": "model-photos-v1/detail-season-fan-product-black-v1.webp",
             "alt": {
-              "nl": "Seizoenswaaier — alleen het product",
-              "en": "Season fan — product alone"
+              "nl": "Seizoenswaaier — het product",
+              "en": "Season fan — product view"
             },
+            "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "photoRole": "product"
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d"
           }
         },
         "gallery": [
           {
-            "image": "tree-proportions/detail-season-fan-wood-v1.webp",
+            "image": "model-photos-v1/detail-season-fan-product-wood-v1.webp",
             "alt": {
-              "nl": "Seizoenswaaier in houtlook naast een bonsai",
-              "en": "Season fan in wood look beside a bonsai"
+              "nl": "Seizoenswaaier — het product",
+              "en": "Season fan — product view"
             },
-            "visualKind": "arrangementConcept",
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d"
+          },
+          {
+            "image": "model-photos-v1/detail-season-fan-product-black-v1.webp",
+            "alt": {
+              "nl": "Seizoenswaaier — het product",
+              "en": "Season fan — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d"
+          },
+          {
+            "image": "model-photos-v1/detail-season-fan-context-wood-v1.webp",
+            "alt": {
+              "nl": "Seizoenswaaier — in een bonsaiopstelling",
+              "en": "Season fan — in a bonsai arrangement"
+            },
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d",
             "contextFinish": "wood"
           },
           {
-            "image": "tree-proportions/detail-season-fan-black-v1.webp",
+            "image": "model-photos-v1/detail-season-fan-context-black-v1.webp",
             "alt": {
-              "nl": "Seizoenswaaier in ruw zwart naast een bonsai",
-              "en": "Season fan in raw black beside a bonsai"
+              "nl": "Seizoenswaaier — in een bonsaiopstelling",
+              "en": "Season fan — in a bonsai arrangement"
             },
-            "visualKind": "arrangementConcept",
             "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d",
             "contextFinish": "black"
-          },
-          {
-            "image": "ordinary-photos/detail-season-fan-wood-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Seizoenswaaier — alleen het product",
-              "en": "Season fan — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
-          },
-          {
-            "image": "ordinary-photos/detail-season-fan-black-v1-natural-v1.webp",
-            "alt": {
-              "nl": "Seizoenswaaier — alleen het product",
-              "en": "Season fan — product alone"
-            },
-            "visualKind": "isolatedConcept",
-            "photoRole": "product"
           }
         ],
-        "image": "ordinary-photos/detail-season-fan-black-v1-natural-v1.webp",
+        "image": "model-photos-v1/detail-season-fan-product-wood-v1.webp",
         "imageAlt": {
-          "nl": "Seizoenswaaier — alleen het product",
-          "en": "Season fan — product alone"
+          "nl": "Seizoenswaaier — het product",
+          "en": "Season fan — product view"
         },
         "photoSequence": "product-context",
         "photoRole": "product"
@@ -3924,7 +4242,7 @@
       "nl": "Ik ben Ruben. Ik ontwerp en 3D-print accessoires voor bonsai. Een potmaat, de hoogte van een tafel of een klein detail vormen vaak het begin. In de collectie staan bestaande ontwerpen naast nieuwe schetsen. Wat al is geprint en wat nog een concept is, staat bij het product.",
       "en": "I’m Ruben. I design and 3D print bonsai accessories. A pot dimension, a stand height or a small detail often starts the work. The collection includes existing designs and new sketches. Each product identifies what has been printed and what remains a concept."
     },
-    "storyImage": "ordinary-photos/bonsai-classic-table-recreated-v1.webp",
+    "storyImage": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
     "guideTitle": {
       "nl": "Maat, materiaal & gebruik",
       "en": "Size, material & use"
@@ -3970,12 +4288,12 @@
     "storyVisualKind": "isolated",
     "imageStyle": "studio",
     "heroPhoto": {
-      "image": "exhibition/flowering-wood-v1.webp",
+      "image": "model-photos-v1/bonsai-classic-table-context-wood-v1.webp",
       "alt": {
-        "nl": "Bloeiende bonsai in de bestaande lichte takkenpot op Rubens houtlook tafel in een bonsaiopstelling",
-        "en": "Flowering bonsai in the existing pale branch pot on Ruben’s wood-look table in a bonsai arrangement"
+        "nl": "Bonsai op de lage displaytafel in houtlook",
+        "en": "Bonsai on the low wood-look display table"
       },
-      "visualKind": "exhibition"
+      "visualKind": "arrangementConcept"
     }
   }
 }
