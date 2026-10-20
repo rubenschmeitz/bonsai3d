@@ -22,3 +22,17 @@ const big=pricing.estimate({type:'table',finish:'wood',width:500,depth:200,heigh
 const colourA=cart.normalise({id:p.id,finish:'custom',quantity:1,personalisation:{colour:{hex:'#aabbcc',name:'RAL 6009'}}},products,pricing);assert.equal(colourA.personalisation.colour.hex,'#aabbcc');assert.equal(cart.quote(colourA,products,pricing).manual,true);
 const colourB=cart.normalise({...colourA,personalisation:{colour:{hex:'#112233',name:'Blue'}}},products,pricing);assert.notEqual(cart.key(colourA),cart.key(colourB));assert.deepEqual(cart.hydrate(JSON.parse(JSON.stringify([colourA])),products,pricing),[colourA]);
 console.log('Own colour, size-based wood fees and finite calculator base prices passed.');
+
+// Newly listed models have no confirmed guide price; they must never count as free.
+const unpriced={...p,id:'new-model-on-request',pricing:{base:null,woodExtra:0,currency:'EUR',kind:'quote'}};
+const unpricedProducts=[...products,unpriced];
+const unpricedRow=cart.normalise({id:unpriced.id,finish:'black',quantity:2},unpricedProducts,pricing);
+assert.equal(pricing.product(unpriced,'black'),null);
+assert.equal(pricing.money(null,'nl'),'Op aanvraag');
+assert.equal(pricing.money(null,'en'),'On request');
+assert.equal(cart.quote(unpricedRow,unpricedProducts,pricing).manual,true);
+assert.equal(cart.quote({...unpricedRow,personalisation:{...unpricedRow.personalisation,mode:'custom',width:180,depth:135,height:12}},unpricedProducts,pricing).manual,true);
+const unpricedSummary=cart.summary([standard,unpricedRow],unpricedProducts,pricing);
+assert.equal(unpricedSummary.pending,1);assert.equal(unpricedSummary.total,pricing.product(p,'black')*2);
+assert.equal(pricing.estimate({type:'pot',finish:'black',width:100,depth:100,height:30,detail:'plain',design:'adapt',quantity:1},unpriced.pricing).manual,true);
+console.log('New catalogue models remain on request and are excluded from numeric totals.');

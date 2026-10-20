@@ -4224,6 +4224,470 @@
         },
         "photoSequence": "product-context",
         "photoRole": "product"
+      },
+      {
+        "stage": "future",
+        "image": "model-photos-v1/signature-contour-jita-180-product-black-v1.webp",
+        "imageAlt": {
+          "nl": "Contour-jita compact — het product",
+          "en": "Compact contour jita — product view"
+        },
+        "visualKind": "isolatedConcept",
+        "gallery": [
+          {
+            "image": "model-photos-v1/signature-contour-jita-180-product-black-v1.webp",
+            "alt": {
+              "nl": "Contour-jita compact — het product",
+              "en": "Compact contour jita — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28fa2c9b246d8a3a182d7b45da8b6f173e0d34dcc7aa216d00c31e27294e3ef0"
+          },
+          {
+            "image": "model-photos-v1/signature-contour-jita-180-context-black-v1.webp",
+            "alt": {
+              "nl": "Contour-jita compact — in een bonsaiopstelling",
+              "en": "Compact contour jita — in a bonsai arrangement"
+            },
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28fa2c9b246d8a3a182d7b45da8b6f173e0d34dcc7aa216d00c31e27294e3ef0",
+            "contextFinish": "black"
+          }
+        ],
+        "newDesign": true,
+        "imageStyle": "workshop-close",
+        "photoSequence": "product-context",
+        "photoRole": "product",
+        "id": "signature-contour-jita-180",
+        "name": {
+          "nl": "Contour-jita compact",
+          "en": "Compact contour jita"
+        },
+        "category": "display",
+        "short": {
+          "nl": "Een compacte, organische jita met fijne hoogtelijnen en een verzonken plek voor het potje.",
+          "en": "A compact organic jita with fine contour lines and a recessed space for a pot."
+        },
+        "spec": {
+          "nl": "Modelmaat circa 180 × 135 × 11 mm · matzwart · op aanvraag.",
+          "en": "Model size approx. 180 × 135 × 11 mm · matte black · on request."
+        },
+        "detail": {
+          "nl": "De hoogtelijnen volgen de asymmetrische buitenrand en lopen naar een glad draagvlak iets uit het midden. Dit is de compacte variant naast de grotere Contour-jita. Maat, afwerking en maakbaarheid bespreken we bij de aanvraag. Potje en boom op het sfeerbeeld zijn niet inbegrepen.",
+          "en": "Contour lines follow the asymmetric edge and lead to a smooth support area slightly off-centre. This is the compact version alongside the larger contour jita. Size, finish and manufacturability are discussed on request. The pot and tree in the arrangement image are excluded."
+        },
+        "options": [
+          "black",
+          "custom"
+        ],
+        "availability": "enquiry",
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "finishes": {
+          "black": {
+            "image": "model-photos-v1/signature-contour-jita-180-product-black-v1.webp",
+            "alt": {
+              "nl": "Contour-jita compact — het product",
+              "en": "Compact contour jita — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "28fa2c9b246d8a3a182d7b45da8b6f173e0d34dcc7aa216d00c31e27294e3ef0"
+          }
+        }
+      },
+      {
+        "stage": "future",
+        "image": "model-photos-v1/pot-contour-product-black-v1.webp",
+        "imageAlt": {
+          "nl": "Contour-pot — het product",
+          "en": "Contour pot — product view"
+        },
+        "visualKind": "isolatedConcept",
+        "gallery": [
+          {
+            "image": "model-photos-v1/pot-contour-product-black-v1.webp",
+            "alt": {
+              "nl": "Contour-pot — het product",
+              "en": "Contour pot — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b"
+          },
+          {
+            "image": "model-photos-v1/pot-contour-context-black-v1.webp",
+            "alt": {
+              "nl": "Contour-pot — in een bonsaiopstelling",
+              "en": "Contour pot — in a bonsai arrangement"
+            },
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b",
+            "contextFinish": "black"
+          }
+        ],
+        "newDesign": true,
+        "imageStyle": "workshop-close",
+        "photoSequence": "product-context",
+        "photoRole": "product",
+        "id": "pot-contour",
+        "name": {
+          "nl": "Contour-pot",
+          "en": "Contour pot"
+        },
+        "category": "pots",
+        "short": {
+          "nl": "Een lage schaal met fijne horizontale ribbels, passend bij de Contour-jita.",
+          "en": "A low pot with fine horizontal ridges to match the contour jita."
+        },
+        "spec": {
+          "nl": "Modelmaat circa 97 × 89 × 30 mm · matzwart · op aanvraag.",
+          "en": "Model size approx. 97 × 89 × 30 mm · matte black · on request."
+        },
+        "detail": {
+          "nl": "De lage, licht ovale schaal heeft een afgeronde rand, horizontale ribbels en gaten voor afwatering en bevestiging. De vorm past bij de hoogtelijnen van de Contour-jita. Het model is beschikbaar; waterbestendigheid, materiaal en de definitieve uitvoering bespreken we nog. Boom en styling zijn niet inbegrepen.",
+          "en": "This low, slightly oval pot has a rounded rim, horizontal ridges and drainage and tie-wire holes. Its shape matches the contour lines of the jita. The model is available; water resistance, material and the final version still require discussion. Tree and styling are excluded."
+        },
+        "options": [
+          "black",
+          "custom"
+        ],
+        "availability": "enquiry",
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "finishes": {
+          "black": {
+            "image": "model-photos-v1/pot-contour-product-black-v1.webp",
+            "alt": {
+              "nl": "Contour-pot — het product",
+              "en": "Contour pot — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b"
+          }
+        }
+      },
+      {
+        "category": "miniatures",
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "imageStyle": "isolated-exhibition",
+        "gallery": [
+          {
+            "image": "model-photos-v1/bonsai-mini-standing-grower-product-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De bonsaikweker — het product",
+              "en": "The bonsai grower — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "53c60f8e4a74c1ad0f7fa96431ce4b514cf4651a45dee8557509d64494cf940f",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          },
+          {
+            "image": "model-photos-v1/bonsai-mini-standing-grower-context-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De bonsaikweker — in een bonsaiopstelling",
+              "en": "The bonsai grower — in a bonsai arrangement"
+            },
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "53c60f8e4a74c1ad0f7fa96431ce4b514cf4651a45dee8557509d64494cf940f",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          }
+        ],
+        "image": "model-photos-v1/bonsai-mini-standing-grower-product-white-drybrush-v1.webp",
+        "imageAlt": {
+          "nl": "De bonsaikweker — het product",
+          "en": "The bonsai grower — product view"
+        },
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product-context",
+        "id": "bonsai-mini-standing-grower",
+        "name": {
+          "nl": "De bonsaikweker",
+          "en": "The bonsai grower"
+        },
+        "short": {
+          "nl": "Een staande kweker die zijn bonsai verzorgt aan een werktafel.",
+          "en": "A standing grower tending his bonsai at a workbench."
+        },
+        "options": [
+          "black",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
+          "en": "Source model approx. 20 cm tall · black primer with white drybrush · size on request."
+        },
+        "detail": {
+          "nl": "De kweker buigt voorover naar het boompje op zijn houten werktafel. Figuur, schort, tafel, kleine bonsai en de rechthoekige voet met bestrating vormen samen het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
+          "en": "The grower leans toward the little tree on his wooden workbench. Figure, apron, table, small bonsai and rectangular paved base form one miniature. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
+        }
+      },
+      {
+        "category": "miniatures",
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "imageStyle": "isolated-exhibition",
+        "gallery": [
+          {
+            "image": "model-photos-v1/bonsai-mini-seated-master-product-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De zittende bonsaimeester — het product",
+              "en": "The seated bonsai master — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "d695c1c9cce472899e774710b1f3732cd95accaabb74c3035367dcabe1a87734",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          },
+          {
+            "image": "model-photos-v1/bonsai-mini-seated-master-context-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De zittende bonsaimeester — in een bonsaiopstelling",
+              "en": "The seated bonsai master — in a bonsai arrangement"
+            },
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "d695c1c9cce472899e774710b1f3732cd95accaabb74c3035367dcabe1a87734",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          }
+        ],
+        "image": "model-photos-v1/bonsai-mini-seated-master-product-white-drybrush-v1.webp",
+        "imageAlt": {
+          "nl": "De zittende bonsaimeester — het product",
+          "en": "The seated bonsai master — product view"
+        },
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product-context",
+        "id": "bonsai-mini-seated-master",
+        "name": {
+          "nl": "De zittende bonsaimeester",
+          "en": "The seated bonsai master"
+        },
+        "short": {
+          "nl": "Een zittende bonsaimeester, aandachtig aan het werk bij zijn kleine boom.",
+          "en": "A seated bonsai master carefully working on his little tree."
+        },
+        "options": [
+          "black",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
+          "en": "Source model approx. 20 cm tall · black primer with white drybrush · size on request."
+        },
+        "detail": {
+          "nl": "De meester zit op een kruk bij een lage werktafel. Zijn gebreide trui, houding en kleine bonsai komen uit het echte model. Figuur, kruk, tafel, boom en ovale voet met bestrating horen bij elkaar. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
+          "en": "The master sits on a stool at a low worktable. His knitted sweater, pose and small bonsai come from the actual model. Figure, stool, table, tree and oval paved base belong together. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
+        }
+      },
+      {
+        "category": "miniatures",
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "imageStyle": "isolated-exhibition",
+        "gallery": [
+          {
+            "image": "model-photos-v1/bonsai-mini-yamadori-seeker-product-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De yamadori-zoeker — het product",
+              "en": "The yamadori seeker — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "f46cc94fc21dc3c8097424e8fca975abd2d8a89cdf42d207b612ead6cc46f934",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          },
+          {
+            "image": "model-photos-v1/bonsai-mini-yamadori-seeker-context-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De yamadori-zoeker — in een bonsaiopstelling",
+              "en": "The yamadori seeker — in a bonsai arrangement"
+            },
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "f46cc94fc21dc3c8097424e8fca975abd2d8a89cdf42d207b612ead6cc46f934",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          }
+        ],
+        "image": "model-photos-v1/bonsai-mini-yamadori-seeker-product-white-drybrush-v1.webp",
+        "imageAlt": {
+          "nl": "De yamadori-zoeker — het product",
+          "en": "The yamadori seeker — product view"
+        },
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product-context",
+        "id": "bonsai-mini-yamadori-seeker",
+        "name": {
+          "nl": "De yamadori-zoeker",
+          "en": "The yamadori seeker"
+        },
+        "short": {
+          "nl": "Een gehurkte zoeker bij de wortels van een boom in een rotsachtig landschap.",
+          "en": "A crouching seeker beside tree roots in a rocky landscape."
+        },
+        "options": [
+          "black",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
+          "en": "Source model approx. 20 cm tall · black primer with white drybrush · size on request."
+        },
+        "detail": {
+          "nl": "De zoeker bekijkt van dichtbij de blootliggende wortels van een boom. De ronde voet draagt rotsen, lage begroeiing, een tas en het boompje. Al deze onderdelen vormen samen de sculptuur. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
+          "en": "The seeker closely examines the exposed roots of a tree. The round base carries rocks, low vegetation, a bag and the small tree. These parts together form the sculpture. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
+        }
+      },
+      {
+        "category": "miniatures",
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "imageStyle": "isolated-exhibition",
+        "gallery": [
+          {
+            "image": "model-photos-v1/bonsai-mini-bicycle-repairer-product-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De fietshersteller — het product",
+              "en": "The bicycle repairer — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "af4359181bc866c82916a568b3342ab45cb207e71d1eaee7c2c9a098afcea6e9",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          },
+          {
+            "image": "model-photos-v1/bonsai-mini-bicycle-repairer-context-white-drybrush-v2.webp",
+            "alt": {
+              "nl": "De fietshersteller — in een bonsaiopstelling",
+              "en": "The bicycle repairer — in a bonsai arrangement"
+            },
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "af4359181bc866c82916a568b3342ab45cb207e71d1eaee7c2c9a098afcea6e9",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          }
+        ],
+        "image": "model-photos-v1/bonsai-mini-bicycle-repairer-product-white-drybrush-v1.webp",
+        "imageAlt": {
+          "nl": "De fietshersteller — het product",
+          "en": "The bicycle repairer — product view"
+        },
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product-context",
+        "id": "bonsai-mini-bicycle-repairer",
+        "name": {
+          "nl": "De fietshersteller",
+          "en": "The bicycle repairer"
+        },
+        "short": {
+          "nl": "Een zittende fietshersteller aan het achterwiel van een klassieke stadsfiets.",
+          "en": "A seated bicycle repairer working on the rear wheel of a classic city bike."
+        },
+        "options": [
+          "black",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
+          "en": "Source model approx. 20 cm tall · black primer with white drybrush · size on request."
+        },
+        "detail": {
+          "nl": "De fietshersteller zit op een kruk bij een stadsfiets met lage instap, spatborden en bagagedrager. Figuur, fiets, kruk en de smalle rechthoekige voet met bestrating horen bij het model. De spaken en andere fijne delen vragen nog een maakbaarheidscontrole. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
+          "en": "The repairer sits on a stool beside a step-through city bike with mudguards and a rear rack. Figure, bicycle, stool and narrow rectangular paved base belong to the model. The spokes and other fine parts still require a manufacturability check. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
+        }
       }
     ],
     "customTitle": {

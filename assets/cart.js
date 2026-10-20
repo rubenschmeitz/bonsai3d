@@ -22,6 +22,7 @@ function add(rows,row){const found=rows.find(r=>key(r)===key(row));if(found&&fou
 function quote(row,products,pricing){
  if(row.kind==='custom')return pricing.estimate({...row.configuration,quantity:row.quantity});
  const p=products.find(p=>p.id===row.id);if(row.finish==='custom')return {valid:true,manual:true,unit:null,total:null,reason:'colour'};const base=pricing.product(p,row.finish);
+ if(base===null)return {valid:true,manual:true,unit:null,total:null,reason:'catalogue-price'};
  if(row.personalisation.mode==='standard')return {valid:true,manual:false,unit:base,low:base,high:base,design:0,total:base*row.quantity,totalLow:base*row.quantity,totalHigh:base*row.quantity,base:p.pricing.base,finish:row.finish==='wood'?p.pricing.woodExtra:0};
  const s=row.personalisation;const type=p.id.includes('jita')?'jita':kinds[p.category]||'accessory';
  if(!['width','depth','height'].every(k=>s[k]!==''))return {valid:true,manual:true,unit:null,total:null,reason:'dimensions'};
