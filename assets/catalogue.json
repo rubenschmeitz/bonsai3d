@@ -4688,6 +4688,82 @@
           "nl": "De fietshersteller zit op een kruk bij een stadsfiets met lage instap, spatborden en bagagedrager. Figuur, fiets, kruk en de smalle rechthoekige voet met bestrating horen bij het model. De spaken en andere fijne delen vragen nog een maakbaarheidscontrole. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
           "en": "The repairer sits on a stool beside a step-through city bike with mudguards and a rear rack. Figure, bicycle, stool and narrow rectangular paved base belong to the model. The spokes and other fine parts still require a manufacturability check. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
         }
+      },
+      {
+        "category": "miniatures",
+        "stage": "future",
+        "newDesign": true,
+        "detailedMiniature": true,
+        "storyMiniature": true,
+        "dutchGardenMiniature": true,
+        "miniatureViews": true,
+        "availability": "enquiry",
+        "imageStyle": "isolated-exhibition",
+        "gallery": [
+          {
+            "image": "model-photos-v1/bonsai-mini-yamadori-woman-product-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De yamadori-vrouw — het product",
+              "en": "The yamadori woman — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": false,
+            "designReferenceHash": "75e9249de9e819d6231d6ef9cee0326997ae7aa4c71c11dfd28f3677431457b6",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          },
+          {
+            "image": "model-photos-v1/bonsai-mini-yamadori-woman-context-white-drybrush-v1.webp",
+            "alt": {
+              "nl": "De yamadori-vrouw — in een bonsaiopstelling",
+              "en": "The yamadori woman — in a bonsai arrangement"
+            },
+            "photoRole": "context",
+            "visualKind": "arrangementConcept",
+            "generatedFromModel": false,
+            "designReferenceHash": "75e9249de9e819d6231d6ef9cee0326997ae7aa4c71c11dfd28f3677431457b6",
+            "previewFinish": "black",
+            "contextFinish": "black",
+            "finishTreatment": "black-white-drybrush"
+          }
+        ],
+        "image": "model-photos-v1/bonsai-mini-yamadori-woman-product-white-drybrush-v1.webp",
+        "imageAlt": {
+          "nl": "De yamadori-vrouw — het product",
+          "en": "The yamadori woman — product view"
+        },
+        "visualKind": "isolatedConcept",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product-context",
+        "id": "bonsai-mini-yamadori-woman",
+        "name": {
+          "nl": "De yamadori-vrouw",
+          "en": "The yamadori woman"
+        },
+        "short": {
+          "nl": "Een vrouw met een plantschepje bij de wortelkluit van een kleine loofboom.",
+          "en": "A woman with a trowel beside the rootball of a little broadleaf tree."
+        },
+        "options": [
+          "black",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "Ontwerp op basis van een referentiebeeld · zwarte primer met witte drybrush · maat op aanvraag.",
+          "en": "Design based on a reference image · black primer with white drybrush · size on request."
+        },
+        "detail": {
+          "nl": "De vrouw hurkt bij de wortelkluit van een kleine loofboom. Ze draagt een muts en heeft een plantschepje in de hand; haar tas staat op de bosgrond. Figuur, boom, kluit en ovale voet vormen samen het ontwerp. Voor deze versie bestaat nu een ontwerpreferentie; het 3D-model moet nog worden uitgewerkt. Maat en maakbaarheid bespreken we bij de aanvraag. De aparte grote bonsai op het sfeerbeeld hoort er niet bij.",
+          "en": "The woman crouches beside the rootball of a little broadleaf tree. She wears a beanie and holds a trowel; her bag rests on the woodland ground. Figure, tree, rootball and oval base form one design. This version currently has a design reference; its 3D model still needs to be developed. Size and manufacturability are discussed on request. The separate large bonsai in the arrangement image is excluded."
+        }
       }
     ],
     "customTitle": {

@@ -1752,6 +1752,32 @@
       "source_model_sha256": "af4359181bc866c82916a568b3342ab45cb207e71d1eaee7c2c9a098afcea6e9",
       "review": "visual_form_and_finish_reviewed",
       "physical_print_claim": false
+    },
+    "bonsai-mini-yamadori-woman-product-white-drybrush-v1.webp": {
+      "product_id": "bonsai-mini-yamadori-woman",
+      "photo_role": "product",
+      "finish": "white-drybrush",
+      "sha256": "0cc28ef0c012dcb6913a72176bc3cfbf2ab2d74886043ccbe66d4cfe171cf390",
+      "width": 1254,
+      "height": 1254,
+      "kind": "generated-reference-based",
+      "source_model_sha256": null,
+      "review": "visual_form_and_finish_reviewed",
+      "physical_print_claim": false,
+      "source_reference_sha256": "75e9249de9e819d6231d6ef9cee0326997ae7aa4c71c11dfd28f3677431457b6"
+    },
+    "bonsai-mini-yamadori-woman-context-white-drybrush-v1.webp": {
+      "product_id": "bonsai-mini-yamadori-woman",
+      "photo_role": "context",
+      "finish": "white-drybrush",
+      "sha256": "fbfb662e1e69be017ade1fa472792e83ab0b6327c36ba5d7a294f16bdd8ec4b4",
+      "width": 1254,
+      "height": 1254,
+      "kind": "generated-reference-based",
+      "source_model_sha256": null,
+      "review": "visual_form_and_finish_reviewed",
+      "physical_print_claim": false,
+      "source_reference_sha256": "75e9249de9e819d6231d6ef9cee0326997ae7aa4c71c11dfd28f3677431457b6"
     }
   }
 }
