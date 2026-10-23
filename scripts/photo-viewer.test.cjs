@@ -5,12 +5,12 @@ const path = require('node:path');
 const {spawn} = require('node:child_process');
 const root = path.resolve(__dirname, '..'), out = path.join(root, '.artifacts');
 const port = Number(process.env.PHOTO_TEST_PORT || 18859), base = `http://127.0.0.1:${port}/`;
-const server = spawn('python3', ['scripts/preview.py','--port',String(port)], {cwd:root, stdio:'ignore'});
+const server = spawn(process.env.PYTHON || (process.platform==='win32'?'python':'python3'), ['scripts/preview.py','--port',String(port)], {cwd:root, stdio:'ignore'});
 let browser, checks = 0; const errors = [];
 function ok(value, message) { assert(value, message); checks++; }
 (async()=>{try {
   for(let i=0;i<100;i++){try{if((await fetch(base)).ok)break;}catch{} if(i===99)throw new Error('Preview did not start');await new Promise(r=>setTimeout(r,100));}
-  browser = await chromium.launch({headless:true,args:['--no-sandbox']});
+  browser = await chromium.launch({headless:true,args:['--no-sandbox','--renderer-process-limit=2']});
   for(const lang of ['nl','en']) for(const width of [320,390,768,1440]) {
     const page = await browser.newPage({viewport:{width,height:1000}});
     page.on('pageerror', e=>errors.push(e.message));

@@ -10,7 +10,8 @@
       current = (index + slides.length) % slides.length;
       slides.forEach(function (slide, i) { slide.hidden = i !== current; });
       buttons.forEach(function (button, i) { button.setAttribute('aria-pressed', String(i === current)); });
-      gallery.querySelector('[data-home-status]').textContent = buttons[current].getAttribute('aria-label');
+      gallery.querySelector('.home-gallery-position').textContent=(current+1)+' / '+slides.length;
+      gallery.querySelector('[data-home-status]').textContent=slides[current].querySelector('button').getAttribute('aria-label');
     }
     buttons.forEach(function (button, i) { button.onclick = function () { show(i); }; });
     gallery.querySelectorAll('[data-home-step]').forEach(function (button) {

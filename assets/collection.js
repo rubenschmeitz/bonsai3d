@@ -22,6 +22,7 @@
   function remember(key, value) { try { localStorage.setItem(key, value); } catch (_) {} }
   var language = (query.get('lang') || stored('ruben-shop-language', 'nl')) === 'en' ? 'en' : 'nl';
   var style = (query.get('style') || stored('bonsai3d-style', 'wood')) === 'black' ? 'black' : 'wood';
+  var sort = ['price-asc','price-desc','name'].includes(query.get('sort')) ? query.get('sort') : 'featured';
   var category = 'all', search = query.get('search') || '', selection = [], cardStyles = {}, activeProduct = null, activeFinish = style;
   if (shop.categories.some(function (c) { return c.id === query.get('category'); })) category = query.get('category');
   remember('ruben-shop-language', language); remember('bonsai3d-style', style);
@@ -56,8 +57,8 @@
   Object.assign(ui.en,{selection:'Cart',added:'Added to your cart.',add:'Add to cart',enquiry:'Cart & enquiry',intro:'Adjust objects, quantities and preferences. Your cart is saved on this device. Review provisional prices and prepare a non-binding enquiry draft.'});
   Object.assign(ui.nl,{own:'Eigen kleur'});Object.assign(ui.en,{own:'Custom colour'});
   if (interestOnly) {
-    Object.assign(ui.nl,{selection:'Mijn interesse',add:'Dit spreekt mij aan',added:'Bewaard bij mijn interesse.',enquiry:'Wat spreekt jou aan?',intro:'Bewaar je keuzes en zet je wensen erbij.',create:'Maak mijn overzicht',download:'Download mijn interesse',copy:'Kopieer mijn overzicht',copied:'Overzicht gekopieerd.',copyFailed:'Kopiëren lukte niet. Download je overzicht.',ready:'Je overzicht staat klaar.',draft:'Mijn selectie voor BONSAI3D',noOrder:'',fileName:'interesse',local:'Dit blijft op je apparaat. Deel het zelf in een Marktplaatsgesprek; deze website verzamelt geen reacties.',quote:'Zo laat je zien wat je leuk vindt. Er zijn hiermee nog geen afspraken over de uitvoering, prijs of levering.',footer:'Bonsai en 3D-printen, door Ruben',request:'Ontwerpvoorbeeld',quantity:'Gewenst aantal',service:'Service & contact',idea:'Wat spreekt je aan of zou je anders willen?'});
-    Object.assign(ui.en,{selection:'My interests',add:'I like this',added:'Saved to your interests.',enquiry:'What appeals to you?',intro:'Save your choices and add your preferences.',create:'Prepare my overview',download:'Download my interests',copy:'Copy my overview',copied:'Overview copied.',copyFailed:'Copying failed. Download your overview.',ready:'Your overview is ready.',draft:'My selection for BONSAI3D',noOrder:'',fileName:'interest',local:'This stays on your device. Share it yourself in a Marktplaats conversation; this website collects no responses.',quote:'This helps me see what you like. It doesn’t confirm a final piece, price or delivery.',footer:'Bonsai and 3D printing, by Ruben',request:'Design example',quantity:'Preferred quantity',service:'Service & contact',idea:'What do you like or what would you change?'});
+    Object.assign(ui.nl,{selection:'Bewaard',add:'Bewaar object',added:'Object bewaard. Je vindt het terug bij het hartje.',enquiry:'Wat spreekt jou aan?',intro:'Bewaar je favoriete objecten en voeg je wensen toe. Je selectie blijft op dit apparaat. Maak daarna een overzicht om zelf met Ruben te delen.',create:'Maak mijn overzicht',download:'Download mijn interesse',copy:'Kopieer mijn overzicht',copied:'Overzicht gekopieerd.',copyFailed:'Kopiëren lukte niet. Download je overzicht.',ready:'Je overzicht staat klaar, maar is nog niet verstuurd. Kopieer of download het en deel het met Ruben.',draft:'Mijn selectie voor BONSAI3D',noOrder:'',fileName:'interesse',local:'Dit blijft op je apparaat. Deel het zelf in een Marktplaatsgesprek; deze website verzamelt geen reacties.',quote:'Zo laat je zien wat je leuk vindt. Er zijn hiermee nog geen afspraken over de uitvoering, prijs of levering.',footer:'Bonsai en 3D-printen, door Ruben',request:'Ontwerpvoorbeeld',quantity:'Gewenst aantal',service:'Service & contact',idea:'Wat spreekt je aan of zou je anders willen?'});
+    Object.assign(ui.en,{selection:'Saved',add:'Save object',added:'Object saved. Find it again using the heart button.',enquiry:'What appeals to you?',intro:'Save your favourite objects and add your preferences. Your selection stays on this device. Then prepare an overview to share with Ruben yourself.',create:'Prepare my overview',download:'Download my interests',copy:'Copy my overview',copied:'Overview copied.',copyFailed:'Copying failed. Download your overview.',ready:'Your overview is ready, but has not been sent. Copy or download it and share it with Ruben.',draft:'My selection for BONSAI3D',noOrder:'',fileName:'interest',local:'This stays on your device. Share it yourself in a Marktplaats conversation; this website collects no responses.',quote:'This helps me see what you like. It doesn’t confirm a final piece, price or delivery.',footer:'Bonsai and 3D printing, by Ruben',request:'Design example',quantity:'Preferred quantity',service:'Service & contact',idea:'What do you like or what would you change?'});
   }
 
   Object.assign(ui.nl,{service:'Contact & maaktijd'});
@@ -101,53 +102,88 @@
     var content = page === 'collection' ? collection() : ['service','privacy'].includes(page) ? window.BonsaiBusiness[page](api) : window.BonsaiEditorial[page](api);
     document.getElementById('app').innerHTML = '<a class="skip" href="#main">' + u('skip') + '</a>' +
       '<header class="site-header"><div class="header-inner">' + logo() + '<nav id="main-nav" aria-label="' + u('menu') + '">' + ['collection','atelier','custom','service'].map(function (name) { return link(name,name==='service'?tr('Contact','Contact'):u(name),'nav-link' + (name === page ? ' current' : '')).replace('class=',(name === page ? 'aria-current="page" ' : '') + 'class='); }).join('') + '</nav><div class="header-actions"><div class="languages" role="group" aria-label="' + u('language') + '">' + ['nl','en'].map(function (lang) { return '<button type="button" data-language="' + lang + '" aria-pressed="' + (language === lang) + '">' + lang.toUpperCase() + '</button>'; }).join('') + '</div><button class="selection-toggle" aria-label="' + u('selection') + '" data-open-inquiry>'+(interestOnly?'<span class="interest-icon" aria-hidden="true">♡</span>':'')+'<span class="selection-label">' + u('selection') + '</span><span class="count">' + total() + '</span></button></div><button class="menu-toggle" aria-controls="main-nav" aria-expanded="false" aria-label="' + u('menu') + '"><span aria-hidden="true">☰</span></button></div></header>' +
-      '<main id="main">' + content + '</main><footer class="wrap"><div>' + logo() + '<p>' + u('footer') + '</p>' + window.BonsaiBusiness.preparation(api) + window.BonsaiBusiness.footerContact(api) + '</div><nav aria-label="' + tr('Meer ontdekken','Explore more') + '">' + link('collection',u('collection'),'text-link') + link('atelier',u('atelier'),'text-link') + link('service',u('service'),'text-link') + link('privacy',u('privacy'),'text-link') + '</nav><p class="footer-note">© ' + new Date().getFullYear() + ' BONSAI3D</p></footer>' +
+      '<main id="main" tabindex="-1">' + content + '</main><footer class="wrap"><div>' + logo() + '<p>' + u('footer') + '</p>' + window.BonsaiBusiness.preparation(api) + window.BonsaiBusiness.footerContact(api) + '</div><nav aria-label="' + tr('Meer ontdekken','Explore more') + '">' + link('collection',u('collection'),'text-link') + link('atelier',u('atelier'),'text-link') + link('service',u('service'),'text-link') + link('privacy',u('privacy'),'text-link') + '</nav><p class="footer-note">© ' + new Date().getFullYear() + ' BONSAI3D</p></footer>' +
       '<dialog id="product-dialog" aria-labelledby="product-title"></dialog><dialog id="inquiry-dialog" aria-labelledby="inquiry-title"></dialog><div class="toast" role="status" aria-live="polite"></div>';
-    renderProducts(); bindProductLinks(); bind(); window.BonsaiBusiness.bind(api); if(window.BonsaiHomeGallery) window.BonsaiHomeGallery.bind(); if(window.BonsaiPhotoViewer) window.BonsaiPhotoViewer.bind(); if(window.BonsaiDetails) window.BonsaiDetails.bind({tr:tr,language:language,openInquiry:openInquiry,addCustom:addCustom});
+    renderProducts(); bindProductLinks(); bind(); updateCount(); window.BonsaiBusiness.bind(api); if(window.BonsaiHomeGallery) window.BonsaiHomeGallery.bind(); if(window.BonsaiPhotoViewer) window.BonsaiPhotoViewer.bind(); if(window.BonsaiDetails) window.BonsaiDetails.bind({tr:tr,language:language,openInquiry:openInquiry,addCustom:addCustom});
   }
   function collection() {
-    return '<section class="collection wrap" id="collection" aria-labelledby="collection-title"><div class="section-heading"><div><p class="eyebrow">BONSAI3D / ' + tr('OBJECTEN', 'OBJECTS') + '</p><h1 class="page-title" id="collection-title">' + u('collection') + '</h1></div><p>' + tr('Hier staan tafels, potten, kleine figuren en andere dingen voor bij je bonsai. Klik op een object voor meer beelden en de richtprijs.', 'Here you’ll find stands, pots, small figures and other things to go with your bonsai. Click an object for more images and its guide price.') + '</p></div><div class="collection-style"><span>' + u('styleHeading') + '</span><div role="group" aria-label="' + u('choose') + '">' + swatches(style, function (f) { return 'data-style="' + f + '"'; }) + '</div></div><div class="collection-controls"><div class="filters" role="group" aria-label="' + u('collection') + '">' + shop.categories.map(function (c) { return '<button data-filter="' + c.id + '" aria-pressed="' + (category === c.id) + '">' + esc(c[language]) + '</button>'; }).join('') + '</div><label class="search"><span class="sr-only">' + u('search') + '</span><input type="search" id="product-search" value="' + esc(search) + '" placeholder="' + u('search') + '"><span aria-hidden="true">⌕</span></label></div><p id="results-count" aria-live="polite"></p><div class="product-grid" id="products"></div></section>';
+    return `<section class="collection wrap" id="collection" aria-labelledby="collection-title">
+      <header class="simple-collection-heading"><h1 class="page-title" id="collection-title">${u('collection')}</h1><p>${tr('Voor jouw bonsai. Gemaakt door Ruben.','For your bonsai. Made by Ruben.')}</p></header>
+      <div class="collection-controls">
+        <label class="category-control"><span class="sr-only">${tr('Categorie','Category')}</span><select id="product-category">${shop.categories.map(function(c){return '<option value="'+c.id+'"'+(category===c.id?' selected':'')+'>'+esc(c.id==='all'?tr('Alle objecten','All objects'):c[language])+'</option>';}).join('')}</select></label>
+        <label class="search"><span class="sr-only">${u('search')}</span><input type="search" id="product-search" maxlength="100" enterkeyhint="search" value="${esc(search)}" placeholder="${tr('Zoeken…','Search…')}"><span aria-hidden="true">⌕</span></label>
+      </div>
+      <div class="results-toolbar"><p id="results-count" role="status" aria-live="polite" aria-atomic="true"></p><button type="button" class="reset-filters" id="reset-filters" hidden>${tr('Wis filters','Clear filters')}</button>
+        <details class="browse-options"><summary>${tr('Weergave','View options')}</summary><div class="browse-options-panel">
+          <label class="sort-control">${tr('Sorteer op','Sort by')}<select id="product-sort">${[['featured',tr('Uitgelicht','Featured')],['price-asc',tr('Prijs: laag naar hoog','Price: low to high')],['price-desc',tr('Prijs: hoog naar laag','Price: high to low')],['name',tr('Naam: A–Z','Name: A–Z')]].map(function(option){return '<option value="'+option[0]+'"'+(sort===option[0]?' selected':'')+'>'+option[1]+'</option>';}).join('')}</select></label>
+          <div class="collection-style"><span>${tr('Afwerking op de foto','Finish in photographs')}</span><div role="group" aria-label="${u('choose')}">${swatches(style,function(f){return 'data-style="'+f+'"';})}</div></div>
+        </div></details>
+      </div><div class="product-grid" id="products"></div></section>`;
   }
   function bindProductLinks() { document.querySelectorAll('[data-product]').forEach(function (button) { button.onclick = function () { openProduct(button.dataset.product, button.dataset.finish || cardStyles[button.dataset.product] || style); }; }); }
+  function normaliseSearch(value) { return value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase().trim(); }
+  function displayedFinish(p) { var choice=cardStyles[p.id] || style; return p.finishes && !p.finishes[choice] ? (p.finishes.black ? 'black' : previewFinishes(p)[0]) : (p.finishes ? choice : p.options[0]); }
+  function syncFilters() {
+    var url=new URL(location.href);
+    [['search',search.trim()],['category',category==='all'?'':category],['sort',sort==='featured'?'':sort]].forEach(function(pair){if(pair[1])url.searchParams.set(pair[0],pair[1]);else url.searchParams.delete(pair[0]);});
+    history.replaceState(history.state,'',url);
+  }
+  function resetFilters() {
+    category='all';search='';document.getElementById('product-search').value='';
+    document.getElementById('product-category').value='all';
+    syncFilters();renderProducts();document.getElementById('product-search').focus();
+  }
   function renderProducts() {
     if (!document.getElementById('products')) return;
-    var matches = shop.products.filter(function (p) { return (category === 'all' || p.category === category) && (t(p.name) + ' ' + t(p.short)).toLocaleLowerCase().includes(search.toLocaleLowerCase()); });
-    matches.sort(function(a,b){return (Number(!!b.featured)*2+Number(!!b.detailedMiniature))-(Number(!!a.featured)*2+Number(!!a.detailedMiniature));});
-    document.getElementById('results-count').textContent = matches.length + ' ' + u('count');
+    var terms=normaliseSearch(search).split(/\s+/).filter(Boolean);
+    var matches = shop.products.filter(function (p) { var group=shop.categories.find(function(c){return c.id===p.category;}); var text=normaliseSearch(t(p.name)+' '+t(p.short)+' '+t(p.spec)+' '+group[language]); return (category === 'all' || p.category === category) && terms.every(function(term){return text.includes(term);}); });
+    matches.sort(function(a,b){
+      if(sort==='name')return t(a.name).localeCompare(t(b.name),language);
+      if(sort==='price-asc'||sort==='price-desc'){
+        var first=BonsaiPricing.product(a,displayedFinish(a)),second=BonsaiPricing.product(b,displayedFinish(b));
+        if(first===null||second===null)return first===second?0:first===null?1:-1;
+        return (first-second)*(sort==='price-asc'?1:-1);
+      }
+      return (Number(!!b.featured)*2+Number(!!b.detailedMiniature))-(Number(!!a.featured)*2+Number(!!a.detailedMiniature));
+    });
+    document.getElementById('results-count').textContent = matches.length + ' ' + u('count') + (search.trim() ? ' · “'+search.trim()+'”' : '');
+    document.getElementById('reset-filters').hidden=category==='all'&&!search;
     document.getElementById('products').innerHTML = matches.length ? matches.map(function (p) {
-      var finish = cardStyles[p.id] || style; if(p.finishes && !p.finishes[finish]) finish=p.finishes.black?'black':previewFinishes(p)[0]; var photo = finishImage(p, finish);
-      return '<article class="product" data-product-card="' + p.id + '"><button class="product-art" data-product="' + p.id + '" aria-label="' + esc(u('details') + ': ' + t(p.name)) + '"><img src="' + image(photo.image) + '" alt="' + esc(t(photo.alt)) + '" width="1254" height="1254" loading="lazy"><span class="art-arrow" aria-hidden="true">↗</span></button><div class="product-topline"><span>' + esc(shop.categories.find(function (c) { return c.id === p.category; })[language]) + '</span><span class="availability">' + availability(p) + '</span></div><h3><button data-product="' + p.id + '">' + esc(t(p.name)) + '</button></h3><p>' + esc(t(p.short)) + '</p>' + (p.finishes ? '<div class="card-finishes" role="group" aria-label="' + esc(u('choose') + ': ' + t(p.name)) + '">' + swatches(finish, function (f) { return 'data-card-finish="' + f + '" data-card-id="' + p.id + '"'; }, previewFinishes(p)) + '</div>' : '') + '<p class="product-price">'+tr('Richtprijs ','Guide price ')+ '<strong>'+price(p,finish)+'</strong></p></article>';
-    }).join('') : '<p class="no-results">' + u('noResults') + '</p>';
+      var finish = displayedFinish(p); var photo = finishImage(p, finish);
+      return '<article class="product" data-product-card="'+p.id+'"><button class="product-art" data-product="'+p.id+'" aria-label="'+esc(u('details')+': '+t(p.name))+'"><img src="'+image(photo.image)+'" alt="'+esc(t(photo.alt))+'" width="1254" height="1254" loading="lazy"></button><h3><button data-product="'+p.id+'">'+esc(t(p.name))+'</button></h3><p class="product-price">'+tr('Richtprijs ','Guide price ')+'<strong>'+price(p,finish)+'</strong></p><p class="availability">'+availability(p)+'</p></article>';
+    }).join('') : '<div class="no-results"><h2>'+tr('Geen passende objecten','No matching objects')+'</h2><p>'+tr('Probeer een kortere zoekterm of bekijk de hele collectie.','Try a shorter search or explore the whole collection.')+'</p><button type="button" class="button outline" id="empty-reset">'+tr('Bekijk alle objecten','Show all objects')+'</button></div>';
     bindProductLinks();
-    document.querySelectorAll('[data-card-finish]').forEach(function (button) { button.onclick = function () {
-      var id = button.dataset.cardId; cardStyles[id] = button.dataset.cardFinish;
-      var card = document.querySelector('[data-product-card="' + id + '"]'), photo = finishImage(productById(id), cardStyles[id]);
-      card.querySelector('img').src = image(photo.image); card.querySelector('img').alt = t(photo.alt); card.querySelector('.product-price strong').textContent=price(productById(id),cardStyles[id]);
-      card.querySelectorAll('[data-card-finish]').forEach(function (b) { b.setAttribute('aria-pressed', String(b === button)); });
-    }; });
+    var emptyReset=document.getElementById('empty-reset');if(emptyReset)emptyReset.onclick=resetFilters;
   }
+
   function changeStyle(finish) {
     style = finish; cardStyles = {}; remember('bonsai3d-style', style);
-    var url = new URL(location.href); url.searchParams.set('style', style); history.replaceState(null, '', url);
+    var url = new URL(location.href); url.searchParams.set('style', style); history.replaceState(history.state, '', url);
     document.querySelectorAll('[data-style]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.style === style)); });
     renderProducts();
     updateLinks();
   }
   function bind() {
-    document.querySelectorAll('[data-filter]').forEach(function (button) { button.onclick = function () { category = button.dataset.filter; var url = new URL(location.href); if (category === 'all') url.searchParams.delete('category'); else url.searchParams.set('category',category); history.replaceState(null,'',url); document.querySelectorAll('[data-filter]').forEach(function (b) { b.setAttribute('aria-pressed', String(b === button)); }); renderProducts(); }; });
+    var categoryInput=document.getElementById('product-category');if(categoryInput)categoryInput.onchange=function(){category=categoryInput.value;syncFilters();renderProducts();};
     var searchInput = document.getElementById('product-search');
-    if (searchInput) searchInput.oninput = function (event) { search = event.target.value; renderProducts(); };
+    if (searchInput) searchInput.oninput = function (event) { search = event.target.value; syncFilters(); renderProducts(); };
+    var sorter=document.getElementById('product-sort');if(sorter)sorter.onchange=function(){sort=sorter.value;syncFilters();renderProducts();};
+    var reset=document.getElementById('reset-filters');if(reset)reset.onclick=resetFilters;
     document.querySelectorAll('[data-style]').forEach(function (button) { button.onclick = function () { changeStyle(button.dataset.style); }; });
     document.querySelectorAll('[data-browse-style]').forEach(function (button) { button.onclick = function () { location.href = pageUrl('collection',{style:button.dataset.browseStyle}); }; });
     document.querySelectorAll('[data-open-inquiry]').forEach(function (button) { button.onclick = openInquiry; });
     document.querySelectorAll('[data-language]').forEach(function (button) { button.onclick = function () {
       var active = activeProduct, finish = activeFinish;
       language = button.dataset.language; remember('ruben-shop-language', language);
-      var url = new URL(location.href); url.searchParams.set('lang', language); history.replaceState(null, '', url);
-      render(); if (active) openProduct(active, finish);
+      var url = new URL(location.href); url.searchParams.set('lang', language); history.replaceState(history.state, '', url);
+      render(); if (active) openProduct(active, finish); else document.querySelector('[data-language="'+language+'"]').focus();
     }; });
     var toggle = document.querySelector('.menu-toggle'), nav = document.getElementById('main-nav');
-    toggle.onclick = function () { var open = nav.classList.toggle('mobile-open'); toggle.setAttribute('aria-expanded', String(open)); };
+    function closeMenu(restore){nav.classList.remove('mobile-open');toggle.setAttribute('aria-expanded','false');if(restore)toggle.focus();}
+    toggle.onclick = function () { var open = nav.classList.toggle('mobile-open'); toggle.setAttribute('aria-expanded', String(open)); if(open)nav.querySelector('a').focus(); };
+    document.onkeydown=function(event){if(event.key==='Escape'&&nav.classList.contains('mobile-open')){closeMenu(true);}};
+    document.onclick=function(event){if(!event.target.closest('.site-header'))closeMenu(false);};
+    nav.onfocusout=function(){setTimeout(function(){if(!nav.contains(document.activeElement)&&document.activeElement!==toggle)closeMenu(false);},0);};
     nav.querySelectorAll('a').forEach(function (a) { a.onclick = function () { nav.classList.remove('mobile-open'); toggle.setAttribute('aria-expanded','false'); }; });
   }
   function toast(message) { clearTimeout(toastTimer); var node = document.querySelector('.toast'); node.textContent = message; node.classList.add('visible'); toastTimer = setTimeout(function () { node.classList.remove('visible'); }, 3000); }
@@ -157,7 +193,12 @@
     dialog.querySelector('.dialog-close').onclick = function () { dialog.close(); };
     dialog.onclick = function (event) { if (event.target === dialog) { var b = dialog.getBoundingClientRect(); if (event.clientX < b.left || event.clientX > b.right || event.clientY < b.top || event.clientY > b.bottom) dialog.close(); } };
   }
-  function productUrl(id, finish) { var url = new URL(location.href); url.searchParams.set('product',id); url.searchParams.set('finish',finish); history.replaceState(null,'',url); }
+  function productUrl(id, finish) {
+    var url = new URL(location.href), opening = url.searchParams.get('product') !== id;
+    url.searchParams.set('product',id); url.searchParams.set('finish',finish);
+    if(opening)history.pushState({bonsaiProductOverlay:true},'',url);
+    else history.replaceState(history.state,'',url);
+  }
   function productGallery(p, finish) {
     if (p.miniatureViews) {
       var preview = p.finishes && finish === 'wood' ? 'wood' : 'black';
@@ -182,7 +223,7 @@
     var finishForm='<label class="compact-finish">'+u('choose')+'<select name="finish">'+p.options.map(function(f){return '<option value="'+f+'"'+(finish===f?' selected':'')+'>'+esc(finishLabel(f,p)+(f==='wood'?' (+'+BonsaiPricing.money(p.pricing.woodExtra,language)+')':''))+'</option>';}).join('')+'</select></label>';
     var dialog = document.getElementById('product-dialog');
     dialog.classList.add('compact-product');
-    dialog.innerHTML=closeButton()+`<header class="product-modal-heading"><p class="eyebrow">BONSAI3D / ${p.stage==='future'?tr('ONTWERPVOORBEELD','DESIGN EXAMPLE'):tr('UIT DE COLLECTIE','FROM THE COLLECTION')}</p><h2 id="product-title">${esc(t(p.name))}</h2></header><div class="product-dialog-layout"><div class="product-gallery"><figure><button type="button" class="product-photo-enlarge" aria-label="${tr('Foto vergroten','Enlarge photograph')}"><img id="product-main-image" alt=""><span class="photo-enlarge-icon" aria-hidden="true">⤢</span></button></figure><div class="gallery-thumbnails" role="group" aria-label="${esc(t(p.name))}"></div><span class="gallery-count" role="status" aria-live="polite"></span></div><div class="product-dialog-copy"><div class="product-commerce"><p class="product-price">${p.sellingUnit==='set'?tr('Richtprijs per set','Guide price per set'):tr('Richtprijs per stuk','Guide price per piece')} <strong id="product-price">${price(p,finish)}</strong></p><p class="availability">${availability(p)}</p></div><form id="product-form">${finishForm}<div id="product-colour" ${finish==='custom'?'':'hidden'}>${BonsaiCart.colourFields(cartApi())}</div>${BonsaiCart.personalisation(cartApi())}<div id="product-live-total" role="status" aria-live="polite"></div><div class="product-action-bar"><label class="quantity-label">${p.sellingUnit==='set'?tr('Sets','Sets'):u('quantity')}<input type="number" name="quantity" min="1" max="20" value="1" required></label><button type="submit" class="button primary">${u('add')} +</button></div><p id="product-cart-error" role="status"></p></form><p class="compact-included">${tr('Alleen het object · styling en verzending niet inbegrepen.','Object only · styling and shipping excluded.')}</p><details class="product-description"><summary>${tr(interestOnly?'Beschrijving & maten':'Beschrijving, maten & levering',interestOnly?'Description & dimensions':'Description, dimensions & delivery')}</summary><p>${esc(t(p.short))}</p><p>${esc(t(p.detail))}</p><p>${esc(t(p.spec))}</p>${link('service',tr('Service & contact','Service & contact')+' ↗','text-link')}</details></div></div>`;
+    dialog.innerHTML=closeButton()+`<header class="product-modal-heading"><h2 id="product-title">${esc(t(p.name))}</h2></header><div class="product-dialog-layout"><div class="product-gallery"><figure><button type="button" class="product-photo-enlarge" aria-label="${tr('Foto vergroten','Enlarge photograph')}"><img id="product-main-image" alt=""><span class="photo-enlarge-icon" aria-hidden="true">⤢</span></button></figure><div class="gallery-thumbnails" role="group" aria-label="${esc(t(p.name))}"></div><p class="photo-caption"></p><span class="gallery-count" role="status" aria-live="polite"></span></div><div class="product-dialog-copy"><p class="product-essential">${esc(t(p.short))}</p><div class="product-commerce"><p class="product-price">${p.sellingUnit==='set'?tr('Richtprijs per set','Guide price per set'):tr('Richtprijs per stuk','Guide price per piece')} <strong id="product-price">${price(p,finish)}</strong></p><p class="availability">${availability(p)}</p></div><form id="product-form">${finishForm}<p id="finish-preview-note" class="colour-note" hidden></p><div id="product-colour" ${finish==='custom'?'':'hidden'}>${BonsaiCart.colourFields(cartApi())}</div><div class="product-action-bar"><input type="hidden" name="quantity" value="1"><button type="submit" class="button primary">${u('add')} +</button></div><p id="product-cart-error" role="status"></p>${BonsaiCart.personalisation(cartApi())}<details class="product-price-details"><summary>${tr('Prijsopbouw','Price breakdown')}</summary><div id="product-live-total" role="status" aria-live="polite"></div></details></form><p class="compact-included">${tr('Alleen het object · styling en verzending niet inbegrepen.','Object only · styling and shipping excluded.')}</p><details class="product-description"><summary>${tr(interestOnly?'Beschrijving & maten':'Beschrijving, maten & levering',interestOnly?'Description & dimensions':'Description, dimensions & delivery')}</summary><p class="product-dimensions">${esc(t(p.spec))}</p><p>${esc(t(p.detail))}</p>${link('service',tr('Service & contact','Service & contact')+' ↗','text-link')}</details></div></div>`;
     function showPhoto(index) {
       index = (index + gallery.length) % gallery.length; currentPhoto = index;
       var photo = gallery[index], main = dialog.querySelector('#product-main-image'); main.src = image(photo.image); main.alt = t(photo.alt || p.name);
@@ -194,7 +235,8 @@
       });
       dialog.querySelector('.gallery-count').textContent = (index + 1) + ' / ' + gallery.length;
       dialog.querySelector('.gallery-thumbnails').hidden = gallery.length < 2;
-      if (photo.finish && dialog.querySelector('#product-form').elements.finish.value!=='custom') { document.getElementById('product-price').textContent=price(p,photo.finish); activeFinish = photo.finish; dialog.querySelector('#product-form').elements.finish.value=activeFinish; productUrl(id,activeFinish); }
+      var source=/model-photos/.test(photo.image)?tr('Render van het 3D-model','3D model render'):/concept/i.test(photo.visualKind||'')?tr('Gegenereerd ontwerpbeeld','Generated design preview'):photo.originalPhoto?tr('Bewerkt voorbeeldbeeld','Edited preview'):imageLabel(photo);
+      dialog.querySelector('.photo-caption').textContent=source+(photo.finish ? ' · '+finishLabel(photo.finish,p) : '');
     }
     function bindGallery() {
       var thumbnails = dialog.querySelector('.gallery-thumbnails');
@@ -212,7 +254,7 @@
       window.BonsaiPhotoViewer.open({photos:gallery.map(function (photo) { return {src:image(photo.image), alt:t(photo.alt || p.name)}; }), index:currentPhoto, title:t(p.name), onChange:function (index) { showPhoto(index); previewPrice(); }});
     };
     bindGallery();
-    dialog.querySelectorAll('[name=finish]').forEach(function (input) { input.onchange = function () { if (p.miniatureViews || (p.photoSequence && p.finishes && p.finishes[input.value])) { activeFinish=input.value; productUrl(id,activeFinish); gallery=productGallery(p,input.value); bindGallery(); showPhoto(0); } else if (p.finishes && p.finishes[input.value]) showPhoto(gallery.findIndex(function(photo){return photo.finish===input.value;})); else { activeFinish=input.value; productUrl(id,activeFinish); } document.getElementById('product-price').textContent=price(p,input.value);  }; });
+    dialog.querySelectorAll('[name=finish]').forEach(function (input) { input.onchange = function () { activeFinish=input.value;productUrl(id,activeFinish); if (p.miniatureViews || (p.photoSequence && p.finishes && p.finishes[input.value])) { activeFinish=input.value; productUrl(id,activeFinish); gallery=productGallery(p,input.value); bindGallery(); showPhoto(0); } else if (p.finishes && p.finishes[input.value]) showPhoto(gallery.findIndex(function(photo){return photo.finish===input.value;})); else { activeFinish=input.value; productUrl(id,activeFinish); } document.getElementById('product-price').textContent=price(p,input.value);  }; });
     dialog.querySelector('form').onsubmit = function (event) {
       event.preventDefault(); var form = new FormData(event.currentTarget), chosen = form.get('finish'), quantity = Number(form.get('quantity'));
       if (!p.options.includes(chosen) || !Number.isInteger(quantity) || quantity < 1 || quantity > 20) return;
@@ -221,7 +263,11 @@
       lastRemoved=null;save(); updateCount(); dialog.close(); toast(u('added'));
     };
     function previewPrice(){
-      var form=dialog.querySelector('#product-form');var ownColour=form.elements.finish.value==='custom';dialog.querySelector('#product-colour').hidden=!ownColour;dialog.querySelectorAll('#product-colour input').forEach(input=>input.disabled=!ownColour);document.getElementById('product-price').textContent=ownColour?tr('Na overleg','On quotation'):price(p,form.elements.finish.value);var custom=form.elements.mode.value==='custom';dialog.querySelector('#product-custom-fields').hidden=!custom;dialog.querySelectorAll('#product-custom-fields input,#product-custom-fields select').forEach(input=>input.disabled=!custom);dialog.querySelector('.product-commerce .availability').textContent=(custom||ownColour)?tr('Aangepaste uitvoering op aanvraag','Custom version on enquiry'):availability(p);
+      var form=dialog.querySelector('#product-form');
+      var previewNote=dialog.querySelector('#finish-preview-note'),selectedFinish=form.elements.finish.value;
+      previewNote.hidden=!(selectedFinish==='custom'||selectedFinish==='grey'&&!(p.finishes&&p.finishes.grey));
+      previewNote.textContent=tr('Voor deze kleur is nog geen voorbeeldbeeld. De foto toont een andere uitvoering; je kleurkeuze blijft bewaard.','There is no preview for this colour yet. The photograph shows another version; your chosen colour is saved.');
+      var ownColour=form.elements.finish.value==='custom';dialog.querySelector('#product-colour').hidden=!ownColour;dialog.querySelectorAll('#product-colour input').forEach(input=>input.disabled=!ownColour);document.getElementById('product-price').textContent=ownColour?tr('Na overleg','On quotation'):price(p,form.elements.finish.value);var custom=form.elements.mode.value==='custom';dialog.querySelector('#product-custom-fields').hidden=!custom;dialog.querySelectorAll('#product-custom-fields input,#product-custom-fields select').forEach(input=>input.disabled=!custom);dialog.querySelector('.product-commerce .availability').textContent=(custom||ownColour)?tr('Aangepaste uitvoering op aanvraag','Custom version on enquiry'):availability(p);
       var invalid=[...form.querySelectorAll('input[type=number]')].some(input=>!input.checkValidity());
       var row=BonsaiCart.productRow(id,form,cartApi()),target=dialog.querySelector('#product-live-total');
       if(invalid||!row){target.textContent=tr('Controleer de maten en het aantal.','Check dimensions and quantity.');return;}
@@ -229,12 +275,19 @@
       if(custom)document.getElementById('product-price').textContent=BonsaiCart.priceText(q,cartApi(),false);
       var woodOption=form.querySelector('option[value=wood]');if(woodOption){var dims=['width','depth','height'].map(k=>Number(form.elements[k].value));var extra=custom?(dims.every(n=>n>0)?BonsaiPricing.money(BonsaiPricing.woodSurcharge(Math.max(...dims)),language):'€10–€30'):BonsaiPricing.money(p.pricing.woodExtra,language);woodOption.textContent=tr('Houtlook','Wood look')+' (+'+extra+')';}
       var parts=[[tr('Basisobject','Base object'),q.base],[tr('Extra formaat','Larger size'),q.size||0],[tr('Reliëf & details','Relief & detail'),q.detail||0],[tr('Afwerking','Finish'),q.finish||0],[tr('Ontwerpwerk · eenmalig','Design work · one-off'),q.design||0]];
-      target.innerHTML='<div class="cart-price-preview">'+tr('Richttotaal','Guide total')+'<strong>'+BonsaiCart.priceText(q,cartApi(),true)+'</strong>'+(interestOnly?'':'<span>'+tr('Verzending nog te bespreken.','Shipping to be discussed.')+'</span>')+(!q.manual&&q.valid?'<details class="price-breakdown"><summary>'+tr('Waaruit bestaat de richtprijs?','How is the guide price calculated?')+'</summary><dl>'+parts.filter(part=>Number.isFinite(part[1])&&part[1]>0).map(part=>'<div><dt>'+part[0]+'</dt><dd>'+BonsaiPricing.money(part[1],language)+'</dd></div>').join('')+'</dl><p>'+tr('Productieprijzen per stuk; ontwerpwerk één keer voor deze uitvoering. Een inschatting, nog geen offerte.','Production prices per piece; design work charged once for this version. An estimate, not yet a quote.')+'</p></details>':'')+'</div>';
+      target.innerHTML='<div class="cart-price-preview">'+tr('Richttotaal','Guide total')+'<strong>'+BonsaiCart.priceText(q,cartApi(),true)+'</strong>'+(interestOnly?'':'<span>'+tr('Verzending nog te bespreken.','Shipping to be discussed.')+'</span>')+(!q.manual&&q.valid?'<div class="price-breakdown"><dl>'+parts.filter(part=>Number.isFinite(part[1])&&part[1]>0).map(part=>'<div><dt>'+part[0]+'</dt><dd>'+BonsaiPricing.money(part[1],language)+'</dd></div>').join('')+'</dl><p>'+tr('Productieprijzen per stuk; ontwerpwerk één keer voor deze uitvoering. Een inschatting, nog geen offerte.','Production prices per piece; design work charged once for this version. An estimate, not yet a quote.')+'</p></div>':'')+'</div>';
     }
     dialog.querySelector('#product-form').addEventListener('input',previewPrice);dialog.querySelector('#product-form').addEventListener('change',previewPrice);dialog.querySelector('.gallery-thumbnails').addEventListener('click',previewPrice);
     setupDialog(dialog);
-    dialog.onclose = function () { activeProduct = null; var url = new URL(location.href); url.searchParams.delete('product'); url.searchParams.delete('finish'); history.replaceState(null,'',url); if (lastFocus && lastFocus.isConnected) lastFocus.focus(); };
-    showPhoto(!p.miniatureViews && p.finishes ? Math.max(0,gallery.findIndex(function(photo){return photo.finish===(p.finishes[finish]?finish:'black');})) : 0); if(finish==='grey' && !(p.finishes && p.finishes.grey)){var greyInput=dialog.querySelector('[name=finish][value=grey]');if(greyInput)dialog.querySelector('#product-form').elements.finish.value='grey'; activeFinish='grey';} productUrl(id,finish); previewPrice();dialog.showModal();
+    dialog.onclose = function () {
+      if(dialog.open)return;
+      activeProduct = null;
+      var url = new URL(location.href);
+      if(url.searchParams.has('product') && history.state && history.state.bonsaiProductOverlay)history.back();
+      else {url.searchParams.delete('product');url.searchParams.delete('finish');history.replaceState(history.state,'',url);}
+      if (lastFocus && lastFocus.isConnected) lastFocus.focus();
+    };
+    showPhoto(!p.miniatureViews && p.finishes ? Math.max(0,gallery.findIndex(function(photo){return photo.finish===(p.finishes[finish]?finish:'black');})) : 0); if(finish==='grey' && !(p.finishes && p.finishes.grey)){dialog.querySelector('#product-form').elements.finish.value='grey'; activeFinish='grey';} productUrl(id,finish); previewPrice();dialog.showModal();
   }
   function invalidateRequest(){lastRequest='';var out=document.querySelector('.request-output');if(out)out.hidden=true;var status=document.getElementById('request-status');if(status)status.textContent='';}
   function cartApi(){return {interestOnly:interestOnly,tr:tr,t:t,esc:esc,shop:shop,image:image,finishImage:finishImage,finishLabel:finishLabel,availability:availability,link:link,money:function(n){return BonsaiPricing.money(n,language);},invalidate:invalidateRequest,changed:function(){lastRemoved=null;save();updateCount();invalidateRequest();renderSelection();},remove:function(i){lastRemoved={row:selection[i],index:i};selection.splice(i,1);save();updateCount();invalidateRequest();renderSelection();}};}
@@ -255,13 +308,13 @@
   function openInquiry() {
     lastFocus = document.activeElement; lastRequest = '';
     var dialog = document.getElementById('inquiry-dialog');
-    dialog.innerHTML = closeButton() + '<div class="inquiry-inner"><p class="eyebrow">BONSAI3D / ' + u('selection') + '</p><h2 id="inquiry-title">' + u('enquiry') + '</h2><p>' + u('intro') + '</p><h3 class="cart-section-title">01 / ' + tr('Jouw objecten','Your objects') + '</h3><div class="cart-toolbar"><span id="cart-line-count"></span><button id="undo-cart-remove" type="button" hidden>' + tr('Verwijderen ongedaan maken','Undo removal') + '</button></div><div id="cart-summary" aria-live="polite"></div><div id="selection-items"></div><h3 class="cart-section-title">02 / ' + tr(interestOnly?'Jouw feedback':'Levering & aanvullende wensen',interestOnly?'Your feedback':'Delivery & additional preferences') + '</h3><form id="inquiry-form"><div class="form-pair"><label>' + u('name') + '<input name="name" autocomplete="name" maxlength="100"></label><label>' + u('email') + '<input name="email" type="email" autocomplete="email" maxlength="150"></label></div><label>' + u('idea') + '<textarea name="idea" rows="4" maxlength="3000" placeholder="' + u('hint') + '"></textarea></label><details class="request-measurements"><summary>' + tr('Maten van je pot of opstelling (optioneel)','Pot or display measurements (optional)') + '</summary><div class="form-dimensions">' + ['width','depth','height'].map(function (k) { return '<label>' + u(k) + '<input type="number" name="' + k + '" min="0.1" max="10000" step="0.1"></label>'; }).join('') + '</div></details><label class="inquiry-delivery">' + tr('Levering · voorkeur om te bespreken','Delivery · preference to discuss') + '<select name="delivery"><option value="discuss">' + tr('Nog bespreken','To be discussed') + '</option><option value="shipping">' + tr('Verzending bespreken','Discuss delivery') + '</option><option value="collection">' + tr('Afhalen bespreken','Discuss collection') + '</option></select></label>' + window.BonsaiBusiness.enquiryNotice(businessApi()) + '<p class="local-notice">' + u('local') + '</p><button class="button primary" type="submit">' + u('create') + ' ↗</button><p id="request-status" role="status" aria-live="polite"></p></form><div class="request-output" hidden><pre id="request-text"></pre><div class="request-actions">' + window.BonsaiBusiness.emailAction(businessApi()) + '<button class="button primary" id="download-request" type="button">' + u('download') + ' ↓</button><button class="button outline" id="copy-request" type="button">' + u('copy') + '</button></div></div></div>';
+    dialog.innerHTML = closeButton() + '<div class="inquiry-inner"><p class="eyebrow">BONSAI3D / ' + u('selection') + '</p><h2 id="inquiry-title">' + u('enquiry') + '</h2><p>' + u('intro') + '</p><h3 class="cart-section-title">' + tr('Jouw objecten','Your objects') + '</h3><div class="cart-toolbar"><span id="cart-line-count"></span><button id="undo-cart-remove" type="button" hidden>' + tr('Verwijderen ongedaan maken','Undo removal') + '</button></div><div id="cart-summary" aria-live="polite"></div><div id="selection-items"></div><h3 class="cart-section-title">' + tr(interestOnly?'Jouw feedback':'Levering & aanvullende wensen',interestOnly?'Your feedback':'Delivery & additional preferences') + '</h3><form id="inquiry-form"><div class="form-pair"><label>' + u('name') + '<input name="name" autocomplete="name" maxlength="100"></label><label>' + u('email') + '<input name="email" type="email" autocomplete="email" maxlength="150"></label></div><label>' + u('idea') + '<textarea name="idea" rows="4" maxlength="3000" placeholder="' + u('hint') + '"></textarea></label><details class="request-measurements"><summary>' + tr('Maten van je pot of opstelling (optioneel)','Pot or display measurements (optional)') + '</summary><div class="form-dimensions">' + ['width','depth','height'].map(function (k) { return '<label>' + u(k) + '<input type="number" name="' + k + '" min="0.1" max="10000" step="0.1"></label>'; }).join('') + '</div></details><label class="inquiry-delivery">' + tr('Levering · voorkeur om te bespreken','Delivery · preference to discuss') + '<select name="delivery"><option value="discuss">' + tr('Nog bespreken','To be discussed') + '</option><option value="shipping">' + tr('Verzending bespreken','Discuss delivery') + '</option><option value="collection">' + tr('Afhalen bespreken','Discuss collection') + '</option></select></label>' + window.BonsaiBusiness.enquiryNotice(businessApi()) + '<p class="local-notice">' + u('local') + '</p><button class="button primary" type="submit">' + u('create') + ' ↗</button><p id="request-status" role="status" aria-live="polite"></p></form><div class="request-output" hidden><pre id="request-text" tabindex="-1"></pre><div class="request-actions">' + window.BonsaiBusiness.emailAction(businessApi()) + '<button class="button primary" id="download-request" type="button">' + u('download') + ' ↓</button><button class="button outline" id="copy-request" type="button">' + u('copy') + '</button></div></div></div>';
     if (interestOnly) {
       dialog.querySelector('.local-notice').remove();
       ['.form-pair','.inquiry-delivery'].forEach(function(selector){var node=dialog.querySelector(selector);node.hidden=true;node.querySelectorAll('input,select').forEach(function(input){input.disabled=true;});});
-      var feedback=document.createElement('div');feedback.className='interest-feedback';
-      feedback.innerHTML='<label>'+tr('Hoe interessant vind je dit?','How interested are you?')+'<select name="interestLevel"><option value="exploring">'+tr('Ik kijk nog rond','Just exploring')+'</option><option value="interested">'+tr('Dit spreekt mij aan','This appeals to me')+'</option><option value="later">'+tr('Misschien voor later','Perhaps later')+'</option></select></label><label>'+tr('Welk bedrag lijkt je passend? (optioneel)','What price feels appropriate? (optional)')+'<input name="budget" type="number" min="0" max="10000" step="1" placeholder="€"></label>';
-      dialog.querySelector('#inquiry-form').prepend(feedback);
+      var feedback=document.createElement('details');feedback.className='interest-feedback interest-options';
+      feedback.innerHTML='<summary>'+tr('Extra voorkeuren (optioneel)','Extra preferences (optional)')+'</summary><label>'+tr('Hoe interessant vind je dit?','How interested are you?')+'<select name="interestLevel"><option value="exploring">'+tr('Ik kijk nog rond','Just exploring')+'</option><option value="interested">'+tr('Dit spreekt mij aan','This appeals to me')+'</option><option value="later">'+tr('Misschien voor later','Perhaps later')+'</option></select></label><label>'+tr('Welk bedrag lijkt je passend? (optioneel)','What price feels appropriate? (optional)')+'<input name="budget" type="number" min="0" max="10000" step="1" placeholder="€"></label>';
+      dialog.querySelector('.request-measurements').before(feedback);
     }
     renderSelection(); setupDialog(dialog);
     dialog.onclose = function () { if (lastFocus && lastFocus.isConnected) lastFocus.focus(); };
@@ -274,17 +327,26 @@
         var levels={exploring:tr('Ik kijk nog rond','Just exploring'),interested:tr('Dit spreekt mij aan','This appeals to me'),later:tr('Misschien voor later','Perhaps later')};
         lastRequest=u('draft')+'\n\n'+BonsaiCart.text(selection,cartApi())+'\n\n'+tr('Belangstelling: ','Interest: ')+(levels[form.get('interestLevel')]||levels.exploring)+'\n'+tr('Passend bedrag: ','Suggested price: ')+(form.get('budget')?BonsaiPricing.money(Number(form.get('budget')),language):tr('Niet ingevuld','Not entered'))+'\n\n'+u('idea')+'\n'+(form.get('idea')||'')+'\n\n'+['width','depth','height'].map(function(k){return u(k)+': '+(form.get(k)||'—');}).join('\n')+window.BonsaiBusiness.requestText(businessApi());
       }
-      document.getElementById('request-text').textContent = lastRequest; dialog.querySelector('.request-output').hidden = false; document.getElementById('request-status').textContent = u('ready');
+      var mail=dialog.querySelector('.request-actions a[href^="mailto:"]');
+      if(mail){var emailBody=encodeURIComponent(lastRequest);var fits=emailBody.length<6500;mail.href='mailto:'+business.seller.email+'?subject='+encodeURIComponent(tr('Mijn selectie voor BONSAI3D','My selection for BONSAI3D'))+(fits?'&body='+emailBody:'');mail.textContent=fits?tr('Open overzicht in e-mail ↗','Open overview in email ↗'):tr('Open e-mail · voeg je download toe ↗','Open email · attach your download ↗');}
+      document.getElementById('request-text').textContent = lastRequest; dialog.querySelector('.request-output').hidden = false; document.getElementById('request-status').textContent = u('ready'); dialog.querySelector('.request-output').scrollIntoView({block:'nearest'}); document.getElementById('request-text').focus({preventScroll:true});
     };
     document.getElementById('download-request').onclick = function () { var url = URL.createObjectURL(new Blob([lastRequest],{type:'text/plain;charset=utf-8'})), anchor = document.createElement('a'); anchor.href = url; anchor.download = 'bonsai3d-' + u('fileName') + '.txt'; document.body.appendChild(anchor); anchor.click(); anchor.remove(); setTimeout(function () { URL.revokeObjectURL(url); },1000); };
     document.getElementById('copy-request').onclick = async function () { try { await navigator.clipboard.writeText(lastRequest); document.getElementById('request-status').textContent = u('copied'); } catch (_) { document.getElementById('request-status').textContent = u('copyFailed'); } };
     dialog.querySelector('form').oninput = function () { invalidateRequest(); };
     dialog.showModal();
   }
+  window.addEventListener('popstate',function(){
+    var params=new URLSearchParams(location.search),id=params.get('product'),dialog=document.getElementById('product-dialog');
+    if(id){if(dialog.open){dialog.onclose=null;dialog.close();}openProduct(id,params.get('finish')||style);}
+    else if(dialog.open)dialog.close();
+  });
   render();
   if (location.hash) requestAnimationFrame(function () { var target = document.getElementById(location.hash.slice(1)); if (target) target.scrollIntoView(); });
   if (query.get('product')) openProduct(query.get('product'),query.get('finish') || style);
 })().catch(function (error) {
-  document.getElementById('app').innerHTML = '<p class="load-error">De collectie kon niet worden geladen. <a href="./">Probeer opnieuw</a>.</p>';
+  var english=new URLSearchParams(location.search).get('lang')==='en';
+  document.getElementById('app').innerHTML='<section class="load-error" role="alert"><h1>BONSAI3D</h1><p>'+(english?'The collection could not be loaded. Check your connection and try again.':'De collectie kon niet worden geladen. Controleer je verbinding en probeer opnieuw.')+'</p><button type="button" class="button primary" id="retry-load">'+(english?'Try again':'Probeer opnieuw')+'</button></section>';
+  document.getElementById('retry-load').onclick=function(){location.reload();};
   console.error(error);
 });
