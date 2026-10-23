@@ -4764,6 +4764,450 @@
           "nl": "De vrouw hurkt bij de wortelkluit van een kleine loofboom. Ze draagt een muts en heeft een plantschepje in de hand; haar tas staat op de bosgrond. Figuur, boom, kluit en ovale voet vormen samen het ontwerp. Voor deze versie bestaat nu een ontwerpreferentie; het 3D-model moet nog worden uitgewerkt. Maat en maakbaarheid bespreken we bij de aanvraag. De aparte grote bonsai op het sfeerbeeld hoort er niet bij.",
           "en": "The woman crouches beside the rootball of a little broadleaf tree. She wears a beanie and holds a trowel; her bag rests on the woodland ground. Figure, tree, rootball and oval base form one design. This version currently has a design reference; its 3D model still needs to be developed. Size and manufacturability are discussed on request. The separate large bonsai in the arrangement image is excluded."
         }
+      },
+      {
+        "id": "bonsai-lantaarn-ronin",
+        "category": "miniatures",
+        "stage": "future",
+        "availability": "enquiry",
+        "detailedMiniature": true,
+        "miniatureViews": true,
+        "name": {
+          "nl": "De ronin met licht",
+          "en": "The ronin with light"
+        },
+        "short": {
+          "nl": "Een reiziger met strohoed en een ronde lantaarn.",
+          "en": "A traveller with a straw hat and a round lantern."
+        },
+        "options": [
+          "grey",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "150 mm hoog inclusief voet · 11 losse onderdelen · resin met transparante lichtvensters.",
+          "en": "150 mm tall including base · 11 separate components · resin with translucent lantern windows."
+        },
+        "detail": {
+          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters kunnen in transparant PETG of heldere resin. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; lantern windows can be translucent PETG or clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+        },
+        "image": "lantern-miniatures/01-ronin-assembly.webp",
+        "imageAlt": {
+          "nl": "De ronin — Samengesteld 3D-model",
+          "en": "The ronin — Assembled 3D model"
+        },
+        "visualKind": "isolated",
+        "generatedFromModel": true,
+        "gallery": [
+          {
+            "image": "lantern-miniatures/01-ronin-assembly.webp",
+            "alt": {
+              "nl": "De ronin — Samengesteld 3D-model",
+              "en": "The ronin — Assembled 3D model"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/01-ronin-parts.webp",
+            "alt": {
+              "nl": "De ronin — Losse onderdelen",
+              "en": "The ronin — Separate components"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/01-ronin-led.webp",
+            "alt": {
+              "nl": "De ronin — Inbouw van het ledje",
+              "en": "The ronin — LED installation"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          }
+        ],
+        "manufacturingStatus": "digital-geometry-checked"
+      },
+      {
+        "id": "bonsai-lantaarn-kimono",
+        "category": "miniatures",
+        "stage": "future",
+        "availability": "enquiry",
+        "detailedMiniature": true,
+        "miniatureViews": true,
+        "name": {
+          "nl": "De reizigster met licht",
+          "en": "The traveller with light"
+        },
+        "short": {
+          "nl": "Een reizigster in kimono met een hangende lantaarn.",
+          "en": "A traveller in a kimono carrying a hanging lantern."
+        },
+        "options": [
+          "grey",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "150 mm hoog inclusief voet · 13 losse onderdelen · resin met transparante lichtvensters.",
+          "en": "150 mm tall including base · 13 separate components · resin with translucent lantern windows."
+        },
+        "detail": {
+          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters kunnen in transparant PETG of heldere resin. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; lantern windows can be translucent PETG or clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+        },
+        "image": "lantern-miniatures/02-kimono-assembly.webp",
+        "imageAlt": {
+          "nl": "De reizigster — Samengesteld 3D-model",
+          "en": "The traveller — Assembled 3D model"
+        },
+        "visualKind": "isolated",
+        "generatedFromModel": true,
+        "gallery": [
+          {
+            "image": "lantern-miniatures/02-kimono-assembly.webp",
+            "alt": {
+              "nl": "De reizigster — Samengesteld 3D-model",
+              "en": "The traveller — Assembled 3D model"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/02-kimono-parts.webp",
+            "alt": {
+              "nl": "De reizigster — Losse onderdelen",
+              "en": "The traveller — Separate components"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/02-kimono-led.webp",
+            "alt": {
+              "nl": "De reizigster — Inbouw van het ledje",
+              "en": "The traveller — LED installation"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          }
+        ],
+        "manufacturingStatus": "digital-geometry-checked"
+      },
+      {
+        "id": "bonsai-lantaarn-theemeester",
+        "category": "miniatures",
+        "stage": "future",
+        "availability": "enquiry",
+        "detailedMiniature": true,
+        "miniatureViews": true,
+        "name": {
+          "nl": "De theemeester met licht",
+          "en": "The tea master with light"
+        },
+        "short": {
+          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem.",
+          "en": "A resting tea master with a lantern on the rock beside him."
+        },
+        "options": [
+          "grey",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "150 mm hoog inclusief voet · 14 losse onderdelen · resin met transparante lichtvensters.",
+          "en": "150 mm tall including base · 14 separate components · resin with translucent lantern windows."
+        },
+        "detail": {
+          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters kunnen in transparant PETG of heldere resin. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; lantern windows can be translucent PETG or clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+        },
+        "image": "lantern-miniatures/03-theemeester-assembly.webp",
+        "imageAlt": {
+          "nl": "De theemeester — Samengesteld 3D-model",
+          "en": "The tea master — Assembled 3D model"
+        },
+        "visualKind": "isolated",
+        "generatedFromModel": true,
+        "gallery": [
+          {
+            "image": "lantern-miniatures/03-theemeester-assembly.webp",
+            "alt": {
+              "nl": "De theemeester — Samengesteld 3D-model",
+              "en": "The tea master — Assembled 3D model"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/03-theemeester-parts.webp",
+            "alt": {
+              "nl": "De theemeester — Losse onderdelen",
+              "en": "The tea master — Separate components"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/03-theemeester-led.webp",
+            "alt": {
+              "nl": "De theemeester — Inbouw van het ledje",
+              "en": "The tea master — LED installation"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          }
+        ],
+        "manufacturingStatus": "digital-geometry-checked"
+      },
+      {
+        "id": "bonsai-lantaarn-boswachter",
+        "category": "miniatures",
+        "stage": "future",
+        "availability": "enquiry",
+        "detailedMiniature": true,
+        "miniatureViews": true,
+        "name": {
+          "nl": "De boswachter met licht",
+          "en": "The forest keeper with light"
+        },
+        "short": {
+          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn.",
+          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern."
+        },
+        "options": [
+          "grey",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "150 mm hoog inclusief voet · 16 losse onderdelen · resin met transparante lichtvensters.",
+          "en": "150 mm tall including base · 16 separate components · resin with translucent lantern windows."
+        },
+        "detail": {
+          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters kunnen in transparant PETG of heldere resin. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; lantern windows can be translucent PETG or clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+        },
+        "image": "lantern-miniatures/04-boswachter-assembly.webp",
+        "imageAlt": {
+          "nl": "De boswachter — Samengesteld 3D-model",
+          "en": "The forest keeper — Assembled 3D model"
+        },
+        "visualKind": "isolated",
+        "generatedFromModel": true,
+        "gallery": [
+          {
+            "image": "lantern-miniatures/04-boswachter-assembly.webp",
+            "alt": {
+              "nl": "De boswachter — Samengesteld 3D-model",
+              "en": "The forest keeper — Assembled 3D model"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/04-boswachter-parts.webp",
+            "alt": {
+              "nl": "De boswachter — Losse onderdelen",
+              "en": "The forest keeper — Separate components"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/04-boswachter-led.webp",
+            "alt": {
+              "nl": "De boswachter — Inbouw van het ledje",
+              "en": "The forest keeper — LED installation"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          }
+        ],
+        "manufacturingStatus": "digital-geometry-checked"
+      },
+      {
+        "id": "bonsai-lantaarn-nachtwacht",
+        "category": "miniatures",
+        "stage": "future",
+        "availability": "enquiry",
+        "detailedMiniature": true,
+        "miniatureViews": true,
+        "name": {
+          "nl": "De nachtwacht met licht",
+          "en": "The night watchman with light"
+        },
+        "short": {
+          "nl": "Een wachter met lantaarn onder een traditionele torii.",
+          "en": "A watchman holding a lantern beneath a traditional torii."
+        },
+        "options": [
+          "grey",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "150 mm hoog inclusief voet · 16 losse onderdelen · resin met transparante lichtvensters.",
+          "en": "150 mm tall including base · 16 separate components · resin with translucent lantern windows."
+        },
+        "detail": {
+          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters kunnen in transparant PETG of heldere resin. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; lantern windows can be translucent PETG or clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+        },
+        "image": "lantern-miniatures/05-nachtwacht-assembly.webp",
+        "imageAlt": {
+          "nl": "De nachtwacht — Samengesteld 3D-model",
+          "en": "The night watchman — Assembled 3D model"
+        },
+        "visualKind": "isolated",
+        "generatedFromModel": true,
+        "gallery": [
+          {
+            "image": "lantern-miniatures/05-nachtwacht-assembly.webp",
+            "alt": {
+              "nl": "De nachtwacht — Samengesteld 3D-model",
+              "en": "The night watchman — Assembled 3D model"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/05-nachtwacht-parts.webp",
+            "alt": {
+              "nl": "De nachtwacht — Losse onderdelen",
+              "en": "The night watchman — Separate components"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/05-nachtwacht-led.webp",
+            "alt": {
+              "nl": "De nachtwacht — Inbouw van het ledje",
+              "en": "The night watchman — LED installation"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          }
+        ],
+        "manufacturingStatus": "digital-geometry-checked"
+      },
+      {
+        "id": "bonsai-lantaarn-monnik",
+        "category": "miniatures",
+        "stage": "future",
+        "availability": "enquiry",
+        "detailedMiniature": true,
+        "miniatureViews": true,
+        "name": {
+          "nl": "De monnik met licht",
+          "en": "The monk with light"
+        },
+        "short": {
+          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt.",
+          "en": "A travelling monk carefully carrying his lantern with both hands."
+        },
+        "options": [
+          "grey",
+          "custom"
+        ],
+        "pricing": {
+          "base": null,
+          "woodExtra": 0,
+          "currency": "EUR",
+          "kind": "quote"
+        },
+        "spec": {
+          "nl": "150 mm hoog inclusief voet · 14 losse onderdelen · resin met transparante lichtvensters.",
+          "en": "150 mm tall including base · 14 separate components · resin with translucent lantern windows."
+        },
+        "detail": {
+          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters kunnen in transparant PETG of heldere resin. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; lantern windows can be translucent PETG or clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+        },
+        "image": "lantern-miniatures/06-monnik-assembly.webp",
+        "imageAlt": {
+          "nl": "De monnik — Samengesteld 3D-model",
+          "en": "The monk — Assembled 3D model"
+        },
+        "visualKind": "isolated",
+        "generatedFromModel": true,
+        "gallery": [
+          {
+            "image": "lantern-miniatures/06-monnik-assembly.webp",
+            "alt": {
+              "nl": "De monnik — Samengesteld 3D-model",
+              "en": "The monk — Assembled 3D model"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/06-monnik-parts.webp",
+            "alt": {
+              "nl": "De monnik — Losse onderdelen",
+              "en": "The monk — Separate components"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          },
+          {
+            "image": "lantern-miniatures/06-monnik-led.webp",
+            "alt": {
+              "nl": "De monnik — Inbouw van het ledje",
+              "en": "The monk — LED installation"
+            },
+            "photoRole": "product",
+            "visualKind": "isolated",
+            "generatedFromModel": true
+          }
+        ],
+        "manufacturingStatus": "digital-geometry-checked"
       }
     ],
     "customTitle": {

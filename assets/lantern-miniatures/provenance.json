@@ -1,0 +1,133 @@
+{
+  "collection": "Six modular lantern miniatures",
+  "provider": "Meshy 7.1 plus engineered modular CAD",
+  "physical_print_verified": false,
+  "images": [
+    {
+      "image": "01-ronin-assembly.webp",
+      "source": "01-ronin/montage-preview.png",
+      "source_sha256": "d91203af4a1b6d994890cb75f3848191e58b0c2fb556a487af46564310a4f8a2",
+      "sha256": "ff37313b32626cce5149838d65f793287779819483638f395cb8ea61cd302ac3",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "01-ronin-parts.webp",
+      "source": "01-ronin/onderdelen-preview.png",
+      "source_sha256": "3a9bb6631377f79ad9670728a5a9ee0cc259698e8ff237d04c1c62f30cf886cf",
+      "sha256": "291f7a5f2aea28a04f083b767109c058522c19148815063e0a4756f1bd7ab233",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "01-ronin-led.webp",
+      "source": "01-ronin/led-inbouw-preview.png",
+      "source_sha256": "b79f9382485751d5f80fca7d0252ff61f84bf2425612443bbdb3b59b4cccca0a",
+      "sha256": "ea9572df0e569c961276bc8fa639247f94f01624594e9a11af0aedf8e10f6075",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "02-kimono-assembly.webp",
+      "source": "02-kimono/montage-preview.png",
+      "source_sha256": "f394f3d259a7f2d54921290b40c8572ae07b67b8d19805163f829b40efaba784",
+      "sha256": "685b29f88b5b27017abd1aa7271b9734ac53f8244fe4727d6e81484c6942d86f",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "02-kimono-parts.webp",
+      "source": "02-kimono/onderdelen-preview.png",
+      "source_sha256": "f003578e44cea5601425e5cf2107795e577c0500476cebdbeb81e5d25a187f6d",
+      "sha256": "38ae1d26253c0693e243531e9839fd7faf7e8bd3e5d87e5e9addde0a17ca1664",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "02-kimono-led.webp",
+      "source": "02-kimono/led-inbouw-preview.png",
+      "source_sha256": "3e8e570464461ee3f2637854247912cc726dc42b9e017720901db6c0df724af5",
+      "sha256": "cff6cb4915617bf7db0b4bfa7dc6a6acf8cba82ddf631e5a2c1244e4846a3fc8",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "03-theemeester-assembly.webp",
+      "source": "03-theemeester/montage-preview.png",
+      "source_sha256": "11f8e4199827a9fd5423a9b74f03eb15fdd9ba0897ce52b66375557e5f330915",
+      "sha256": "dfe1be151aeb478a37bfefe80b78c1aa9b52d8534e7d6c3369ffe969c7fb7b27",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "03-theemeester-parts.webp",
+      "source": "03-theemeester/onderdelen-preview.png",
+      "source_sha256": "613ca3e9db671a2be342bd8ad1705cc14cb7b90460bffb11dd37a48906357daf",
+      "sha256": "5f794368b2028a9998a4b25b8c62bdd4f8617bd369ed67556664bb2fb344eb8b",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "03-theemeester-led.webp",
+      "source": "03-theemeester/led-inbouw-preview.png",
+      "source_sha256": "80bb1060526382e154b5067f61b571d9573343d76b96768950736e40d68de6cf",
+      "sha256": "95d70723bd96cac3d0ffa8a0ff73cbf7d6b9d9791f8c1411a2515cfb3791e949",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "04-boswachter-assembly.webp",
+      "source": "04-boswachter/montage-preview.png",
+      "source_sha256": "e208ae7f1824239edcdee0922195bccdf4f9615bff88e4873943b0fbf922df88",
+      "sha256": "33b96a7f075621314f0dfca4d91bb0cde7f6fc621b2af4afb0465f76b90af551",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "04-boswachter-parts.webp",
+      "source": "04-boswachter/onderdelen-preview.png",
+      "source_sha256": "0092013942c5ea23bb4390813ce8192c234669022a7d27e6a5ce4faa517b1bd6",
+      "sha256": "7d2b109b9ea689310b76b0ff77dfbce81966ca98489069051871b02240fcd957",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "04-boswachter-led.webp",
+      "source": "04-boswachter/led-inbouw-preview.png",
+      "source_sha256": "3443fa66d2478a4cc46c071c5f363d8bf687bcc48a40c16b5986b20e08fc1fba",
+      "sha256": "2951c547df4906e78ff1d8ae376387c7eecdc372383b3e34719bf5cfa26c2827",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "05-nachtwacht-assembly.webp",
+      "source": "05-nachtwacht/montage-preview.png",
+      "source_sha256": "d37beff6f640c567d5e3f9c0f472d1cc1699ad6a844814ce504ee36b68244035",
+      "sha256": "4e8cdd25e1786e67c14d8cc46e9df87ca432572e56b84570608af0234cd34dec",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "05-nachtwacht-parts.webp",
+      "source": "05-nachtwacht/onderdelen-preview.png",
+      "source_sha256": "dc61045d387a385c8fb872be3d293e8129408873204e54e43bbb51b4ae0fe859",
+      "sha256": "630d8775121976f5b9023bfdcb0dd79deb47ee3875f48c13a803b2091da3d01f",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "05-nachtwacht-led.webp",
+      "source": "05-nachtwacht/led-inbouw-preview.png",
+      "source_sha256": "f4bd6f306d1cebc5ccc31dec3fdbc72250bb401fe8b368bfee4ecdb6a470a4c2",
+      "sha256": "975473af53e338c9f5698a5e76bc7d791fa165340503811f1b4244104847a805",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "06-monnik-assembly.webp",
+      "source": "06-monnik/montage-preview.png",
+      "source_sha256": "1164a7342dbec2c56c4d1caaf5b684ea6942b20cf4d0c13fbea09babda60b4b7",
+      "sha256": "84c202a6e6e83377e3fe17d0375b084b3a544acba46fc1333fa099ac8354f4f2",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "06-monnik-parts.webp",
+      "source": "06-monnik/onderdelen-preview.png",
+      "source_sha256": "b71de3d4e56a1b1d77294e0e8d3d640348ffebcc379824317f36b8c89eaa3412",
+      "sha256": "f2c5be3580b3b4c64fda77c308485b0ce9eb6efeaaead2e69f48a26b06cab9ab",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    },
+    {
+      "image": "06-monnik-led.webp",
+      "source": "06-monnik/led-inbouw-preview.png",
+      "source_sha256": "9af913696f35cbd38a35a149f5a652063bd5a6cba783e736bf00b3d99ba7e8b9",
+      "sha256": "9ed3c4e293a3b56334b4bb6884ce74a55a4dec14073f2e2593ce2357fc17cae0",
+      "kind": "render of engineered Meshy-derived CAD; not a photograph of a print"
+    }
+  ]
+}
