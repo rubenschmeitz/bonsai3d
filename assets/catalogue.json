@@ -3832,10 +3832,6 @@
           }
         },
         "sellingUnit": "set",
-        "includedNote": {
-          "nl": "Jita en bijpassende Contour-pot inbegrepen · boom, overige styling en verzending niet inbegrepen.",
-          "en": "Jita and matching Contour pot included · tree, other styling and shipping excluded."
-        },
         "components": [
           {
             "id": "pot-contour",
@@ -3874,7 +3870,11 @@
               }
             ]
           }
-        ]
+        ],
+        "includedNote": {
+          "nl": "Jita en bijpassende Contour-pot inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Jita and matching Contour pot included · tree, other styling and shipping excluded."
+        }
       },
       {
         "category": "miniatures",
@@ -4330,6 +4330,10 @@
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
+        "includedNote": {
+          "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Painting included · tree, other styling and shipping excluded."
+        },
         "finishLabels": {
           "black": {
             "nl": "Geschilderd · zoals het voorbeeld",
@@ -4411,6 +4415,10 @@
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
+        "includedNote": {
+          "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Painting included · tree, other styling and shipping excluded."
+        },
         "finishLabels": {
           "black": {
             "nl": "Geschilderd · zoals het voorbeeld",
@@ -4492,6 +4500,10 @@
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
+        "includedNote": {
+          "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Painting included · tree, other styling and shipping excluded."
+        },
         "finishLabels": {
           "black": {
             "nl": "Geschilderd · zoals het voorbeeld",
@@ -4573,6 +4585,10 @@
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
+        "includedNote": {
+          "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Painting included · tree, other styling and shipping excluded."
+        },
         "finishLabels": {
           "black": {
             "nl": "Geschilderd · zoals het voorbeeld",
@@ -4654,6 +4670,10 @@
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
+        "includedNote": {
+          "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Painting included · tree, other styling and shipping excluded."
+        },
         "finishLabels": {
           "black": {
             "nl": "Geschilderd · zoals het voorbeeld",
@@ -4735,6 +4755,10 @@
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
+        "includedNote": {
+          "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Painting included · tree, other styling and shipping excluded."
+        },
         "finishLabels": {
           "black": {
             "nl": "Geschilderd · zoals het voorbeeld",
