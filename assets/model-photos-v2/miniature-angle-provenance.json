@@ -1,0 +1,42 @@
+{
+  "updated": "2026-10-25",
+  "note": "Generated design visuals, not photographs of physical prints. Woman remains reference-based; source geometry and print status are unchanged.",
+  "images": [
+    {
+      "productId": "bonsai-mini-seated-master",
+      "image": "model-photos-v2/bonsai-mini-seated-master-product-white-drybrush-v2.webp",
+      "replaces": "model-photos-v1/bonsai-mini-seated-master-product-white-drybrush-v1.webp",
+      "sourceImageSHA256": "80dad759a5e111cc7e7d4828a7ab86c355e2435b44d4e2e0e6e69a3d1258fa00",
+      "outputSHA256": "3f369f3b442985aa5c94c78496f8d0bea3d4d31d9467cdac9dc623bebdfa6464",
+      "method": "AI-edited design visualization; camera/material presentation only",
+      "generatedFromModel": true,
+      "modelGeometryReferenceHash": "d695c1c9cce472899e774710b1f3732cd95accaabb74c3035367dcabe1a87734",
+      "designReferenceHash": null,
+      "physicalPrintVerified": false
+    },
+    {
+      "productId": "bonsai-mini-yamadori-seeker",
+      "image": "model-photos-v2/bonsai-mini-yamadori-seeker-product-white-drybrush-v2.webp",
+      "replaces": "model-photos-v1/bonsai-mini-yamadori-seeker-product-white-drybrush-v1.webp",
+      "sourceImageSHA256": "3d9484dda2dbea43579db2784fd957a43a6f4e4bc8d38f46b911f352e2bb9c3f",
+      "outputSHA256": "fba6faf3df318962a4344af39066db382dff6b4239ed8ad8f9afc63ea9fcc357",
+      "method": "AI-edited design visualization; camera/material presentation only",
+      "generatedFromModel": true,
+      "modelGeometryReferenceHash": "f46cc94fc21dc3c8097424e8fca975abd2d8a89cdf42d207b612ead6cc46f934",
+      "designReferenceHash": null,
+      "physicalPrintVerified": false
+    },
+    {
+      "productId": "bonsai-mini-yamadori-woman",
+      "image": "model-photos-v2/bonsai-mini-yamadori-woman-product-white-drybrush-v2.webp",
+      "replaces": "model-photos-v1/bonsai-mini-yamadori-woman-product-white-drybrush-v1.webp",
+      "sourceImageSHA256": "9b60c65f3e4787a60d7419ca1ebc33d013ae35ca52b6aba186bf569e9fa0879a",
+      "outputSHA256": "59470b20879cc2a14375417c41bee5b458f01ceeba4f5ae84aa1bd2609e0afcd",
+      "method": "AI-edited design visualization; camera/material presentation only",
+      "generatedFromModel": false,
+      "modelGeometryReferenceHash": null,
+      "designReferenceHash": "75e9249de9e819d6231d6ef9cee0326997ae7aa4c71c11dfd28f3677431457b6",
+      "physicalPrintVerified": false
+    }
+  ]
+}
