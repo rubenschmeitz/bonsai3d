@@ -96,7 +96,7 @@
       details.length ? '<dl class="seller-details">' + details.map(function (row) { return '<div><dt>' + tr(row[1], row[2]) + '</dt><dd>' + esc(seller[row[0]]) + '</dd></div>'; }).join('') + '</dl>' : tr('De definitieve verkoper, rechtsvorm, registratie- en contactgegevens worden vóór de verkoopstart toegevoegd.', 'The final seller, legal structure, registration and contact details will be added before sales start.'),
       '<button class="button primary" type="button" data-open-inquiry>' + tr('Bewaar mijn interesseconcept', 'Save my interest draft') + ' ↗</button>'
     ], api);
-    return '<div class="service-page wrap">' + intro + '<div class="service-layout">' + nav + '<div class="service-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 16 oktober 2026. Voorbereidingsinformatie; de definitieve verkoopafspraken worden vóór een aankoop verstrekt.', 'Updated: 16 October 2026. Preparation information; final sales agreements are provided before a purchase.') + '</p></div></div></div>';
+    return '<div class="service-page wrap">' + intro + '<div class="service-layout">' + nav + '<div class="service-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 25 oktober 2026. Voorbereidingsinformatie; de definitieve verkoopafspraken worden vóór een aankoop verstrekt.', 'Updated: 25 October 2026. Preparation information; final sales agreements are provided before a purchase.') + '</p></div></div></div>';
   }
   function privacy(api) {
     var tr = api.tr;
@@ -107,7 +107,11 @@
       '<button class="button outline" type="button" id="clear-site-data">' + tr('Wis mijn selectie en voorkeuren', 'Clear my selection and preferences') + '</button><span id="privacy-status" role="status" aria-live="polite"></span>'
     ], api);
     body += section('website', tr('Website en hosting.', 'Website and hosting.'), [
-      tr('BONSAI3D gebruikt op deze website geen eigen advertentietrackers of analyticsdiensten. Lettertypen en productbeelden worden met de website geladen. Functionele voorkeuren gebruiken lokale browseropslag.', 'BONSAI3D uses no advertising trackers or analytics services on this website. Fonts and product images load with the website. Functional preferences use local browser storage.'),
+      tr('BONSAI3D gebruikt geen advertentietrackers. Lettertypen en productbeelden worden met de website geladen. Functionele voorkeuren gebruiken lokale browseropslag.', 'BONSAI3D uses no advertising trackers. Fonts and product images load with the website. Functional preferences use local browser storage.'),
+      window.BonsaiAnalyticsConfigured
+        ? tr('Op het eigen domein gebruiken we Cloudflare Web Analytics voor inzicht in paginaweergaven, bezoeken en websiteprestaties. Deze meting gebruikt geen trackingcookies of browseropslag voor bezoekersherkenning. De website slaat de meting over als je browser Do Not Track of Global Privacy Control doorgeeft. Adblockers kunnen de meting beperken.', 'On our own domain we use Cloudflare Web Analytics to understand page views, visits and website performance. This measurement uses no tracking cookies or browser storage to recognise visitors. The website skips measurement when your browser signals Do Not Track or Global Privacy Control. Ad blockers may limit measurement.')
+        : tr('Bezoekersmeting via Cloudflare Web Analytics is voorbereid maar staat hier nog uit. Er wordt geen analytics-script geladen.', 'Visitor measurement with Cloudflare Web Analytics is prepared but is currently disabled here. No analytics script is loaded.'),
+      '<a href="https://www.cloudflare.com/web-analytics/" target="_blank" rel="noopener">Cloudflare Web Analytics ↗</a>',
       tr('De website wordt gehost via GitHub Pages. Bij het laden ontvangt GitHub technische gegevens, zoals je IP-adres en informatie over het verzoek en je browser. Daarvoor geldt de ', 'The website is hosted through GitHub Pages. When it loads, GitHub receives technical information, such as your IP address and information about the request and your browser. See the ') + '<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">' + tr('privacyverklaring van GitHub', 'GitHub privacy statement') + ' ↗</a>.'
     ], api);
     body += section('mail-contact', tr('Als je me mailt.', 'When you email me.'), [
@@ -116,7 +120,7 @@
       footerContact(api),
       api.link('service', tr('Contact en maaktijd', 'Contact and making time') + ' ↗', 'text-link')
     ], api);
-    return '<div class="service-page privacy-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / PRIVACY</p><h1 class="page-title">' + tr('Jouw gegevens.<br>Jouw keuze.', 'Your data.<br>Your choice.') + '</h1><p>' + tr('Dit is hoe de huidige website met je selectie, voorkeuren en interesseconcept omgaat.', 'Here is how the current website handles your selection, preferences and interest draft.') + '</p></header><div class="privacy-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 16 oktober 2026.', 'Updated: 16 October 2026.') + '</p></div></div>';
+    return '<div class="service-page privacy-page wrap"><header class="service-heading"><p class="eyebrow">BONSAI3D / PRIVACY</p><h1 class="page-title">' + tr('Jouw gegevens.<br>Jouw keuze.', 'Your data.<br>Your choice.') + '</h1><p>' + tr('Dit is hoe de huidige website met je selectie, voorkeuren en interesseconcept omgaat.', 'Here is how the current website handles your selection, preferences and interest draft.') + '</p></header><div class="privacy-body">' + body + '<p class="fineprint">' + tr('Bijgewerkt: 25 oktober 2026.', 'Updated: 25 October 2026.') + '</p></div></div>';
   }
   window.BonsaiBusiness = {
     service: service,
