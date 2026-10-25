@@ -1,0 +1,90 @@
+{
+  "collection": "Four USB-lit designs",
+  "physical_complete_print_verified": false,
+  "images": [
+    {
+      "image": "02-nachtelijk-theehuis-assembly.webp",
+      "source": "02/gemonteerd.png",
+      "source_sha256": "cc351ee0d34d61a141e1f8792bb8448a7acf3e75cdb09fe32db7fc8ad23d872a",
+      "sha256": "4ca4089c73a9835ba02c7c2e9b49155144435d53c56eaa154cdf76e3fdc4f304",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "02-nachtelijk-theehuis-parts.webp",
+      "source": "02/onderdelen.png",
+      "source_sha256": "78aa17ba9a73b88e6df5102d7e5c55e0b54c8a9527569b1f4e47ab8704859efb",
+      "sha256": "e3b5c8562c3a872029b57f27be79df6f150fa867cafe3e3a2109f9d55577d44d",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "02-nachtelijk-theehuis-access.webp",
+      "source": "02/doorsnede.png",
+      "source_sha256": "d25cb32fd1974ea75376bdc0a336108052881e3e5db8352ad6b1e9e482d586b7",
+      "sha256": "25486a9ac3e97c5471a5a6bd5f48efecf4b14c0b464e0d7fde3bc366ffaad969",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "05-wortellantaarn-assembly.webp",
+      "source": "05/gemonteerd.png",
+      "source_sha256": "be44934386ffd22a07b8f75479f9b1f45ec992f73f9ff01078104fde5cbe69a4",
+      "sha256": "7024dc3eee55c50e64b680f21be474a827fa25560bd302ee9d64cc841f8e7f24",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "05-wortellantaarn-parts.webp",
+      "source": "05/montage.png",
+      "source_sha256": "c33b48e7b23b55b6592b052714b29c2767763b12c613b5d620778dc947628689",
+      "sha256": "cc346f8ae3149baba84dc326fdaa56c289aa6ddfc1dc34d4b81850adf3902459",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "05-wortellantaarn-access.webp",
+      "source": "05/achterkant-naad.png",
+      "source_sha256": "e64717587e069e372f4386e60b8b88ef075ee28da77b442ff3d6ffd6c4ed01fd",
+      "sha256": "77e9287cd16f3340788e27fedc72216a7e718d07ea2ca82df7c48e647f44ce81",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "07-schaduwbamboe-assembly.webp",
+      "source": "07/gemonteerd.png",
+      "source_sha256": "be1dba2219ea044f8ade894a0b03bdadbf307ee55dd7bf14c5464907c18bde5b",
+      "sha256": "eca996c5b5761494689d5ab8d54ad51046eb7b030928031f191c896458c86bab",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "07-schaduwbamboe-parts.webp",
+      "source": "07/onderdelen.png",
+      "source_sha256": "8f4224ade68893b38fc36fc06eac1337da38495a7e423fb9f9ec3cef9953310d",
+      "sha256": "3a08cde6f3e96cbebac784017c1f0aa770d332195ae09a9c788f21708a2ec021",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "07-schaduwbamboe-access.webp",
+      "source": "07/doorsnede.png",
+      "source_sha256": "d4e877948bb8ae637e36626df44b4cf874f165bf116fc811d067095b511b26ad",
+      "sha256": "e3e551b468425203f5398ec498da0c8ae854443c13fb0db8a10070b0641dd0c5",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "08-verlicht-berglandschap-assembly.webp",
+      "source": "08/gemonteerd.png",
+      "source_sha256": "98bcbd9a6af0dea5a5db32f776788338814ef0dcf75024bd30f0756f4c0039e9",
+      "sha256": "09a0c90b5289cfbca57e31913f436df39427f8184c9f5efa386f2e63cd64b0d0",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "08-verlicht-berglandschap-parts.webp",
+      "source": "08/onderdelen.png",
+      "source_sha256": "0058e5e15485ffc25401d3c12e5084c002feb60347c57b30cfc911c0e349b41a",
+      "sha256": "c316253c43d2728263833c2d7cc95635ce6e8d1b323f2c373eec11c21abf0f4c",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "08-verlicht-berglandschap-access.webp",
+      "source": "08/doorsnede.png",
+      "source_sha256": "94ffcc5a52f2f677fbe1e6fd03448a37d31ba9732f940f471da45ed7428714f5",
+      "sha256": "058086b9cab73629b93c39f56922c3e1178de95b7eb3012dd1484705c8aa97a5",
+      "kind": "render of engineered geometry; not a photograph of a completed print"
+    }
+  ]
+}
