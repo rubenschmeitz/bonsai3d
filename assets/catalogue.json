@@ -57,11 +57,6 @@
         "en": "Stands & jitas"
       },
       {
-        "id": "pots",
-        "nl": "Schalen",
-        "en": "Pots"
-      },
-      {
         "id": "miniatures",
         "nl": "Figuren",
         "en": "Figures"
@@ -195,8 +190,8 @@
         },
         "availability": "enquiry",
         "pricing": {
-          "base": 45,
-          "woodExtra": 25,
+          "base": 35,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -226,7 +221,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 35,
+          "base": 30,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -302,7 +297,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 35,
+          "base": 30,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -387,8 +382,8 @@
         "zone": "presentation",
         "availability": "enquiry",
         "pricing": {
-          "base": 55,
-          "woodExtra": 30,
+          "base": 45,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -506,8 +501,8 @@
         "zone": "presentation",
         "availability": "enquiry",
         "pricing": {
-          "base": 50,
-          "woodExtra": 25,
+          "base": 40,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -625,8 +620,8 @@
         "zone": "presentation",
         "availability": "enquiry",
         "pricing": {
-          "base": 60,
-          "woodExtra": 30,
+          "base": 45,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -735,7 +730,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 35,
+          "base": 30,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -811,7 +806,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 20,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -887,7 +882,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 20,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -1038,7 +1033,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 30,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -1113,7 +1108,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 35,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -1348,8 +1343,8 @@
         },
         "availability": "enquiry",
         "pricing": {
-          "base": 45,
-          "woodExtra": 25,
+          "base": 35,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -1463,8 +1458,8 @@
         },
         "availability": "enquiry",
         "pricing": {
-          "base": 45,
-          "woodExtra": 25,
+          "base": 35,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -1586,490 +1581,6 @@
           "currency": "EUR",
           "kind": "indicative"
         },
-        "photoSequence": "product-context",
-        "photoRole": "product"
-      },
-      {
-        "id": "bonsai-firethorn-pot",
-        "category": "pots",
-        "name": {
-          "nl": "Takkenpot",
-          "en": "Branch pot"
-        },
-        "short": {
-          "nl": "Een rechthoekige pot met een tak die over de voorkant loopt.",
-          "en": "A rectangular pot with a branch running across the front."
-        },
-        "detail": {
-          "nl": "De tak loopt schuin over de voorkant van de pot en ligt wat hoger dan de wand. Je ziet hier een grijze pot zonder boom en een lichte versie met een bloeiende bonsai. Voor een nieuwe print bespreken we de maat, kleur, het materiaal en de drainage. De uitvoering kan iets verschillen. De boom hoort er niet bij; ik bevestig welke maat en kleur beschikbaar zijn.",
-          "en": "The branch runs diagonally across the front of the pot, raised above its surface. Here you can see an empty grey pot and a pale version with a flowering bonsai. For a new print, we discuss size, colour, material and drainage. The final piece can vary a little. The tree is not included; I confirm which sizes and colours are available."
-        },
-        "spec": {
-          "nl": "Grijze en lichte uitvoering · maat op aanvraag",
-          "en": "Gray and pale versions · size on enquiry"
-        },
-        "options": [
-          "natural",
-          "dark",
-          "custom"
-        ],
-        "stage": "printed",
-        "image": "model-photos-v1/bonsai-firethorn-pot-product-white-v1.webp",
-        "visualKind": "isolatedConcept",
-        "archiveId": "bonsai-firethorn-pot",
-        "imageAlt": {
-          "nl": "Takkenpot — het product",
-          "en": "Branch pot — product view"
-        },
-        "gallery": [
-          {
-            "image": "model-photos-v1/bonsai-firethorn-pot-product-white-v1.webp",
-            "alt": {
-              "nl": "Takkenpot — het product",
-              "en": "Branch pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "c8827a8f13b57c3ee667e174ada82cc59a7ce16d3fb7347e37fee4839d1dbf58"
-          },
-          {
-            "image": "model-photos-v1/bonsai-firethorn-pot-context-white-v1.webp",
-            "alt": {
-              "nl": "Takkenpot — in een bonsaiopstelling",
-              "en": "Branch pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "c8827a8f13b57c3ee667e174ada82cc59a7ce16d3fb7347e37fee4839d1dbf58",
-            "contextFinish": "own"
-          }
-        ],
-        "zone": "presentation",
-        "availability": "stock",
-        "pricing": {
-          "base": 35,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "photoSequence": "product-context",
-        "photoRole": "product"
-      },
-      {
-        "id": "bonsai-red-branch-relief-pot",
-        "category": "pots",
-        "name": {
-          "nl": "Rode takkenpot",
-          "en": "Red branch pot"
-        },
-        "short": {
-          "nl": "Een dieprode pot met lichte takken in reliëf.",
-          "en": "A deep red pot with pale branches in relief."
-        },
-        "detail": {
-          "nl": "De lichte takken lopen vanaf de voorkant door over de zijkanten van deze rode pot. Voor een nieuwe uitvoering bespreken we de maat, het materiaal en de afwerking. De kleur en details kunnen per print iets verschillen. De boom hoort er niet bij; ik bevestig welke maat en kleur beschikbaar zijn.",
-          "en": "The pale branches continue from the front around the sides of this red pot. For a new version, we discuss size, material and finish. Colour and details can vary a little between prints. The tree is not included; I confirm which sizes and colours are available."
-        },
-        "spec": {
-          "nl": "Rode pot met lichte takken · maat en uitvoering in overleg",
-          "en": "Red pot with pale branches · size and finish to be discussed"
-        },
-        "options": [
-          "earth",
-          "dark",
-          "custom"
-        ],
-        "stage": "printed",
-        "image": "model-photos-v1/bonsai-red-branch-relief-pot-product-red-v1.webp",
-        "visualKind": "isolatedConcept",
-        "gallery": [
-          {
-            "image": "model-photos-v1/bonsai-red-branch-relief-pot-product-red-v1.webp",
-            "alt": {
-              "nl": "Rode takkenpot — het product",
-              "en": "Red branch pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "19fb1d9ef571edd1979add4c047cc4a67fbb3b5bb44ff60e7ba568189593d156"
-          },
-          {
-            "image": "model-photos-v1/bonsai-red-branch-relief-pot-context-red-v1.webp",
-            "alt": {
-              "nl": "Rode takkenpot — in een bonsaiopstelling",
-              "en": "Red branch pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "19fb1d9ef571edd1979add4c047cc4a67fbb3b5bb44ff60e7ba568189593d156",
-            "contextFinish": "own"
-          }
-        ],
-        "archiveId": "bonsai-red-branch-relief-pot",
-        "imageAlt": {
-          "nl": "Rode takkenpot — het product",
-          "en": "Red branch pot — product view"
-        },
-        "zone": "presentation",
-        "availability": "stock",
-        "pricing": {
-          "base": 45,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "photoSequence": "product-context",
-        "photoRole": "product"
-      },
-      {
-        "id": "pot-rootflow",
-        "category": "pots",
-        "name": {
-          "nl": "Wortelboog-schaal",
-          "en": "Root arch pot"
-        },
-        "short": {
-          "nl": "Een golvende schaal op een open boog van wortels.",
-          "en": "A wavy pot on an open arch of roots."
-        },
-        "detail": {
-          "nl": "Een golvende schaal op een open boog van wortels. Dit is nog een ontwerp. Voor het printen moeten we de maat, wortelruimte, drainage en het materiaal uitwerken voor jouw boom. Zwart of grijs is mogelijk; de boom, grond en het mos horen er niet bij.",
-          "en": "A wavy pot on an open arch of roots. This is still a design. Before printing, we need to work out the size, root space, drainage and material for your tree. Black or grey is possible; the tree, soil and moss are not included."
-        },
-        "spec": {
-          "nl": "Richtprijs voor de schaal; boom, grond en mos niet inbegrepen. Zwart of grijs op aanvraag.",
-          "en": "Guide price for the pot; tree, soil and moss excluded. Black or grey on enquiry."
-        },
-        "options": [
-          "black",
-          "grey",
-          "custom"
-        ],
-        "stage": "future",
-        "newDesign": true,
-        "visualKind": "isolatedConcept",
-        "imageStyle": "exhibition",
-        "zone": "presentation",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 45,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "finishes": {
-          "black": {
-            "image": "model-photos-v1/pot-rootflow-product-black-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — het product",
-              "en": "Root arch pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
-          },
-          "grey": {
-            "image": "model-photos-v1/pot-rootflow-product-grey-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — het product",
-              "en": "Root arch pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
-          }
-        },
-        "image": "model-photos-v1/pot-rootflow-product-black-v1.webp",
-        "imageAlt": {
-          "nl": "Wortelboog-schaal — het product",
-          "en": "Root arch pot — product view"
-        },
-        "gallery": [
-          {
-            "image": "model-photos-v1/pot-rootflow-product-black-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — het product",
-              "en": "Root arch pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
-          },
-          {
-            "image": "model-photos-v1/pot-rootflow-product-grey-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — het product",
-              "en": "Root arch pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d"
-          },
-          {
-            "image": "model-photos-v1/pot-rootflow-context-black-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — in een bonsaiopstelling",
-              "en": "Root arch pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d",
-            "contextFinish": "black"
-          },
-          {
-            "image": "model-photos-v1/pot-rootflow-context-grey-v1.webp",
-            "alt": {
-              "nl": "Wortelboog-schaal — in een bonsaiopstelling",
-              "en": "Root arch pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "98fda6c61f073e7995bf5362c635214eb6bd9fed30a21614d8905397858f545d",
-            "contextFinish": "grey"
-          }
-        ],
-        "photoSequence": "product-context",
-        "photoRole": "product"
-      },
-      {
-        "id": "pot-strata",
-        "category": "pots",
-        "name": {
-          "nl": "Breuklijn-schaal",
-          "en": "Faultline pot"
-        },
-        "short": {
-          "nl": "Een schaal met verspringende rotslagen en een schuine breuklijn.",
-          "en": "A pot with uneven rock layers and a diagonal split."
-        },
-        "detail": {
-          "nl": "Een schaal met verspringende rotslagen en een schuine breuklijn. Dit is nog een ontwerp. Voor het printen moeten we de maat, wortelruimte, drainage en het materiaal uitwerken voor jouw boom. Zwart of grijs is mogelijk; de boom, grond en het mos horen er niet bij.",
-          "en": "A pot with uneven rock layers and a diagonal split. This is still a design. Before printing, we need to work out the size, root space, drainage and material for your tree. Black or grey is possible; the tree, soil and moss are not included."
-        },
-        "spec": {
-          "nl": "Richtprijs voor de schaal; boom, grond en mos niet inbegrepen. Zwart of grijs op aanvraag.",
-          "en": "Guide price for the pot; tree, soil and moss excluded. Black or grey on enquiry."
-        },
-        "options": [
-          "black",
-          "grey",
-          "custom"
-        ],
-        "stage": "future",
-        "newDesign": true,
-        "visualKind": "isolatedConcept",
-        "imageStyle": "exhibition",
-        "zone": "presentation",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 50,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "finishes": {
-          "black": {
-            "image": "model-photos-v1/pot-strata-product-black-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — het product",
-              "en": "Faultline pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
-          },
-          "grey": {
-            "image": "model-photos-v1/pot-strata-product-grey-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — het product",
-              "en": "Faultline pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
-          }
-        },
-        "image": "model-photos-v1/pot-strata-product-black-v1.webp",
-        "imageAlt": {
-          "nl": "Breuklijn-schaal — het product",
-          "en": "Faultline pot — product view"
-        },
-        "gallery": [
-          {
-            "image": "model-photos-v1/pot-strata-product-black-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — het product",
-              "en": "Faultline pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
-          },
-          {
-            "image": "model-photos-v1/pot-strata-product-grey-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — het product",
-              "en": "Faultline pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140"
-          },
-          {
-            "image": "model-photos-v1/pot-strata-context-black-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — in een bonsaiopstelling",
-              "en": "Faultline pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140",
-            "contextFinish": "black"
-          },
-          {
-            "image": "model-photos-v1/pot-strata-context-grey-v1.webp",
-            "alt": {
-              "nl": "Breuklijn-schaal — in een bonsaiopstelling",
-              "en": "Faultline pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "03c703727bb224d79ff009f8d92059d490e5b7153b8a935c11523079a5820140",
-            "contextFinish": "grey"
-          }
-        ],
-        "photoSequence": "product-context",
-        "photoRole": "product"
-      },
-      {
-        "id": "pot-cascade",
-        "category": "pots",
-        "name": {
-          "nl": "Wervelcascade-schaal",
-          "en": "Spiral cascade pot"
-        },
-        "short": {
-          "nl": "Een gedraaide schaal met een diepe spiraalgroef en een schuine opening.",
-          "en": "A twisting pot with a deep spiral groove and a slanted opening."
-        },
-        "detail": {
-          "nl": "Een gedraaide schaal met een diepe spiraalgroef en een schuine opening. Dit is nog een ontwerp. Voor het printen moeten we de maat, wortelruimte, drainage en het materiaal uitwerken voor jouw boom. Zwart of grijs is mogelijk; de boom, grond en het mos horen er niet bij.",
-          "en": "A twisting pot with a deep spiral groove and a slanted opening. This is still a design. Before printing, we need to work out the size, root space, drainage and material for your tree. Black or grey is possible; the tree, soil and moss are not included."
-        },
-        "spec": {
-          "nl": "Richtprijs voor de schaal; boom, grond en mos niet inbegrepen. Zwart of grijs op aanvraag.",
-          "en": "Guide price for the pot; tree, soil and moss excluded. Black or grey on enquiry."
-        },
-        "options": [
-          "black",
-          "grey",
-          "custom"
-        ],
-        "stage": "future",
-        "newDesign": true,
-        "visualKind": "isolatedConcept",
-        "imageStyle": "exhibition",
-        "zone": "presentation",
-        "availability": "enquiry",
-        "pricing": {
-          "base": 55,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "indicative"
-        },
-        "finishes": {
-          "black": {
-            "image": "model-photos-v1/pot-cascade-product-black-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — het product",
-              "en": "Spiral cascade pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
-          },
-          "grey": {
-            "image": "model-photos-v1/pot-cascade-product-grey-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — het product",
-              "en": "Spiral cascade pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
-          }
-        },
-        "image": "model-photos-v1/pot-cascade-product-black-v1.webp",
-        "imageAlt": {
-          "nl": "Wervelcascade-schaal — het product",
-          "en": "Spiral cascade pot — product view"
-        },
-        "gallery": [
-          {
-            "image": "model-photos-v1/pot-cascade-product-black-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — het product",
-              "en": "Spiral cascade pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
-          },
-          {
-            "image": "model-photos-v1/pot-cascade-product-grey-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — het product",
-              "en": "Spiral cascade pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0"
-          },
-          {
-            "image": "model-photos-v1/pot-cascade-context-black-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — in een bonsaiopstelling",
-              "en": "Spiral cascade pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0",
-            "contextFinish": "black"
-          },
-          {
-            "image": "model-photos-v1/pot-cascade-context-grey-v1.webp",
-            "alt": {
-              "nl": "Wervelcascade-schaal — in een bonsaiopstelling",
-              "en": "Spiral cascade pot — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "be005085457a3f27565a7f1d73dd0a13048b9cdd80f464d198da352ef93a7ed0",
-            "contextFinish": "grey"
-          }
-        ],
         "photoSequence": "product-context",
         "photoRole": "product"
       },
@@ -3093,8 +2604,8 @@
         "imageStyle": "workshop-close",
         "availability": "enquiry",
         "pricing": {
-          "base": 50,
-          "woodExtra": 30,
+          "base": 40,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -3210,8 +2721,8 @@
         "imageStyle": "workshop-close",
         "availability": "enquiry",
         "pricing": {
-          "base": 50,
-          "woodExtra": 30,
+          "base": 40,
+          "woodExtra": 15,
           "currency": "EUR",
           "kind": "indicative"
         },
@@ -3442,7 +2953,7 @@
         ],
         "availability": "enquiry",
         "pricing": {
-          "base": 30,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -3516,7 +3027,7 @@
         ],
         "availability": "enquiry",
         "pricing": {
-          "base": 35,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -4261,6 +3772,17 @@
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "28fa2c9b246d8a3a182d7b45da8b6f173e0d34dcc7aa216d00c31e27294e3ef0",
             "contextFinish": "black"
+          },
+          {
+            "image": "model-photos-v1/pot-contour-product-black-v1.webp",
+            "alt": {
+              "nl": "Contour-pot — het product",
+              "en": "Contour pot — product view"
+            },
+            "photoRole": "product",
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b"
           }
         ],
         "newDesign": true,
@@ -4269,21 +3791,21 @@
         "photoRole": "product",
         "id": "signature-contour-jita-180",
         "name": {
-          "nl": "Contour-jita compact",
-          "en": "Compact contour jita"
+          "nl": "Contour-jita compact met pot",
+          "en": "Compact contour jita with pot"
         },
         "category": "display",
         "short": {
-          "nl": "Een compacte, organische jita met fijne hoogtelijnen en een verzonken plek voor het potje.",
-          "en": "A compact organic jita with fine contour lines and a recessed space for a pot."
+          "nl": "Een compacte jita met hoogtelijnen en de bijpassende Contour-pot.",
+          "en": "A compact contour jita with its matching Contour pot."
         },
         "spec": {
-          "nl": "Modelmaat circa 180 × 135 × 11 mm · matzwart · op aanvraag.",
-          "en": "Model size approx. 180 × 135 × 11 mm · matte black · on request."
+          "nl": "Set van jita en Contour-pot · jita circa 180 × 135 × 11 mm · pot circa 97 × 89 × 30 mm · matzwart · op aanvraag.",
+          "en": "Jita and Contour pot set · jita approx. 180 × 135 × 11 mm · pot approx. 97 × 89 × 30 mm · matte black · on enquiry."
         },
         "detail": {
-          "nl": "De hoogtelijnen volgen de asymmetrische buitenrand en lopen naar een glad draagvlak iets uit het midden. Dit is de compacte variant naast de grotere Contour-jita. Maat, afwerking en maakbaarheid bespreken we bij de aanvraag. Potje en boom op het sfeerbeeld zijn niet inbegrepen.",
-          "en": "Contour lines follow the asymmetric edge and lead to a smooth support area slightly off-centre. This is the compact version alongside the larger contour jita. Size, finish and manufacturability are discussed on request. The pot and tree in the arrangement image are excluded."
+          "nl": "De hoogtelijnen volgen de asymmetrische rand van de jita. De bijpassende Contour-pot heeft horizontale ribbels en gaten voor afwatering en bevestiging. De jita en pot worden samen aangeboden. Maat, materiaal, waterbestendigheid en definitieve uitvoering bespreken we bij de aanvraag. De boom en overige styling zijn niet inbegrepen.",
+          "en": "Contour lines follow the asymmetric edge of the jita. The matching Contour pot has horizontal ridges and drainage and tie-wire holes. The jita and pot are offered as a set. Size, material, water resistance and the final version are discussed on enquiry. The tree and other styling are excluded."
         },
         "options": [
           "black",
@@ -4308,87 +3830,51 @@
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "28fa2c9b246d8a3a182d7b45da8b6f173e0d34dcc7aa216d00c31e27294e3ef0"
           }
-        }
-      },
-      {
-        "stage": "future",
-        "image": "model-photos-v1/pot-contour-product-black-v1.webp",
-        "imageAlt": {
-          "nl": "Contour-pot — het product",
-          "en": "Contour pot — product view"
         },
-        "visualKind": "isolatedConcept",
-        "gallery": [
+        "sellingUnit": "set",
+        "includedNote": {
+          "nl": "Jita en bijpassende Contour-pot inbegrepen · boom, overige styling en verzending niet inbegrepen.",
+          "en": "Jita and matching Contour pot included · tree, other styling and shipping excluded."
+        },
+        "components": [
           {
-            "image": "model-photos-v1/pot-contour-product-black-v1.webp",
-            "alt": {
-              "nl": "Contour-pot — het product",
-              "en": "Contour pot — product view"
+            "id": "pot-contour",
+            "name": {
+              "nl": "Contour-pot",
+              "en": "Contour pot"
             },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b"
-          },
-          {
-            "image": "model-photos-v1/pot-contour-context-black-v1.webp",
-            "alt": {
-              "nl": "Contour-pot — in een bonsaiopstelling",
-              "en": "Contour pot — in a bonsai arrangement"
+            "spec": {
+              "nl": "Modelmaat circa 97 × 89 × 30 mm · matzwart · op aanvraag.",
+              "en": "Model size approx. 97 × 89 × 30 mm · matte black · on request."
             },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b",
-            "contextFinish": "black"
+            "quantity": 1,
+            "gallery": [
+              {
+                "image": "model-photos-v1/pot-contour-product-black-v1.webp",
+                "alt": {
+                  "nl": "Contour-pot — het product",
+                  "en": "Contour pot — product view"
+                },
+                "photoRole": "product",
+                "visualKind": "isolatedConcept",
+                "generatedFromModel": true,
+                "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b"
+              },
+              {
+                "image": "model-photos-v1/pot-contour-context-black-v1.webp",
+                "alt": {
+                  "nl": "Contour-pot — in een bonsaiopstelling",
+                  "en": "Contour pot — in a bonsai arrangement"
+                },
+                "photoRole": "context",
+                "visualKind": "arrangementConcept",
+                "generatedFromModel": true,
+                "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b",
+                "contextFinish": "black"
+              }
+            ]
           }
-        ],
-        "newDesign": true,
-        "imageStyle": "workshop-close",
-        "photoSequence": "product-context",
-        "photoRole": "product",
-        "id": "pot-contour",
-        "name": {
-          "nl": "Contour-pot",
-          "en": "Contour pot"
-        },
-        "category": "pots",
-        "short": {
-          "nl": "Een lage schaal met fijne horizontale ribbels, passend bij de Contour-jita.",
-          "en": "A low pot with fine horizontal ridges to match the contour jita."
-        },
-        "spec": {
-          "nl": "Modelmaat circa 97 × 89 × 30 mm · matzwart · op aanvraag.",
-          "en": "Model size approx. 97 × 89 × 30 mm · matte black · on request."
-        },
-        "detail": {
-          "nl": "De lage, licht ovale schaal heeft een afgeronde rand, horizontale ribbels en gaten voor afwatering en bevestiging. De vorm past bij de hoogtelijnen van de Contour-jita. Het model is beschikbaar; waterbestendigheid, materiaal en de definitieve uitvoering bespreken we nog. Boom en styling zijn niet inbegrepen.",
-          "en": "This low, slightly oval pot has a rounded rim, horizontal ridges and drainage and tie-wire holes. Its shape matches the contour lines of the jita. The model is available; water resistance, material and the final version still require discussion. Tree and styling are excluded."
-        },
-        "options": [
-          "black",
-          "custom"
-        ],
-        "availability": "enquiry",
-        "pricing": {
-          "base": null,
-          "woodExtra": 0,
-          "currency": "EUR",
-          "kind": "quote"
-        },
-        "finishes": {
-          "black": {
-            "image": "model-photos-v1/pot-contour-product-black-v1.webp",
-            "alt": {
-              "nl": "Contour-pot — het product",
-              "en": "Contour pot — product view"
-            },
-            "photoRole": "product",
-            "visualKind": "isolatedConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "e1ef43e44c804dc81f52f8e0172c5fd5a04a3817424f241b1bdfc80d04da6a4b"
-          }
-        }
+        ]
       },
       {
         "category": "miniatures",
@@ -4452,10 +3938,10 @@
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
@@ -4528,10 +4014,10 @@
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
@@ -4604,10 +4090,10 @@
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
@@ -4680,10 +4166,10 @@
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 30,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "Bronmodel circa 20 cm hoog · zwarte primer met witte drybrush · maat op aanvraag.",
@@ -4756,10 +4242,10 @@
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "Ontwerp op basis van een referentiebeeld · zwarte primer met witte drybrush · maat op aanvraag.",
@@ -4786,40 +4272,41 @@
           "en": "A traveller with a straw hat and a round lantern."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 70,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "150 mm hoog inclusief voet · modulair · resin met transparante lichtvensters.",
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/01-ronin-assembly.webp",
+        "image": "lantern-product-photos/01-ronin-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De ronin — Samengesteld 3D-model",
-          "en": "The ronin — Assembled 3D model"
+          "nl": "De ronin met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The ronin with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/01-ronin-assembly.webp",
+            "image": "lantern-product-photos/01-ronin-painted-light-v1.webp",
             "alt": {
-              "nl": "De ronin — Samengesteld 3D-model",
-              "en": "The ronin — Assembled 3D model"
+              "nl": "De ronin met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The ronin with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "ff37313b32626cce5149838d65f793287779819483638f395cb8ea61cd302ac3"
           },
           {
             "image": "lantern-miniatures/01-ronin-parts.webp",
@@ -4842,7 +4329,13 @@
             "generatedFromModel": true
           }
         ],
-        "manufacturingStatus": "digital-geometry-checked"
+        "manufacturingStatus": "digital-geometry-checked",
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
+        }
       },
       {
         "id": "bonsai-lantaarn-kimono",
@@ -4860,40 +4353,41 @@
           "en": "A traveller in a kimono carrying a hanging lantern."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 70,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "150 mm hoog inclusief voet · modulair · resin met transparante lichtvensters.",
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/02-kimono-assembly.webp",
+        "image": "lantern-product-photos/02-kimono-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De reizigster — Samengesteld 3D-model",
-          "en": "The traveller — Assembled 3D model"
+          "nl": "De reizigster met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The traveller with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/02-kimono-assembly.webp",
+            "image": "lantern-product-photos/02-kimono-painted-light-v1.webp",
             "alt": {
-              "nl": "De reizigster — Samengesteld 3D-model",
-              "en": "The traveller — Assembled 3D model"
+              "nl": "De reizigster met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The traveller with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "685b29f88b5b27017abd1aa7271b9734ac53f8244fe4727d6e81484c6942d86f"
           },
           {
             "image": "lantern-miniatures/02-kimono-parts.webp",
@@ -4916,7 +4410,13 @@
             "generatedFromModel": true
           }
         ],
-        "manufacturingStatus": "digital-geometry-checked"
+        "manufacturingStatus": "digital-geometry-checked",
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
+        }
       },
       {
         "id": "bonsai-lantaarn-theemeester",
@@ -4934,40 +4434,41 @@
           "en": "A resting tea master with a lantern on the rock beside him."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 70,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "150 mm hoog inclusief voet · modulair · resin met transparante lichtvensters.",
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/03-theemeester-assembly.webp",
+        "image": "lantern-product-photos/03-theemeester-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De theemeester — Samengesteld 3D-model",
-          "en": "The tea master — Assembled 3D model"
+          "nl": "De theemeester met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The tea master with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/03-theemeester-assembly.webp",
+            "image": "lantern-product-photos/03-theemeester-painted-light-v1.webp",
             "alt": {
-              "nl": "De theemeester — Samengesteld 3D-model",
-              "en": "The tea master — Assembled 3D model"
+              "nl": "De theemeester met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The tea master with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "dfe1be151aeb478a37bfefe80b78c1aa9b52d8534e7d6c3369ffe969c7fb7b27"
           },
           {
             "image": "lantern-miniatures/03-theemeester-parts.webp",
@@ -4990,7 +4491,13 @@
             "generatedFromModel": true
           }
         ],
-        "manufacturingStatus": "digital-geometry-checked"
+        "manufacturingStatus": "digital-geometry-checked",
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
+        }
       },
       {
         "id": "bonsai-lantaarn-boswachter",
@@ -5008,40 +4515,41 @@
           "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 70,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "150 mm hoog inclusief voet · modulair · resin met transparante lichtvensters.",
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/04-boswachter-assembly.webp",
+        "image": "lantern-product-photos/04-boswachter-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De boswachter — Samengesteld 3D-model",
-          "en": "The forest keeper — Assembled 3D model"
+          "nl": "De boswachter met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The forest keeper with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/04-boswachter-assembly.webp",
+            "image": "lantern-product-photos/04-boswachter-painted-light-v1.webp",
             "alt": {
-              "nl": "De boswachter — Samengesteld 3D-model",
-              "en": "The forest keeper — Assembled 3D model"
+              "nl": "De boswachter met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The forest keeper with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "33b96a7f075621314f0dfca4d91bb0cde7f6fc621b2af4afb0465f76b90af551"
           },
           {
             "image": "lantern-miniatures/04-boswachter-parts.webp",
@@ -5064,7 +4572,13 @@
             "generatedFromModel": true
           }
         ],
-        "manufacturingStatus": "digital-geometry-checked"
+        "manufacturingStatus": "digital-geometry-checked",
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
+        }
       },
       {
         "id": "bonsai-lantaarn-nachtwacht",
@@ -5082,40 +4596,41 @@
           "en": "A watchman holding a lantern beneath a traditional torii."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 70,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "150 mm hoog inclusief voet · modulair · resin met transparante lichtvensters.",
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/05-nachtwacht-assembly.webp",
+        "image": "lantern-product-photos/05-nachtwacht-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De nachtwacht — Samengesteld 3D-model",
-          "en": "The night watchman — Assembled 3D model"
+          "nl": "De nachtwacht met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The night watchman with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/05-nachtwacht-assembly.webp",
+            "image": "lantern-product-photos/05-nachtwacht-painted-light-v1.webp",
             "alt": {
-              "nl": "De nachtwacht — Samengesteld 3D-model",
-              "en": "The night watchman — Assembled 3D model"
+              "nl": "De nachtwacht met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The night watchman with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "4e8cdd25e1786e67c14d8cc46e9df87ca432572e56b84570608af0234cd34dec"
           },
           {
             "image": "lantern-miniatures/05-nachtwacht-parts.webp",
@@ -5138,7 +4653,13 @@
             "generatedFromModel": true
           }
         ],
-        "manufacturingStatus": "digital-geometry-checked"
+        "manufacturingStatus": "digital-geometry-checked",
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
+        }
       },
       {
         "id": "bonsai-lantaarn-monnik",
@@ -5156,40 +4677,41 @@
           "en": "A travelling monk carefully carrying his lantern with both hands."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
-          "base": null,
+          "base": 70,
           "woodExtra": 0,
           "currency": "EUR",
-          "kind": "quote"
+          "kind": "indicative"
         },
         "spec": {
           "nl": "150 mm hoog inclusief voet · modulair · resin met transparante lichtvensters.",
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/06-monnik-assembly.webp",
+        "image": "lantern-product-photos/06-monnik-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De monnik — Samengesteld 3D-model",
-          "en": "The monk — Assembled 3D model"
+          "nl": "De monnik met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The monk with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/06-monnik-assembly.webp",
+            "image": "lantern-product-photos/06-monnik-painted-light-v1.webp",
             "alt": {
-              "nl": "De monnik — Samengesteld 3D-model",
-              "en": "The monk — Assembled 3D model"
+              "nl": "De monnik met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The monk with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "84c202a6e6e83377e3fe17d0375b084b3a544acba46fc1333fa099ac8354f4f2"
           },
           {
             "image": "lantern-miniatures/06-monnik-parts.webp",
@@ -5212,7 +4734,13 @@
             "generatedFromModel": true
           }
         ],
-        "manufacturingStatus": "digital-geometry-checked"
+        "manufacturingStatus": "digital-geometry-checked",
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
+        }
       },
       {
         "id": "bonsai-licht-nachtelijk-theehuis",
