@@ -9,7 +9,7 @@
 
       var groups = [
         {category:'display',product:'bonsai-classic-table',nl:'Tafels & jita’s',en:'Stands & jitas',copyNl:'Iets voor onder je pot.',copyEn:'Something to go under your pot.'},
-        {category:'pots',product:'bonsai-firethorn-pot',nl:'Schalen',en:'Pots',copyNl:'Een pot die bij je boom past.',copyEn:'A pot that suits your tree.'},
+        {category:'accents',product:'accent-moss',nl:'Accentplanten',en:'Accent plants',copyNl:'Een klein accent naast je boom.',copyEn:'A small accent beside your tree.'},
         {category:'miniatures',product:'bonsai-mini-walker-dog',nl:'Figuren',en:'Figures',copyNl:'Iets kleins voor erbij.',copyEn:'A little something alongside it.'}
       ];
       return hero + '<section class="home-collection wrap" aria-labelledby="browse-title"><div class="section-heading"><h2 id="browse-title">' + tr('Rond de bonsai.', 'Around the bonsai.') + '</h2>' + api.link('collection',tr('Bekijk alles','View all objects')+' ↗','text-link') + '</div><div class="category-grid">' + groups.map(function (group) {
