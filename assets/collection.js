@@ -96,8 +96,7 @@
   }
   function render() {
     document.documentElement.lang = language;
-    document.title = 'BONSAI3D — ' + (page === 'home' ? t(shop.subtitle) : u(page));
-    document.querySelector('meta[name="description"]').content = t(shop.intro);
+    if (window.BonsaiDiscovery) window.BonsaiDiscovery.update(language);
     var api = {business:business,clearSelection:function(){selection=[];lastRequest='';lastRemoved=null;updateCount();},tr:tr, t:t, esc:esc, shop:shop, image:image, style:style, language:language, finishImage:finishImage, imageLabel:imageLabel, money:BonsaiPricing.money, link:link, pageUrl:pageUrl};
     var content = page === 'collection' ? collection() : ['service','privacy'].includes(page) ? window.BonsaiBusiness[page](api) : window.BonsaiEditorial[page](api);
     document.getElementById('app').innerHTML = '<a class="skip" href="#main">' + u('skip') + '</a>' +

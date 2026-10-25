@@ -2,6 +2,14 @@
 
 Standalone NL/EN website: https://rubenschmeitz.github.io/bonsai3d/
 
+Prepared custom domain: https://bonsai3d.nl/ (`www.bonsai3d.nl` redirects to it).
+The root `CNAME` file declares this domain for the existing branch-based Pages
+deployment. It becomes active only after this change is released to `main` and
+DNS is configured. Verify domain ownership in the GitHub account Pages settings
+and configure the repository domain before pointing DNS at GitHub Pages.
+DNS and HTTPS must be checked after activation; this preparation is not a live
+deployment. Keep Pages disabled on the separate private development repository.
+
 The site is served directly from the root of the main branch using GitHub Pages.
 Use `python3 -m http.server 8851` for local review. No build or dependencies are required.
 
