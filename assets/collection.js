@@ -8,7 +8,7 @@
     location.replace(pages[legacy[anchor]] + location.search + location.hash);
     return;
   }
-  var responses = await Promise.all([fetch('./assets/catalogue.json?v=collection-20261025'), fetch('./assets/business-config.json?v=contact-20261016')]);
+  var responses = await Promise.all([fetch('./assets/catalogue.json?v=lantern-photos-20261025'), fetch('./assets/business-config.json?v=contact-20261016')]);
   if (responses.some(function (response) { return !response.ok; })) throw new Error('Website information unavailable');
   var loaded = await Promise.all(responses.map(function (response) { return response.json(); }));
   var data = loaded[0], shop = data.bonsai, business = loaded[1];
@@ -40,7 +40,7 @@
   ui.nl.black='Ruw zwart'; ui.en.black='Raw black'; ui.nl.grey='Ruw grijs'; ui.en.grey='Raw grey';
   function price(p,f){return BonsaiPricing.money(BonsaiPricing.product(p,f),language);}
   function availability(p){if(interestOnly)return p.availability==='stock'?tr('Potjes op voorraad','Pots in stock'):p.stage==='future'?tr('Ontwerpvoorbeeld','Design example'):tr('Eerder gemaakte vorm','Previously made shape');return p.availability==='stock'?tr('Potjes op voorraad','Pots in stock'):p.stage==='future'?tr('Ontwerp op aanvraag','Design on enquiry'):tr('Bij te maken op aanvraag','Made to order');}
-  function finishLabel(finish, product) { if(product && product.category==='miniatures' && finish==='black') return tr('Zwart + witte drybrush','Black + white drybrush'); return finish === 'custom' ? u('own') : finish === 'original' ? u('originalFinish') : u(finish); }
+  function finishLabel(finish, product) { if(product && product.finishLabels && product.finishLabels[finish]) return t(product.finishLabels[finish]); if(product && product.category==='miniatures' && finish==='black') return tr('Zwart + witte drybrush','Black + white drybrush'); return finish === 'custom' ? u('own') : finish === 'original' ? u('originalFinish') : u(finish); }
   function tr(nl, en) { return language === 'nl' ? nl : en; }
   function t(value) { return value && typeof value === 'object' ? value[language] : value; }
   function esc(value) { return String(value || '').replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }

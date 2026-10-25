@@ -4272,7 +4272,7 @@
           "en": "A traveller with a straw hat and a round lantern."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
@@ -4286,26 +4286,27 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/01-ronin-assembly.webp",
+        "image": "lantern-product-photos/01-ronin-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De ronin — Samengesteld 3D-model",
-          "en": "The ronin — Assembled 3D model"
+          "nl": "De ronin met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The ronin with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/01-ronin-assembly.webp",
+            "image": "lantern-product-photos/01-ronin-painted-light-v1.webp",
             "alt": {
-              "nl": "De ronin — Samengesteld 3D-model",
-              "en": "The ronin — Assembled 3D model"
+              "nl": "De ronin met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The ronin with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "ff37313b32626cce5149838d65f793287779819483638f395cb8ea61cd302ac3"
           },
           {
             "image": "lantern-miniatures/01-ronin-parts.webp",
@@ -4332,6 +4333,12 @@
         "includedNote": {
           "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
           "en": "Painting included · tree, other styling and shipping excluded."
+        },
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
         }
       },
       {
@@ -4350,7 +4357,7 @@
           "en": "A traveller in a kimono carrying a hanging lantern."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
@@ -4364,26 +4371,27 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/02-kimono-assembly.webp",
+        "image": "lantern-product-photos/02-kimono-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De reizigster — Samengesteld 3D-model",
-          "en": "The traveller — Assembled 3D model"
+          "nl": "De reizigster met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The traveller with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/02-kimono-assembly.webp",
+            "image": "lantern-product-photos/02-kimono-painted-light-v1.webp",
             "alt": {
-              "nl": "De reizigster — Samengesteld 3D-model",
-              "en": "The traveller — Assembled 3D model"
+              "nl": "De reizigster met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The traveller with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "685b29f88b5b27017abd1aa7271b9734ac53f8244fe4727d6e81484c6942d86f"
           },
           {
             "image": "lantern-miniatures/02-kimono-parts.webp",
@@ -4410,6 +4418,12 @@
         "includedNote": {
           "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
           "en": "Painting included · tree, other styling and shipping excluded."
+        },
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
         }
       },
       {
@@ -4428,7 +4442,7 @@
           "en": "A resting tea master with a lantern on the rock beside him."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
@@ -4442,26 +4456,27 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/03-theemeester-assembly.webp",
+        "image": "lantern-product-photos/03-theemeester-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De theemeester — Samengesteld 3D-model",
-          "en": "The tea master — Assembled 3D model"
+          "nl": "De theemeester met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The tea master with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/03-theemeester-assembly.webp",
+            "image": "lantern-product-photos/03-theemeester-painted-light-v1.webp",
             "alt": {
-              "nl": "De theemeester — Samengesteld 3D-model",
-              "en": "The tea master — Assembled 3D model"
+              "nl": "De theemeester met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The tea master with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "dfe1be151aeb478a37bfefe80b78c1aa9b52d8534e7d6c3369ffe969c7fb7b27"
           },
           {
             "image": "lantern-miniatures/03-theemeester-parts.webp",
@@ -4488,6 +4503,12 @@
         "includedNote": {
           "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
           "en": "Painting included · tree, other styling and shipping excluded."
+        },
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
         }
       },
       {
@@ -4506,7 +4527,7 @@
           "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
@@ -4520,26 +4541,27 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/04-boswachter-assembly.webp",
+        "image": "lantern-product-photos/04-boswachter-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De boswachter — Samengesteld 3D-model",
-          "en": "The forest keeper — Assembled 3D model"
+          "nl": "De boswachter met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The forest keeper with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/04-boswachter-assembly.webp",
+            "image": "lantern-product-photos/04-boswachter-painted-light-v1.webp",
             "alt": {
-              "nl": "De boswachter — Samengesteld 3D-model",
-              "en": "The forest keeper — Assembled 3D model"
+              "nl": "De boswachter met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The forest keeper with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "33b96a7f075621314f0dfca4d91bb0cde7f6fc621b2af4afb0465f76b90af551"
           },
           {
             "image": "lantern-miniatures/04-boswachter-parts.webp",
@@ -4566,6 +4588,12 @@
         "includedNote": {
           "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
           "en": "Painting included · tree, other styling and shipping excluded."
+        },
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
         }
       },
       {
@@ -4584,7 +4612,7 @@
           "en": "A watchman holding a lantern beneath a traditional torii."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
@@ -4598,26 +4626,27 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/05-nachtwacht-assembly.webp",
+        "image": "lantern-product-photos/05-nachtwacht-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De nachtwacht — Samengesteld 3D-model",
-          "en": "The night watchman — Assembled 3D model"
+          "nl": "De nachtwacht met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The night watchman with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/05-nachtwacht-assembly.webp",
+            "image": "lantern-product-photos/05-nachtwacht-painted-light-v1.webp",
             "alt": {
-              "nl": "De nachtwacht — Samengesteld 3D-model",
-              "en": "The night watchman — Assembled 3D model"
+              "nl": "De nachtwacht met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The night watchman with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "4e8cdd25e1786e67c14d8cc46e9df87ca432572e56b84570608af0234cd34dec"
           },
           {
             "image": "lantern-miniatures/05-nachtwacht-parts.webp",
@@ -4644,6 +4673,12 @@
         "includedNote": {
           "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
           "en": "Painting included · tree, other styling and shipping excluded."
+        },
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
         }
       },
       {
@@ -4662,7 +4697,7 @@
           "en": "A travelling monk carefully carrying his lantern with both hands."
         },
         "options": [
-          "grey",
+          "black",
           "custom"
         ],
         "pricing": {
@@ -4676,26 +4711,27 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. De beelden tonen het uitgewerkte 3D-model. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. Images show the engineered 3D model. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-miniatures/06-monnik-assembly.webp",
+        "image": "lantern-product-photos/06-monnik-painted-light-v1.webp",
         "imageAlt": {
-          "nl": "De monnik — Samengesteld 3D-model",
-          "en": "The monk — Assembled 3D model"
+          "nl": "De monnik met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+          "en": "The monk with light — painted finish preview with warm lantern light"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-miniatures/06-monnik-assembly.webp",
+            "image": "lantern-product-photos/06-monnik-painted-light-v1.webp",
             "alt": {
-              "nl": "De monnik — Samengesteld 3D-model",
-              "en": "The monk — Assembled 3D model"
+              "nl": "De monnik met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
+              "en": "The monk with light — painted finish preview with warm lantern light"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "visualKind": "isolatedConcept",
+            "generatedFromModel": true,
+            "sourceRenderHash": "84c202a6e6e83377e3fe17d0375b084b3a544acba46fc1333fa099ac8354f4f2"
           },
           {
             "image": "lantern-miniatures/06-monnik-parts.webp",
@@ -4722,6 +4758,12 @@
         "includedNote": {
           "nl": "Schilderwerk inbegrepen · boom, overige styling en verzending niet inbegrepen.",
           "en": "Painting included · tree, other styling and shipping excluded."
+        },
+        "finishLabels": {
+          "black": {
+            "nl": "Geschilderd · zoals het voorbeeld",
+            "en": "Painted · as shown"
+          }
         }
       },
       {
