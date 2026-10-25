@@ -85,6 +85,46 @@
       "source_sha256": "94ffcc5a52f2f677fbe1e6fd03448a37d31ba9732f940f471da45ed7428714f5",
       "sha256": "058086b9cab73629b93c39f56922c3e1178de95b7eb3012dd1484705c8aa97a5",
       "kind": "render of engineered geometry; not a photograph of a completed print"
+    },
+    {
+      "image": "02-nachtelijk-theehuis-studio-v1.webp",
+      "kind": "AI-generated studio finish and lighting concept based on engineered geometry; not a physical print photograph",
+      "tool": "built-in image_gen",
+      "geometry_reference": "Lichtcollectie-printklaar/02/gemonteerd.png",
+      "geometry_reference_sha256": "cc351ee0d34d61a141e1f8792bb8448a7acf3e75cdb09fe32db7fc8ad23d872a",
+      "style_reference": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+      "prompt": "Use case: style-transfer. Create ONE square product catalogue image. Image 1 is the style reference ONLY: match its pale natural wood tabletop, light warm grey seamless wall, soft daylight studio lighting, gentle shadows, understated premium Japanese aesthetic. Image 2 is the exact product geometry reference: preserve its complete silhouette, proportions, topology and fine sculptural details, same front three-quarter view, entire object visible centered with 12% margin. Keep the miniature tea house rocky mountain silhouette, pine trees, staircase, veranda and tiled roof exactly. Painted warm charcoal grey resin stone, restrained brown wood details, subtly warm glowing shoji windows. Photorealistic concept visualization of finished 3D-printed object, subtle fine print texture, no additional decorations, bonsai, text, logos, watermark, cables or props. Do not replace the object with a different design. Bright daytime studio scene matching image 1, not a dark night scene; glow restrained.",
+      "sha256": "83256c24e448fe2c4e86d10c96f67bea827ed122140dd919344e91d3f04dc4ee"
+    },
+    {
+      "image": "05-wortellantaarn-studio-v1.webp",
+      "kind": "AI-generated studio finish and lighting concept based on engineered geometry; not a physical print photograph",
+      "tool": "built-in image_gen",
+      "geometry_reference": "Wortellantaarn-05-verborgen-naad-v3/gemonteerd.png",
+      "geometry_reference_sha256": "be44934386ffd22a07b8f75479f9b1f45ec992f73f9ff01078104fde5cbe69a4",
+      "style_reference": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+      "prompt": "Use case: style-transfer. ONE square product catalogue image. Image 1 STYLE ONLY: match pale natural wood tabletop, light warm grey wall, soft daylight studio lighting, gentle contact shadows, premium understated Japanese aesthetic. Image 2 EXACT PRODUCT GEOMETRY: preserve complete silhouette, proportions, all sculptural details and openings, same front three-quarter angle, centered full object with 12% margins. Keep the exact irregular root cage shape and organic oval diffuser with all openings and root branches. Warm dark brown wood-look finished printed roots, milky translucent diffuser softly lit warm white. Photorealistic concept visualization of a finished 3D-printed object, subtle print texture. No additional objects, text, logos, watermark or cables. Do not redesign. Bright daytime scene, restrained warm glow. Match reference 1 background and tabletop precisely.",
+      "sha256": "27c3835db6a27b9047fc80335affa3e97eba87a2639afb0b86697ac109f16a41"
+    },
+    {
+      "image": "07-schaduwbamboe-studio-v1.webp",
+      "kind": "AI-generated studio finish and lighting concept based on engineered geometry; not a physical print photograph",
+      "tool": "built-in image_gen",
+      "geometry_reference": "Lichtcollectie-printklaar/07/gemonteerd.png",
+      "geometry_reference_sha256": "be1dba2219ea044f8ade894a0b03bdadbf307ee55dd7bf14c5464907c18bde5b",
+      "style_reference": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+      "prompt": "Use case: style-transfer. ONE square product catalogue image. Image 1 STYLE ONLY: match pale natural wood tabletop, light warm grey wall, soft daylight studio lighting, gentle contact shadows, premium understated Japanese aesthetic. Image 2 EXACT PRODUCT GEOMETRY: preserve complete silhouette, proportions, all sculptural details and openings, same front three-quarter angle, centered full object with 12% margins. Keep round pagoda roof, three short legs, cylindrical bamboo and maple relief body exactly. Dark warm brown wood-look roof and foot, translucent milky body with dark painted bamboo and leaf relief accents, soft warm internal LED glow. Photorealistic concept visualization of a finished 3D-printed object, subtle print texture. No additional objects, text, logos, watermark or cables. Do not redesign. Bright daytime scene, restrained warm glow. Match reference 1 background and tabletop precisely.",
+      "sha256": "c8f0b1a39fefce4e3b2f9321b79c70815ea10b89784d5a90697a238feed86254"
+    },
+    {
+      "image": "08-verlicht-berglandschap-studio-v1.webp",
+      "kind": "AI-generated studio finish and lighting concept based on engineered geometry; not a physical print photograph",
+      "tool": "built-in image_gen",
+      "geometry_reference": "Lichtcollectie-printklaar/08/gemonteerd.png",
+      "geometry_reference_sha256": "98bcbd9a6af0dea5a5db32f776788338814ef0dcf75024bd30f0756f4c0039e9",
+      "style_reference": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+      "prompt": "Use case: style-transfer. ONE square product catalogue image. Image 1 STYLE ONLY: match pale natural wood tabletop, light warm grey wall, soft daylight studio lighting, gentle contact shadows, premium understated Japanese aesthetic. Image 2 EXACT PRODUCT GEOMETRY: preserve complete silhouette, proportions, all sculptural details and openings, same front three-quarter angle, centered full object with 12% margins. Preserve exact rectangular shallow base, layered mountains, round moon, pine trees and torii arrangement and silhouette. Dark brown base, milky translucent mountain layers with charcoal painted foreground pine and torii accents, warm subtle transmitted LED light. Photorealistic concept visualization of a finished 3D-printed object, subtle print texture. No additional objects, text, logos, watermark or cables. Do not redesign. Bright daytime scene, restrained warm glow. Match reference 1 background and tabletop precisely.",
+      "sha256": "6dae6bdef0e5b159aedad6d9d2b81f67ddfb6629d21b521f94acf6a2d7202517"
     }
   ]
 }

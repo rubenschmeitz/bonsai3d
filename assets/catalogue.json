@@ -5243,25 +5243,25 @@
           "en": "144 × 136 × 136 mm · resin with separate translucent PETG windows."
         },
         "detail": {
-          "nl": "Het pannendak, de veranda, bomen en rotsen vormen een kleine nachtscène. Een uitneembare 5V USB-ledschijf verlicht de twee ramen via een verborgen schacht. De resinsecties worden na het printen afgewerkt en beschilderd. Ontworpen voor een uitneembare 5V USB-ledmodule. De beelden tonen het uitgewerkte 3D-model; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "The tiled roof, veranda, trees and rocks form a miniature night scene. A removable 5V USB LED disc lights the two windows through a concealed channel. The resin sections are finished and painted after printing. Designed for a removable 5V USB LED module. Images show the engineered 3D model; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Het pannendak, de veranda, bomen en rotsen vormen een kleine nachtscène. Een uitneembare 5V USB-ledschijf verlicht de twee ramen via een verborgen schacht. De resinsecties worden na het printen afgewerkt en beschilderd. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "The tiled roof, veranda, trees and rocks form a miniature night scene. A removable 5V USB LED disc lights the two windows through a concealed channel. The resin sections are finished and painted after printing. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/02-nachtelijk-theehuis-assembly.webp",
+        "image": "light-collection/02-nachtelijk-theehuis-studio-v1.webp",
         "imageAlt": {
-          "nl": "Nachtelijk theehuis — Samengesteld 3D-model",
-          "en": "Night tea house — Assembled 3D model"
+          "nl": "Nachtelijk theehuis — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+          "en": "Night tea house — generated finish preview with warm light on a pale wood surface"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/02-nachtelijk-theehuis-assembly.webp",
+            "image": "light-collection/02-nachtelijk-theehuis-studio-v1.webp",
             "alt": {
-              "nl": "Nachtelijk theehuis — Samengesteld 3D-model",
-              "en": "Night tea house — Assembled 3D model"
+              "nl": "Nachtelijk theehuis — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+              "en": "Night tea house — generated finish preview with warm light on a pale wood surface"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
+            "visualKind": "isolatedConcept",
             "generatedFromModel": true
           },
           {
@@ -5317,25 +5317,25 @@
           "en": "178 × 175 × 230 mm · PETG with translucent insert · removable rear section."
         },
         "detail": {
-          "nl": "De grillige wortels omsluiten een organische lichtkern. De nieuwste versie sluit rond de losse kern met een onregelmatige achtervoeg en een interne overlaplip. Zo blijft de voorzijde doorlopend en is het licht bereikbaar. Een fijne montagenaad kan achteraan zichtbaar blijven. Ontworpen voor een uitneembare 5V USB-ledmodule. De beelden tonen het uitgewerkte 3D-model; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "Sculpted roots surround an organic diffuser. The latest version closes around the separate core with an irregular rear joint and an internal backing lip. This keeps the front continuous and the light accessible. A fine assembly seam may remain visible at the rear. Designed for a removable 5V USB LED module. Images show the engineered 3D model; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "De grillige wortels omsluiten een organische lichtkern. De nieuwste versie sluit rond de losse kern met een onregelmatige achtervoeg en een interne overlaplip. Zo blijft de voorzijde doorlopend en is het licht bereikbaar. Een fijne montagenaad kan achteraan zichtbaar blijven. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "Sculpted roots surround an organic diffuser. The latest version closes around the separate core with an irregular rear joint and an internal backing lip. This keeps the front continuous and the light accessible. A fine assembly seam may remain visible at the rear. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/05-wortellantaarn-assembly.webp",
+        "image": "light-collection/05-wortellantaarn-studio-v1.webp",
         "imageAlt": {
-          "nl": "Wortellantaarn — Samengesteld 3D-model",
-          "en": "Root lantern — Assembled 3D model"
+          "nl": "Wortellantaarn — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+          "en": "Root lantern — generated finish preview with warm light on a pale wood surface"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/05-wortellantaarn-assembly.webp",
+            "image": "light-collection/05-wortellantaarn-studio-v1.webp",
             "alt": {
-              "nl": "Wortellantaarn — Samengesteld 3D-model",
-              "en": "Root lantern — Assembled 3D model"
+              "nl": "Wortellantaarn — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+              "en": "Root lantern — generated finish preview with warm light on a pale wood surface"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
+            "visualKind": "isolatedConcept",
             "generatedFromModel": true
           },
           {
@@ -5391,25 +5391,25 @@
           "en": "174 × 173 × 225 mm · PETG · lift-off roof and separate light base."
         },
         "detail": {
-          "nl": "Het ronde dak en de stevige voeten omlijsten een transparant lichtlichaam met bamboe en esdoornbladeren. De donkere reliëfaccenten worden beschilderd; de modelbeelden tonen het reliëf nog zonder die afwerking. Dak, voet en leddeksel zijn los bereikbaar. Ontworpen voor een uitneembare 5V USB-ledmodule. De beelden tonen het uitgewerkte 3D-model; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "The round roof and sturdy feet frame a translucent body with bamboo and maple leaves. Dark relief accents are painted; the model images show the relief before this finishing step. The roof, base and LED service cap remain accessible. Designed for a removable 5V USB LED module. Images show the engineered 3D model; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Het ronde dak en de stevige voeten omlijsten een transparant lichtlichaam met bamboe en esdoornbladeren. De donkere reliëfaccenten worden beschilderd; de technische beelden tonen het reliëf nog zonder die afwerking. Dak, voet en leddeksel zijn los bereikbaar. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "The round roof and sturdy feet frame a translucent body with bamboo and maple leaves. Dark relief accents are painted; the technical images show the relief before this finishing step. The roof, base and LED service cap remain accessible. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/07-schaduwbamboe-assembly.webp",
+        "image": "light-collection/07-schaduwbamboe-studio-v1.webp",
         "imageAlt": {
-          "nl": "Schaduwbamboe — Samengesteld 3D-model",
-          "en": "Bamboo shadow lantern — Assembled 3D model"
+          "nl": "Schaduwbamboe — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+          "en": "Bamboo shadow lantern — generated finish preview with warm light on a pale wood surface"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/07-schaduwbamboe-assembly.webp",
+            "image": "light-collection/07-schaduwbamboe-studio-v1.webp",
             "alt": {
-              "nl": "Schaduwbamboe — Samengesteld 3D-model",
-              "en": "Bamboo shadow lantern — Assembled 3D model"
+              "nl": "Schaduwbamboe — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+              "en": "Bamboo shadow lantern — generated finish preview with warm light on a pale wood surface"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
+            "visualKind": "isolatedConcept",
             "generatedFromModel": true
           },
           {
@@ -5465,25 +5465,25 @@
           "en": "240 × 67 × 168 mm · PETG · removable landscape on an illuminated base."
         },
         "detail": {
-          "nl": "Een smalle lichtsculptuur met bergkammen, dennen, een torii en maan. Het transparante bovenstuk staat op een donkere lichtvoet. De voorgrond krijgt donkere geschilderde accenten. Het bovenstuk en bodemluik blijven uitneembaar voor de ledmodule. Ontworpen voor een uitneembare 5V USB-ledmodule. De beelden tonen het uitgewerkte 3D-model; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
-          "en": "A slender light sculpture with mountain ridges, pines, a torii and moon. The translucent upper section sits on a dark illuminated base. Dark painted accents define the foreground. The landscape and bottom hatch remain removable for LED access. Designed for a removable 5V USB LED module. Images show the engineered 3D model; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
+          "nl": "Een smalle lichtsculptuur met bergkammen, dennen, een torii en maan. Het transparante bovenstuk staat op een donkere lichtvoet. De voorgrond krijgt donkere geschilderde accenten. Het bovenstuk en bodemluik blijven uitneembaar voor de ledmodule. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
+          "en": "A slender light sculpture with mountain ridges, pines, a torii and moon. The translucent upper section sits on a dark illuminated base. Dark painted accents define the foreground. The landscape and bottom hatch remain removable for LED access. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/08-verlicht-berglandschap-assembly.webp",
+        "image": "light-collection/08-verlicht-berglandschap-studio-v1.webp",
         "imageAlt": {
-          "nl": "Verlicht berglandschap — Samengesteld 3D-model",
-          "en": "Illuminated mountain landscape — Assembled 3D model"
+          "nl": "Verlicht berglandschap — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+          "en": "Illuminated mountain landscape — generated finish preview with warm light on a pale wood surface"
         },
-        "visualKind": "isolated",
+        "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/08-verlicht-berglandschap-assembly.webp",
+            "image": "light-collection/08-verlicht-berglandschap-studio-v1.webp",
             "alt": {
-              "nl": "Verlicht berglandschap — Samengesteld 3D-model",
-              "en": "Illuminated mountain landscape — Assembled 3D model"
+              "nl": "Verlicht berglandschap — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
+              "en": "Illuminated mountain landscape — generated finish preview with warm light on a pale wood surface"
             },
             "photoRole": "product",
-            "visualKind": "isolated",
+            "visualKind": "isolatedConcept",
             "generatedFromModel": true
           },
           {
