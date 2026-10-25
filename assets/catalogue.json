@@ -221,7 +221,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 30,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -297,7 +297,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 30,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -730,7 +730,7 @@
         "miniatureViews": true,
         "availability": "enquiry",
         "pricing": {
-          "base": 30,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -4014,7 +4014,7 @@
           "custom"
         ],
         "pricing": {
-          "base": 25,
+          "base": 30,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -4090,7 +4090,7 @@
           "custom"
         ],
         "pricing": {
-          "base": 25,
+          "base": 30,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -4166,7 +4166,7 @@
           "custom"
         ],
         "pricing": {
-          "base": 30,
+          "base": 25,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"
@@ -4242,7 +4242,7 @@
           "custom"
         ],
         "pricing": {
-          "base": 25,
+          "base": 30,
           "woodExtra": 0,
           "currency": "EUR",
           "kind": "indicative"

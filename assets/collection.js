@@ -8,7 +8,7 @@
     location.replace(pages[legacy[anchor]] + location.search + location.hash);
     return;
   }
-  var responses = await Promise.all([fetch('./assets/catalogue.json?v=miniature-angles-20261025'), fetch('./assets/business-config.json?v=contact-20261016')]);
+  var responses = await Promise.all([fetch('./assets/catalogue.json?v=miniature-prices-20261025'), fetch('./assets/business-config.json?v=contact-20261016')]);
   if (responses.some(function (response) { return !response.ok; })) throw new Error('Website information unavailable');
   var loaded = await Promise.all(responses.map(function (response) { return response.json(); }));
   var data = loaded[0], shop = data.bonsai, business = loaded[1];
