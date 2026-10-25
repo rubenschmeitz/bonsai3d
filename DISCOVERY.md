@@ -3,8 +3,13 @@
 Voorbereiding van 25 oktober 2026. Hosting blijft GitHub Pages; domeinregistratie
 en DNS blijven bij Mijn.host. Cloudflare wordt hier gebruikt voor Web Analytics,
 niet voor hosting of een nameserververhuizing. Google Search Console is de
-aanvulling voor zichtbaarheid in Google. Er zijn nog geen accountkoppelingen,
-externe metingen, sitemapinzendingen of publieke releases uitgevoerd.
+aanvulling voor zichtbaarheid in Google. De voorbereide websiteversie is nog niet gepubliceerd. Ontvangst van externe
+metingen en sitemapinzendingen zijn nog niet gecontroleerd.
+
+Update: de Cloudflare Web Analytics-site voor bonsai3d.nl is inmiddels aangemaakt
+en de echte openbare sitecode is in assets/site-config.js opgenomen. De koppeling
+is via de bestaande browsersessie ingericht zonder Codex af te sluiten. De code
+is nog niet gepubliceerd; ontvangst van echte bezoeken is nog niet vastgesteld.
 
 ## Wat de website nu voorbereidt
 
