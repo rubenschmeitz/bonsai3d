@@ -29,8 +29,10 @@ function check(value,message){assert(value,message);checks++;}
     await page.locator('#empty-reset').click();
     check(await page.locator('.product').count()===total,'Empty-state action restores all products');
     check(await page.locator('#product-search').evaluate(n=>n===document.activeElement),'Reset returns search focus');
-    await page.locator('#product-category').selectOption('pots');
-    check(await page.locator('.product').count()<total,'Category filters products');
+    check(await page.locator('#product-category option[value=pots]').count()===0,'Standalone tree pots remain paused');
+    await page.locator('#product-category').selectOption('accents');
+    const accents=await page.locator('.product').count();
+    check(accents>0&&accents<total,'Active accent category filters products');
     await page.locator('#reset-filters').click();
     check(await page.locator('#product-sort').isHidden(),'Secondary controls start collapsed');
     await page.locator('.browse-options summary').click();
