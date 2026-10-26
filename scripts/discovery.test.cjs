@@ -24,6 +24,15 @@ const sitemap = fs.readFileSync(path.join(root, 'sitemap.xml'), 'utf8');
 check((sitemap.match(/<loc>/g) || []).length === 5, 'Sitemap has five content pages');
 check([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].every(match => !/privacy|afwerkingen|\?/.test(match[1])), 'No excluded or filtered URLs in sitemap');
 check(fs.readFileSync(path.join(root, 'robots.txt'), 'utf8').includes('Sitemap: https://bonsai3d.nl/sitemap.xml'), 'Robots declares sitemap');
+const favicon = fs.readFileSync(path.join(root, 'favicon.png'));
+check(favicon.equals(fs.readFileSync(path.join(root, 'assets/brand/bonsai3d-avatar.png'))), 'Favicon preserves the approved logo artwork');
+check(favicon.readUInt32BE(16) === favicon.readUInt32BE(20) && favicon.readUInt32BE(16) > 48, 'Search favicon is square and larger than 48 pixels');
+const homeMarkup = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
+const graph = JSON.parse(homeMarkup.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1])['@graph'];
+const website = graph.find(item => item['@type'] === 'WebSite');
+const brand = graph.find(item => item['@type'] === 'Organization');
+check(website.url === 'https://bonsai3d.nl/' && website.alternateName === 'BONSAI3D.nl', 'Website identifies the Dutch domain unambiguously');
+check(website.publisher['@id'] === brand['@id'] && brand.logo.url === 'https://bonsai3d.nl/assets/brand/bonsai3d-avatar.png', 'Website publisher resolves to the existing brand logo');
 
 function simulate(options) {
   const injected = [];
@@ -64,11 +73,16 @@ const server = spawn(process.env.PYTHON || 'python3', ['scripts/preview.py','--p
     await page.locator('#main').waitFor({state:'attached'});
     check((await page.title()).endsWith('| BONSAI3D'), 'Discovery title survives app rendering');
     check(await page.locator('meta[property="og:title"]').getAttribute('content') === await page.title(), 'Social title follows page language');
+    check(await page.locator('meta[name="twitter:title"]').getAttribute('content') === await page.title(), 'Summary card follows rendered language');
+    check(await page.locator('meta[name="twitter:description"]').getAttribute('content') === await page.locator('meta[name="description"]').getAttribute('content'), 'Summary description follows rendered language');
+    check(await page.locator('link[rel="icon"]').getAttribute('href') === '/favicon.png', 'Every page uses the stable raster favicon URL');
+    check(await page.locator('meta[property="og:image:width"]').getAttribute('content') === '512', 'Sharing previews declare image dimensions');
     check((await page.locator('meta[name="description"]').getAttribute('content')).length > 70, 'Page-specific description survives rendering');
     check(await page.locator('link[rel="canonical"]').getAttribute('href') === 'https://bonsai3d.nl/' + (name === 'index.html' ? '' : name), 'Canonical never picks up query parameters');
     if (name === 'privacy.html') check((await page.locator('body').innerText()).includes(lang==='nl'?'staat hier nog uit':'currently disabled here'), 'Privacy accurately describes disabled measurement');
   }
   check(external.length === 0, 'Unconfigured site makes no external analytics requests');
+  check(await page.evaluate(async () => {const image = new Image(); image.src = document.querySelector('link[rel="icon"]').href; await image.decode(); return image.naturalWidth === 512 && image.naturalHeight === 512;}), 'Browser successfully decodes the favicon at its declared size');
   check(errors.length === 0, 'No browser exceptions');
   fs.mkdirSync(out, {recursive:true});
   const report = {status:'passed',checks,errors,external_requests:external};
