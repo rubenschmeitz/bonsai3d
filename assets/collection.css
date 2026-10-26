@@ -336,3 +336,8 @@ body.curated-shop footer .brand-wordmark{width:250px;height:auto;filter:none}
 @media(max-width:960px){body.curated-shop .site-header .brand-wordmark{width:190px}}
 @media(max-width:700px){body.curated-shop .site-header .brand-wordmark{width:170px}}
 @media(max-width:380px){body.curated-shop .site-header .brand-wordmark{width:146px}}
+
+/* Show homepage photographs at their original clarity, without softening. */
+body.curated-shop[data-page=home] img[src]:not([src*=".svg"]){filter:none}
+body.curated-shop[data-page=home] .soft-photo-frame>img{mask-image:none}
+body.curated-shop[data-page=home] .soft-photo-frame:before{display:none}
