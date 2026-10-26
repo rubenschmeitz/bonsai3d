@@ -10,6 +10,11 @@
     document.querySelector('meta[property="og:title"]').content = values[0];
     document.querySelector('meta[property="og:description"]').content = values[1];
     document.querySelector('meta[property="og:locale"]').content = language === 'en' ? 'en_GB' : 'nl_NL';
+    document.querySelector('meta[name="twitter:title"]').content = values[0];
+    document.querySelector('meta[name="twitter:description"]').content = values[1];
+    var imageAlt = language === 'en' ? 'BONSAI3D — bonsai logo' : 'BONSAI3D — bonsai-logo';
+    document.querySelector('meta[property="og:image:alt"]').content = imageAlt;
+    document.querySelector('meta[name="twitter:image:alt"]').content = imageAlt;
   }
   window.BonsaiDiscovery = Object.freeze({update: update});
   var token = (window.BonsaiSiteConfig || {}).cloudflareToken;
