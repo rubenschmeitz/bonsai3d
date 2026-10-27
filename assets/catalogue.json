@@ -232,47 +232,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "De tuinier, kruiwagen en voet vormen samen één miniatuur. De bladeren liggen al klaar om mee te nemen. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The gardener, wheelbarrow and base form one miniature. The leaves are ready to be taken away. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De tuinier, kruiwagen en voet vormen samen één miniatuur. De bladeren liggen al klaar om mee te nemen. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The gardener, wheelbarrow and base form one miniature. The leaves are ready to be taken away. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-garden-cart-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-garden-cart-room-v1.webp",
             "alt": {
-              "nl": "De tuinier met kruiwagen — het product",
-              "en": "The gardener with a wheelbarrow — product view"
+              "nl": "De tuinier met kruiwagen — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The gardener with a wheelbarrow — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "48fcf7992a886004db97157d3a5c92169c62be423480622e905bf41bfb76abca",
+            "sourceRenderHash": "df50fed2b438d0b22f738112bda7f02976687e258042772c4f7f545edcbf39a7",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-garden-cart-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De tuinier met kruiwagen — in een bonsaiopstelling",
-              "en": "The gardener with a wheelbarrow — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "48fcf7992a886004db97157d3a5c92169c62be423480622e905bf41bfb76abca",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-garden-cart-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-garden-cart-room-v1.webp",
         "imageAlt": {
-          "nl": "De tuinier met kruiwagen — het product",
-          "en": "The gardener with a wheelbarrow — product view"
+          "nl": "De tuinier met kruiwagen — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The gardener with a wheelbarrow — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "48fcf7992a886004db97157d3a5c92169c62be423480622e905bf41bfb76abca"
       },
       {
         "id": "bonsai-mini-walker-dog",
@@ -308,47 +297,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "De wandelaar loopt door, maar de hond heeft iets interessants geroken. De regenjas, het hondje en de voet horen bij hetzelfde miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The walker is heading on, but the dog has found something worth sniffing. The figure, dog and base belong to the same miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De wandelaar loopt door, maar de hond heeft iets interessants geroken. De regenjas, het hondje en de voet horen bij hetzelfde miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The walker is heading on, but the dog has found something worth sniffing. The figure, dog and base belong to the same miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-walker-dog-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-walker-dog-room-v1.webp",
             "alt": {
-              "nl": "De wandelaar met hond — het product",
-              "en": "The walker with a dog — product view"
+              "nl": "De wandelaar met hond — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The walker with a dog — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "49ed56c80f090d773911533e10fadb8eea2ee54c8f68d305383a86a28ac13281",
+            "sourceRenderHash": "ebdb5cb236760fae270be0b7450f93437f1360538307c06875661ab450730214",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-walker-dog-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De wandelaar met hond — in een bonsaiopstelling",
-              "en": "The walker with a dog — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "49ed56c80f090d773911533e10fadb8eea2ee54c8f68d305383a86a28ac13281",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-walker-dog-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-walker-dog-room-v1.webp",
         "imageAlt": {
-          "nl": "De wandelaar met hond — het product",
-          "en": "The walker with a dog — product view"
+          "nl": "De wandelaar met hond — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The walker with a dog — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "49ed56c80f090d773911533e10fadb8eea2ee54c8f68d305383a86a28ac13281"
       },
       {
         "id": "bonsai-root-relief-table",
@@ -737,51 +715,40 @@
         },
         "imageStyle": "isolated-exhibition",
         "spec": {
-          "nl": "Zwart resin met witte drybrush · richtmaat 3–5 cm · nog niet geprint",
-          "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
+          "nl": "Matzwart resin met lichte drybrush · maat op aanvraag · nog niet geprint",
+          "en": "Matte black resin with light drybrush · size on request · not yet printed"
         },
         "detail": {
-          "nl": "Twee mensen op een eenvoudig bankje, met hun blik naar de boom. Het bankje, de figuren en de voet horen bij elkaar. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "Two people on a simple bench, looking towards the tree. The bench, figures and base belong together. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "Twee mensen zitten samen op een tuinbankje met houten latten. De vrouw heeft haar benen gekruist en een arm langs de rugleuning. Figuren, bankje en rechthoekige voet komen uit het bestaande 3D-model. De afwerking is zwarte primer met lichte drybrush op de hogere details. Dit ontwerp moet nog geprint worden; de gewenste maat en maakbaarheid bespreken we bij de aanvraag.",
+          "en": "Two people sit together on a slatted garden bench. The woman has her legs crossed and one arm along the backrest. Figures, bench and rectangular base come from the existing 3D model. The finish is black primer with light drybrush on raised details. This design still needs to be printed; desired size and manufacturability are discussed on request."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-garden-bench-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-garden-bench-room-v1.webp",
             "alt": {
-              "nl": "Samen op het tuinbankje — het product",
-              "en": "Together on the garden bench — product view"
+              "nl": "Samen op het tuinbankje — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "Together on the garden bench — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "generatedFromModel": false,
-            "modelGeometryReferenceHash": null,
+            "generatedFromModel": true,
+            "modelGeometryReferenceHash": "9ad2ac33c8cb02dfdbb1de1e4e7e95df21a490025a5124d3acae03be0230e084",
+            "sourceRenderHash": "ebe083964e1c61d32d8dff7117414f7562dcfa22eec27b125ef4a15d922ac9c5",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-garden-bench-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "Samen op het tuinbankje — in een bonsaiopstelling",
-              "en": "Together on the garden bench — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": false,
-            "modelGeometryReferenceHash": null,
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-garden-bench-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-garden-bench-room-v1.webp",
         "imageAlt": {
-          "nl": "Samen op het tuinbankje — het product",
-          "en": "Together on the garden bench — product view"
+          "nl": "Samen op het tuinbankje — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "Together on the garden bench — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "9ad2ac33c8cb02dfdbb1de1e4e7e95df21a490025a5124d3acae03be0230e084"
       },
       {
         "id": "bonsai-mini-hedgehog",
@@ -817,47 +784,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "De egel snuffelt laag over de grond. De stekels en kleine voet zijn onderdeel van hetzelfde ontwerp. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The hedgehog sniffs along close to the ground. Its spines and small base are part of the same design. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De egel snuffelt laag over de grond. De stekels en kleine voet zijn onderdeel van hetzelfde ontwerp. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The hedgehog sniffs along close to the ground. Its spines and small base are part of the same design. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-hedgehog-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-hedgehog-room-v1.webp",
             "alt": {
-              "nl": "De egel — het product",
-              "en": "The hedgehog — product view"
+              "nl": "De egel — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The hedgehog — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "8c936e6db1d5fc07d1aba797117dc9bf7f442e70a9d0abb3083fd78cb4658c4b",
+            "sourceRenderHash": "7f94c908087e693a42200231e8bc2c04cc8740a660a335332b984c68635ed51d",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-hedgehog-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De egel — in een bonsaiopstelling",
-              "en": "The hedgehog — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "8c936e6db1d5fc07d1aba797117dc9bf7f442e70a9d0abb3083fd78cb4658c4b",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-hedgehog-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-hedgehog-room-v1.webp",
         "imageAlt": {
-          "nl": "De egel — het product",
-          "en": "The hedgehog — product view"
+          "nl": "De egel — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The hedgehog — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "8c936e6db1d5fc07d1aba797117dc9bf7f442e70a9d0abb3083fd78cb4658c4b"
       },
       {
         "id": "bonsai-mini-robin",
@@ -893,47 +849,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "Het vogeltje zit op een lage steen en kijkt naar boven. Vogel, steen en voet horen bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The bird sits on a low stone and looks up. The bird, stone and base are part of the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "Het vogeltje zit op een lage steen en kijkt naar boven. Vogel, steen en voet horen bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The bird sits on a low stone and looks up. The bird, stone and base are part of the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-robin-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-robin-room-v1.webp",
             "alt": {
-              "nl": "Het roodborstje — het product",
-              "en": "The robin — product view"
+              "nl": "Het roodborstje — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The robin — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "090f8931d02207a81e200d1e1f42f3a4a8c03e13266d03fbd3cf516a81550825",
+            "sourceRenderHash": "62688a0d42976e3ce4f8959c5e4d823769317e3e843473b7e649b5533671feba",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-robin-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "Het roodborstje — in een bonsaiopstelling",
-              "en": "The robin — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "090f8931d02207a81e200d1e1f42f3a4a8c03e13266d03fbd3cf516a81550825",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-robin-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-robin-room-v1.webp",
         "imageAlt": {
-          "nl": "Het roodborstje — het product",
-          "en": "The robin — product view"
+          "nl": "Het roodborstje — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The robin — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "090f8931d02207a81e200d1e1f42f3a4a8c03e13266d03fbd3cf516a81550825"
       },
       {
         "id": "bonsai-mini-hare",
@@ -969,47 +914,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "De lange oren staan rechtop. In de vacht zit fijn reliëf, dat met de witte drybrush beter uitkomt. De voet hoort bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The long ears stand upright. The fur has fine relief that the white drybrush brings out. The base is part of the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De lange oren staan rechtop. In de vacht zit fijn reliëf, dat met de witte drybrush beter uitkomt. De voet hoort bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The long ears stand upright. The fur has fine relief that the white drybrush brings out. The base is part of the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-hare-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-hare-room-v1.webp",
             "alt": {
-              "nl": "De haas — het product",
-              "en": "The hare — product view"
+              "nl": "De haas — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The hare — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "2341e3f4523555bc1b25f719c7fa3d83dfe5600765028e5b25ee37ef9b4910f7",
+            "sourceRenderHash": "06760354494aa2a03948a25cd4c06fc26d100b8159e0718d414b52629d66a0c8",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-hare-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De haas — in een bonsaiopstelling",
-              "en": "The hare — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "2341e3f4523555bc1b25f719c7fa3d83dfe5600765028e5b25ee37ef9b4910f7",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-hare-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-hare-room-v1.webp",
         "imageAlt": {
-          "nl": "De haas — het product",
-          "en": "The hare — product view"
+          "nl": "De haas — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The hare — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "2341e3f4523555bc1b25f719c7fa3d83dfe5600765028e5b25ee37ef9b4910f7"
       },
       {
         "id": "bonsai-mini-watergiver",
@@ -1044,47 +978,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "De tuinier knielt met een kleine gieter in zijn hand. Het figuur heeft een eigen geprinte voet en kan los naast een boom staan. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The gardener kneels with a small watering can in his hand. The figure has its own printed base and can stand separately beside a tree. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De tuinier knielt met een kleine gieter in zijn hand. Het figuur heeft een eigen geprinte voet en kan los naast een boom staan. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The gardener kneels with a small watering can in his hand. The figure has its own printed base and can stand separately beside a tree. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-watergiver-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-watergiver-room-v1.webp",
             "alt": {
-              "nl": "De watergever — het product",
-              "en": "The watergiver — product view"
+              "nl": "De watergever — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The watergiver — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "acdecf2697729dd23af52acac3b654a599868b9605514f3d50fdb8fb0ce83e17",
+            "sourceRenderHash": "99d3ca3d591e7944b97c3a4fc6a9e6950a168718574ad9994495c95b3f9d3f1c",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-watergiver-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De watergever — in een bonsaiopstelling",
-              "en": "The watergiver — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "acdecf2697729dd23af52acac3b654a599868b9605514f3d50fdb8fb0ce83e17",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-watergiver-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-watergiver-room-v1.webp",
         "imageAlt": {
-          "nl": "De watergever — het product",
-          "en": "The watergiver — product view"
+          "nl": "De watergever — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The watergiver — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "acdecf2697729dd23af52acac3b654a599868b9605514f3d50fdb8fb0ce83e17"
       },
       {
         "id": "bonsai-mini-branch-pruner",
@@ -1119,47 +1042,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "Met een opstapje komt de tuinier net wat hoger bij de takken. De snoeischaar, het opstapje en de voet horen bij het figuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "A small step brings the gardener a little closer to the branches. The shears, step and base belong to the figure. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "Met een opstapje komt de tuinier net wat hoger bij de takken. De snoeischaar, het opstapje en de voet horen bij het figuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "A small step brings the gardener a little closer to the branches. The shears, step and base belong to the figure. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-branch-pruner-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-branch-pruner-room-v1.webp",
             "alt": {
-              "nl": "De takverzorger — het product",
-              "en": "The branch tender — product view"
+              "nl": "De takverzorger — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The branch tender — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "559666865c2bb4a017e4000787b766c9ef8f5566d87f026e8f76359610a96a1f",
+            "sourceRenderHash": "b2eef548382b7fe8ad002db964451ca343f1e39498d287d9c2bced66298bf533",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-branch-pruner-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De takverzorger — in een bonsaiopstelling",
-              "en": "The branch tender — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "559666865c2bb4a017e4000787b766c9ef8f5566d87f026e8f76359610a96a1f",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-branch-pruner-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-branch-pruner-room-v1.webp",
         "imageAlt": {
-          "nl": "De takverzorger — het product",
-          "en": "The branch tender — product view"
+          "nl": "De takverzorger — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The branch tender — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "559666865c2bb4a017e4000787b766c9ef8f5566d87f026e8f76359610a96a1f"
       },
       {
         "id": "bonsai-mini-root-squirrel",
@@ -1194,47 +1106,36 @@
           "en": "Black resin with white drybrush · target size 3–5 cm · not yet printed"
         },
         "detail": {
-          "nl": "De eekhoorn staat rechtop met de staart achter zich gekruld. De vacht is fijn uitgewerkt en de geprinte voet hoort erbij. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The squirrel stands upright with its tail curled behind it. The fur is finely detailed and the printed base is included. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De eekhoorn staat rechtop met de staart achter zich gekruld. De vacht is fijn uitgewerkt en de geprinte voet hoort erbij. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The squirrel stands upright with its tail curled behind it. The fur is finely detailed and the printed base is included. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-root-squirrel-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-root-squirrel-room-v1.webp",
             "alt": {
-              "nl": "De nieuwsgierige eekhoorn — het product",
-              "en": "The curious squirrel — product view"
+              "nl": "De nieuwsgierige eekhoorn — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The curious squirrel — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "1bdfce83284ce2451165fb57d04ae6fa9d0e384ece1408870f3c594e284a1e44",
+            "sourceRenderHash": "7152a5abda3179b12b64995e7940e25e1fe15b48f65fa14a0d5897c133d7494f",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-root-squirrel-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De nieuwsgierige eekhoorn — in een bonsaiopstelling",
-              "en": "The curious squirrel — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "1bdfce83284ce2451165fb57d04ae6fa9d0e384ece1408870f3c594e284a1e44",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-root-squirrel-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-root-squirrel-room-v1.webp",
         "imageAlt": {
-          "nl": "De nieuwsgierige eekhoorn — het product",
-          "en": "The curious squirrel — product view"
+          "nl": "De nieuwsgierige eekhoorn — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The curious squirrel — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "1bdfce83284ce2451165fb57d04ae6fa9d0e384ece1408870f3c594e284a1e44"
       },
       {
         "id": "bonsai-root-pedestal",
@@ -2902,8 +2803,8 @@
           "en": "A fox inside a hollow root arch, among leaves and small mushrooms."
         },
         "detail": {
-          "nl": "De vos zit in een open wortelboog. Tussen de wortels zitten blaadjes en kleine zwammen; die horen samen met de voet bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The fox sits inside an open root arch. Leaves and small mushrooms sit among the roots; these and the base are part of the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De vos zit in een open wortelboog. Tussen de wortels zitten blaadjes en kleine zwammen; die horen samen met de voet bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The fox sits inside an open root arch. Leaves and small mushrooms sit among the roots; these and the base are part of the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "spec": {
           "nl": "Zwart resin met witte drybrush · richtmaat 3–5 cm · nog niet geprint",
@@ -2917,37 +2818,24 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "model-photos-v1/bonsai-mini-root-fox-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-root-fox-room-v1.webp",
         "imageAlt": {
-          "nl": "Vos in de wortelboog — het product",
-          "en": "Fox in the root arch — product view"
+          "nl": "Vos in de wortelboog — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "Fox in the root arch — AI-edited model visualization, matte black with light drybrush"
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-root-fox-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-root-fox-room-v1.webp",
             "alt": {
-              "nl": "Vos in de wortelboog — het product",
-              "en": "Fox in the root arch — product view"
+              "nl": "Vos in de wortelboog — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "Fox in the root arch — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "eb026d62ff45469a57164eef2183e89ce5a365d5eada8f91e98d2572eac0434b",
+            "sourceRenderHash": "786d9e1eb8ccc8c00018ba8b44829df7e6dabe8abce493e0e0b15845248b55dc",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-root-fox-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "Vos in de wortelboog — in een bonsaiopstelling",
-              "en": "Fox in the root arch — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "eb026d62ff45469a57164eef2183e89ce5a365d5eada8f91e98d2572eac0434b",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
@@ -2962,7 +2850,9 @@
         "imageStyle": "isolated-exhibition",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product",
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "eb026d62ff45469a57164eef2183e89ce5a365d5eada8f91e98d2572eac0434b"
       },
       {
         "id": "bonsai-mini-bonsai-master",
@@ -3874,42 +3764,29 @@
         "imageStyle": "isolated-exhibition",
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-standing-grower-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-standing-grower-room-v1.webp",
             "alt": {
-              "nl": "De bonsaikweker — het product",
-              "en": "The bonsai grower — product view"
+              "nl": "De bonsaikweker — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The bonsai grower — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "53c60f8e4a74c1ad0f7fa96431ce4b514cf4651a45dee8557509d64494cf940f",
+            "sourceRenderHash": "4915d7ac107823a2f9ec146672939859d198f46c03121e0f90b629114bacfa98",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-standing-grower-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De bonsaikweker — in een bonsaiopstelling",
-              "en": "The bonsai grower — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "53c60f8e4a74c1ad0f7fa96431ce4b514cf4651a45dee8557509d64494cf940f",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-standing-grower-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-standing-grower-room-v1.webp",
         "imageAlt": {
-          "nl": "De bonsaikweker — het product",
-          "en": "The bonsai grower — product view"
+          "nl": "De bonsaikweker — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The bonsai grower — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context",
+        "photoSequence": "product",
         "id": "bonsai-mini-standing-grower",
         "name": {
           "nl": "De bonsaikweker",
@@ -3936,7 +3813,9 @@
         "detail": {
           "nl": "De kweker buigt voorover naar het boompje op zijn houten werktafel. Figuur, schort, tafel, kleine bonsai en de rechthoekige voet met bestrating vormen samen het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
           "en": "The grower leans toward the little tree on his wooden workbench. Figure, apron, table, small bonsai and rectangular paved base form one miniature. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
-        }
+        },
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "53c60f8e4a74c1ad0f7fa96431ce4b514cf4651a45dee8557509d64494cf940f"
       },
       {
         "category": "miniatures",
@@ -4074,42 +3953,29 @@
         "imageStyle": "isolated-exhibition",
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-bicycle-repairer-product-white-drybrush-v1.webp",
+            "image": "miniature-room-collection/bonsai-mini-bicycle-repairer-room-v1.webp",
             "alt": {
-              "nl": "De fietshersteller — het product",
-              "en": "The bicycle repairer — product view"
+              "nl": "De fietshersteller — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+              "en": "The bicycle repairer — AI-edited model visualization, matte black with light drybrush"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "af4359181bc866c82916a568b3342ab45cb207e71d1eaee7c2c9a098afcea6e9",
+            "sourceRenderHash": "2552d00ad2bcf1c5b3ecccd5f7ea53d130642a0c64f511eeab9a7b9207993a7e",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-bicycle-repairer-context-white-drybrush-v2.webp",
-            "alt": {
-              "nl": "De fietshersteller — in een bonsaiopstelling",
-              "en": "The bicycle repairer — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "af4359181bc866c82916a568b3342ab45cb207e71d1eaee7c2c9a098afcea6e9",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v1/bonsai-mini-bicycle-repairer-product-white-drybrush-v1.webp",
+        "image": "miniature-room-collection/bonsai-mini-bicycle-repairer-room-v1.webp",
         "imageAlt": {
-          "nl": "De fietshersteller — het product",
-          "en": "The bicycle repairer — product view"
+          "nl": "De fietshersteller — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush",
+          "en": "The bicycle repairer — AI-edited model visualization, matte black with light drybrush"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context",
+        "photoSequence": "product",
         "id": "bonsai-mini-bicycle-repairer",
         "name": {
           "nl": "De fietshersteller",
@@ -4136,7 +4002,9 @@
         "detail": {
           "nl": "De fietshersteller zit op een kruk bij een stadsfiets met lage instap, spatborden en bagagedrager. Figuur, fiets, kruk en de smalle rechthoekige voet met bestrating horen bij het model. De spaken en andere fijne delen vragen nog een maakbaarheidscontrole. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
           "en": "The repairer sits on a stool beside a step-through city bike with mudguards and a rear rack. Figure, bicycle, stool and narrow rectangular paved base belong to the model. The spokes and other fine parts still require a manufacturability check. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
-        }
+        },
+        "generatedFromModel": true,
+        "modelGeometryReferenceHash": "af4359181bc866c82916a568b3342ab45cb207e71d1eaee7c2c9a098afcea6e9"
       },
       {
         "category": "miniatures",
@@ -4230,47 +4098,30 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-product-photos/01-ronin-painted-light-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-v1.webp",
         "imageAlt": {
-          "nl": "De ronin met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-          "en": "The ronin with light — painted finish preview with warm lantern light"
+          "nl": "De ronin met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+          "en": "The ronin with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-product-photos/01-ronin-painted-light-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-v1.webp",
             "alt": {
-              "nl": "De ronin met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-              "en": "The ronin with light — painted finish preview with warm lantern light"
+              "nl": "De ronin met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+              "en": "The ronin with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
-            "sourceRenderHash": "ff37313b32626cce5149838d65f793287779819483638f395cb8ea61cd302ac3"
-          },
-          {
-            "image": "lantern-miniatures/01-ronin-parts.webp",
-            "alt": {
-              "nl": "De ronin — Ontwerpstudie, vóór samenvoegen",
-              "en": "The ronin — Source parts before joining"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
-          },
-          {
-            "image": "lantern-miniatures/01-ronin-led.webp",
-            "alt": {
-              "nl": "De ronin — Inbouw van het ledje",
-              "en": "The ronin — LED installation"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "modelGeometryReferenceHash": "e32124e5a4e56e160477e8a7fac1d80b8d42ce33f8b3d03acab3b03a8d90611e",
+            "sourceRenderHash": "a90e9787e4e462bd41645b26c102b61ddb604a1e56599635c3b55f1246cb5129",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4280,10 +4131,15 @@
         },
         "finishLabels": {
           "black": {
-            "nl": "Geschilderd · zoals het voorbeeld",
-            "en": "Painted · as shown"
+            "nl": "Matzwart met lichte drybrush",
+            "en": "Matte black with light drybrush"
           }
-        }
+        },
+        "modelGeometryReferenceHash": "e32124e5a4e56e160477e8a7fac1d80b8d42ce33f8b3d03acab3b03a8d90611e",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product",
+        "imageStyle": "isolated-exhibition"
       },
       {
         "id": "bonsai-lantaarn-kimono",
@@ -4315,47 +4171,30 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-product-photos/02-kimono-painted-light-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-v1.webp",
         "imageAlt": {
-          "nl": "De reizigster met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-          "en": "The traveller with light — painted finish preview with warm lantern light"
+          "nl": "De reizigster met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+          "en": "The traveller with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-product-photos/02-kimono-painted-light-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-v1.webp",
             "alt": {
-              "nl": "De reizigster met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-              "en": "The traveller with light — painted finish preview with warm lantern light"
+              "nl": "De reizigster met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+              "en": "The traveller with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
-            "sourceRenderHash": "685b29f88b5b27017abd1aa7271b9734ac53f8244fe4727d6e81484c6942d86f"
-          },
-          {
-            "image": "lantern-miniatures/02-kimono-parts.webp",
-            "alt": {
-              "nl": "De reizigster — Ontwerpstudie, vóór samenvoegen",
-              "en": "The traveller — Source parts before joining"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
-          },
-          {
-            "image": "lantern-miniatures/02-kimono-led.webp",
-            "alt": {
-              "nl": "De reizigster — Inbouw van het ledje",
-              "en": "The traveller — LED installation"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "modelGeometryReferenceHash": "6edb1047660dd9dc803f3e5743a2a58f4f81519fc6f4c392500875139e6973fa",
+            "sourceRenderHash": "9589bb57814095a6afb3655afbc1e1623f0eb60fb1d0ab5038609c5d4f9f60f3",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4365,10 +4204,15 @@
         },
         "finishLabels": {
           "black": {
-            "nl": "Geschilderd · zoals het voorbeeld",
-            "en": "Painted · as shown"
+            "nl": "Matzwart met lichte drybrush",
+            "en": "Matte black with light drybrush"
           }
-        }
+        },
+        "modelGeometryReferenceHash": "6edb1047660dd9dc803f3e5743a2a58f4f81519fc6f4c392500875139e6973fa",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product",
+        "imageStyle": "isolated-exhibition"
       },
       {
         "id": "bonsai-lantaarn-theemeester",
@@ -4400,47 +4244,30 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-product-photos/03-theemeester-painted-light-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-v1.webp",
         "imageAlt": {
-          "nl": "De theemeester met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-          "en": "The tea master with light — painted finish preview with warm lantern light"
+          "nl": "De theemeester met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+          "en": "The tea master with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-product-photos/03-theemeester-painted-light-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-v1.webp",
             "alt": {
-              "nl": "De theemeester met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-              "en": "The tea master with light — painted finish preview with warm lantern light"
+              "nl": "De theemeester met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+              "en": "The tea master with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
-            "sourceRenderHash": "dfe1be151aeb478a37bfefe80b78c1aa9b52d8534e7d6c3369ffe969c7fb7b27"
-          },
-          {
-            "image": "lantern-miniatures/03-theemeester-parts.webp",
-            "alt": {
-              "nl": "De theemeester — Ontwerpstudie, vóór samenvoegen",
-              "en": "The tea master — Source parts before joining"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
-          },
-          {
-            "image": "lantern-miniatures/03-theemeester-led.webp",
-            "alt": {
-              "nl": "De theemeester — Inbouw van het ledje",
-              "en": "The tea master — LED installation"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "modelGeometryReferenceHash": "89f2ba3c2de1af2fbc8076317622b67d9c1953b893365d02988991ff8c609b36",
+            "sourceRenderHash": "dcdbd3e1f731af35095aa5fa6baa0ebdfa493473ade309c505b50eb5e640dfe4",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4450,10 +4277,15 @@
         },
         "finishLabels": {
           "black": {
-            "nl": "Geschilderd · zoals het voorbeeld",
-            "en": "Painted · as shown"
+            "nl": "Matzwart met lichte drybrush",
+            "en": "Matte black with light drybrush"
           }
-        }
+        },
+        "modelGeometryReferenceHash": "89f2ba3c2de1af2fbc8076317622b67d9c1953b893365d02988991ff8c609b36",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product",
+        "imageStyle": "isolated-exhibition"
       },
       {
         "id": "bonsai-lantaarn-boswachter",
@@ -4485,47 +4317,30 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-product-photos/04-boswachter-painted-light-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-v1.webp",
         "imageAlt": {
-          "nl": "De boswachter met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-          "en": "The forest keeper with light — painted finish preview with warm lantern light"
+          "nl": "De boswachter met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+          "en": "The forest keeper with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-product-photos/04-boswachter-painted-light-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-v1.webp",
             "alt": {
-              "nl": "De boswachter met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-              "en": "The forest keeper with light — painted finish preview with warm lantern light"
+              "nl": "De boswachter met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+              "en": "The forest keeper with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
-            "sourceRenderHash": "33b96a7f075621314f0dfca4d91bb0cde7f6fc621b2af4afb0465f76b90af551"
-          },
-          {
-            "image": "lantern-miniatures/04-boswachter-parts.webp",
-            "alt": {
-              "nl": "De boswachter — Ontwerpstudie, vóór samenvoegen",
-              "en": "The forest keeper — Source parts before joining"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
-          },
-          {
-            "image": "lantern-miniatures/04-boswachter-led.webp",
-            "alt": {
-              "nl": "De boswachter — Inbouw van het ledje",
-              "en": "The forest keeper — LED installation"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "modelGeometryReferenceHash": "457a23bdd6590cc7d9cbe83a1a1ee8c154c703ae44589ec21b508bef86f120e6",
+            "sourceRenderHash": "4032ac90d33b4a74df032efb4af742a93439627b24477853ab217c533c742e6d",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4535,10 +4350,15 @@
         },
         "finishLabels": {
           "black": {
-            "nl": "Geschilderd · zoals het voorbeeld",
-            "en": "Painted · as shown"
+            "nl": "Matzwart met lichte drybrush",
+            "en": "Matte black with light drybrush"
           }
-        }
+        },
+        "modelGeometryReferenceHash": "457a23bdd6590cc7d9cbe83a1a1ee8c154c703ae44589ec21b508bef86f120e6",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product",
+        "imageStyle": "isolated-exhibition"
       },
       {
         "id": "bonsai-lantaarn-nachtwacht",
@@ -4570,47 +4390,30 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-product-photos/05-nachtwacht-painted-light-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-v1.webp",
         "imageAlt": {
-          "nl": "De nachtwacht met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-          "en": "The night watchman with light — painted finish preview with warm lantern light"
+          "nl": "De nachtwacht met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+          "en": "The night watchman with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-product-photos/05-nachtwacht-painted-light-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-v1.webp",
             "alt": {
-              "nl": "De nachtwacht met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-              "en": "The night watchman with light — painted finish preview with warm lantern light"
+              "nl": "De nachtwacht met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+              "en": "The night watchman with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
-            "sourceRenderHash": "4e8cdd25e1786e67c14d8cc46e9df87ca432572e56b84570608af0234cd34dec"
-          },
-          {
-            "image": "lantern-miniatures/05-nachtwacht-parts.webp",
-            "alt": {
-              "nl": "De nachtwacht — Ontwerpstudie, vóór samenvoegen",
-              "en": "The night watchman — Source parts before joining"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
-          },
-          {
-            "image": "lantern-miniatures/05-nachtwacht-led.webp",
-            "alt": {
-              "nl": "De nachtwacht — Inbouw van het ledje",
-              "en": "The night watchman — LED installation"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "modelGeometryReferenceHash": "9ae6cecfc00f26a0033099762fac8881510add1bad6a8fac2851c2ffa9d1adc6",
+            "sourceRenderHash": "5fc4b1fabd7a91db7836a26dfd5bb5b4fefbb15d936bb3c190fa995d511dc260",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4620,10 +4423,15 @@
         },
         "finishLabels": {
           "black": {
-            "nl": "Geschilderd · zoals het voorbeeld",
-            "en": "Painted · as shown"
+            "nl": "Matzwart met lichte drybrush",
+            "en": "Matte black with light drybrush"
           }
-        }
+        },
+        "modelGeometryReferenceHash": "9ae6cecfc00f26a0033099762fac8881510add1bad6a8fac2851c2ffa9d1adc6",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product",
+        "imageStyle": "isolated-exhibition"
       },
       {
         "id": "bonsai-lantaarn-monnik",
@@ -4655,47 +4463,30 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met schilderwerk en warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with painted details and warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "lantern-product-photos/06-monnik-painted-light-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-v1.webp",
         "imageAlt": {
-          "nl": "De monnik met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-          "en": "The monk with light — painted finish preview with warm lantern light"
+          "nl": "De monnik met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+          "en": "The monk with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "lantern-product-photos/06-monnik-painted-light-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-v1.webp",
             "alt": {
-              "nl": "De monnik met licht — geschilderd afwerkingsvoorbeeld met warm lantaarnlicht",
-              "en": "The monk with light — painted finish preview with warm lantern light"
+              "nl": "De monnik met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
+              "en": "The monk with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
-            "sourceRenderHash": "84c202a6e6e83377e3fe17d0375b084b3a544acba46fc1333fa099ac8354f4f2"
-          },
-          {
-            "image": "lantern-miniatures/06-monnik-parts.webp",
-            "alt": {
-              "nl": "De monnik — Ontwerpstudie, vóór samenvoegen",
-              "en": "The monk — Source parts before joining"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
-          },
-          {
-            "image": "lantern-miniatures/06-monnik-led.webp",
-            "alt": {
-              "nl": "De monnik — Inbouw van het ledje",
-              "en": "The monk — LED installation"
-            },
-            "photoRole": "product",
-            "visualKind": "isolated",
-            "generatedFromModel": true
+            "modelGeometryReferenceHash": "ed13e2599abe87b13bdebaa0c0d33660aa30b1482893d29bb81c02d11d07cad9",
+            "sourceRenderHash": "6e28077f4770b857d673969785bc1d51f99a0bcb0444d6675443580bd77cd1a1",
+            "previewFinish": "black",
+            "finishTreatment": "black-white-drybrush"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4705,10 +4496,15 @@
         },
         "finishLabels": {
           "black": {
-            "nl": "Geschilderd · zoals het voorbeeld",
-            "en": "Painted · as shown"
+            "nl": "Matzwart met lichte drybrush",
+            "en": "Matte black with light drybrush"
           }
-        }
+        },
+        "modelGeometryReferenceHash": "ed13e2599abe87b13bdebaa0c0d33660aa30b1482893d29bb81c02d11d07cad9",
+        "finishTreatment": "black-white-drybrush",
+        "photoRole": "product",
+        "photoSequence": "product",
+        "imageStyle": "isolated-exhibition"
       },
       {
         "id": "bonsai-licht-nachtelijk-theehuis",
