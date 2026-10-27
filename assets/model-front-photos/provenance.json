@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-27",
+  "method": "Verified unchanged source STL -> frontal Blender camera -> AI room/material edit",
+  "camera": {
+    "azimuth_degrees": 0,
+    "elevation_degrees": 24
+  },
+  "note": "Generated model-based visualizations, not physical-print photos or pixel-exact geometry evidence. Model pose and actual part occlusions retained; no manufacturing geometry changed.",
+  "images": [
+    {
+      "productId": "bonsai-mini-yamadori-woman",
+      "image": "model-front-photos/bonsai-mini-yamadori-woman-front-black-drybrush-v1.webp",
+      "replaces": "model-room-photos/bonsai-mini-yamadori-woman-room-black-drybrush-v1.webp",
+      "modelGeometryReferenceHash": "2496f433951bf1fa7defa770a745e82ae0c36b960b252e87b6caf26ead2821f8",
+      "sourceRenderSHA256": "fec7350fbeaa78f9f85d9d6cd9ef5f75d2e2a06026ccb54457f1333212118b5e",
+      "sourceImageSHA256": "67af6387fa60f52c9b46c2b68808ea2de4d9b7476e18946551951b512f165def",
+      "outputSHA256": "c628a1f75226fcc869a7badf48c44078b66bdfe8c2b974a5a5cf453c2aa3883c",
+      "sourceGeometryVerifiedUnchanged": true,
+      "physicalPrintVerified": false
+    },
+    {
+      "productId": "bonsai-mini-yamadori-seeker",
+      "image": "model-front-photos/bonsai-mini-yamadori-seeker-front-black-drybrush-v1.webp",
+      "replaces": "model-room-photos/bonsai-mini-yamadori-seeker-room-black-drybrush-v1.webp",
+      "modelGeometryReferenceHash": "f46cc94fc21dc3c8097424e8fca975abd2d8a89cdf42d207b612ead6cc46f934",
+      "sourceRenderSHA256": "b36d7cbde0dfe28cd4fffbf4df18c3a958923c9e57d9f47ca8d2d6105e6e8ef2",
+      "sourceImageSHA256": "3af0649a560d02209b81ad64f0fb4817aa53a7f672d3656569ba8c6fcca0dd23",
+      "outputSHA256": "b2f3aef762a85ee483ad7f9e4a7e55e66e9204bf09df5701095b4327474e1669",
+      "sourceGeometryVerifiedUnchanged": true,
+      "physicalPrintVerified": false
+    },
+    {
+      "productId": "bonsai-mini-bonsai-master",
+      "image": "model-front-photos/bonsai-mini-bonsai-master-front-black-drybrush-v1.webp",
+      "replaces": "model-room-photos/bonsai-mini-bonsai-master-room-black-drybrush-v1.webp",
+      "modelGeometryReferenceHash": "5450150c6f59779f6045eb1b9c8149876c647f799f040f64b707c325a050bbce",
+      "sourceRenderSHA256": "b6eb6859dca60a0ad9b9254969b4844aa0a716c664e4e5e56c3e686bb1378f63",
+      "sourceImageSHA256": "cd846ecd020c41a3580e8c748009533174b412486fc5299ac22211afee913dec",
+      "outputSHA256": "56179cd3c863159d61647069ada0d87b1489ada5e444d819bd0f2912cb61f7e8",
+      "sourceGeometryVerifiedUnchanged": true,
+      "physicalPrintVerified": false
+    },
+    {
+      "productId": "bonsai-mini-seated-master",
+      "image": "model-front-photos/bonsai-mini-seated-master-front-black-drybrush-v1.webp",
+      "replaces": "model-photos-v2/bonsai-mini-seated-master-product-white-drybrush-v2.webp",
+      "modelGeometryReferenceHash": "d695c1c9cce472899e774710b1f3732cd95accaabb74c3035367dcabe1a87734",
+      "sourceRenderSHA256": "35dc9d3e56d8d80f1ae5243b97dd6e699f7df13201afdafe388f79f281b1390b",
+      "sourceImageSHA256": "bdddf395e199170e112a5fbbba1d87a1f3a2bef4d23c1673781cead83615e08e",
+      "outputSHA256": "17668c559721b0393ac2c1de045b037ad4c326d3e2becd795839901d7490d325",
+      "sourceGeometryVerifiedUnchanged": true,
+      "physicalPrintVerified": false
+    }
+  ]
+}
