@@ -4098,22 +4098,22 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een reiziger met strohoed en een ronde lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een lantaarn zonder verlichting. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller with a straw hat and a round lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and an unlit lantern. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-unlit-v2.webp",
         "imageAlt": {
-          "nl": "De ronin met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-          "en": "The ronin with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+          "nl": "De ronin met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+          "en": "The ronin with light — AI-edited model visualization, matte black with light drybrush, unlit"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-unlit-v2.webp",
             "alt": {
-              "nl": "De ronin met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-              "en": "The ronin with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+              "nl": "De ronin met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+              "en": "The ronin with light — AI-edited model visualization, matte black with light drybrush, unlit"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -4121,7 +4121,8 @@
             "modelGeometryReferenceHash": "e32124e5a4e56e160477e8a7fac1d80b8d42ce33f8b3d03acab3b03a8d90611e",
             "sourceRenderHash": "a90e9787e4e462bd41645b26c102b61ddb604a1e56599635c3b55f1246cb5129",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
+            "finishTreatment": "black-white-drybrush",
+            "lightingPreview": "unlit"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4171,22 +4172,22 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een reizigster in kimono met een hangende lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een lantaarn zonder verlichting. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A traveller in a kimono carrying a hanging lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and an unlit lantern. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-unlit-v2.webp",
         "imageAlt": {
-          "nl": "De reizigster met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-          "en": "The traveller with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+          "nl": "De reizigster met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+          "en": "The traveller with light — AI-edited model visualization, matte black with light drybrush, unlit"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-unlit-v2.webp",
             "alt": {
-              "nl": "De reizigster met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-              "en": "The traveller with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+              "nl": "De reizigster met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+              "en": "The traveller with light — AI-edited model visualization, matte black with light drybrush, unlit"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -4194,7 +4195,8 @@
             "modelGeometryReferenceHash": "6edb1047660dd9dc803f3e5743a2a58f4f81519fc6f4c392500875139e6973fa",
             "sourceRenderHash": "9589bb57814095a6afb3655afbc1e1623f0eb60fb1d0ab5038609c5d4f9f60f3",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
+            "finishTreatment": "black-white-drybrush",
+            "lightingPreview": "unlit"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4244,22 +4246,22 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een rustende theemeester met een lantaarn op de rots naast hem. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een lantaarn zonder verlichting. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A resting tea master with a lantern on the rock beside him. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and an unlit lantern. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-unlit-v2.webp",
         "imageAlt": {
-          "nl": "De theemeester met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-          "en": "The tea master with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+          "nl": "De theemeester met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+          "en": "The tea master with light — AI-edited model visualization, matte black with light drybrush, unlit"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-unlit-v2.webp",
             "alt": {
-              "nl": "De theemeester met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-              "en": "The tea master with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+              "nl": "De theemeester met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+              "en": "The tea master with light — AI-edited model visualization, matte black with light drybrush, unlit"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -4267,7 +4269,8 @@
             "modelGeometryReferenceHash": "89f2ba3c2de1af2fbc8076317622b67d9c1953b893365d02988991ff8c609b36",
             "sourceRenderHash": "dcdbd3e1f731af35095aa5fa6baa0ebdfa493473ade309c505b50eb5e640dfe4",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
+            "finishTreatment": "black-white-drybrush",
+            "lightingPreview": "unlit"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4317,22 +4320,22 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een boswachter met wandelstok, bladerenmantel en een kleine lantaarn. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een lantaarn zonder verlichting. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A forest keeper with a walking stick, a leaf cloak and a little lantern. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and an unlit lantern. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-unlit-v2.webp",
         "imageAlt": {
-          "nl": "De boswachter met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-          "en": "The forest keeper with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+          "nl": "De boswachter met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+          "en": "The forest keeper with light — AI-edited model visualization, matte black with light drybrush, unlit"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-unlit-v2.webp",
             "alt": {
-              "nl": "De boswachter met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-              "en": "The forest keeper with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+              "nl": "De boswachter met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+              "en": "The forest keeper with light — AI-edited model visualization, matte black with light drybrush, unlit"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -4340,7 +4343,8 @@
             "modelGeometryReferenceHash": "457a23bdd6590cc7d9cbe83a1a1ee8c154c703ae44589ec21b508bef86f120e6",
             "sourceRenderHash": "4032ac90d33b4a74df032efb4af742a93439627b24477853ab217c533c742e6d",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
+            "finishTreatment": "black-white-drybrush",
+            "lightingPreview": "unlit"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4390,22 +4394,22 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een wachter met lantaarn onder een traditionele torii. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een lantaarn zonder verlichting. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A watchman holding a lantern beneath a traditional torii. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and an unlit lantern. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-unlit-v2.webp",
         "imageAlt": {
-          "nl": "De nachtwacht met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-          "en": "The night watchman with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+          "nl": "De nachtwacht met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+          "en": "The night watchman with light — AI-edited model visualization, matte black with light drybrush, unlit"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-unlit-v2.webp",
             "alt": {
-              "nl": "De nachtwacht met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-              "en": "The night watchman with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+              "nl": "De nachtwacht met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+              "en": "The night watchman with light — AI-edited model visualization, matte black with light drybrush, unlit"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -4413,7 +4417,8 @@
             "modelGeometryReferenceHash": "9ae6cecfc00f26a0033099762fac8881510add1bad6a8fac2851c2ffa9d1adc6",
             "sourceRenderHash": "5fc4b1fabd7a91db7836a26dfd5bb5b4fefbb15d936bb3c190fa995d511dc260",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
+            "finishTreatment": "black-white-drybrush",
+            "lightingPreview": "unlit"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",
@@ -4463,22 +4468,22 @@
           "en": "150 mm tall including base · modular assembly · resin with translucent lantern windows."
         },
         "detail": {
-          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een visualisatie van warm lantaarnlicht. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
-          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and a visualization of warm lantern light. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
+          "nl": "Een reizende monnik die zijn lantaarn voorzichtig met twee handen draagt. De lantaarn is ontworpen voor een vervangbaar warmwit ledje van 3 mm op USB-voeding. Figuur en voet worden in resin gemaakt; de lichtvensters worden in heldere resin gemaakt. Het productbeeld is een gegenereerd afwerkingsvoorbeeld van het bestaande model, met matzwarte afwerking, lichte drybrush en een lantaarn zonder verlichting. De eerste proefprint, passing en lichtwerking moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd. De richtprijs is inclusief schilderwerk.",
+          "en": "A travelling monk carefully carrying his lantern with both hands. The lantern is designed for a replaceable warm-white 3 mm LED powered by USB. Figure and base are resin; the lantern windows are clear resin. The product image is a generated finish preview of the existing model, with a matte black finish, light drybrush and an unlit lantern. The first prototype, fit and lighting still need testing. Electronics and finishing are agreed on enquiry. The guide price includes painting."
         },
-        "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-v1.webp",
+        "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-unlit-v2.webp",
         "imageAlt": {
-          "nl": "De monnik met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-          "en": "The monk with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+          "nl": "De monnik met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+          "en": "The monk with light — AI-edited model visualization, matte black with light drybrush, unlit"
         },
         "visualKind": "isolatedConcept",
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-v1.webp",
+            "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-unlit-v2.webp",
             "alt": {
-              "nl": "De monnik met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush en warm lantaarnlicht",
-              "en": "The monk with light — AI-edited model visualization, matte black with light drybrush and warm lantern light"
+              "nl": "De monnik met licht — AI-bewerkte modelvisualisatie, matzwart met lichte drybrush, zonder verlichting",
+              "en": "The monk with light — AI-edited model visualization, matte black with light drybrush, unlit"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -4486,7 +4491,8 @@
             "modelGeometryReferenceHash": "ed13e2599abe87b13bdebaa0c0d33660aa30b1482893d29bb81c02d11d07cad9",
             "sourceRenderHash": "6e28077f4770b857d673969785bc1d51f99a0bcb0444d6675443580bd77cd1a1",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
+            "finishTreatment": "black-white-drybrush",
+            "lightingPreview": "unlit"
           }
         ],
         "manufacturingStatus": "digital-geometry-checked",

@@ -163,81 +163,117 @@
     },
     {
       "productId": "bonsai-lantaarn-ronin",
-      "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-v1.webp",
-      "imageSHA256": "f639c05d9738706fb8d06d9e63f657e0e686b7d851af913a92ae5b612db10fef",
-      "generatedImageSHA256": "4d935acf0d7b858cdaad4e08f2742c5c4ad42e072f38c60fa3e952ecf79b6ee0",
+      "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-unlit-v2.webp",
+      "imageSHA256": "adbbb0acfb2c6e1dec742b6345f4b2b77e518a608dbe67edd542f4592355b14a",
+      "generatedImageSHA256": "308f8c1658e3eb14709b167a7ceda64c4789b315828a6a3fa78e3274b905fda5",
       "sourceModelSHA256": "e32124e5a4e56e160477e8a7fac1d80b8d42ce33f8b3d03acab3b03a8d90611e",
       "sourceRenderSHA256": "a90e9787e4e462bd41645b26c102b61ddb604a1e56599635c3b55f1246cb5129",
       "cameraAzimuth": 20,
       "cameraElevation": 24,
       "sourceGeometryModified": false,
       "physicalPrintVerified": false,
-      "status": "new-model-render-and-ai-room-edit"
+      "status": "model-room-image-edited-to-remove-light",
+      "lightingPreview": "unlit",
+      "previousImage": {
+        "image": "miniature-room-collection/bonsai-lantaarn-ronin-room-v1.webp",
+        "imageSHA256": "f639c05d9738706fb8d06d9e63f657e0e686b7d851af913a92ae5b612db10fef",
+        "generatedImageSHA256": "4d935acf0d7b858cdaad4e08f2742c5c4ad42e072f38c60fa3e952ecf79b6ee0"
+      }
     },
     {
       "productId": "bonsai-lantaarn-kimono",
-      "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-v1.webp",
-      "imageSHA256": "2d5d5fd7b1dc61d4e8136884c9945b32f99bea4da371b7d813498a6e1c3611c5",
-      "generatedImageSHA256": "34022ac04081c7f03dd65c0135cacdfe21a856b4a2e67add3575d3dbd9b02587",
+      "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-unlit-v2.webp",
+      "imageSHA256": "cc6752487a5e52b569b6176061736efd328b580f890e619d04a55bed28141b4e",
+      "generatedImageSHA256": "1d9943996ba5ef39e5593819b3f8f17bf041fbf6adac07420d3c308b98dfa2dc",
       "sourceModelSHA256": "6edb1047660dd9dc803f3e5743a2a58f4f81519fc6f4c392500875139e6973fa",
       "sourceRenderSHA256": "9589bb57814095a6afb3655afbc1e1623f0eb60fb1d0ab5038609c5d4f9f60f3",
       "cameraAzimuth": 35,
       "cameraElevation": 24,
       "sourceGeometryModified": false,
       "physicalPrintVerified": false,
-      "status": "new-model-render-and-ai-room-edit"
+      "status": "model-room-image-edited-to-remove-light",
+      "lightingPreview": "unlit",
+      "previousImage": {
+        "image": "miniature-room-collection/bonsai-lantaarn-kimono-room-v1.webp",
+        "imageSHA256": "2d5d5fd7b1dc61d4e8136884c9945b32f99bea4da371b7d813498a6e1c3611c5",
+        "generatedImageSHA256": "34022ac04081c7f03dd65c0135cacdfe21a856b4a2e67add3575d3dbd9b02587"
+      }
     },
     {
       "productId": "bonsai-lantaarn-theemeester",
-      "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-v1.webp",
-      "imageSHA256": "7bef5fd649c11e93bbd47e39aa4c2e8a16ebd9fdcc8cad0699d3786c3cfa01fe",
-      "generatedImageSHA256": "eecef34a15852dcdf0786fdec24bc3993c2f251139669efaa236429e583e0584",
+      "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-unlit-v2.webp",
+      "imageSHA256": "d1371cab02230c51ae89f03551ad59d58831e26dcfbb8301d45dd0b9fe68cc00",
+      "generatedImageSHA256": "3709e179724fb6f71475888821a24171afc19a1656463ad4aeee8b077fb72199",
       "sourceModelSHA256": "89f2ba3c2de1af2fbc8076317622b67d9c1953b893365d02988991ff8c609b36",
       "sourceRenderSHA256": "dcdbd3e1f731af35095aa5fa6baa0ebdfa493473ade309c505b50eb5e640dfe4",
       "cameraAzimuth": 0,
       "cameraElevation": 24,
       "sourceGeometryModified": false,
       "physicalPrintVerified": false,
-      "status": "new-model-render-and-ai-room-edit"
+      "status": "model-room-image-edited-to-remove-light",
+      "lightingPreview": "unlit",
+      "previousImage": {
+        "image": "miniature-room-collection/bonsai-lantaarn-theemeester-room-v1.webp",
+        "imageSHA256": "7bef5fd649c11e93bbd47e39aa4c2e8a16ebd9fdcc8cad0699d3786c3cfa01fe",
+        "generatedImageSHA256": "eecef34a15852dcdf0786fdec24bc3993c2f251139669efaa236429e583e0584"
+      }
     },
     {
       "productId": "bonsai-lantaarn-boswachter",
-      "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-v1.webp",
-      "imageSHA256": "b12b7012f24811f16484120bc7f89e4dd3ebeab50c1b199e06653daed757ab97",
-      "generatedImageSHA256": "2926f3b9addd81af0c6af62975ea9bbe2f204d1bb991cc707f935c682200a701",
+      "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-unlit-v2.webp",
+      "imageSHA256": "9be31149b757e7897d209697294658dbb426c877d2fd378a111a4e51423e9a1b",
+      "generatedImageSHA256": "fdad753ba7ecd9068b09c43b163587e621abec144d254f6c0d58b8683b08fc2a",
       "sourceModelSHA256": "457a23bdd6590cc7d9cbe83a1a1ee8c154c703ae44589ec21b508bef86f120e6",
       "sourceRenderSHA256": "4032ac90d33b4a74df032efb4af742a93439627b24477853ab217c533c742e6d",
       "cameraAzimuth": 30,
       "cameraElevation": 24,
       "sourceGeometryModified": false,
       "physicalPrintVerified": false,
-      "status": "new-model-render-and-ai-room-edit"
+      "status": "model-room-image-edited-to-remove-light",
+      "lightingPreview": "unlit",
+      "previousImage": {
+        "image": "miniature-room-collection/bonsai-lantaarn-boswachter-room-v1.webp",
+        "imageSHA256": "b12b7012f24811f16484120bc7f89e4dd3ebeab50c1b199e06653daed757ab97",
+        "generatedImageSHA256": "2926f3b9addd81af0c6af62975ea9bbe2f204d1bb991cc707f935c682200a701"
+      }
     },
     {
       "productId": "bonsai-lantaarn-nachtwacht",
-      "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-v1.webp",
-      "imageSHA256": "3979f14a985b31eeb16ad7f226fb95cf497696655668811f95eea43baabc3d6f",
-      "generatedImageSHA256": "a8ee119464a4d79a42afe8f2e01c14e3dc2b23ad83500893a6de168582900971",
+      "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-unlit-v2.webp",
+      "imageSHA256": "68538cdd67ed6d0aee5f634aa509f282b0d757d03199904e2c95a750abb19c27",
+      "generatedImageSHA256": "6a8ce61f151950dde1f79dc1c55c147bbe6fec0d2d8c224bb3ddf3032a16ded3",
       "sourceModelSHA256": "9ae6cecfc00f26a0033099762fac8881510add1bad6a8fac2851c2ffa9d1adc6",
       "sourceRenderSHA256": "5fc4b1fabd7a91db7836a26dfd5bb5b4fefbb15d936bb3c190fa995d511dc260",
       "cameraAzimuth": 15,
       "cameraElevation": 24,
       "sourceGeometryModified": false,
       "physicalPrintVerified": false,
-      "status": "new-model-render-and-ai-room-edit"
+      "status": "model-room-image-edited-to-remove-light",
+      "lightingPreview": "unlit",
+      "previousImage": {
+        "image": "miniature-room-collection/bonsai-lantaarn-nachtwacht-room-v1.webp",
+        "imageSHA256": "3979f14a985b31eeb16ad7f226fb95cf497696655668811f95eea43baabc3d6f",
+        "generatedImageSHA256": "a8ee119464a4d79a42afe8f2e01c14e3dc2b23ad83500893a6de168582900971"
+      }
     },
     {
       "productId": "bonsai-lantaarn-monnik",
-      "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-v1.webp",
-      "imageSHA256": "3921ca30d7b2acbe87826478a7bda3580eb2a4ad4a7909fc8c8c3981aa033302",
-      "generatedImageSHA256": "01f1aef772e15a8f1c190a7016192d765819168ac92d5f32b4187bda75588ce5",
+      "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-unlit-v2.webp",
+      "imageSHA256": "30a236268fe9f2c153b6d72983ed6043119a7051c45987da06d857e6e9b91947",
+      "generatedImageSHA256": "1d376eda4507dca2b2290e3d86e2b634e12058ae8a0ea410ab15fa33c58a206e",
       "sourceModelSHA256": "ed13e2599abe87b13bdebaa0c0d33660aa30b1482893d29bb81c02d11d07cad9",
       "sourceRenderSHA256": "6e28077f4770b857d673969785bc1d51f99a0bcb0444d6675443580bd77cd1a1",
       "cameraAzimuth": 20,
       "cameraElevation": 24,
       "sourceGeometryModified": false,
       "physicalPrintVerified": false,
-      "status": "new-model-render-and-ai-room-edit"
+      "status": "model-room-image-edited-to-remove-light",
+      "lightingPreview": "unlit",
+      "previousImage": {
+        "image": "miniature-room-collection/bonsai-lantaarn-monnik-room-v1.webp",
+        "imageSHA256": "3921ca30d7b2acbe87826478a7bda3580eb2a4ad4a7909fc8c8c3981aa033302",
+        "generatedImageSHA256": "01f1aef772e15a8f1c190a7016192d765819168ac92d5f32b4187bda75588ce5"
+      }
     },
     {
       "productId": "bonsai-mini-bonsai-master",
@@ -275,5 +311,7 @@
       "physicalPrintVerified": false,
       "status": "previously-approved-model-room-image-retained"
     }
-  ]
+  ],
+  "lastUpdated": "2026-10-27",
+  "lightingPreview": "All six lantern figures shown unlit; no emitted light."
 }
