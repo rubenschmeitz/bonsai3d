@@ -1,0 +1,17 @@
+.custom-intro{padding-block:46px 28px;max-width:1000px;margin-left:0}
+.custom-intro h1{font-family:AtelierSerif,Georgia,serif!important;font-size:clamp(44px,6vw,76px)!important;max-width:780px}
+.custom-intro>p:last-child{max-width:660px;font-size:17px;line-height:1.7;margin-top:22px}
+.contact-layout{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(240px,.65fr);gap:64px;padding-block:12px 56px}
+.contact-form{min-width:0}.contact-form fieldset{min-width:0;border:0;border-top:1px solid var(--line);padding:24px 0;margin:0}
+.contact-form legend{padding:0 16px 0 0;font-size:12px;color:var(--muted)}
+.contact-form label{display:grid;gap:8px;font-size:14px;margin-bottom:18px}
+.contact-form input:not([type=checkbox]),.contact-form textarea,.contact-form select{width:100%;min-width:0;padding:12px;border:1px solid #bfc7b9;background:#fffef9;border-radius:4px;font:inherit;color:var(--ink)}
+.contact-form textarea{resize:vertical;min-height:150px}.contact-pair{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.contact-form .contact-check{display:flex;align-items:flex-start;gap:10px;line-height:1.6}.contact-check input{width:18px;height:18px;margin-top:5px;flex-shrink:0}.contact-check span{min-width:0}
+.contact-form .contact-trap{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}
+.contact-aside{border-left:1px solid var(--line);padding-left:30px;align-self:start}.contact-aside h2{font-size:30px!important}.contact-aside ol{padding-left:20px;line-height:1.7}.contact-aside li{padding:0 0 18px 8px}.contact-aside p{font-size:14px;line-height:1.7}
+.contact-preview{margin:12px 0 18px;display:flex;align-items:center;gap:18px}.contact-preview[hidden]{display:none}.contact-preview img{width:100px;height:100px;object-fit:contain;border:1px solid var(--line);border-radius:4px}.contact-preview button{text-decoration:underline;text-underline-offset:3px}
+.contact-status{padding:14px 0;font-size:14px;line-height:1.6;white-space:pre-line}.contact-status[data-error=true]{color:#8b3324}
+.contact-form button:disabled{opacity:.55;cursor:not-allowed}.contact-form :focus-visible{outline:2px solid #365c46;outline-offset:3px}
+.custom-calculator{border-block:1px solid var(--line);margin-bottom:48px}.custom-calculator>summary{padding:24px 0;font-size:20px;cursor:pointer}.custom-calculator .quote-page{width:100%;padding-top:20px}.custom-calculator h1{font-size:32px!important}.custom-calculator .quote-layout{gap:30px}
+@media(max-width:760px){.custom-intro{padding-top:30px}.contact-layout{grid-template-columns:1fr;gap:24px}.contact-aside{border-left:0;border-top:1px solid var(--line);padding:24px 0 0}.contact-pair{grid-template-columns:1fr;gap:0}.custom-intro>p:last-child{font-size:15px}.contact-form fieldset{padding-block:20px}}

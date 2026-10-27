@@ -6,7 +6,7 @@
     "setup": "bash scripts/setup.sh",
     "dev": "python3 scripts/preview.py",
     "check": "node scripts/check.cjs",
-    "test": "node scripts/cart.test.cjs && node scripts/smoke.cjs && node scripts/photo-viewer.test.cjs && node scripts/ux.test.cjs && node scripts/discovery.test.cjs && node scripts/https-resources.test.cjs && node scripts/security.test.cjs"
+    "test": "node scripts/cart.test.cjs && node scripts/smoke.cjs && node scripts/photo-viewer.test.cjs && node scripts/ux.test.cjs && node scripts/discovery.test.cjs && node scripts/https-resources.test.cjs && node scripts/security.test.cjs && node scripts/contact.test.cjs"
   },
   "devDependencies": {
     "playwright": "1.57.0"

@@ -49,6 +49,7 @@ let browser; const report = { pages: [], errors: [], checks: 0 };
       if(interestOnly){checked(await page.locator('.interest-explanation').count()===1,'One concise explanation on service');checked(await page.locator('.interest-banner,footer .business-status').count()===0,'No repeated survey notices');}else checked(await page.locator('#retour').count()===1,'Returns information reachable');
       checked((await page.locator('.business-status').first().textContent()).includes(interestOnly?(lang==='nl'?'Interessepeiling':'Interest survey'):(lang==='nl'?'voorbereiding':'preparation')),'Preparation status visible');
       await page.goto(base+'maatwerk.html?lang='+lang+'&style=wood',{waitUntil:'networkidle'});
+      await page.locator('.custom-calculator > summary').click();
       await page.locator('#quote-enquiry').click();
       checked(await page.locator('#inquiry-dialog').evaluate(d=>d.open),'Custom estimate opens draft');
       checked(await page.locator('#inquiry-form input[name=name]').evaluate(input=>!input.required),'Name optional for local draft');
