@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-27",
+  "method": "AI room/material edit of renders from verified existing 3D models",
+  "note": "Generated design visualizations, not photos of physical prints. AI-edited outputs are not pixel-exact geometry evidence. Models and manufacturing status unchanged.",
+  "images": [
+    {
+      "productId": "bonsai-mini-bonsai-master",
+      "image": "model-room-photos/bonsai-mini-bonsai-master-room-black-drybrush-v1.webp",
+      "replaces": "model-photos-v1/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
+      "sourceImageSHA256": "b5b5cb1e80a98a28f1d1805cb68eaa9c9f293e556331546f04a19ceaa4596ba4",
+      "outputSHA256": "8ab3d694a37d8846d2f97a9658f216b5da666f24de4ab139a6015f73283f7842",
+      "modelGeometryReferenceHash": "5450150c6f59779f6045eb1b9c8149876c647f799f040f64b707c325a050bbce",
+      "generatedFromModel": true,
+      "physicalPrintVerified": false
+    },
+    {
+      "productId": "bonsai-mini-yamadori-seeker",
+      "image": "model-room-photos/bonsai-mini-yamadori-seeker-room-black-drybrush-v1.webp",
+      "replaces": "model-photos-v2/bonsai-mini-yamadori-seeker-product-white-drybrush-v2.webp",
+      "sourceImageSHA256": "ce15f697a0c149801e7f69ca67dc4d583e48e4adcc69f63f263a8597296afd6f",
+      "outputSHA256": "af6e5538376d5ee4cbef033a2c69786378426a638e7dd92d466899296191b25f",
+      "modelGeometryReferenceHash": "f46cc94fc21dc3c8097424e8fca975abd2d8a89cdf42d207b612ead6cc46f934",
+      "generatedFromModel": true,
+      "physicalPrintVerified": false
+    },
+    {
+      "productId": "bonsai-mini-yamadori-woman",
+      "image": "model-room-photos/bonsai-mini-yamadori-woman-room-black-drybrush-v1.webp",
+      "replaces": "model-photos-v2/bonsai-mini-yamadori-woman-product-white-drybrush-v2.webp",
+      "sourceImageSHA256": "d0ae6bfce493a73bb6cecec982718c27130c5d10d265639eabed2a4ed3dca07d",
+      "outputSHA256": "5287000321f5ba779fa31cd23507d984a68bbd6ec31b3abd93733e098f21b131",
+      "modelGeometryReferenceHash": "2496f433951bf1fa7defa770a745e82ae0c36b960b252e87b6caf26ead2821f8",
+      "generatedFromModel": true,
+      "physicalPrintVerified": false
+    }
+  ]
+}
