@@ -99,3 +99,6 @@ body.curated-shop .compact-product .product-commerce{margin-top:12px;border:0}
   body.curated-shop .compact-product .product-price strong{font-size:23px}
   .product-action-bar{position:static}
 }
+
+/* Keep all header controls inside narrow phones while retaining their touch targets. */
+@media(min-width:381px) and (max-width:480px){body.curated-shop .site-header .brand-wordmark{width:148px}body.curated-shop .header-inner{gap:8px}body.curated-shop .header-actions{gap:6px}}
