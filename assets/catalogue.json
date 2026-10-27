@@ -2976,8 +2976,8 @@
           "en": "A tree carer pruning a small bonsai at his workbench."
         },
         "detail": {
-          "nl": "De boomverzorger zit met schort en schaar aan zijn werkbank. De kleine bonsai, schaal, werkbank, gereedschappen en het figuur horen samen bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog. De grote bonsai, pot, presentatietafel en losse jita op de beelden horen er niet bij.",
-          "en": "The tree carer sits at his workbench with an apron and shears. The small bonsai, pot, workbench, tools and figure all belong to the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible. The large bonsai, pot, display stand and separate jita in the images are not included."
+          "nl": "De boomverzorger zit met schort en schaar aan zijn werkbank. De kleine bonsai, schaal, werkbank, gereedschappen en het figuur horen samen bij het miniatuur. De afwerking is zwarte primer met witte drybrush op de hogere details. Dit ontwerp moet nog geprint worden. Ik ga uit van ongeveer 3–5 cm; de precieze maat en wat haalbaar is bespreken we nog.",
+          "en": "The tree carer sits at his workbench with an apron and shears. The small bonsai, pot, workbench, tools and figure all belong to the miniature. The finish is black primer with white drybrush on the raised details. This design still needs to be printed. I’m aiming for around 3–5 cm; we still need to discuss the exact size and what is feasible."
         },
         "spec": {
           "nl": "Zwart resin met witte drybrush · richtmaat 3–5 cm · nog niet geprint",
@@ -2991,37 +2991,23 @@
         "visualKind": "isolatedConcept",
         "newDesign": true,
         "detailedMiniature": true,
-        "image": "model-photos-v1/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
+        "image": "model-front-photos/bonsai-mini-bonsai-master-front-black-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De boomverzorger — het product",
-          "en": "The tree carer — product view"
+          "nl": "De boomverzorger — vooraanzicht, gegenereerde modelvisualisatie",
+          "en": "The tree carer — front view, generated model visualization"
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-mini-bonsai-master-product-white-drybrush-v1.webp",
+            "image": "model-front-photos/bonsai-mini-bonsai-master-front-black-drybrush-v1.webp",
             "alt": {
-              "nl": "De boomverzorger — het product",
-              "en": "The tree carer — product view"
+              "nl": "De boomverzorger — vooraanzicht, gegenereerde modelvisualisatie",
+              "en": "The tree carer — front view, generated model visualization"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
             "generatedFromModel": true,
             "modelGeometryReferenceHash": "5450150c6f59779f6045eb1b9c8149876c647f799f040f64b707c325a050bbce",
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-bonsai-master-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De boomverzorger — in een bonsaiopstelling",
-              "en": "The tree carer — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "5450150c6f59779f6045eb1b9c8149876c647f799f040f64b707c325a050bbce",
-            "previewFinish": "black",
-            "contextFinish": "black",
             "finishTreatment": "black-white-drybrush"
           }
         ],
@@ -3036,7 +3022,7 @@
         "imageStyle": "isolated-exhibition",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context"
+        "photoSequence": "product"
       },
       {
         "id": "detail-bridge",
@@ -3964,10 +3950,10 @@
         "imageStyle": "isolated-exhibition",
         "gallery": [
           {
-            "image": "model-photos-v2/bonsai-mini-seated-master-product-white-drybrush-v2.webp",
+            "image": "model-front-photos/bonsai-mini-seated-master-quarterturn-black-drybrush-v2.webp",
             "alt": {
-              "nl": "De zittende bonsaimeester — het product",
-              "en": "The seated bonsai master — product view"
+              "nl": "De zittende bonsaimeester — modelaanzicht na een kwartslag",
+              "en": "The seated bonsai master — model view after a quarter turn"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -3975,31 +3961,17 @@
             "modelGeometryReferenceHash": "d695c1c9cce472899e774710b1f3732cd95accaabb74c3035367dcabe1a87734",
             "previewFinish": "black",
             "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-seated-master-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De zittende bonsaimeester — in een bonsaiopstelling",
-              "en": "The seated bonsai master — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "d695c1c9cce472899e774710b1f3732cd95accaabb74c3035367dcabe1a87734",
-            "previewFinish": "black",
-            "contextFinish": "black",
-            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v2/bonsai-mini-seated-master-product-white-drybrush-v2.webp",
+        "image": "model-front-photos/bonsai-mini-seated-master-quarterturn-black-drybrush-v2.webp",
         "imageAlt": {
-          "nl": "De zittende bonsaimeester — het product",
-          "en": "The seated bonsai master — product view"
+          "nl": "De zittende bonsaimeester — modelaanzicht na een kwartslag",
+          "en": "The seated bonsai master — model view after a quarter turn"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context",
+        "photoSequence": "product",
         "id": "bonsai-mini-seated-master",
         "name": {
           "nl": "De zittende bonsaimeester",
@@ -4024,8 +3996,8 @@
           "en": "Source model approx. 20 cm tall · black primer with white drybrush · size on request."
         },
         "detail": {
-          "nl": "De meester zit op een kruk bij een lage werktafel. Zijn gebreide trui, houding en kleine bonsai komen uit het echte model. Figuur, kruk, tafel, boom en ovale voet met bestrating horen bij elkaar. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
-          "en": "The master sits on a stool at a low worktable. His knitted sweater, pose and small bonsai come from the actual model. Figure, stool, table, tree and oval paved base belong together. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
+          "nl": "De meester zit op een kruk bij een lage werktafel. Zijn gebreide trui, houding en kleine bonsai komen uit het echte model. Figuur, kruk, tafel, boom en ovale voet met bestrating horen bij elkaar. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag.",
+          "en": "The master sits on a stool at a low worktable. His knitted sweater, pose and small bonsai come from the actual model. Figure, stool, table, tree and oval paved base belong together. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request."
         }
       },
       {
@@ -4040,10 +4012,10 @@
         "imageStyle": "isolated-exhibition",
         "gallery": [
           {
-            "image": "model-photos-v2/bonsai-mini-yamadori-seeker-product-white-drybrush-v2.webp",
+            "image": "model-front-photos/bonsai-mini-yamadori-seeker-front-black-drybrush-v1.webp",
             "alt": {
-              "nl": "De yamadori-zoeker — het product",
-              "en": "The yamadori seeker — product view"
+              "nl": "De yamadori-zoeker — vooraanzicht, gegenereerde modelvisualisatie",
+              "en": "The yamadori seeker — front view, generated model visualization"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -4051,31 +4023,17 @@
             "modelGeometryReferenceHash": "f46cc94fc21dc3c8097424e8fca975abd2d8a89cdf42d207b612ead6cc46f934",
             "previewFinish": "black",
             "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-yamadori-seeker-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De yamadori-zoeker — in een bonsaiopstelling",
-              "en": "The yamadori seeker — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": true,
-            "modelGeometryReferenceHash": "f46cc94fc21dc3c8097424e8fca975abd2d8a89cdf42d207b612ead6cc46f934",
-            "previewFinish": "black",
-            "contextFinish": "black",
-            "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-photos-v2/bonsai-mini-yamadori-seeker-product-white-drybrush-v2.webp",
+        "image": "model-front-photos/bonsai-mini-yamadori-seeker-front-black-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De yamadori-zoeker — het product",
-          "en": "The yamadori seeker — product view"
+          "nl": "De yamadori-zoeker — vooraanzicht, gegenereerde modelvisualisatie",
+          "en": "The yamadori seeker — front view, generated model visualization"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context",
+        "photoSequence": "product",
         "id": "bonsai-mini-yamadori-seeker",
         "name": {
           "nl": "De yamadori-zoeker",
@@ -4100,8 +4058,8 @@
           "en": "Source model approx. 20 cm tall · black primer with white drybrush · size on request."
         },
         "detail": {
-          "nl": "De zoeker bekijkt van dichtbij de blootliggende wortels van een boom. De ronde voet draagt rotsen, lage begroeiing, een tas en het boompje. Al deze onderdelen vormen samen de sculptuur. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag. De aparte grote bonsai en pot op het sfeerbeeld horen er niet bij.",
-          "en": "The seeker closely examines the exposed roots of a tree. The round base carries rocks, low vegetation, a bag and the small tree. These parts together form the sculpture. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request. The separate large bonsai and pot in the arrangement image are excluded."
+          "nl": "De zoeker bekijkt van dichtbij de blootliggende wortels van een boom. De ronde voet draagt rotsen, lage begroeiing, een tas en het boompje. Al deze onderdelen vormen samen de sculptuur. De afwerking is zwarte primer met witte drybrush op de hogere details. De gewenste hoogte, materiaalkeuze en uitvoering bespreken we bij de aanvraag.",
+          "en": "The seeker closely examines the exposed roots of a tree. The round base carries rocks, low vegetation, a bag and the small tree. These parts together form the sculpture. The finish is black primer with white drybrush on raised details. Desired height, material and final version are discussed on request."
         }
       },
       {
@@ -4192,50 +4150,36 @@
         "imageStyle": "isolated-exhibition",
         "gallery": [
           {
-            "image": "model-photos-v2/bonsai-mini-yamadori-woman-product-white-drybrush-v2.webp",
+            "image": "model-front-photos/bonsai-mini-yamadori-woman-front-black-drybrush-v1.webp",
             "alt": {
-              "nl": "De yamadori-vrouw — het product",
-              "en": "The yamadori woman — product view"
+              "nl": "De yamadori-vrouw — vooraanzicht, gegenereerde modelvisualisatie",
+              "en": "The yamadori woman — front view, generated model visualization"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
-            "generatedFromModel": false,
-            "designReferenceHash": "75e9249de9e819d6231d6ef9cee0326997ae7aa4c71c11dfd28f3677431457b6",
+            "generatedFromModel": true,
             "previewFinish": "black",
-            "finishTreatment": "black-white-drybrush"
-          },
-          {
-            "image": "model-photos-v1/bonsai-mini-yamadori-woman-context-white-drybrush-v1.webp",
-            "alt": {
-              "nl": "De yamadori-vrouw — in een bonsaiopstelling",
-              "en": "The yamadori woman — in a bonsai arrangement"
-            },
-            "photoRole": "context",
-            "visualKind": "arrangementConcept",
-            "generatedFromModel": false,
-            "designReferenceHash": "75e9249de9e819d6231d6ef9cee0326997ae7aa4c71c11dfd28f3677431457b6",
-            "previewFinish": "black",
-            "contextFinish": "black",
-            "finishTreatment": "black-white-drybrush"
+            "finishTreatment": "black-white-drybrush",
+            "modelGeometryReferenceHash": "2496f433951bf1fa7defa770a745e82ae0c36b960b252e87b6caf26ead2821f8"
           }
         ],
-        "image": "model-photos-v2/bonsai-mini-yamadori-woman-product-white-drybrush-v2.webp",
+        "image": "model-front-photos/bonsai-mini-yamadori-woman-front-black-drybrush-v1.webp",
         "imageAlt": {
-          "nl": "De yamadori-vrouw — het product",
-          "en": "The yamadori woman — product view"
+          "nl": "De yamadori-vrouw — vooraanzicht, gegenereerde modelvisualisatie",
+          "en": "The yamadori woman — front view, generated model visualization"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
         "photoRole": "product",
-        "photoSequence": "product-context",
+        "photoSequence": "product",
         "id": "bonsai-mini-yamadori-woman",
         "name": {
           "nl": "De yamadori-vrouw",
           "en": "The yamadori woman"
         },
         "short": {
-          "nl": "Een vrouw met een plantschepje bij de wortelkluit van een kleine loofboom.",
-          "en": "A woman with a trowel beside the rootball of a little broadleaf tree."
+          "nl": "Een knielende vrouw die de ingepakte wortelkluit van een bladloze bonsai vastbindt.",
+          "en": "A kneeling woman tying the wrapped rootball of a leafless bonsai."
         },
         "options": [
           "black",
@@ -4248,12 +4192,12 @@
           "kind": "indicative"
         },
         "spec": {
-          "nl": "Ontwerp op basis van een referentiebeeld · zwarte primer met witte drybrush · maat op aanvraag.",
-          "en": "Design based on a reference image · black primer with white drybrush · size on request."
+          "nl": "Bronmodel circa 20 cm hoog · zwarte primer met lichte drybrush · maat op aanvraag.",
+          "en": "Source model approx. 20 cm tall · black primer with light drybrush · size on request."
         },
         "detail": {
-          "nl": "De vrouw hurkt bij de wortelkluit van een kleine loofboom. Ze draagt een muts en heeft een plantschepje in de hand; haar tas staat op de bosgrond. Figuur, boom, kluit en ovale voet vormen samen het ontwerp. Voor deze versie bestaat nu een ontwerpreferentie; het 3D-model moet nog worden uitgewerkt. Maat en maakbaarheid bespreken we bij de aanvraag. De aparte grote bonsai op het sfeerbeeld hoort er niet bij.",
-          "en": "The woman crouches beside the rootball of a little broadleaf tree. She wears a beanie and holds a trowel; her bag rests on the woodland ground. Figure, tree, rootball and oval base form one design. This version currently has a design reference; its 3D model still needs to be developed. Size and manufacturability are discussed on request. The separate large bonsai in the arrangement image is excluded."
+          "nl": "De vrouw knielt bij een bladloze bonsai en bindt de ingepakte wortelkluit vast. Ze draagt een muts; haar tas en het losse plantschepje liggen op de voet. Figuur, boom, kluit, gereedschap en voet komen uit het bestaande 3D-model. De afbeelding is een AI-bewerkte modelvisualisatie, geen foto van een geprint exemplaar. De afwerking is zwarte primer met lichte drybrush op de hogere details. De gewenste maat, materiaalkeuze en maakbaarheid bespreken we bij de aanvraag.",
+          "en": "The woman kneels beside a leafless bonsai and ties its wrapped rootball. She wears a beanie; her bag and the loose trowel rest on the base. Figure, tree, rootball, tools and base come from the existing 3D model. The image is an AI-edited model visualization, not a photo of a physical print. The finish is black primer with light drybrush on raised details. Desired size, material and manufacturability are discussed on request."
         }
       },
       {
