@@ -3,7 +3,14 @@
   "method": "Verified unchanged source STL -> frontal Blender camera -> AI room/material edit",
   "camera": {
     "azimuth_degrees": 0,
-    "elevation_degrees": 24
+    "elevation_degrees": 24,
+    "exceptions": {
+      "bonsai-mini-seated-master": {
+        "azimuth_degrees": 270,
+        "elevation_degrees": 24,
+        "change": "User-requested 90-degree quarter turn"
+      }
+    }
   },
   "note": "Generated model-based visualizations, not physical-print photos or pixel-exact geometry evidence. Model pose and actual part occlusions retained; no manufacturing geometry changed.",
   "images": [
@@ -42,14 +49,16 @@
     },
     {
       "productId": "bonsai-mini-seated-master",
-      "image": "model-front-photos/bonsai-mini-seated-master-front-black-drybrush-v1.webp",
-      "replaces": "model-photos-v2/bonsai-mini-seated-master-product-white-drybrush-v2.webp",
+      "image": "model-front-photos/bonsai-mini-seated-master-quarterturn-black-drybrush-v2.webp",
+      "replaces": "model-front-photos/bonsai-mini-seated-master-front-black-drybrush-v1.webp",
       "modelGeometryReferenceHash": "d695c1c9cce472899e774710b1f3732cd95accaabb74c3035367dcabe1a87734",
-      "sourceRenderSHA256": "35dc9d3e56d8d80f1ae5243b97dd6e699f7df13201afdafe388f79f281b1390b",
-      "sourceImageSHA256": "bdddf395e199170e112a5fbbba1d87a1f3a2bef4d23c1673781cead83615e08e",
-      "outputSHA256": "17668c559721b0393ac2c1de045b037ad4c326d3e2becd795839901d7490d325",
+      "sourceRenderSHA256": "ea8bde4273404f4823cebd5ba7d0387892a7fe32cd6daf433d7042287451c144",
+      "sourceImageSHA256": "9d33aedd39805667b90be9d504c9e9ad5a83eac90df990b482fe44fa8d016e8a",
+      "outputSHA256": "4749a08cb5eca341a9a52f3f314f3eec05f0ad5ce30bca6dc87cc0719d13bf89",
       "sourceGeometryVerifiedUnchanged": true,
-      "physicalPrintVerified": false
+      "physicalPrintVerified": false,
+      "cameraAzimuthDegrees": 270,
+      "cameraElevationDegrees": 24
     }
   ]
 }

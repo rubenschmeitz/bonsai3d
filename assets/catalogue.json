@@ -3950,10 +3950,10 @@
         "imageStyle": "isolated-exhibition",
         "gallery": [
           {
-            "image": "model-front-photos/bonsai-mini-seated-master-front-black-drybrush-v1.webp",
+            "image": "model-front-photos/bonsai-mini-seated-master-quarterturn-black-drybrush-v2.webp",
             "alt": {
-              "nl": "De zittende bonsaimeester — vooraanzicht, gegenereerde modelvisualisatie",
-              "en": "The seated bonsai master — front view, generated model visualization"
+              "nl": "De zittende bonsaimeester — modelaanzicht na een kwartslag",
+              "en": "The seated bonsai master — model view after a quarter turn"
             },
             "photoRole": "product",
             "visualKind": "isolatedConcept",
@@ -3963,10 +3963,10 @@
             "finishTreatment": "black-white-drybrush"
           }
         ],
-        "image": "model-front-photos/bonsai-mini-seated-master-front-black-drybrush-v1.webp",
+        "image": "model-front-photos/bonsai-mini-seated-master-quarterturn-black-drybrush-v2.webp",
         "imageAlt": {
-          "nl": "De zittende bonsaimeester — vooraanzicht, gegenereerde modelvisualisatie",
-          "en": "The seated bonsai master — front view, generated model visualization"
+          "nl": "De zittende bonsaimeester — modelaanzicht na een kwartslag",
+          "en": "The seated bonsai master — model view after a quarter turn"
         },
         "visualKind": "isolatedConcept",
         "finishTreatment": "black-white-drybrush",
