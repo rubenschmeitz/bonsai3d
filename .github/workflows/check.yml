@@ -29,6 +29,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
+          include-hidden-files: true
           name: website-checks
           path: .artifacts/
 
