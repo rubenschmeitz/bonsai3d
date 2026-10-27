@@ -1,0 +1,656 @@
+{
+  "date": "2026-10-27",
+  "method": "Built-in ImageGen edit using existing catalogue product visualization and approved room-style reference. Background/table replacement; original product shape, finish and camera angle retained.",
+  "visualKind": "generated-product-visualization",
+  "physicalPrintVerified": false,
+  "assets": [
+    {
+      "id": "detail-leaf-window-product-black-v1",
+      "products": [
+        "detail-leaf-window"
+      ],
+      "source": "model-photos-v1/detail-leaf-window-product-black-v1.webp",
+      "sourceSHA256": "26479ce6a3313df9bcb56cd13085a038f20f8f15e8672db80edeff0ef48aa453",
+      "image": "catalogue-room-photos/detail-leaf-window-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "87c536568186f70e9a131f43bc95e2c83d2ff9757fff74823bb08d08b7183d31",
+      "imageSHA256": "0245ca02a498f4faeeb3e3896948af250eb14d80f963a9168caca30242bf16f2",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-leaf-window-product-wood-v1",
+      "products": [
+        "detail-leaf-window"
+      ],
+      "source": "model-photos-v1/detail-leaf-window-product-wood-v1.webp",
+      "sourceSHA256": "c9171442d82c401bd324c72b7452155b8ff9edd88791071c5112f267e09f867a",
+      "image": "catalogue-room-photos/detail-leaf-window-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "df084bf8d4a4a082eaaac353fa2e8680ffe139125fd99982def463373aca3fdb",
+      "imageSHA256": "e7225b1cd4c28b4f5badf0fb9012831236ec8af563343cfc7e57b35381b1b008",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "02-nachtelijk-theehuis-studio-v1",
+      "products": [
+        "bonsai-licht-nachtelijk-theehuis"
+      ],
+      "source": "light-collection/02-nachtelijk-theehuis-studio-v1.webp",
+      "sourceSHA256": "83256c24e448fe2c4e86d10c96f67bea827ed122140dd919344e91d3f04dc4ee",
+      "image": "catalogue-room-photos/02-nachtelijk-theehuis-studio-v1-room-v1.webp",
+      "generatedPNG_SHA256": "6989a865ef01ed0cb000e940093bb1c6798310a6e16f75684024a5a6d195f3ab",
+      "imageSHA256": "53ceeec7ec6741f5322f991c66466322b578df50a79021a2d570a78f0ebb9ad8",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "05-wortellantaarn-studio-v1",
+      "products": [
+        "bonsai-licht-wortellantaarn"
+      ],
+      "source": "light-collection/05-wortellantaarn-studio-v1.webp",
+      "sourceSHA256": "27c3835db6a27b9047fc80335affa3e97eba87a2639afb0b86697ac109f16a41",
+      "image": "catalogue-room-photos/05-wortellantaarn-studio-v1-room-v1.webp",
+      "generatedPNG_SHA256": "efb2afd674a6df79b344db613e4a01c7eda77394948ad864aefbbecdaa84c04c",
+      "imageSHA256": "f4b8b9939becd88b522076ed3843645d0095e43d2ab0a53cfe56404c6d69181f",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "07-schaduwbamboe-studio-v1",
+      "products": [
+        "bonsai-licht-schaduwbamboe"
+      ],
+      "source": "light-collection/07-schaduwbamboe-studio-v1.webp",
+      "sourceSHA256": "c8f0b1a39fefce4e3b2f9321b79c70815ea10b89784d5a90697a238feed86254",
+      "image": "catalogue-room-photos/07-schaduwbamboe-studio-v1-room-v1.webp",
+      "generatedPNG_SHA256": "4b986653a017a973e8253be979e377b7a51fd0ed32beff53b603455d59238ecc",
+      "imageSHA256": "9d48fbda8348cd392f22dbbac5ed84f12ac835322511750512efece7dc4ed4b8",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "08-verlicht-berglandschap-studio-v1",
+      "products": [
+        "bonsai-licht-verlicht-berglandschap"
+      ],
+      "source": "light-collection/08-verlicht-berglandschap-studio-v1.webp",
+      "sourceSHA256": "6dae6bdef0e5b159aedad6d9d2b81f67ddfb6629d21b521f94acf6a2d7202517",
+      "image": "catalogue-room-photos/08-verlicht-berglandschap-studio-v1-room-v1.webp",
+      "generatedPNG_SHA256": "5944a6f5858b2dc14545fd30b374c8a94ec401981d8f189c95de5c1eef3efba4",
+      "imageSHA256": "53436c98bf22cad7a984f16a067965c26a8c8c6c337f7ca9fd4c12eca2edfd70",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-moss-product-black-v1",
+      "products": [
+        "accent-moss"
+      ],
+      "source": "model-photos-v1/accent-moss-product-black-v1.webp",
+      "sourceSHA256": "1d0e7c46cf90a9a3ba3734ea817eb39785c41bdc8c4b2e656b7b32b17d444bac",
+      "image": "catalogue-room-photos/accent-moss-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "0b20d9e7afc8e7d9f68f3c4734e029f46fdd48747cc42556dd1c60dd5e9775b6",
+      "imageSHA256": "daf481eb29271d7a112a51b4fdd8395d67a1529635d5eb293ca14cbb7cecbfcf",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-moss-product-wood-v1",
+      "products": [
+        "accent-moss"
+      ],
+      "source": "model-photos-v1/accent-moss-product-wood-v1.webp",
+      "sourceSHA256": "f73b58ef5eb54fbdea2e3b74473d9f9ec1267a6aeecf1551c3e5b42675356c61",
+      "image": "catalogue-room-photos/accent-moss-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "01a133c898df0802a599cff3ff7851be82ad4d8fc0ee9cc787caded30f153082",
+      "imageSHA256": "8f3ee10b6e3907b8a38ca1885b6d4191ec0af098d1b1dead08d79a1e38032ad1",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-ripple-product-black-v1",
+      "products": [
+        "accent-ripple"
+      ],
+      "source": "model-photos-v1/accent-ripple-product-black-v1.webp",
+      "sourceSHA256": "094ee75b728724932451c42884445c2f369e761e0e0f9c19dd07cb9dce7672d8",
+      "image": "catalogue-room-photos/accent-ripple-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "a3283277c3ddc31429da2876521bd42667740755026a2c7f27d21a854988a148",
+      "imageSHA256": "c00ef24fe86c370d0953a644d070535c8dcc1d84e69314f97d19c97dffe48a8c",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-ripple-product-wood-v1",
+      "products": [
+        "accent-ripple"
+      ],
+      "source": "model-photos-v1/accent-ripple-product-wood-v1.webp",
+      "sourceSHA256": "f3d30b7c910f2185d58600a6ac4df2898da453283087ceec1f2a6fa7d12d8ad0",
+      "image": "catalogue-room-photos/accent-ripple-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "0fcc6122f5ff2d148cd5549786a1baa6e7c59e0db8f47db87c8af7046be5554d",
+      "imageSHA256": "9dc6df56404b6d81d8068f538e504537028b182df300f2ba81b3e4e5e78ed77c",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-rockfold-product-black-v1",
+      "products": [
+        "accent-rockfold"
+      ],
+      "source": "model-photos-v1/accent-rockfold-product-black-v1.webp",
+      "sourceSHA256": "08e3b3ceb2365950317f16ebc414c5de666a81657cf9a69e6ce1bb3625988367",
+      "image": "catalogue-room-photos/accent-rockfold-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "2fbd26e425b8b0a88276be3cd77683cd4ba8eb22b5a3f77134407fce9e8469cb",
+      "imageSHA256": "1d38cf530db09de52f1c958bf66e8bcf77e39b91887899a02aea73747d90501f",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-rockfold-product-wood-v1",
+      "products": [
+        "accent-rockfold"
+      ],
+      "source": "model-photos-v1/accent-rockfold-product-wood-v1.webp",
+      "sourceSHA256": "562c2f9c41f5813131312a96e8aa1b8f5a1f13bb3312a5c210402b1adccc5202",
+      "image": "catalogue-room-photos/accent-rockfold-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "aa7a94e733cd8625f0e38ecd77129bd84682403f498bf03f497d46da020b16e0",
+      "imageSHA256": "8fee3d2faa40cb849faa11d4486b5c97c05714a27758eb91dd72393a7ce046bf",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-root-nest-product-black-v1",
+      "products": [
+        "accent-root-nest"
+      ],
+      "source": "model-photos-v1/accent-root-nest-product-black-v1.webp",
+      "sourceSHA256": "4280714a45719a735ba0e076c81dcd02787339c5ce13c2980d82ad90448eab65",
+      "image": "catalogue-room-photos/accent-root-nest-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "e7766957bcfbf71d886dff0ee48f55469cfc7aee22dfea92d98e28c4d4a5b492",
+      "imageSHA256": "9833852bf93eb101ae3a7f9e2f9db09a311f4fcbe2d797f84edac4d309a8dca6",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-root-nest-product-wood-v1",
+      "products": [
+        "accent-root-nest"
+      ],
+      "source": "model-photos-v1/accent-root-nest-product-wood-v1.webp",
+      "sourceSHA256": "cd6fe35944a635c666b6cc0b37c3f4657a62971143b8c148cf48758bc0b293fc",
+      "image": "catalogue-room-photos/accent-root-nest-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "b33855602ea917227644d13506968582425b039660c7469565c476878c1abd00",
+      "imageSHA256": "44c288589f29c83375d83cac0529d255428cea8e861b0499bb03c0d8d3e20fcf",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-seedpod-product-black-v1",
+      "products": [
+        "accent-seedpod"
+      ],
+      "source": "model-photos-v1/accent-seedpod-product-black-v1.webp",
+      "sourceSHA256": "3e00614bf37500ae3e2d3522768a0c8a9e1d0a4baf8985a3082361653c5d6d9c",
+      "image": "catalogue-room-photos/accent-seedpod-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "5b01fad49d3238bf6528ea6a1f364cc780a29028b736c61d4176e0e7337ca5e3",
+      "imageSHA256": "4a7119d4aee9a3851cf62c52eeea48bf0dbacba930faa9eecef1e780cca2787d",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "accent-seedpod-product-wood-v1",
+      "products": [
+        "accent-seedpod"
+      ],
+      "source": "model-photos-v1/accent-seedpod-product-wood-v1.webp",
+      "sourceSHA256": "03bcaa044a76cac92131dd94c394f59303984a55e332e2c6d7319c283ec62240",
+      "image": "catalogue-room-photos/accent-seedpod-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "2bcd7da830b05dfce768a0d58fb8b5d4399e74b522d6c46e82ff77665ba3e04b",
+      "imageSHA256": "6e84072f3584074b4f4c559bbe770c692a7a1888306427ab814c4b7130b97827",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-branchwork-table-product-black-v1",
+      "products": [
+        "bonsai-branchwork-table"
+      ],
+      "source": "model-photos-v1/bonsai-branchwork-table-product-black-v1.webp",
+      "sourceSHA256": "523c48f124cd4bda465bb7dea3cfcf7f88c7a7a17015713be9af8536ee8579bd",
+      "image": "catalogue-room-photos/bonsai-branchwork-table-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "44f18afb7c5b5402cdd0c38a76c8c4797fa6b34747a5a4dcae14a6122f23d14e",
+      "imageSHA256": "b111bb599f7b43f7edc5db596101539eb41642de8a1438d07d7bafc94432a0ba",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-branchwork-table-product-wood-v1",
+      "products": [
+        "bonsai-branchwork-table"
+      ],
+      "source": "model-photos-v1/bonsai-branchwork-table-product-wood-v1.webp",
+      "sourceSHA256": "4b11c9d27717550551b19aecfbad4d92046d2cd9de982546b3c898b095917f62",
+      "image": "catalogue-room-photos/bonsai-branchwork-table-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "35b0500f4e01c16c0d1021a7ff95b7f33dd7b6d3f4a38c2987d432e4f816b95f",
+      "imageSHA256": "f82a69d8b6906b665ff681b42bcdda5d54c679852155210e46bff4c9f36abe9f",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-classic-table-product-black-v1",
+      "products": [
+        "bonsai-classic-table"
+      ],
+      "source": "model-photos-v1/bonsai-classic-table-product-black-v1.webp",
+      "sourceSHA256": "65922c60deeb8859568a3c04731e580d54b7a7e7bbd479861e13fbd57f7b5744",
+      "image": "catalogue-room-photos/bonsai-classic-table-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "524a476a88c7ec098b88869c8e41078f9934ed265ffe2707d261d3dc0dd97203",
+      "imageSHA256": "78a537f0a19b460001acba5b0462a46ce400ef453f9908090bb200e680c521e5",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-classic-table-product-wood-v1",
+      "products": [
+        "bonsai-classic-table"
+      ],
+      "source": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+      "sourceSHA256": "42381bb0619726cc037d181a3ccedf0316f624e345666ee03eda9309979d756b",
+      "image": "catalogue-room-photos/bonsai-classic-table-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "0a684ae87cdc9fc7cb4b0b437aaeec73aebfdba64b10494cb552ca3403409c49",
+      "imageSHA256": "a5ea3822be7142084e01badc6ff4214e6d3f943ee205291e90c3114c75ccd4e8",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-flow-edge-table-product-black-v1",
+      "products": [
+        "bonsai-flow-edge-table"
+      ],
+      "source": "model-photos-v1/bonsai-flow-edge-table-product-black-v1.webp",
+      "sourceSHA256": "beb987e12f70a601ced5feac2ce32cd63d00e638f876041e2a464629a8b58c8d",
+      "image": "catalogue-room-photos/bonsai-flow-edge-table-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "f6b3b07b7355a3f01d1fe6d3b3ca853aa7f4d451f2355c535e650536d851a275",
+      "imageSHA256": "9521b9df8d850bab90aa12a9c1e104f0886f5104f0aa8198dccccbd35d252b52",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-flow-edge-table-product-wood-v1",
+      "products": [
+        "bonsai-flow-edge-table"
+      ],
+      "source": "model-photos-v1/bonsai-flow-edge-table-product-wood-v1.webp",
+      "sourceSHA256": "8ffc8bb857ed004b77c657ebe8ea3fa034c96bab3a85f2ab5d7fdf0a8523632c",
+      "image": "catalogue-room-photos/bonsai-flow-edge-table-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "d0c3402d1557db0222f36b7664eec9c6c33329dd7bd63474dc2a7caa2d822e16",
+      "imageSHA256": "d27ba5b09ac7c9f17ba4d9dfce1be89d6668741b94d07ac010680517ba5b4484",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-open-root-pedestal-product-black-v1",
+      "products": [
+        "bonsai-open-root-pedestal"
+      ],
+      "source": "model-photos-v1/bonsai-open-root-pedestal-product-black-v1.webp",
+      "sourceSHA256": "eb122af996fb4bb4cd0b0fa5397e061923cf15c9fa2fe50b6017130cbc5a46e7",
+      "image": "catalogue-room-photos/bonsai-open-root-pedestal-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "40df07d543f552587c8dfc2017335b3971ef26b93a49b49cde2e9d7e7b3aa63b",
+      "imageSHA256": "fd234d3519f2d36bccb050e3b47450692291f5d5d6bd37a46b370deea8f48ec0",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-open-root-pedestal-product-wood-v1",
+      "products": [
+        "bonsai-open-root-pedestal"
+      ],
+      "source": "model-photos-v1/bonsai-open-root-pedestal-product-wood-v1.webp",
+      "sourceSHA256": "a4e65921cfaa17284d1099cec9ada7885853f3b0ebb6787309ea907416c862b9",
+      "image": "catalogue-room-photos/bonsai-open-root-pedestal-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "45f7de61743d704d78988421610bf449aeb8681dfd2a6907b9c7227ae247e956",
+      "imageSHA256": "b283e756ad65a15febedbc3789f644aeec055f9ec9b2441ce8738b05626407fb",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-oval-jita-product-black-v1",
+      "products": [
+        "bonsai-oval-jita"
+      ],
+      "source": "model-photos-v1/bonsai-oval-jita-product-black-v1.webp",
+      "sourceSHA256": "0d5c94496cfc6e6072b2e03a38008355add43ece80144fbce5bec114e96f74f6",
+      "image": "catalogue-room-photos/bonsai-oval-jita-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "c58c8cff7fe520236d2785f3c4c17fa7613b772c61f5fdc49166e27ee31532ca",
+      "imageSHA256": "c249a50d5c5c1dd442984dcd2d499f2c3e68bf6a81652d08b002b3164baa0c3d",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-oval-jita-product-wood-v1",
+      "products": [
+        "bonsai-oval-jita"
+      ],
+      "source": "model-photos-v1/bonsai-oval-jita-product-wood-v1.webp",
+      "sourceSHA256": "e82d2025d17b125e39e9b3c601ed028b12419bd9cc8d7da44ececb546c78b27d",
+      "image": "catalogue-room-photos/bonsai-oval-jita-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "33f93a72602d94b762daf72dfda760c70bb4dc678022672b163d722f543ce55e",
+      "imageSHA256": "15d7736f88aa017aed1da47fac5128f8ec0b69660e3df40881858878b301ab40",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-root-pedestal-product-black-v1",
+      "products": [
+        "bonsai-root-pedestal"
+      ],
+      "source": "model-photos-v1/bonsai-root-pedestal-product-black-v1.webp",
+      "sourceSHA256": "149e743324cbae206ff773cb5d97a6be196904b4d013b397c5b513ce5b63c503",
+      "image": "catalogue-room-photos/bonsai-root-pedestal-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "e647f1bf04d79bd9493ecd623469e138fcd2df07f130e88bba40a360d86734f2",
+      "imageSHA256": "0ed6d9473df031ca2384d4b96a003f2b1cc4c9fa3e8b96139393fa482d47cb66",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-root-pedestal-product-wood-v1",
+      "products": [
+        "bonsai-root-pedestal"
+      ],
+      "source": "model-photos-v1/bonsai-root-pedestal-product-wood-v1.webp",
+      "sourceSHA256": "31485df1828376656ca0bff8a4764bad7f898f960dd829dd6c17dcfccc85214a",
+      "image": "catalogue-room-photos/bonsai-root-pedestal-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "aad01057e6d3360dc8ff56d5ad2733373f1d4e6b3685b727b80190ef2c065c50",
+      "imageSHA256": "58db07ad46ff773112b76c17ba54f4d72cd2e676cbdaf9742145c5a311bf4e32",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-root-relief-table-product-black-v1",
+      "products": [
+        "bonsai-root-relief-table"
+      ],
+      "source": "model-photos-v1/bonsai-root-relief-table-product-black-v1.webp",
+      "sourceSHA256": "b9a6e2c007180b2f5e32bffaf7ddb63e7de0924972bd2a3d4418f3560992849a",
+      "image": "catalogue-room-photos/bonsai-root-relief-table-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "bfa5cd142e040812f59a76aa6c4919c549901c2038bbc486afd4140dc07f0edd",
+      "imageSHA256": "4cd4e326744e10e0f4c0045b2977c7f55b8061b4b4cb49b32780c32ecc0c2de7",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "bonsai-root-relief-table-product-wood-v1",
+      "products": [
+        "bonsai-root-relief-table"
+      ],
+      "source": "model-photos-v1/bonsai-root-relief-table-product-wood-v1.webp",
+      "sourceSHA256": "ef91c825e834fea9a8d6a1a0ca18d337e2bc7babe63443acc783ab6280c66d0b",
+      "image": "catalogue-room-photos/bonsai-root-relief-table-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "4883c664076f7450c4a0a15681d5de172a8410cc25f32bd2f0b4304beaf18756",
+      "imageSHA256": "43d7331f67506d36507daf6d1a544312908f4dcdeef71ef4f01ee7336f880bf0",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-bamboo-screen-product-black-v1",
+      "products": [
+        "detail-bamboo-screen"
+      ],
+      "source": "model-photos-v1/detail-bamboo-screen-product-black-v1.webp",
+      "sourceSHA256": "a09e98b3431697d2c3caf630dfab8e048b23dec10fff87a33d82dcca1955db31",
+      "image": "catalogue-room-photos/detail-bamboo-screen-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "64b3d23c23e872aa15211b9f42fe75cf902ad90da09a1bf80473e7ed63b2d46d",
+      "imageSHA256": "8c9d720a802bf1536c41262ac64c27a4f9302cee5ac23abbaf29b532604e08a4",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-bamboo-screen-product-wood-v1",
+      "products": [
+        "detail-bamboo-screen"
+      ],
+      "source": "model-photos-v1/detail-bamboo-screen-product-wood-v1.webp",
+      "sourceSHA256": "b426da9bb1f484be698651d3971902d862f2a47f82861a7caa04aea432507ed1",
+      "image": "catalogue-room-photos/detail-bamboo-screen-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "dc0259478e0ddba25b1b190ccff1baf9cf3d3132de660115112d97b7118ac492",
+      "imageSHA256": "ef8f26c2c35876ccac7647a98f1c0c484fffe7743863651eee8e884050f77606",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-bridge-product-black-v1",
+      "products": [
+        "detail-bridge"
+      ],
+      "source": "model-photos-v1/detail-bridge-product-black-v1.webp",
+      "sourceSHA256": "0a5156f1c15a6eb1ff9a277a4bcdc0e586563d204522fcc8e57e1eafd756c6e7",
+      "image": "catalogue-room-photos/detail-bridge-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "6a2078de9e2a5d12118e1db00f41815b0b095617627b8ad9e2104c58aa6ab191",
+      "imageSHA256": "6ff29d8d889deaab277218539aaf832bcf5dfd0cb1aec7dfb16f09952dd045c4",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-bridge-product-wood-v1",
+      "products": [
+        "detail-bridge"
+      ],
+      "source": "model-photos-v1/detail-bridge-product-wood-v1.webp",
+      "sourceSHA256": "b7885a202b57d0cace260d21516a7bfa05a553332838926d7038255a0c24f7cf",
+      "image": "catalogue-room-photos/detail-bridge-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "9333243dac9433e0bf8ca1b54b90d0e1abf7f5b8ed57fd23b0e168f28d188ae4",
+      "imageSHA256": "03868e0eb1fb92ba33f68bb029cb8bef7c50c68e98618dec6118bbc26081d2e7",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-contour-platforms-product-black-v1",
+      "products": [
+        "detail-contour-platforms"
+      ],
+      "source": "model-photos-v1/detail-contour-platforms-product-black-v1.webp",
+      "sourceSHA256": "17fae70aa8b6ec3a8c50cab3ef1902a93e5962e845b416cfdec5e4dc00fb044f",
+      "image": "catalogue-room-photos/detail-contour-platforms-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "b5212a59b104eff4c66a2b3993d9a353e9942084a4b2f3bc5d759f1c7e424dcf",
+      "imageSHA256": "0105ed095e87c86a6e625d0b2c2b993faf2e45c6eb6d4e828981168503a19109",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-contour-platforms-product-wood-v1",
+      "products": [
+        "detail-contour-platforms"
+      ],
+      "source": "model-photos-v1/detail-contour-platforms-product-wood-v1.webp",
+      "sourceSHA256": "4f43772761a4ac002e26f35c6f5fc542e5db36d4d063152817609a21192920ee",
+      "image": "catalogue-room-photos/detail-contour-platforms-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "4f5216d16288bf4cb914f3cf21fab6af87c799aa649be683030c3ef60b0e2412",
+      "imageSHA256": "4e02e460aed57f2c9e534aa70900f6eba4e2e7b87db3c816a9409ed7b4561aed",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-scroll-stand-product-black-v1",
+      "products": [
+        "detail-scroll-stand"
+      ],
+      "source": "model-photos-v1/detail-scroll-stand-product-black-v1.webp",
+      "sourceSHA256": "3a2faa102a9fd304be727a2ef276dfad42e1fd07caa0f4c41f2e0058fe8628d9",
+      "image": "catalogue-room-photos/detail-scroll-stand-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "10f4680b55be681bbe3b3ad9253925762d3c35b48c21d506ea92c4059eaa3593",
+      "imageSHA256": "2d8b7394be944aeec599eea9891fe4264cdc14344c3c23df20f2f686a0297eed",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-scroll-stand-product-wood-v1",
+      "products": [
+        "detail-scroll-stand"
+      ],
+      "source": "model-photos-v1/detail-scroll-stand-product-wood-v1.webp",
+      "sourceSHA256": "3d782d710d5091f22acbc4ce9f8198df9d55db0a227346d2e07e376e83288b03",
+      "image": "catalogue-room-photos/detail-scroll-stand-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "70c0691a735a37fa4d92a8b142b3ab875a842b46d438f52db5969db8caf682cc",
+      "imageSHA256": "7ea386ba41f942aa6375484b460d41b4d9af3e82a626f3acf8582cc1f10cca21",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-season-fan-product-black-v1",
+      "products": [
+        "detail-season-fan"
+      ],
+      "source": "model-photos-v1/detail-season-fan-product-black-v1.webp",
+      "sourceSHA256": "c89b7b61e92d52d8859f0db124cba59ebd62317514224b08124de0aa8fa976b3",
+      "image": "catalogue-room-photos/detail-season-fan-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "68c21dc88d503190f80aa30a45d63518b5690b9816e097df4f05f4e14ac66cf1",
+      "imageSHA256": "b81c90a540f7a70019061e062438b0fd7f04b86add630d3b8dddfbd4636921aa",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "detail-season-fan-product-wood-v1",
+      "products": [
+        "detail-season-fan"
+      ],
+      "source": "model-photos-v1/detail-season-fan-product-wood-v1.webp",
+      "sourceSHA256": "cad069e4a830ce7953d15fbe593baf6cb113ec752c435cd15318d5756e15e721",
+      "image": "catalogue-room-photos/detail-season-fan-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "2fbc2b4ad3a1ac3dc9f960dddab9941886ce7a6601b79d0650b2cec2b69394fe",
+      "imageSHA256": "001f2acc95b230a3027646e49aa034972b30d7a5fd0f972d8ce992fdfd91ff26",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "label-branch-product-black-v1",
+      "products": [
+        "label-branch"
+      ],
+      "source": "model-photos-v1/label-branch-product-black-v1.webp",
+      "sourceSHA256": "37bdf2371c66d81f803d04d36a0dcfe64ef3c6f7ebc7ef725cefc83ec8f62826",
+      "image": "catalogue-room-photos/label-branch-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "481fecb8a794e7f1f39125f986c3589fff7095c8d3f092519f8314abe4f814be",
+      "imageSHA256": "52aabeaac313467032b761b25282725b7ec2aa9fd129f629a91d901eb5730850",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "label-branch-product-wood-v1",
+      "products": [
+        "label-branch"
+      ],
+      "source": "model-photos-v1/label-branch-product-wood-v1.webp",
+      "sourceSHA256": "65ab0dcf51ed366b50922646cc0faa772e2e9401ae6fce3f094819cc7b505002",
+      "image": "catalogue-room-photos/label-branch-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "e8a65f4778dd1bae751240f2db57665e64fdf4f465402a04f9bd37390359372c",
+      "imageSHA256": "12589113870ceb510730cfbcc45eec43ee5f7ff167651f55db76735d2f41ac09",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "pot-contour-product-black-v1",
+      "products": [
+        "signature-contour-jita-180"
+      ],
+      "source": "model-photos-v1/pot-contour-product-black-v1.webp",
+      "sourceSHA256": "12e4fbac7449849a055f985c4e3516e59a2d16253c86d51d9e1d4ffc7bf29a8e",
+      "image": "catalogue-room-photos/pot-contour-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "260806f26dd4314ef4f324e9fd0b21e1a16b33cc550c216c897a30b844af7b87",
+      "imageSHA256": "2bae74cef9e8143decb6ac98190b9841a43d5895ecd63a80658bbe0c31a95a50",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "scroll-moon-product-black-v1",
+      "products": [
+        "scroll-moon"
+      ],
+      "source": "model-photos-v1/scroll-moon-product-black-v1.webp",
+      "sourceSHA256": "3f1a9256a39d6dbb311164868ccab949049464bf4cc2a6164834adeb83c6143d",
+      "image": "catalogue-room-photos/scroll-moon-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "f8595435a26edc53b4222f19c8d7167adeea912b4559beb95111c632732d0731",
+      "imageSHA256": "dba235406d66506f111864f4c50361ae1b8792962a46eb754d9e7742551ff3ea",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "scroll-moon-product-wood-v1",
+      "products": [
+        "scroll-moon"
+      ],
+      "source": "model-photos-v1/scroll-moon-product-wood-v1.webp",
+      "sourceSHA256": "b4c37f5f36a16ed76d34433bec746a0e72a930dea00ec1480ff3cf2617331c6a",
+      "image": "catalogue-room-photos/scroll-moon-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "c0c1d9e21e3fc858ce5043c5708e9895db25df8ce240a899cb19dd69d229718b",
+      "imageSHA256": "3808bd5bc461be3166ecf6e654406b9c9d7b1ced120275e79df1eeec21df6d77",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "signature-contour-jita-180-product-black-v1",
+      "products": [
+        "signature-contour-jita-180"
+      ],
+      "source": "model-photos-v1/signature-contour-jita-180-product-black-v1.webp",
+      "sourceSHA256": "08e32ffa1e3cbf8514f5ce15b77e2e9395cbe30dba0b5abcdccfb3eaef44f15b",
+      "image": "catalogue-room-photos/signature-contour-jita-180-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "828689b8724d88a73657f59decc31a9fe30a100f9733c47100210abe8b12ea3d",
+      "imageSHA256": "1bd458b5bc1ab362a05077693df44eb031c281074c35015bf95a1199778da5ea",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "signature-contour-jita-product-black-v1",
+      "products": [
+        "signature-contour-jita"
+      ],
+      "source": "model-photos-v1/signature-contour-jita-product-black-v1.webp",
+      "sourceSHA256": "cc0674a2dceb420c5e4a270c5e4a9e53f5623fa803ca62e7f08fcc8d88185db7",
+      "image": "catalogue-room-photos/signature-contour-jita-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "b7fdd9218ad6fc019e1d710ecf777577bfeebdecf5cec80acc56d5878902c399",
+      "imageSHA256": "630f1e7a9f31b530f2e2d38a920bb7cdb3cbbceb67206fc8e00131356bf9d347",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "signature-contour-jita-product-wood-v1",
+      "products": [
+        "signature-contour-jita"
+      ],
+      "source": "model-photos-v1/signature-contour-jita-product-wood-v1.webp",
+      "sourceSHA256": "b1693d467cfbfab2e4f3793c2d3a5141b2fb6576155a1cfbac751fea15d47dcb",
+      "image": "catalogue-room-photos/signature-contour-jita-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "fb66e00b1925d3fefa9d825252e2ba7f9196ac1eec8a3e3e2eab4712ff1f42c3",
+      "imageSHA256": "6dca8abfba1c7bdfc0b375961d8a92963cfe5c23c817b7af386a74ca2c93a239",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "signature-jin-table-product-black-v1",
+      "products": [
+        "signature-jin-table"
+      ],
+      "source": "model-photos-v1/signature-jin-table-product-black-v1.webp",
+      "sourceSHA256": "eef7235f3fb2b2dd42d5edbf5518747a6ad9ef606a1a9394ee538323cd88f7d7",
+      "image": "catalogue-room-photos/signature-jin-table-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "9cf5f46b3146dd1ac7da4c451e7ae1fdd7cf2b7aab5cb3c71ceb531400f44cd4",
+      "imageSHA256": "12376410de29427bd84a2cd68963a0bb72ca6794c21553dcde41d9d5f84dc647",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "signature-jin-table-product-wood-v1",
+      "products": [
+        "signature-jin-table"
+      ],
+      "source": "model-photos-v1/signature-jin-table-product-wood-v1.webp",
+      "sourceSHA256": "151e927a44568d63154f550122aa82ed25fcf46ffebc68f0643bbd23d4b2a7af",
+      "image": "catalogue-room-photos/signature-jin-table-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "d19bdab297846bb4144511a50288404cdb15a586d4fa4fa5d696abe085398cb4",
+      "imageSHA256": "87c5f3f1921310c0d2cfd3c90bcfb08b057935bf1016a367a2306c6c6be2b53d",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "signature-shoji-table-product-black-v1",
+      "products": [
+        "signature-shoji-table"
+      ],
+      "source": "model-photos-v1/signature-shoji-table-product-black-v1.webp",
+      "sourceSHA256": "4bb1f42b8b0a4d4f4c675ad07116da5f7f0a16ac72b22feb48f515f6f1e30376",
+      "image": "catalogue-room-photos/signature-shoji-table-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "dde852ddbea69e352c418402b87944d4ccbefebd2c658f5f564202184457adb6",
+      "imageSHA256": "8d2bd12ae1c01d802561a92a6811f72f35beee8de79888cf466bef109e1669ff",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "signature-shoji-table-product-wood-v1",
+      "products": [
+        "signature-shoji-table"
+      ],
+      "source": "model-photos-v1/signature-shoji-table-product-wood-v1.webp",
+      "sourceSHA256": "f815b4a2decc4dc445aea8ab8fb4578c896ecfd19b1c15de751b48990deee098",
+      "image": "catalogue-room-photos/signature-shoji-table-product-wood-v1-room-v1.webp",
+      "generatedPNG_SHA256": "9ffb2f8f3fbe96f9feb91553295e174b1cce9cd6a6d968f20c68e90171c8d4e9",
+      "imageSHA256": "ddaf86939b0748fce67e405661b1f5145ee537184c3ef646f3643aaf8217244b",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "stone-ridge-product-black-v1",
+      "products": [
+        "stone-ridge"
+      ],
+      "source": "model-photos-v1/stone-ridge-product-black-v1.webp",
+      "sourceSHA256": "fe492e0b9cb1423b32fa8c90bd981077ed499ba54c946eb3443ab9d29030fd6a",
+      "image": "catalogue-room-photos/stone-ridge-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "0a9bac4b57877260239bd058cb9310d0e56a3f7a3907a5131d989fc48ae3fc9a",
+      "imageSHA256": "2806c199d3a9719a5a4d68b0434ee347adae5f8f33c3cd2093906bf534d1f4b2",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    },
+    {
+      "id": "stone-river-product-black-v1",
+      "products": [
+        "stone-river"
+      ],
+      "source": "model-photos-v1/stone-river-product-black-v1.webp",
+      "sourceSHA256": "ebdc2fde15f6ef363d8d18cc226941fc98fcd2a847730bb3569d2758b18e277d",
+      "image": "catalogue-room-photos/stone-river-product-black-v1-room-v1.webp",
+      "generatedPNG_SHA256": "b3fd35a9a24bec6372b16f954802d411f742d69815a6b56d7a9a62ef95e6c052",
+      "imageSHA256": "39a2eb53b6d19805ffa1ab24cace88260e4f912c5d22cce72c0f3587a191c622",
+      "review": "Visually compared to source. Product silhouette, finish, visible parts/openings retained; room and tabletop changed."
+    }
+  ]
+}

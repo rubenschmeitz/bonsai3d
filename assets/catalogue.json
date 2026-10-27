@@ -24,7 +24,7 @@
       "nl": "Bonsaitafels, jita’s, schalen en miniaturen uit Rubens atelier. Ruw zwart of grijs, of met de hand in houtlook afgewerkt. Richtprijzen €10–€100; potjes op voorraad en overige objecten op aanvraag.",
       "en": "Bonsai stands, jitas, pots and miniatures from Ruben’s workshop. Raw black or grey, or finished by hand with a wood look. Guide prices €10–€100; pots in stock and other objects on enquiry."
     },
-    "heroImage": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+    "heroImage": "catalogue-room-photos/bonsai-classic-table-product-wood-v1-room-v1.webp",
     "heroAlt": {
       "nl": "Studiorender van het lamellen-bonsaitafeltje uit de eigen modelbestanden",
       "en": "Studio render of the slatted bonsai display table from the source model"
@@ -111,7 +111,7 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-classic-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Lage displaytafel — het product",
               "en": "Low display table — product view"
@@ -122,7 +122,7 @@
             "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b"
           },
           {
-            "image": "model-photos-v1/bonsai-classic-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-classic-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Lage displaytafel — het product",
               "en": "Low display table — product view"
@@ -157,7 +157,7 @@
             "contextFinish": "black"
           }
         ],
-        "image": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+        "image": "catalogue-room-photos/bonsai-classic-table-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Lage displaytafel — het product",
           "en": "Low display table — product view"
@@ -166,7 +166,7 @@
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-classic-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Lage displaytafel — het product",
               "en": "Low display table — product view"
@@ -177,7 +177,7 @@
             "modelGeometryReferenceHash": "5bbabd78c7eb2a92d2d3adddecf85a8f7c1799bc9217d22bbd5a948c6a76287b"
           },
           "black": {
-            "image": "model-photos-v1/bonsai-classic-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-classic-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Lage displaytafel — het product",
               "en": "Low display table — product view"
@@ -367,7 +367,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-root-relief-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-relief-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel — het product",
               "en": "Root relief table — product view"
@@ -378,7 +378,7 @@
             "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f"
           },
           {
-            "image": "model-photos-v1/bonsai-root-relief-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-relief-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel — het product",
               "en": "Root relief table — product view"
@@ -415,7 +415,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/bonsai-root-relief-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-relief-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel — het product",
               "en": "Root relief table — product view"
@@ -426,7 +426,7 @@
             "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f"
           },
           "black": {
-            "image": "model-photos-v1/bonsai-root-relief-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-relief-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelreliëftafel — het product",
               "en": "Root relief table — product view"
@@ -437,7 +437,7 @@
             "modelGeometryReferenceHash": "34e18964abf9e8f69e2c8cb847ea1fa32238f537c26779c79ad82b9dcb4d4d4f"
           }
         },
-        "image": "model-photos-v1/bonsai-root-relief-table-product-wood-v1.webp",
+        "image": "catalogue-room-photos/bonsai-root-relief-table-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Wortelreliëftafel — het product",
           "en": "Root relief table — product view"
@@ -486,7 +486,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-flow-edge-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-flow-edge-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel — het product",
               "en": "Bark edge table — product view"
@@ -497,7 +497,7 @@
             "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2"
           },
           {
-            "image": "model-photos-v1/bonsai-flow-edge-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-flow-edge-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel — het product",
               "en": "Bark edge table — product view"
@@ -534,7 +534,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/bonsai-flow-edge-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-flow-edge-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel — het product",
               "en": "Bark edge table — product view"
@@ -545,7 +545,7 @@
             "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2"
           },
           "black": {
-            "image": "model-photos-v1/bonsai-flow-edge-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-flow-edge-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Schorsrandtafel — het product",
               "en": "Bark edge table — product view"
@@ -556,7 +556,7 @@
             "modelGeometryReferenceHash": "28cbf0bc2dbb883b2349cd59b130c6fcb25f443b0c1be6aeb92a588d4f8fe6b2"
           }
         },
-        "image": "model-photos-v1/bonsai-flow-edge-table-product-wood-v1.webp",
+        "image": "catalogue-room-photos/bonsai-flow-edge-table-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Schorsrandtafel — het product",
           "en": "Bark edge table — product view"
@@ -605,7 +605,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-branchwork-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-branchwork-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel — het product",
               "en": "Branchwork table — product view"
@@ -616,7 +616,7 @@
             "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5"
           },
           {
-            "image": "model-photos-v1/bonsai-branchwork-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-branchwork-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel — het product",
               "en": "Branchwork table — product view"
@@ -653,7 +653,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/bonsai-branchwork-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-branchwork-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel — het product",
               "en": "Branchwork table — product view"
@@ -664,7 +664,7 @@
             "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5"
           },
           "black": {
-            "image": "model-photos-v1/bonsai-branchwork-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-branchwork-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenwerktafel — het product",
               "en": "Branchwork table — product view"
@@ -675,7 +675,7 @@
             "modelGeometryReferenceHash": "78e481548959c524ac84d72e4eace38f414a67e6d41f1dc65d6feb04d56b83d5"
           }
         },
-        "image": "model-photos-v1/bonsai-branchwork-table-product-wood-v1.webp",
+        "image": "catalogue-room-photos/bonsai-branchwork-table-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Takkenwerktafel — het product",
           "en": "Branchwork table — product view"
@@ -1165,7 +1165,7 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-root-pedestal-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-pedestal-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard — het product",
               "en": "Round root pedestal — product view"
@@ -1176,7 +1176,7 @@
             "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a"
           },
           {
-            "image": "model-photos-v1/bonsai-root-pedestal-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-pedestal-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard — het product",
               "en": "Round root pedestal — product view"
@@ -1211,7 +1211,7 @@
             "contextFinish": "black"
           }
         ],
-        "image": "model-photos-v1/bonsai-root-pedestal-product-wood-v1.webp",
+        "image": "catalogue-room-photos/bonsai-root-pedestal-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Ronde wortelstandaard — het product",
           "en": "Round root pedestal — product view"
@@ -1220,7 +1220,7 @@
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/bonsai-root-pedestal-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-pedestal-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard — het product",
               "en": "Round root pedestal — product view"
@@ -1231,7 +1231,7 @@
             "modelGeometryReferenceHash": "c95accc7a9cf4c9bafe88c111691a4ed19106aa8cb8af131ebcc01135cdcc83a"
           },
           "black": {
-            "image": "model-photos-v1/bonsai-root-pedestal-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-root-pedestal-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde wortelstandaard — het product",
               "en": "Round root pedestal — product view"
@@ -1280,7 +1280,7 @@
         "zone": "presentation",
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-open-root-pedestal-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-open-root-pedestal-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard — het product",
               "en": "Open root pedestal — product view"
@@ -1291,7 +1291,7 @@
             "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4"
           },
           {
-            "image": "model-photos-v1/bonsai-open-root-pedestal-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-open-root-pedestal-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard — het product",
               "en": "Open root pedestal — product view"
@@ -1326,7 +1326,7 @@
             "contextFinish": "black"
           }
         ],
-        "image": "model-photos-v1/bonsai-open-root-pedestal-product-wood-v1.webp",
+        "image": "catalogue-room-photos/bonsai-open-root-pedestal-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Open wortelstandaard — het product",
           "en": "Open root pedestal — product view"
@@ -1335,7 +1335,7 @@
         "stage": "printed",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/bonsai-open-root-pedestal-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-open-root-pedestal-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard — het product",
               "en": "Open root pedestal — product view"
@@ -1346,7 +1346,7 @@
             "modelGeometryReferenceHash": "b6d58479a20b11f2ac9af4af929751cb71cea51ff905b94e5e6f08b1311880f4"
           },
           "black": {
-            "image": "model-photos-v1/bonsai-open-root-pedestal-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-open-root-pedestal-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Open wortelstandaard — het product",
               "en": "Open root pedestal — product view"
@@ -1396,7 +1396,7 @@
         "zone": "presentation",
         "stage": "future",
         "newDesign": true,
-        "image": "model-photos-v1/bonsai-oval-jita-product-wood-v1.webp",
+        "image": "catalogue-room-photos/bonsai-oval-jita-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Ronde jita — het product",
           "en": "Round jita — product view"
@@ -1405,7 +1405,7 @@
         "imageStyle": "exhibition",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/bonsai-oval-jita-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-oval-jita-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde jita — het product",
               "en": "Round jita — product view"
@@ -1416,7 +1416,7 @@
             "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21"
           },
           "black": {
-            "image": "model-photos-v1/bonsai-oval-jita-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-oval-jita-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde jita — het product",
               "en": "Round jita — product view"
@@ -1429,7 +1429,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/bonsai-oval-jita-product-wood-v1.webp",
+            "image": "catalogue-room-photos/bonsai-oval-jita-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde jita — het product",
               "en": "Round jita — product view"
@@ -1440,7 +1440,7 @@
             "modelGeometryReferenceHash": "05dc173a081513fa12d2d1d41a2d578197de976ea6f58a64ffac26a3872bef21"
           },
           {
-            "image": "model-photos-v1/bonsai-oval-jita-product-black-v1.webp",
+            "image": "catalogue-room-photos/bonsai-oval-jita-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Ronde jita — het product",
               "en": "Round jita — product view"
@@ -1511,7 +1511,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/accent-moss-product-black-v1.webp",
+        "image": "catalogue-room-photos/accent-moss-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Moseiland — het product",
           "en": "Moss island — product view"
@@ -1519,7 +1519,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/accent-moss-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-moss-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Moseiland — het product",
               "en": "Moss island — product view"
@@ -1530,7 +1530,7 @@
             "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771"
           },
           {
-            "image": "model-photos-v1/accent-moss-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-moss-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Moseiland — het product",
               "en": "Moss island — product view"
@@ -1577,7 +1577,7 @@
         "zone": "presentation",
         "finishes": {
           "black": {
-            "image": "model-photos-v1/accent-moss-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-moss-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Moseiland — het product",
               "en": "Moss island — product view"
@@ -1588,7 +1588,7 @@
             "modelGeometryReferenceHash": "0ab9cfc72d2ccdc2f02b8f6ce5928303ece2de9b9b2b04638c83e73d0f395771"
           },
           "wood": {
-            "image": "model-photos-v1/accent-moss-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-moss-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Moseiland — het product",
               "en": "Moss island — product view"
@@ -1628,7 +1628,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/accent-ripple-product-black-v1.webp",
+        "image": "catalogue-room-photos/accent-ripple-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Rimpelstandaard — het product",
           "en": "Ripple stand — product view"
@@ -1636,7 +1636,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/accent-ripple-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-ripple-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard — het product",
               "en": "Ripple stand — product view"
@@ -1647,7 +1647,7 @@
             "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c"
           },
           {
-            "image": "model-photos-v1/accent-ripple-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-ripple-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard — het product",
               "en": "Ripple stand — product view"
@@ -1694,7 +1694,7 @@
         "zone": "presentation",
         "finishes": {
           "black": {
-            "image": "model-photos-v1/accent-ripple-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-ripple-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard — het product",
               "en": "Ripple stand — product view"
@@ -1705,7 +1705,7 @@
             "modelGeometryReferenceHash": "ca224249dddf29a4ba87cad6bece767a17c410854fbe028cbff1e2ad99d79a1c"
           },
           "wood": {
-            "image": "model-photos-v1/accent-ripple-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-ripple-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Rimpelstandaard — het product",
               "en": "Ripple stand — product view"
@@ -1758,7 +1758,7 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "black": {
-            "image": "model-photos-v1/accent-root-nest-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-root-nest-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelnest — het product",
               "en": "Root nest — product view"
@@ -1769,7 +1769,7 @@
             "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40"
           },
           "wood": {
-            "image": "model-photos-v1/accent-root-nest-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-root-nest-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelnest — het product",
               "en": "Root nest — product view"
@@ -1782,7 +1782,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/accent-root-nest-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-root-nest-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelnest — het product",
               "en": "Root nest — product view"
@@ -1793,7 +1793,7 @@
             "modelGeometryReferenceHash": "7e1ae3c49c4d4a35e2c7c491740700a839321570062e84e25c3ea59cd4170e40"
           },
           {
-            "image": "model-photos-v1/accent-root-nest-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-root-nest-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelnest — het product",
               "en": "Root nest — product view"
@@ -1828,7 +1828,7 @@
             "contextFinish": "wood"
           }
         ],
-        "image": "model-photos-v1/accent-root-nest-product-black-v1.webp",
+        "image": "catalogue-room-photos/accent-root-nest-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Wortelnest — het product",
           "en": "Root nest — product view"
@@ -1875,7 +1875,7 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "black": {
-            "image": "model-photos-v1/accent-seedpod-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-seedpod-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Zaadhuls — het product",
               "en": "Seedpod cradle — product view"
@@ -1886,7 +1886,7 @@
             "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19"
           },
           "wood": {
-            "image": "model-photos-v1/accent-seedpod-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-seedpod-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Zaadhuls — het product",
               "en": "Seedpod cradle — product view"
@@ -1899,7 +1899,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/accent-seedpod-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-seedpod-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Zaadhuls — het product",
               "en": "Seedpod cradle — product view"
@@ -1910,7 +1910,7 @@
             "modelGeometryReferenceHash": "ec1df16aa1aa7d934b39c0c5d8dbed284d8b03192f46243e616e38537a977a19"
           },
           {
-            "image": "model-photos-v1/accent-seedpod-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-seedpod-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Zaadhuls — het product",
               "en": "Seedpod cradle — product view"
@@ -1945,7 +1945,7 @@
             "contextFinish": "wood"
           }
         ],
-        "image": "model-photos-v1/accent-seedpod-product-black-v1.webp",
+        "image": "catalogue-room-photos/accent-seedpod-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Zaadhuls — het product",
           "en": "Seedpod cradle — product view"
@@ -1992,7 +1992,7 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "black": {
-            "image": "model-photos-v1/accent-rockfold-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-rockfold-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Rotsplooi — het product",
               "en": "Rock fold — product view"
@@ -2003,7 +2003,7 @@
             "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2"
           },
           "wood": {
-            "image": "model-photos-v1/accent-rockfold-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-rockfold-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Rotsplooi — het product",
               "en": "Rock fold — product view"
@@ -2016,7 +2016,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/accent-rockfold-product-black-v1.webp",
+            "image": "catalogue-room-photos/accent-rockfold-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Rotsplooi — het product",
               "en": "Rock fold — product view"
@@ -2027,7 +2027,7 @@
             "modelGeometryReferenceHash": "6e87d816499afb6dfce1e95f0c3e7fb4680cae63b1d6c17deb735994bf52cdb2"
           },
           {
-            "image": "model-photos-v1/accent-rockfold-product-wood-v1.webp",
+            "image": "catalogue-room-photos/accent-rockfold-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Rotsplooi — het product",
               "en": "Rock fold — product view"
@@ -2062,7 +2062,7 @@
             "contextFinish": "wood"
           }
         ],
-        "image": "model-photos-v1/accent-rockfold-product-black-v1.webp",
+        "image": "catalogue-room-photos/accent-rockfold-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Rotsplooi — het product",
           "en": "Rock fold — product view"
@@ -2096,7 +2096,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/label-branch-product-wood-v1.webp",
+        "image": "catalogue-room-photos/label-branch-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Taklijn-kaarthouder — het product",
           "en": "Branch line label stand — product view"
@@ -2104,7 +2104,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/label-branch-product-wood-v1.webp",
+            "image": "catalogue-room-photos/label-branch-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder — het product",
               "en": "Branch line label stand — product view"
@@ -2115,7 +2115,7 @@
             "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f"
           },
           {
-            "image": "model-photos-v1/label-branch-product-black-v1.webp",
+            "image": "catalogue-room-photos/label-branch-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder — het product",
               "en": "Branch line label stand — product view"
@@ -2162,7 +2162,7 @@
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/label-branch-product-wood-v1.webp",
+            "image": "catalogue-room-photos/label-branch-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder — het product",
               "en": "Branch line label stand — product view"
@@ -2173,7 +2173,7 @@
             "modelGeometryReferenceHash": "84b3106358256bdf2f7e38dd3f637ebaf68aa982127d18f906d578e8616fec9f"
           },
           "black": {
-            "image": "model-photos-v1/label-branch-product-black-v1.webp",
+            "image": "catalogue-room-photos/label-branch-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Taklijn-kaarthouder — het product",
               "en": "Branch line label stand — product view"
@@ -2213,7 +2213,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/scroll-moon-product-wood-v1.webp",
+        "image": "catalogue-room-photos/scroll-moon-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Maanboog-display — het product",
           "en": "Moon arc display — product view"
@@ -2221,7 +2221,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/scroll-moon-product-wood-v1.webp",
+            "image": "catalogue-room-photos/scroll-moon-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Maanboog-display — het product",
               "en": "Moon arc display — product view"
@@ -2232,7 +2232,7 @@
             "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3"
           },
           {
-            "image": "model-photos-v1/scroll-moon-product-black-v1.webp",
+            "image": "catalogue-room-photos/scroll-moon-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Maanboog-display — het product",
               "en": "Moon arc display — product view"
@@ -2279,7 +2279,7 @@
         "zone": "presentation",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/scroll-moon-product-wood-v1.webp",
+            "image": "catalogue-room-photos/scroll-moon-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Maanboog-display — het product",
               "en": "Moon arc display — product view"
@@ -2290,7 +2290,7 @@
             "modelGeometryReferenceHash": "4717ca196748f547d09979157d6bed6b435617ee2170d318b690946e635aa8d3"
           },
           "black": {
-            "image": "model-photos-v1/scroll-moon-product-black-v1.webp",
+            "image": "catalogue-room-photos/scroll-moon-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Maanboog-display — het product",
               "en": "Moon arc display — product view"
@@ -2330,7 +2330,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/signature-contour-jita-product-wood-v1.webp",
+        "image": "catalogue-room-photos/signature-contour-jita-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Contour-jita — het product",
           "en": "Contour jita — product view"
@@ -2338,7 +2338,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/signature-contour-jita-product-wood-v1.webp",
+            "image": "catalogue-room-photos/signature-contour-jita-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Contour-jita — het product",
               "en": "Contour jita — product view"
@@ -2349,7 +2349,7 @@
             "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5"
           },
           {
-            "image": "model-photos-v1/signature-contour-jita-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-contour-jita-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Contour-jita — het product",
               "en": "Contour jita — product view"
@@ -2395,7 +2395,7 @@
         },
         "finishes": {
           "black": {
-            "image": "model-photos-v1/signature-contour-jita-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-contour-jita-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Contour-jita — het product",
               "en": "Contour jita — product view"
@@ -2406,7 +2406,7 @@
             "modelGeometryReferenceHash": "fe8057b05fa7735eeea8fb00f81344d8e248bc7d9500e224f4f1a8dc3ecb29c5"
           },
           "wood": {
-            "image": "model-photos-v1/signature-contour-jita-product-wood-v1.webp",
+            "image": "catalogue-room-photos/signature-contour-jita-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Contour-jita — het product",
               "en": "Contour jita — product view"
@@ -2447,7 +2447,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/signature-jin-table-product-wood-v1.webp",
+        "image": "catalogue-room-photos/signature-jin-table-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Jin-tafel — het product",
           "en": "Jin stand — product view"
@@ -2455,7 +2455,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/signature-jin-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/signature-jin-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Jin-tafel — het product",
               "en": "Jin stand — product view"
@@ -2466,7 +2466,7 @@
             "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e"
           },
           {
-            "image": "model-photos-v1/signature-jin-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-jin-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Jin-tafel — het product",
               "en": "Jin stand — product view"
@@ -2512,7 +2512,7 @@
         },
         "finishes": {
           "black": {
-            "image": "model-photos-v1/signature-jin-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-jin-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Jin-tafel — het product",
               "en": "Jin stand — product view"
@@ -2523,7 +2523,7 @@
             "modelGeometryReferenceHash": "58128afb9f76d493400647fce679209c3896dea190a9c764bc7c4957d618076e"
           },
           "wood": {
-            "image": "model-photos-v1/signature-jin-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/signature-jin-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Jin-tafel — het product",
               "en": "Jin stand — product view"
@@ -2564,7 +2564,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/signature-shoji-table-product-wood-v1.webp",
+        "image": "catalogue-room-photos/signature-shoji-table-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Schaduwtafel — het product",
           "en": "Shadow stand — product view"
@@ -2572,7 +2572,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/signature-shoji-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/signature-shoji-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Schaduwtafel — het product",
               "en": "Shadow stand — product view"
@@ -2583,7 +2583,7 @@
             "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243"
           },
           {
-            "image": "model-photos-v1/signature-shoji-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-shoji-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Schaduwtafel — het product",
               "en": "Shadow stand — product view"
@@ -2629,7 +2629,7 @@
         },
         "finishes": {
           "black": {
-            "image": "model-photos-v1/signature-shoji-table-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-shoji-table-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Schaduwtafel — het product",
               "en": "Shadow stand — product view"
@@ -2640,7 +2640,7 @@
             "modelGeometryReferenceHash": "67600a3243ea52bdc09ac9357e08332b27cffa891bc6b56b6d612c60f45e9243"
           },
           "wood": {
-            "image": "model-photos-v1/signature-shoji-table-product-wood-v1.webp",
+            "image": "catalogue-room-photos/signature-shoji-table-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Schaduwtafel — het product",
               "en": "Shadow stand — product view"
@@ -2680,7 +2680,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/stone-ridge-product-black-v1.webp",
+        "image": "catalogue-room-photos/stone-ridge-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Bergkam-dai — het product",
           "en": "Mountain ridge dai — product view"
@@ -2688,7 +2688,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/stone-ridge-product-black-v1.webp",
+            "image": "catalogue-room-photos/stone-ridge-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Bergkam-dai — het product",
               "en": "Mountain ridge dai — product view"
@@ -2748,7 +2748,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/stone-river-product-black-v1.webp",
+        "image": "catalogue-room-photos/stone-river-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Rivier-dai — het product",
           "en": "River dai — product view"
@@ -2756,7 +2756,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/stone-river-product-black-v1.webp",
+            "image": "catalogue-room-photos/stone-river-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Rivier-dai — het product",
               "en": "River dai — product view"
@@ -2940,7 +2940,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/detail-bridge-product-wood-v1.webp",
+        "image": "catalogue-room-photos/detail-bridge-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Wortelbruggetje — het product",
           "en": "Root footbridge — product view"
@@ -2948,7 +2948,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/detail-bridge-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-bridge-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje — het product",
               "en": "Root footbridge — product view"
@@ -2959,7 +2959,7 @@
             "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5"
           },
           {
-            "image": "model-photos-v1/detail-bridge-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-bridge-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje — het product",
               "en": "Root footbridge — product view"
@@ -2996,7 +2996,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/detail-bridge-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-bridge-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje — het product",
               "en": "Root footbridge — product view"
@@ -3007,7 +3007,7 @@
             "modelGeometryReferenceHash": "37f4d3028c63379ef2e5a378f04c7bf7f94979d77765c5e8abaae93fa62934b5"
           },
           "black": {
-            "image": "model-photos-v1/detail-bridge-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-bridge-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Wortelbruggetje — het product",
               "en": "Root footbridge — product view"
@@ -3057,7 +3057,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/detail-bamboo-screen-product-wood-v1.webp",
+        "image": "catalogue-room-photos/detail-bamboo-screen-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Takkenscherm — het product",
           "en": "Branch screen — product view"
@@ -3065,7 +3065,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/detail-bamboo-screen-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-bamboo-screen-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenscherm — het product",
               "en": "Branch screen — product view"
@@ -3076,7 +3076,7 @@
             "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb"
           },
           {
-            "image": "model-photos-v1/detail-bamboo-screen-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-bamboo-screen-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenscherm — het product",
               "en": "Branch screen — product view"
@@ -3113,7 +3113,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/detail-bamboo-screen-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-bamboo-screen-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenscherm — het product",
               "en": "Branch screen — product view"
@@ -3124,7 +3124,7 @@
             "modelGeometryReferenceHash": "ed9c33f22a1c6b1d62d0948751797543484b4e58b4bb02d07c29d1a5b17a9fdb"
           },
           "black": {
-            "image": "model-photos-v1/detail-bamboo-screen-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-bamboo-screen-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Takkenscherm — het product",
               "en": "Branch screen — product view"
@@ -3174,7 +3174,7 @@
           "grey",
           "custom"
         ],
-        "image": "model-photos-v1/detail-scroll-stand-product-wood-v1.webp",
+        "image": "catalogue-room-photos/detail-scroll-stand-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Seizoenshouder — het product",
           "en": "Seasonal image stand — product view"
@@ -3182,7 +3182,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/detail-scroll-stand-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-scroll-stand-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenshouder — het product",
               "en": "Seasonal image stand — product view"
@@ -3193,7 +3193,7 @@
             "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2"
           },
           {
-            "image": "model-photos-v1/detail-scroll-stand-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-scroll-stand-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenshouder — het product",
               "en": "Seasonal image stand — product view"
@@ -3230,7 +3230,7 @@
         ],
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/detail-scroll-stand-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-scroll-stand-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenshouder — het product",
               "en": "Seasonal image stand — product view"
@@ -3241,7 +3241,7 @@
             "modelGeometryReferenceHash": "87f00811b63ebf08f8e2b47e1bc4df0f495ffbe89dc1b01f5bb200b833f7cfb2"
           },
           "black": {
-            "image": "model-photos-v1/detail-scroll-stand-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-scroll-stand-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenshouder — het product",
               "en": "Seasonal image stand — product view"
@@ -3304,7 +3304,7 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/detail-leaf-window-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-leaf-window-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Bladvenster — het product",
               "en": "Leaf window — product view"
@@ -3315,7 +3315,7 @@
             "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a"
           },
           "black": {
-            "image": "model-photos-v1/detail-leaf-window-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-leaf-window-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Bladvenster — het product",
               "en": "Leaf window — product view"
@@ -3328,7 +3328,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/detail-leaf-window-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-leaf-window-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Bladvenster — het product",
               "en": "Leaf window — product view"
@@ -3339,7 +3339,7 @@
             "modelGeometryReferenceHash": "5d6c1f32ddacf9bf10052bc4a8a919e8862191cb421b2218e47176d43a49fa7a"
           },
           {
-            "image": "model-photos-v1/detail-leaf-window-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-leaf-window-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Bladvenster — het product",
               "en": "Leaf window — product view"
@@ -3374,7 +3374,7 @@
             "contextFinish": "black"
           }
         ],
-        "image": "model-photos-v1/detail-leaf-window-product-wood-v1.webp",
+        "image": "catalogue-room-photos/detail-leaf-window-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Bladvenster — het product",
           "en": "Leaf window — product view"
@@ -3422,7 +3422,7 @@
         "sellingUnit": "set",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/detail-contour-platforms-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-contour-platforms-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus (set van 3) — het product",
               "en": "Contour platforms (set of 3) — product view"
@@ -3433,7 +3433,7 @@
             "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815"
           },
           "black": {
-            "image": "model-photos-v1/detail-contour-platforms-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-contour-platforms-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus (set van 3) — het product",
               "en": "Contour platforms (set of 3) — product view"
@@ -3446,7 +3446,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/detail-contour-platforms-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-contour-platforms-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus (set van 3) — het product",
               "en": "Contour platforms (set of 3) — product view"
@@ -3457,7 +3457,7 @@
             "modelGeometryReferenceHash": "2fe637c3d3df7fc97f8c1b64e1fe5e1281ba46379c50118d93fd349c9c090815"
           },
           {
-            "image": "model-photos-v1/detail-contour-platforms-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-contour-platforms-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Hoogtelijn-plateaus (set van 3) — het product",
               "en": "Contour platforms (set of 3) — product view"
@@ -3492,7 +3492,7 @@
             "contextFinish": "black"
           }
         ],
-        "image": "model-photos-v1/detail-contour-platforms-product-wood-v1.webp",
+        "image": "catalogue-room-photos/detail-contour-platforms-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Hoogtelijn-plateaus (set van 3) — het product",
           "en": "Contour platforms (set of 3) — product view"
@@ -3539,7 +3539,7 @@
         "visualKind": "isolatedConcept",
         "finishes": {
           "wood": {
-            "image": "model-photos-v1/detail-season-fan-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-season-fan-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier — het product",
               "en": "Season fan — product view"
@@ -3550,7 +3550,7 @@
             "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d"
           },
           "black": {
-            "image": "model-photos-v1/detail-season-fan-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-season-fan-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier — het product",
               "en": "Season fan — product view"
@@ -3563,7 +3563,7 @@
         },
         "gallery": [
           {
-            "image": "model-photos-v1/detail-season-fan-product-wood-v1.webp",
+            "image": "catalogue-room-photos/detail-season-fan-product-wood-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier — het product",
               "en": "Season fan — product view"
@@ -3574,7 +3574,7 @@
             "modelGeometryReferenceHash": "2aa790f4c6dea05442909623bb9872e6ef42f851a1e99738a1985dd239b7369d"
           },
           {
-            "image": "model-photos-v1/detail-season-fan-product-black-v1.webp",
+            "image": "catalogue-room-photos/detail-season-fan-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Seizoenswaaier — het product",
               "en": "Season fan — product view"
@@ -3609,7 +3609,7 @@
             "contextFinish": "black"
           }
         ],
-        "image": "model-photos-v1/detail-season-fan-product-wood-v1.webp",
+        "image": "catalogue-room-photos/detail-season-fan-product-wood-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Seizoenswaaier — het product",
           "en": "Season fan — product view"
@@ -3619,7 +3619,7 @@
       },
       {
         "stage": "future",
-        "image": "model-photos-v1/signature-contour-jita-180-product-black-v1.webp",
+        "image": "catalogue-room-photos/signature-contour-jita-180-product-black-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Contour-jita compact — het product",
           "en": "Compact contour jita — product view"
@@ -3627,7 +3627,7 @@
         "visualKind": "isolatedConcept",
         "gallery": [
           {
-            "image": "model-photos-v1/signature-contour-jita-180-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-contour-jita-180-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Contour-jita compact — het product",
               "en": "Compact contour jita — product view"
@@ -3650,7 +3650,7 @@
             "contextFinish": "black"
           },
           {
-            "image": "model-photos-v1/pot-contour-product-black-v1.webp",
+            "image": "catalogue-room-photos/pot-contour-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Contour-pot — het product",
               "en": "Contour pot — product view"
@@ -3696,7 +3696,7 @@
         },
         "finishes": {
           "black": {
-            "image": "model-photos-v1/signature-contour-jita-180-product-black-v1.webp",
+            "image": "catalogue-room-photos/signature-contour-jita-180-product-black-v1-room-v1.webp",
             "alt": {
               "nl": "Contour-jita compact — het product",
               "en": "Compact contour jita — product view"
@@ -3722,7 +3722,7 @@
             "quantity": 1,
             "gallery": [
               {
-                "image": "model-photos-v1/pot-contour-product-black-v1.webp",
+                "image": "catalogue-room-photos/pot-contour-product-black-v1-room-v1.webp",
                 "alt": {
                   "nl": "Contour-pot — het product",
                   "en": "Contour pot — product view"
@@ -4544,7 +4544,7 @@
           "nl": "Het pannendak, de veranda, bomen en rotsen vormen een kleine nachtscène. Een uitneembare 5V USB-ledschijf verlicht de twee ramen via een verborgen schacht. De resinsecties worden na het printen afgewerkt en beschilderd. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
           "en": "The tiled roof, veranda, trees and rocks form a miniature night scene. A removable 5V USB LED disc lights the two windows through a concealed channel. The resin sections are finished and painted after printing. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/02-nachtelijk-theehuis-studio-v1.webp",
+        "image": "catalogue-room-photos/02-nachtelijk-theehuis-studio-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Nachtelijk theehuis — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
           "en": "Night tea house — generated finish preview with warm light on a pale wood surface"
@@ -4553,7 +4553,7 @@
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/02-nachtelijk-theehuis-studio-v1.webp",
+            "image": "catalogue-room-photos/02-nachtelijk-theehuis-studio-v1-room-v1.webp",
             "alt": {
               "nl": "Nachtelijk theehuis — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
               "en": "Night tea house — generated finish preview with warm light on a pale wood surface"
@@ -4618,7 +4618,7 @@
           "nl": "De grillige wortels omsluiten een organische lichtkern. De nieuwste versie sluit rond de losse kern met een onregelmatige achtervoeg en een interne overlaplip. Zo blijft de voorzijde doorlopend en is het licht bereikbaar. Een fijne montagenaad kan achteraan zichtbaar blijven. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
           "en": "Sculpted roots surround an organic diffuser. The latest version closes around the separate core with an irregular rear joint and an internal backing lip. This keeps the front continuous and the light accessible. A fine assembly seam may remain visible at the rear. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/05-wortellantaarn-studio-v1.webp",
+        "image": "catalogue-room-photos/05-wortellantaarn-studio-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Wortellantaarn — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
           "en": "Root lantern — generated finish preview with warm light on a pale wood surface"
@@ -4627,7 +4627,7 @@
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/05-wortellantaarn-studio-v1.webp",
+            "image": "catalogue-room-photos/05-wortellantaarn-studio-v1-room-v1.webp",
             "alt": {
               "nl": "Wortellantaarn — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
               "en": "Root lantern — generated finish preview with warm light on a pale wood surface"
@@ -4692,7 +4692,7 @@
           "nl": "Het ronde dak en de stevige voeten omlijsten een transparant lichtlichaam met bamboe en esdoornbladeren. De donkere reliëfaccenten worden beschilderd; de technische beelden tonen het reliëf nog zonder die afwerking. Dak, voet en leddeksel zijn los bereikbaar. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
           "en": "The round roof and sturdy feet frame a translucent body with bamboo and maple leaves. Dark relief accents are painted; the technical images show the relief before this finishing step. The roof, base and LED service cap remain accessible. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/07-schaduwbamboe-studio-v1.webp",
+        "image": "catalogue-room-photos/07-schaduwbamboe-studio-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Schaduwbamboe — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
           "en": "Bamboo shadow lantern — generated finish preview with warm light on a pale wood surface"
@@ -4701,7 +4701,7 @@
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/07-schaduwbamboe-studio-v1.webp",
+            "image": "catalogue-room-photos/07-schaduwbamboe-studio-v1-room-v1.webp",
             "alt": {
               "nl": "Schaduwbamboe — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
               "en": "Bamboo shadow lantern — generated finish preview with warm light on a pale wood surface"
@@ -4766,7 +4766,7 @@
           "nl": "Een smalle lichtsculptuur met bergkammen, dennen, een torii en maan. Het transparante bovenstuk staat op een donkere lichtvoet. De voorgrond krijgt donkere geschilderde accenten. Het bovenstuk en bodemluik blijven uitneembaar voor de ledmodule. Ontworpen voor een uitneembare 5V USB-ledmodule. Het hoofdbeeld is een gegenereerd voorbeeld van afwerking en licht, gebaseerd op het 3D-model; de overige beelden tonen de technische onderdelen. Vormdetails, kleur en lichtwerking kunnen afwijken van de uiteindelijke print; de complete proefprint, passing, lichtspreiding en warmte moeten nog worden beoordeeld. Elektronica en afwerking worden bij de aanvraag afgestemd.",
           "en": "A slender light sculpture with mountain ridges, pines, a torii and moon. The translucent upper section sits on a dark illuminated base. Dark painted accents define the foreground. The landscape and bottom hatch remain removable for LED access. Designed for a removable 5V USB LED module. The main image is a generated finish and lighting preview based on the 3D model; the remaining images show technical components. Fine geometry, colour and lighting may differ from the eventual print; the complete prototype, fit, light distribution and temperature still need testing. Electronics and finishing are agreed on enquiry."
         },
-        "image": "light-collection/08-verlicht-berglandschap-studio-v1.webp",
+        "image": "catalogue-room-photos/08-verlicht-berglandschap-studio-v1-room-v1.webp",
         "imageAlt": {
           "nl": "Verlicht berglandschap — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
           "en": "Illuminated mountain landscape — generated finish preview with warm light on a pale wood surface"
@@ -4775,7 +4775,7 @@
         "generatedFromModel": true,
         "gallery": [
           {
-            "image": "light-collection/08-verlicht-berglandschap-studio-v1.webp",
+            "image": "catalogue-room-photos/08-verlicht-berglandschap-studio-v1-room-v1.webp",
             "alt": {
               "nl": "Verlicht berglandschap — gegenereerd afwerkingsvoorbeeld met warm licht op een lichte houten ondergrond",
               "en": "Illuminated mountain landscape — generated finish preview with warm light on a pale wood surface"
@@ -4825,7 +4825,7 @@
       "nl": "Ik ben Ruben. Ik ontwerp en 3D-print accessoires voor bonsai. Een potmaat, de hoogte van een tafel of een klein detail vormen vaak het begin. In de collectie staan bestaande ontwerpen naast nieuwe schetsen. Wat al is geprint en wat nog een concept is, staat bij het product.",
       "en": "I’m Ruben. I design and 3D print bonsai accessories. A pot dimension, a stand height or a small detail often starts the work. The collection includes existing designs and new sketches. Each product identifies what has been printed and what remains a concept."
     },
-    "storyImage": "model-photos-v1/bonsai-classic-table-product-wood-v1.webp",
+    "storyImage": "catalogue-room-photos/bonsai-classic-table-product-wood-v1-room-v1.webp",
     "guideTitle": {
       "nl": "Maat, materiaal & gebruik",
       "en": "Size, material & use"
