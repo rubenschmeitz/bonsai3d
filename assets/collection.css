@@ -232,21 +232,6 @@ body.curated-shop img[src*="presentation-renewal/"]{object-fit:contain}
 /* Preserve the whole pot and bonsai in the new presentation photographs. */
 body.curated-shop img[src*="pot-renewal/"]{object-fit:contain}
 
-/* Shared photographic finish, including images inserted or changed by galleries.
-   Raster photos only: preserve the crisp logo, typography and controls. */
-body.curated-shop img[src]:not([src*=".svg"]){
-  filter:blur(.45px) contrast(.96) saturate(.93) url("photo-finish-v1.svg#grain");
-}
-body.curated-shop .gallery-thumbnails img,
-body.curated-shop .selection-row img{
-  filter:contrast(.96) saturate(.93) url("photo-finish-v1.svg#grain");
-}
-@media(max-width:760px){
-  body.curated-shop .product-art img{
-    filter:blur(.18px) contrast(.96) saturate(.93) url("photo-finish-v1.svg#grain");
-  }
-}
-
 /* Keep complete corrected trees, pots and stands visible, including category cards. */
 body.curated-shop img[src*="tree-proportions/"]{object-fit:contain!important}
 
@@ -314,13 +299,6 @@ body.curated-shop .home-card-info h3{font-size:26px;line-height:1.2;margin:0 0 1
 @media(max-width:700px){.shop-facts ul{flex-wrap:wrap;gap:7px 16px;padding-block:10px;font-size:10px}.home-category-nav{gap:8px;margin-bottom:24px}.category-shortcut{padding:8px 10px;font-size:12px}.home-category-card{display:grid;grid-template-columns:124px minmax(0,1fr);gap:16px;align-items:start;border-bottom:1px solid var(--line);padding-block:10px 20px}.home-category-card:last-child{border:0;padding-bottom:0}.home-category-card>div{margin-top:0}.home-category-card img{height:156px}body.curated-shop .home-card-info h3{font-size:22px}.home-card-actions{gap:12px;flex-direction:column}.home-card-photo figcaption{font-size:8px}.home-card-info .availability{font-size:10px}.home-search{margin-top:22px}}
 @media(max-width:360px){.home-category-card{grid-template-columns:104px minmax(0,1fr);gap:14px}.home-category-card img{height:138px}body.curated-shop .home-card-info h3{font-size:20px}.home-card-price{gap:7px;font-size:11px}.home-card-price strong{font-size:19px}}
 
-/* Soft photo edges blend into a blurred continuation of the same photograph. */
-.soft-photo-frame{display:block;position:relative;isolation:isolate;overflow:hidden;background:var(--soft)}
-.soft-photo-frame:before{content:'';position:absolute;inset:-22px;z-index:-1;background-image:var(--photo-backdrop);background-position:center;background-size:cover;filter:blur(14px) contrast(.96) saturate(.93);opacity:.88}
-body.curated-shop .soft-photo-frame>img{--blend-x:clamp(12px,6%,36px);--blend-y:clamp(8px,4%,22px);position:relative;background:transparent;mask-image:linear-gradient(to right,transparent var(--edge-left,0px),rgba(0,0,0,.25) calc(var(--edge-left,0px) + var(--blend-x)*.35),#000 calc(var(--edge-left,0px) + var(--blend-x)),#000 calc(var(--edge-right,100%) - var(--blend-x)),rgba(0,0,0,.25) calc(var(--edge-right,100%) - var(--blend-x)*.35),transparent var(--edge-right,100%)),linear-gradient(to bottom,transparent var(--edge-top,0px),rgba(0,0,0,.25) calc(var(--edge-top,0px) + var(--blend-y)*.35),#000 calc(var(--edge-top,0px) + var(--blend-y)),#000 calc(var(--edge-bottom,100%) - var(--blend-y)),rgba(0,0,0,.25) calc(var(--edge-bottom,100%) - var(--blend-y)*.35),transparent var(--edge-bottom,100%));mask-composite:intersect}
-.soft-photo-frame{width:100%}
-body.curated-shop .product-art>.soft-photo-frame{height:100%}
-
 /* Natural-light design previews carry their photographic finish in the source. */
 body.curated-shop img:is([src*="ordinary-photos/"],[src*="model-photos-v1/"]){filter:none!important;object-fit:contain!important}
 body.curated-shop .product:has(img[src*="ordinary-photos/"]) .card-image-note{display:block;font-size:11px;line-height:1.45;color:var(--muted);margin-top:8px}
@@ -337,7 +315,34 @@ body.curated-shop footer .brand-wordmark{width:250px;height:auto;filter:none}
 @media(max-width:700px){body.curated-shop .site-header .brand-wordmark{width:170px}}
 @media(max-width:380px){body.curated-shop .site-header .brand-wordmark{width:146px}}
 
-/* Show homepage photographs at their original clarity, without softening. */
-body.curated-shop[data-page=home] img[src]:not([src*=".svg"]){filter:none}
-body.curated-shop[data-page=home] .soft-photo-frame>img{mask-image:none}
-body.curated-shop[data-page=home] .soft-photo-frame:before{display:none}
+/* Consistent photograph frames. Source files retain their original pixels;
+   the full photograph remains available in the accessible photo viewer. */
+body.curated-shop img[src]:not([src*=".svg"]){filter:none;mask-image:none}
+body.curated-shop :is(.home-gallery-image,.home-card-photo figure,.product-art,
+  .finish-story-image,.signature-detail-image,.category-card figure){
+  border:0;border-radius:4px;overflow:hidden;background:var(--soft);
+}
+body.curated-shop :is(.home-gallery-image,.home-card-photo figure,.product-art,
+  .signature-detail-image){aspect-ratio:1}
+body.curated-shop :is(.home-gallery-image,.home-category-card,.product-art,
+  .finish-story-image,.signature-detail-image,.category-card,.studio-art,
+  .display-example,.signature-photo) img{
+  display:block;width:100%;height:auto;max-height:none;aspect-ratio:1;
+  object-fit:cover!important;object-position:center;border-radius:4px;
+}
+/* The tall root stand includes the complete tree: do not crop its silhouette. */
+body.curated-shop .tree-story figure img{
+  display:block;width:100%;height:auto;max-height:none;aspect-ratio:1;
+  object-fit:contain;border-radius:4px;background:#e9e5dc;
+}
+body.curated-shop #product-main-image{
+  display:block;width:100%;height:auto;max-height:none;aspect-ratio:1;
+  object-fit:contain!important;border-radius:4px;background:var(--soft);
+}
+body.curated-shop .gallery-thumbnails img,
+body.curated-shop .selection-row img,
+body.curated-shop .cart-line img{
+  aspect-ratio:1;object-fit:cover;border-radius:3px;
+}
+/* No hover magnification: keep the crop steady and the product edges visible. */
+body.curated-shop .category-card:hover img{transform:none}
