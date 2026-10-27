@@ -4,14 +4,16 @@ const path = require('node:path');
 const {chromium} = require('playwright');
 const root = path.resolve(__dirname, '..');
 const pages = fs.readdirSync(root).filter(name => name.endsWith('.html'));
-const policyTag = '<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">';
+const policyPattern = /<meta http-equiv="Content-Security-Policy" content="([^"]+)">/;
+const policyTag = fs.readFileSync(path.join(root, 'index.html'), 'utf8').match(policyPattern)[0];
 let checks = 0, browser;
 function check(value, message) {assert(value, message); checks++;}
 for (const name of pages) {
   const html = fs.readFileSync(path.join(root, name), 'utf8');
-  check(html.includes(policyTag), name + ' enforces HTTPS subresources');
+  const pagePolicy = html.match(policyPattern);
+  check(pagePolicy && pagePolicy[1].split(';').some(value=>value.trim()==='upgrade-insecure-requests'), name + ' enforces HTTPS subresources');
   const firstResource = html.search(/<script\b|<link\b|<style\b/i);
-  check(firstResource < 0 || html.indexOf(policyTag) < firstResource, name + ' sets policy before loading resources');
+  check(firstResource < 0 || html.indexOf(pagePolicy[0]) < firstResource, name + ' sets policy before loading resources');
 }
 (async()=>{try {
   browser = await chromium.launch({headless:true});
